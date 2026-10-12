@@ -34,20 +34,31 @@ INJURIES (from the nflverse injury reports, 2018+):
   * inj_own / inj_team in the output = points added or removed by his own status / by teammates' absences.
   Run it Friday or Saturday: on Wednesday most tags haven't been issued yet.
 
+ROSTER FILTER (who is actually available, from the nflverse weekly rosters + game logs):
+  * Dropped outright: anyone whose roster status is not Active (reserve/IR, cut, suspended, retired,
+    practice squad, ...), anyone missing from the roster file, and anyone who has changed teams.
+    Game-day "inactive" (INA) in an earlier week only caps the play chance (32% of those players play next week).
+  * Missed his team's last 2+ games without being on the injury report: his play chance is capped at
+    P_MISSED_GAMES (0.40; about 44% of such regulars still played in 2018-2025). --drop-missed removes
+    them instead. Pass --no-roster-filter to switch all of this off.
+  * If the schedule's listed starting QB is dropped, the QB with the most recent passing volume takes over.
+
 Usage:
     python weekly_projections.py                    # next unplayed week of the current season
     python weekly_projections.py --week 6           # a specific week (needs posted lines)
     python weekly_projections.py --backtest         # also run the week-by-week backtest (~3 min)
     python weekly_projections.py --te-premium 1.0   # 2.0 PPR for TEs, etc.
     python weekly_projections.py --pass-td 6        # 6-pt passing TDs
+    python weekly_projections.py --drop-missed      # hard-drop (not just discount) regulars who missed 2+ games
+    python weekly_projections.py --no-roster-filter # old behavior: trust the last-played team and no status check
     python weekly_projections.py --sleeper          # add Sleeper's projections as a column
     python weekly_projections.py --compare-csv espn.csv --compare-name ESPN
                                                     # any other source: CSV with columns
                                                     # player, proj [, pos, team]
 
 Everything uses data available before kickoff, so backtest numbers are honest.
-QBs are limited to the probable starter listed in the nflverse schedule.
-Known gaps: no depth-chart/snap-count info, no weather, unannounced scratches, and players with <4 prior
+QBs are limited to the probable starter listed in the nflverse schedule (or his replacement, see above).
+Known gaps: no depth-chart/snap-count info, no weather, late inactives and healthy scratches announced after the data updates, and players with <4 prior
 games (rookies, new starters) get no projection. The backtest scores players who actually played.
 """
 import argparse
@@ -109,6 +120,14 @@ BONUS_SHAPE = {("QB", "passing_yards"): 7.5, ("QB", "rushing_yards"): 3.0, ("RB"
 BONUS_SHAPE_DEFAULT = {"passing_yards": 7.5, "rushing_yards": 1.5, "receiving_yards": 1.5}
 DK_EXTRA = ["sack_fumbles_lost", "rushing_fumbles_lost", "receiving_fumbles_lost", "passing_2pt_conversions",
             "rushing_2pt_conversions", "receiving_2pt_conversions", "special_teams_tds"]
+
+# ---- roster filter
+AVAILABLE_STATUS = {"ACT"}   # roster statuses that can play; RES/IR, CUT, SUS, DEV, RET ... are dropped
+# "INA" (game-day inactive) is NOT permanent: 0% play in the same week, but 32% play the next week
+# (2018-2026 regulars), so an INA tag from an EARLIER week only caps the play chance.
+P_PREV_INACTIVE = 0.35
+P_MISSED_GAMES = 0.40        # play chance for regulars who missed MISSED_GAMES_RULE+ team games, not on the report
+MISSED_GAMES_RULE = 2        # (measured 2018-2025: about 44% of them still played)
 
 # ---- injury features
 PPLAY_TRAIN_END = 2021     # play-probability table is learned from seasons <= this (backtest starts 2022)
@@ -196,9 +215,7 @@ def build_frame(stats, games, season, week, max_gap_days):
     up = last.merge(ug, on="team")
     up = up[(up.gameday - up.last_gameday).dt.days <= max_gap_days].dropna(
         subset=["team_spread", "total_line"])
-    # QBs: only the probable starter listed in the schedule (when one is listed)
-    keep = (up.position != "QB") | up.team_qb_id.isna() | (up.player_id == up.team_qb_id)
-    up = up[keep]
+    # (QBs are narrowed to one starter per team later, in choose_starting_qbs, after availability checks)
     up["season"], up["week"] = season, week
     for c in ["pts", "dk_pts", "dk_bonus"] + STAT_COLS:
         up[c] = np.nan
@@ -401,6 +418,102 @@ def report_play_rates(p):
     t["report tag"] = t["report tag"].replace({"none": "(no tag)"})
     t["practice"] = t.practice.replace({"": "(none)"})
     print(t.round(2).to_string(index=False))
+
+
+# ----------------------------------------------------------------------------- roster filter
+def load_rosters(season):
+    """Weekly nflverse rosters for one season: player_id, week, roster_team, roster_status (None if unavailable)."""
+    for attempt in range(3):
+        try:
+            r = nfl.load_rosters_weekly(seasons=season).to_pandas()
+            break
+        except Exception as e:
+            if attempt == 2:
+                print(f"(rosters for {season} unavailable: {str(e)[:70]})")
+                return None
+    r = r.dropna(subset=["gsis_id", "week"]).copy()
+    if "game_type" in r:
+        r = r[r.game_type.eq("REG") | r.game_type.isna()]
+    r["week"] = r.week.astype(int)
+    r["team"] = r.team.replace(TEAM_FIX)
+    r = r.drop_duplicates(["week", "gsis_id"], keep="last")
+    return r.rename(columns={"gsis_id": "player_id", "team": "roster_team", "status": "roster_status"})[
+        ["player_id", "week", "roster_team", "roster_status"]]
+
+
+def roster_filter(up, rosters, stats, games, inj, season, week, hard_drop_missed=False):
+    """Returns (kept rows with roster_note / capped p_play, table of dropped players with reasons)."""
+    up = up.copy()
+    up["roster_note"] = ""
+    if rosters is None or rosters.empty or not (rosters.week <= week).any():
+        print("(rosters unavailable - roster filter skipped)")
+        return up, pd.DataFrame(columns=["player", "pos", "team", "reason"])
+    wu = int(rosters.week[rosters.week <= week].max())
+    r = rosters[rosters.week == wu].set_index("player_id")
+    status = up.player_id.map(r.roster_status)
+    rteam = up.player_id.map(r.roster_team)
+    reason = pd.Series("", index=up.index)
+    reason[status.isna()] = "not on the roster file"
+    ina = status.eq("INA")
+    bad = status.notna() & ~status.isin(AVAILABLE_STATUS) & (~ina | (wu == week))   # INA this very week = inactive
+    reason[bad] = "roster status " + status[bad].astype(str)
+    moved = status.isin(AVAILABLE_STATUS) & rteam.notna() & (rteam != up.team)
+    reason[moved] = "moved to " + rteam[moved].astype(str)
+
+    # team games already played, most recent first; did the player appear in the last MISSED_GAMES_RULE of them?
+    tg = games[games.played & ((games.season < season) | ((games.season == season) & (games.week < week)))]
+    tg = tg[["team", "season", "week"]].drop_duplicates().sort_values(["team", "season", "week"])
+    last = tg.groupby("team").tail(MISSED_GAMES_RULE)
+    have = stats[["player_id", "season", "week"]].drop_duplicates().assign(_h=1)
+    j = last.merge(have, on=["season", "week"], how="left")
+    j = j.groupby(["team", "player_id"])._h.sum()                      # appearances in his team's last N games
+    ngames = last.groupby("team").size()
+    appeared = pd.Series(list(zip(up.team, up.player_id))).map(j).fillna(0).to_numpy()
+    need = up.team.map(ngames).fillna(0).to_numpy()
+    listed = (set(inj.loc[(inj.season == season) & (inj.week == week), "player_id"])
+              if inj is not None else set())
+    missed = (need >= MISSED_GAMES_RULE) & (appeared == 0) & ~up.player_id.isin(listed).to_numpy() & (reason == "").to_numpy()
+
+    dropped = up[reason != ""].assign(reason=reason[reason != ""])
+    if hard_drop_missed:
+        dropped = pd.concat([dropped, up[missed].assign(reason=f"missed last {MISSED_GAMES_RULE}+ games, not on report")])
+    keep = ~up.index.isin(dropped.index)
+    up = up[keep].copy()
+    soft = missed[keep]
+    prev_ina = (ina & ~(bad | moved)).to_numpy()[keep] & ~up.player_id.isin(listed).to_numpy()
+    up.loc[prev_ina, "p_play"] = up.loc[prev_ina, "p_play"].clip(upper=P_PREV_INACTIVE)
+    up.loc[prev_ina & (up.roster_note == ""), "roster_note"] = f"inactive last week (week {wu}), not on report"
+    if not hard_drop_missed:
+        up.loc[soft, "p_play"] = up.loc[soft, "p_play"].clip(upper=P_MISSED_GAMES)
+        up.loc[soft, "roster_note"] = f"missed last {MISSED_GAMES_RULE}+ games, not on report"
+    dropped = dropped.rename(columns={"player_display_name": "player", "position": "pos"})[["player", "pos", "team", "reason"]]
+    if prev_ina.sum():
+        print(f"\nplay chance capped at {P_PREV_INACTIVE:.0%} (inactive in week {wu}, not on the injury report): "
+              + ", ".join(f"{a} ({b})" for a, b in zip(up.loc[prev_ina, "player_display_name"], up.loc[prev_ina, "team"])))
+    print(f"\n=== ROSTER FILTER (roster snapshot: {season} week {wu}) ===")
+    print(f"dropped {len(dropped)} players who cannot play:")
+    if len(dropped):
+        print(dropped.sort_values(["reason", "team"]).to_string(index=False))
+    if not hard_drop_missed and soft.sum():
+        print(f"\nplay chance capped at {P_MISSED_GAMES:.0%} (missed {MISSED_GAMES_RULE}+ games, not on the report): "
+              + ", ".join(f"{a} ({b})" for a, b in zip(up.loc[soft, "player_display_name"], up.loc[soft, "team"])))
+    return up, dropped
+
+
+def choose_starting_qbs(up):
+    """One QB per team: the starter listed in the schedule if he is still in the pool, else the QB with the
+    most recent passing volume. Teams with no listed starter keep every QB (old behavior)."""
+    is_qb = up.position == "QB"
+    keep = ~is_qb
+    for team, g in up[is_qb].groupby("team"):
+        lst = g.team_qb_id.iloc[0]
+        if pd.isna(lst):
+            keep[g.index] = True
+        elif (g.player_id == lst).any():
+            keep[g.index[g.player_id == lst]] = True
+        else:
+            keep[g.ea_attempts.fillna(0).idxmax()] = True
+    return up[keep]
 
 
 # ----------------------------------------------------------------------------- direct points model
@@ -1069,6 +1182,10 @@ def main():
     ap.add_argument("--compare-name", default="other", help="label for --compare-csv, e.g. ESPN")
     ap.add_argument("--dk-salaries", default=None,
                     help="DraftKings salary CSV (the 'Export to CSV' / DKSalaries.csv file for your slate)")
+    ap.add_argument("--no-roster-filter", action="store_true",
+                    help="skip the roster-status / missed-games availability filter")
+    ap.add_argument("--drop-missed", action="store_true",
+                    help="drop (instead of discounting) regulars who missed their team's last 2+ games unreported")
     args = ap.parse_args()
 
     CFG.update(te_premium=args.te_premium, pass_td=args.pass_td)
@@ -1111,6 +1228,11 @@ def main():
     up = up[up.inj_status != "Out"]                       # players listed Out are not projected
     print(f"\nInjury report: {n_out} projectable players listed Out for week {week} (dropped; "
           f"their teammates' work is adjusted below).")
+    if not args.no_roster_filter:
+        up, _ = roster_filter(up, load_rosters(season), stats, games, inj, season, week, args.drop_missed)
+    else:
+        up["roster_note"] = ""
+    up = choose_starting_qbs(up)
     up = up.join(predict_stats(full, up, "p_"))
     up = up.join(predict_stats(base, up, "b_"))
     pp = project_points(up, "p_", om)
@@ -1130,6 +1252,7 @@ def main():
     up = up.dropna(subset=["proj"])
     up["injury"] = (up.inj_status.fillna("") + " " + up.inj_practice.map(
         {"full": "full practice", "limited": "limited practice", "dnp": "DNP"}).fillna("")).str.strip()
+    up["injury"] = (up.injury + "; " + up.roster_note).str.strip("; ")
 
     sources = []
     if args.sleeper:
