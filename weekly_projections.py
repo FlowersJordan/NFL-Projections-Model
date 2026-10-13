@@ -34,20 +34,37 @@ INJURIES (from the nflverse injury reports, 2018+):
   * inj_own / inj_team in the output = points added or removed by his own status / by teammates' absences.
   Run it Friday or Saturday: on Wednesday most tags haven't been issued yet.
 
+ROSTER FILTER (who is actually available, from the nflverse weekly rosters + game logs):
+  * Dropped outright: anyone whose roster status is not Active (reserve/IR, cut, suspended, retired,
+    practice squad, ...), anyone missing from the roster file, and anyone who has changed teams.
+    Game-day "inactive" (INA) in an earlier week only caps the play chance (32% of those players play next week).
+  * Missed his team's last 2+ games without being on the injury report: his play chance is capped at
+    P_MISSED_GAMES (0.40; about 44% of such regulars still played in 2018-2025). --drop-missed removes
+    them instead. Pass --no-roster-filter to switch all of this off.
+  * If the schedule's listed starting QB is dropped, the QB with the most recent passing volume takes over.
+
 Usage:
     python weekly_projections.py                    # next unplayed week of the current season
     python weekly_projections.py --week 6           # a specific week (needs posted lines)
     python weekly_projections.py --backtest         # also run the week-by-week backtest (~3 min)
     python weekly_projections.py --te-premium 1.0   # 2.0 PPR for TEs, etc.
     python weekly_projections.py --pass-td 6        # 6-pt passing TDs
+    python weekly_projections.py --drop-missed      # hard-drop (not just discount) regulars who missed 2+ games
+    python weekly_projections.py --no-roster-filter # old behavior: trust the last-played team and no status check
     python weekly_projections.py --sleeper          # add Sleeper's projections as a column
     python weekly_projections.py --compare-csv espn.csv --compare-name ESPN
                                                     # any other source: CSV with columns
                                                     # player, proj [, pos, team]
 
+GAME SCORES: each team's points are built from its players' projected stat lines (QB passing TDs, all
+rushing TDs, passing and rushing yards, weighted by play chance) and printed next to Vegas's total and
+spread for every game, plus saved to game_projections_<season>_wk<week>.csv. --backtest refits the
+formula and prints how it scored against Vegas (it matches Vegas but does not beat it, as the stat lines
+are anchored to the Vegas total).
+
 Everything uses data available before kickoff, so backtest numbers are honest.
-QBs are limited to the probable starter listed in the nflverse schedule.
-Known gaps: no depth-chart/snap-count info, no weather, unannounced scratches, and players with <4 prior
+QBs are limited to the probable starter listed in the nflverse schedule (or his replacement, see above).
+Known gaps: no depth-chart/snap-count info, no weather, late inactives and healthy scratches announced after the data updates, and players with <4 prior
 games (rookies, new starters) get no projection. The backtest scores players who actually played.
 """
 import argparse
@@ -109,6 +126,20 @@ BONUS_SHAPE = {("QB", "passing_yards"): 7.5, ("QB", "rushing_yards"): 3.0, ("RB"
 BONUS_SHAPE_DEFAULT = {"passing_yards": 7.5, "rushing_yards": 1.5, "receiving_yards": 1.5}
 DK_EXTRA = ["sack_fumbles_lost", "rushing_fumbles_lost", "receiving_fumbles_lost", "passing_2pt_conversions",
             "rushing_2pt_conversions", "receiving_2pt_conversions", "special_teams_tds"]
+
+# ---- roster filter
+AVAILABLE_STATUS = {"ACT"}   # roster statuses that can play; RES/IR, CUT, SUS, DEV, RET ... are dropped
+# "INA" (game-day inactive) is NOT permanent: 0% play in the same week, but 32% play the next week
+# (2018-2026 regulars), so an INA tag from an EARLIER week only caps the play chance.
+P_PREV_INACTIVE = 0.35
+P_MISSED_GAMES = 0.40        # play chance for regulars who missed MISSED_GAMES_RULE+ team games, not on the report
+MISSED_GAMES_RULE = 2        # (measured 2018-2025: about 44% of them still played)
+
+# ---- team points from projected stat lines: points = const + b x (QB passing TDs, rushing TDs, passing yds, rushing yds)
+# Fitted on the 2022-2026 backtest (--backtest refits it); touchdowns carry the extra point and the field goals
+# that come with long drives, and the players we don't project (backups, kickers) are absorbed by the constant.
+TEAM_PTS_X = ["ptd", "rtd", "pyd", "ryd"]
+TEAM_PTS = {"const": 19.2165, "ptd": 11.8472, "rtd": 5.7382, "pyd": -0.0593, "ryd": -0.0422}
 
 # ---- injury features
 PPLAY_TRAIN_END = 2021     # play-probability table is learned from seasons <= this (backtest starts 2022)
@@ -173,12 +204,14 @@ def load_data(season, te_premium, pass_td=4.0):
     # one row per team per game, from that team's point of view
     # nflverse spread_line: positive = home team favored
     home = sched.assign(team=sched.home_team, opp=sched.away_team, is_home=1,
-                        team_spread=sched.spread_line, team_qb_id=sched.home_qb_id)
+                        team_spread=sched.spread_line, team_qb_id=sched.home_qb_id,
+                        team_score=sched.home_score)
     away = sched.assign(team=sched.away_team, opp=sched.home_team, is_home=0,
-                        team_spread=-sched.spread_line, team_qb_id=sched.away_qb_id)
+                        team_spread=-sched.spread_line, team_qb_id=sched.away_qb_id,
+                        team_score=sched.away_score)
     games = pd.concat([home, away], ignore_index=True)[
         ["game_id", "season", "week", "gameday", "played", "team", "opp", "is_home",
-         "team_spread", "total_line", "team_qb_id"]]
+         "team_spread", "total_line", "team_qb_id", "team_score"]]
     games["team_implied"] = games.total_line / 2 + games.team_spread / 2
     return stats, games
 
@@ -196,9 +229,7 @@ def build_frame(stats, games, season, week, max_gap_days):
     up = last.merge(ug, on="team")
     up = up[(up.gameday - up.last_gameday).dt.days <= max_gap_days].dropna(
         subset=["team_spread", "total_line"])
-    # QBs: only the probable starter listed in the schedule (when one is listed)
-    keep = (up.position != "QB") | up.team_qb_id.isna() | (up.player_id == up.team_qb_id)
-    up = up[keep]
+    # (QBs are narrowed to one starter per team later, in choose_starting_qbs, after availability checks)
     up["season"], up["week"] = season, week
     for c in ["pts", "dk_pts", "dk_bonus"] + STAT_COLS:
         up[c] = np.nan
@@ -401,6 +432,102 @@ def report_play_rates(p):
     t["report tag"] = t["report tag"].replace({"none": "(no tag)"})
     t["practice"] = t.practice.replace({"": "(none)"})
     print(t.round(2).to_string(index=False))
+
+
+# ----------------------------------------------------------------------------- roster filter
+def load_rosters(season):
+    """Weekly nflverse rosters for one season: player_id, week, roster_team, roster_status (None if unavailable)."""
+    for attempt in range(3):
+        try:
+            r = nfl.load_rosters_weekly(seasons=season).to_pandas()
+            break
+        except Exception as e:
+            if attempt == 2:
+                print(f"(rosters for {season} unavailable: {str(e)[:70]})")
+                return None
+    r = r.dropna(subset=["gsis_id", "week"]).copy()
+    if "game_type" in r:
+        r = r[r.game_type.eq("REG") | r.game_type.isna()]
+    r["week"] = r.week.astype(int)
+    r["team"] = r.team.replace(TEAM_FIX)
+    r = r.drop_duplicates(["week", "gsis_id"], keep="last")
+    return r.rename(columns={"gsis_id": "player_id", "team": "roster_team", "status": "roster_status"})[
+        ["player_id", "week", "roster_team", "roster_status"]]
+
+
+def roster_filter(up, rosters, stats, games, inj, season, week, hard_drop_missed=False):
+    """Returns (kept rows with roster_note / capped p_play, table of dropped players with reasons)."""
+    up = up.copy()
+    up["roster_note"] = ""
+    if rosters is None or rosters.empty or not (rosters.week <= week).any():
+        print("(rosters unavailable - roster filter skipped)")
+        return up, pd.DataFrame(columns=["player", "pos", "team", "reason"])
+    wu = int(rosters.week[rosters.week <= week].max())
+    r = rosters[rosters.week == wu].set_index("player_id")
+    status = up.player_id.map(r.roster_status)
+    rteam = up.player_id.map(r.roster_team)
+    reason = pd.Series("", index=up.index)
+    reason[status.isna()] = "not on the roster file"
+    ina = status.eq("INA")
+    bad = status.notna() & ~status.isin(AVAILABLE_STATUS) & (~ina | (wu == week))   # INA this very week = inactive
+    reason[bad] = "roster status " + status[bad].astype(str)
+    moved = status.isin(AVAILABLE_STATUS) & rteam.notna() & (rteam != up.team)
+    reason[moved] = "moved to " + rteam[moved].astype(str)
+
+    # team games already played, most recent first; did the player appear in the last MISSED_GAMES_RULE of them?
+    tg = games[games.played & ((games.season < season) | ((games.season == season) & (games.week < week)))]
+    tg = tg[["team", "season", "week"]].drop_duplicates().sort_values(["team", "season", "week"])
+    last = tg.groupby("team").tail(MISSED_GAMES_RULE)
+    have = stats[["player_id", "season", "week"]].drop_duplicates().assign(_h=1)
+    j = last.merge(have, on=["season", "week"], how="left")
+    j = j.groupby(["team", "player_id"])._h.sum()                      # appearances in his team's last N games
+    ngames = last.groupby("team").size()
+    appeared = pd.Series(list(zip(up.team, up.player_id))).map(j).fillna(0).to_numpy()
+    need = up.team.map(ngames).fillna(0).to_numpy()
+    listed = (set(inj.loc[(inj.season == season) & (inj.week == week), "player_id"])
+              if inj is not None else set())
+    missed = (need >= MISSED_GAMES_RULE) & (appeared == 0) & ~up.player_id.isin(listed).to_numpy() & (reason == "").to_numpy()
+
+    dropped = up[reason != ""].assign(reason=reason[reason != ""])
+    if hard_drop_missed:
+        dropped = pd.concat([dropped, up[missed].assign(reason=f"missed last {MISSED_GAMES_RULE}+ games, not on report")])
+    keep = ~up.index.isin(dropped.index)
+    up = up[keep].copy()
+    soft = missed[keep]
+    prev_ina = (ina & ~(bad | moved)).to_numpy()[keep] & ~up.player_id.isin(listed).to_numpy()
+    up.loc[prev_ina, "p_play"] = up.loc[prev_ina, "p_play"].clip(upper=P_PREV_INACTIVE)
+    up.loc[prev_ina & (up.roster_note == ""), "roster_note"] = f"inactive last week (week {wu}), not on report"
+    if not hard_drop_missed:
+        up.loc[soft, "p_play"] = up.loc[soft, "p_play"].clip(upper=P_MISSED_GAMES)
+        up.loc[soft, "roster_note"] = f"missed last {MISSED_GAMES_RULE}+ games, not on report"
+    dropped = dropped.rename(columns={"player_display_name": "player", "position": "pos"})[["player", "pos", "team", "reason"]]
+    if prev_ina.sum():
+        print(f"\nplay chance capped at {P_PREV_INACTIVE:.0%} (inactive in week {wu}, not on the injury report): "
+              + ", ".join(f"{a} ({b})" for a, b in zip(up.loc[prev_ina, "player_display_name"], up.loc[prev_ina, "team"])))
+    print(f"\n=== ROSTER FILTER (roster snapshot: {season} week {wu}) ===")
+    print(f"dropped {len(dropped)} players who cannot play:")
+    if len(dropped):
+        print(dropped.sort_values(["reason", "team"]).to_string(index=False))
+    if not hard_drop_missed and soft.sum():
+        print(f"\nplay chance capped at {P_MISSED_GAMES:.0%} (missed {MISSED_GAMES_RULE}+ games, not on the report): "
+              + ", ".join(f"{a} ({b})" for a, b in zip(up.loc[soft, "player_display_name"], up.loc[soft, "team"])))
+    return up, dropped
+
+
+def choose_starting_qbs(up):
+    """One QB per team: the starter listed in the schedule if he is still in the pool, else the QB with the
+    most recent passing volume. Teams with no listed starter keep every QB (old behavior)."""
+    is_qb = up.position == "QB"
+    keep = ~is_qb
+    for team, g in up[is_qb].groupby("team"):
+        lst = g.team_qb_id.iloc[0]
+        if pd.isna(lst):
+            keep[g.index] = True
+        elif (g.player_id == lst).any():
+            keep[g.index[g.player_id == lst]] = True
+        else:
+            keep[g.ea_attempts.fillna(0).idxmax()] = True
+    return up[keep]
 
 
 # ----------------------------------------------------------------------------- direct points model
@@ -1050,6 +1177,86 @@ def report_comparison(out, label):
     print("\n(big gaps usually = injury/role news they know and we don't; check those first)")
 
 
+# ----------------------------------------------------------------------------- projected game scores
+def team_stat_sums(df, td_col, rtd_col, pyd_col, ryd_col, weight=None):
+    """Per team: projected QB passing TDs, all rushing TDs, passing yards, rushing yards (optionally x p_play)."""
+    w = 1.0 if weight is None else df[weight]
+    x = pd.DataFrame({"team": df.team, "ptd": df[td_col].fillna(0) * w * (df.position == "QB"),
+                      "rtd": df[rtd_col].fillna(0) * w, "pyd": df[pyd_col].fillna(0) * w * (df.position == "QB"),
+                      "ryd": df[ryd_col].fillna(0) * w})
+    return x.groupby("team", as_index=False).sum()
+
+
+def team_points(t, coef=None):
+    c = coef or TEAM_PTS
+    return c["const"] + sum(c[k] * t[k] for k in TEAM_PTS_X)
+
+
+def fit_team_points(bt, games):
+    """Fit team points on the backtest's projected stats and print how it compares with Vegas (leave-one-season-out)."""
+    bt = bt.copy()
+    for c in ["proj_pass_td", "proj_rush_td", "proj_pass_yds", "proj_rush_yds"]:
+        bt[c] = bt[c].fillna(0)
+    isqb = bt.position == "QB"
+    bt["ptd"], bt["pyd"] = bt.proj_pass_td * isqb, bt.proj_pass_yds * isqb
+    t = bt.groupby(["season", "week", "team"]).agg(
+        n=("player", "size"), nqb=("position", lambda x: (x == "QB").sum()), ptd=("ptd", "sum"),
+        rtd=("proj_rush_td", "sum"), pyd=("pyd", "sum"), ryd=("proj_rush_yds", "sum")).reset_index()
+    g = games.dropna(subset=["team_score"]).assign(impl=lambda x: x.total_line / 2 + x.team_spread / 2)
+    t = t.merge(g[["season", "week", "team", "team_score", "impl"]], on=["season", "week", "team"])
+    t = t[(t.nqb >= 1) & (t.n >= 6)].dropna(subset=["impl"]).reset_index(drop=True)
+    if len(t) < 200:
+        print("(not enough backtest team-games to fit the game-score model; keeping defaults)")
+        return TEAM_PTS
+    ours = pd.Series(index=t.index, dtype=float)
+    for s_ in sorted(t.season.unique()):
+        m = sm.OLS(t.team_score[t.season != s_], sm.add_constant(t.loc[t.season != s_, TEAM_PTS_X])).fit()
+        ours[t.season == s_] = m.predict(sm.add_constant(t.loc[t.season == s_, TEAM_PTS_X], has_constant="add"))
+    fit = sm.OLS(t.team_score, sm.add_constant(t[TEAM_PTS_X])).fit()
+    coef = {"const": float(fit.params["const"]), **{k: float(fit.params[k]) for k in TEAM_PTS_X}}
+    print(f"\n=== TEAM POINTS FROM OUR STAT LINES vs VEGAS ({len(t)} team-games; each season scored by a model fit on the others) ===")
+    rows = []
+    for nm, pr in (("our stat lines", ours), ("Vegas implied", t.impl), ("average of both", (ours + t.impl) / 2)):
+        e = t.team_score - pr
+        rows.append({"source": nm, "MAE": e.abs().mean(), "RMSE": np.sqrt((e ** 2).mean()), "bias": e.mean()})
+    print(pd.DataFrame(rows).round(2).to_string(index=False))
+    both = sm.OLS(t.team_score, sm.add_constant(pd.DataFrame({"vegas": t.impl, "ours": ours}))).fit()
+    print(f"Actual points on both: Vegas weight {both.params['vegas']:.2f} (se {both.bse['vegas']:.2f}), "
+          f"our-stat-lines weight {both.params['ours']:.2f} (se {both.bse['ours']:.2f})  <- does our build add to Vegas?")
+    print("fitted: points = " + f"{coef['const']:.2f} " + " ".join(f"{coef[k]:+.4f}*{k}" for k in TEAM_PTS_X))
+    return coef
+
+
+def report_game_scores(up, games, season, week, coef, path):
+    """Projected score for every game of the week from the players' projected stat lines."""
+    t = team_stat_sums(up, "pass_td", "rush_td", "pass_yds", "rush_yds", weight="p_play")
+    t["ours"] = team_points(t, coef)
+    g = games[(games.season == season) & (games.week == week) & (~games.played) & (games.is_home == 1)].copy()
+    g = g.merge(t[["team", "ours", "ptd", "rtd"]], on="team", how="left").merge(
+        t[["team", "ours", "ptd", "rtd"]].rename(columns={"team": "opp", "ours": "ours_opp", "ptd": "ptd_opp", "rtd": "rtd_opp"}),
+        on="opp", how="left")
+    g["vegas_home"] = g.total_line / 2 + g.team_spread / 2
+    g["vegas_away"] = g.total_line / 2 - g.team_spread / 2
+    g["our_total"] = g.ours + g.ours_opp
+    g["our_spread"] = g.ours - g.ours_opp                      # positive = home team ahead
+    g["total_diff"] = g.our_total - g.total_line
+    g["spread_diff"] = g.our_spread - g.team_spread
+    out = g.rename(columns={"team": "home", "opp": "away", "ours": "home_pts", "ours_opp": "away_pts",
+                            "team_spread": "vegas_spread", "total_line": "vegas_total"})[
+        ["home", "away", "home_pts", "away_pts", "our_total", "vegas_total", "total_diff",
+         "our_spread", "vegas_spread", "spread_diff", "vegas_home", "vegas_away"]]
+    out = out.dropna(subset=["our_total"]).sort_values("total_diff", ascending=False).round(1)
+    if out.empty:
+        return
+    out.to_csv(path, index=False)
+    print(f"\n=== PROJECTED SCORES - week {week} (built from the players' projected stat lines, p_play-weighted) ===")
+    print("home_pts / away_pts = our score; our_spread > 0 means the HOME team wins by that much; "
+          "total_diff / spread_diff = ours minus Vegas")
+    print(out.to_string(index=False))
+    print(f"(saved to {path}. Caution: the stat lines are anchored to the Vegas total, so big gaps mostly come from "
+          "injuries/usage that the line may not reflect; in backtests this build matched Vegas but did not beat it.)")
+
+
 # ----------------------------------------------------------------------------- main
 def main():
     ap = argparse.ArgumentParser()
@@ -1069,6 +1276,10 @@ def main():
     ap.add_argument("--compare-name", default="other", help="label for --compare-csv, e.g. ESPN")
     ap.add_argument("--dk-salaries", default=None,
                     help="DraftKings salary CSV (the 'Export to CSV' / DKSalaries.csv file for your slate)")
+    ap.add_argument("--no-roster-filter", action="store_true",
+                    help="skip the roster-status / missed-games availability filter")
+    ap.add_argument("--drop-missed", action="store_true",
+                    help="drop (instead of discounting) regulars who missed their team's last 2+ games unreported")
     args = ap.parse_args()
 
     CFG.update(te_premium=args.te_premium, pass_td=args.pass_td)
@@ -1095,6 +1306,7 @@ def main():
         bt = backtest_weekly(d, args.first_test)
         wk = report_weekly_backtest(bt, season)
         save_backtest(bt, wk, season)
+        TEAM_PTS.update(fit_team_points(pd.read_csv("backtest_weekly_players.csv"), games))
 
     pool = d[d.elig & ~d.upcoming]
     base = fit_stat_models(pool, False)
@@ -1111,6 +1323,11 @@ def main():
     up = up[up.inj_status != "Out"]                       # players listed Out are not projected
     print(f"\nInjury report: {n_out} projectable players listed Out for week {week} (dropped; "
           f"their teammates' work is adjusted below).")
+    if not args.no_roster_filter:
+        up, _ = roster_filter(up, load_rosters(season), stats, games, inj, season, week, args.drop_missed)
+    else:
+        up["roster_note"] = ""
+    up = choose_starting_qbs(up)
     up = up.join(predict_stats(full, up, "p_"))
     up = up.join(predict_stats(base, up, "b_"))
     pp = project_points(up, "p_", om)
@@ -1130,6 +1347,7 @@ def main():
     up = up.dropna(subset=["proj"])
     up["injury"] = (up.inj_status.fillna("") + " " + up.inj_practice.map(
         {"full": "full practice", "limited": "limited practice", "dnp": "DNP"}).fillna("")).str.strip()
+    up["injury"] = (up.injury + "; " + up.roster_note).str.strip("; ")
 
     sources = []
     if args.sleeper:
@@ -1194,6 +1412,7 @@ def main():
         elif pos == "WR":
             c = [x for x in c if x != "rush_td"]
         print(t[c].to_string())
+    report_game_scores(up, games, season, week, TEAM_PTS, f"game_projections_{season}_wk{week:02d}.csv")
     print("\n=== BIGGEST MATCHUP BOOSTS / DRAGS (vs. the same player's form-only projection) ===")
     mb = ["player", "pos", "team", "opp", "line", "total", "recent_avg", "proj", "matchup_boost", "injury"]
     print(out.sort_values("matchup_boost", ascending=False).head(10)[mb].to_string())
