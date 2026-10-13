@@ -1,0 +1,355 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>NFL Projections — Week 6, 2026</title>
+  <script src="https://cdn.jsdelivr.net/npm/papaparse@5.4.1/papaparse.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.4/dist/chart.umd.min.js"></script>
+  <style>
+    :root {
+      color-scheme: dark;
+      --bg: #0b1020;
+      --panel: #131b2e;
+      --panel2: #18233a;
+      --border: #283550;
+      --text: #edf2ff;
+      --muted: #94a3bd;
+      --accent: #7dd3fc;
+      --green: #86efac;
+      --red: #fca5a5;
+    }
+    * { box-sizing: border-box; }
+    body {
+      margin: 0;
+      background: radial-gradient(ellipse at top right, #182746 0, var(--bg) 42%);
+      color: var(--text);
+      font: 15px/1.5 system-ui, -apple-system, Segoe UI, sans-serif;
+    }
+    .wrap { width: min(1440px, calc(100% - 36px)); margin: 0 auto; padding: 32px 0 56px; }
+    header { display: flex; justify-content: space-between; gap: 20px; align-items: end; margin-bottom: 26px; }
+    .eyebrow { color: var(--accent); text-transform: uppercase; letter-spacing: .15em; font-size: 11px; font-weight: 800; }
+    h1 { margin: 5px 0 4px; font-size: clamp(28px, 4vw, 42px); letter-spacing: -.04em; line-height: 1.1; }
+    .sub { margin: 0; color: var(--muted); }
+    .source-link { color: var(--accent); text-decoration: none; font-size: 13px; white-space: nowrap; }
+    .source-link:hover { text-decoration: underline; }
+    .status { color: var(--muted); font-size: 12px; margin-top: 10px; }
+    .cards { display: grid; grid-template-columns: repeat(4, minmax(0, 1fr)); gap: 14px; margin: 22px 0; }
+    .card, .panel { background: rgba(19, 27, 46, .94); border: 1px solid var(--border); border-radius: 16px; }
+    .card { padding: 18px 20px; }
+    .card-label { color: var(--muted); font-size: 12px; text-transform: uppercase; letter-spacing: .08em; font-weight: 700; }
+    .card-value { font-size: 29px; font-weight: 800; letter-spacing: -.04em; margin-top: 5px; }
+    .card-note { color: var(--muted); font-size: 12px; margin-top: 2px; }
+    .panel { padding: 20px; margin-top: 16px; }
+    .panel-head { display: flex; justify-content: space-between; align-items: center; gap: 12px; margin-bottom: 15px; }
+    h2 { font-size: 17px; margin: 0; letter-spacing: -.02em; }
+    .filters { display: grid; grid-template-columns: minmax(220px, 2fr) repeat(2, minmax(140px, 1fr)) auto; gap: 10px; margin-bottom: 14px; }
+    input, select, button {
+      border: 1px solid var(--border); border-radius: 10px; background: var(--panel2); color: var(--text);
+      padding: 11px 12px; font: inherit; min-width: 0;
+    }
+    input::placeholder { color: #7888a4; }
+    button { cursor: pointer; }
+    button:hover { border-color: var(--accent); }
+    .table-wrap { overflow: auto; max-height: 640px; border: 1px solid var(--border); border-radius: 12px; }
+    table { width: 100%; border-collapse: collapse; white-space: nowrap; font-size: 13px; }
+    th, td { padding: 11px 13px; border-bottom: 1px solid rgba(40,53,80,.72); text-align: right; }
+    th { position: sticky; top: 0; z-index: 1; background: #1a2740; color: #b9c7df; font-size: 11px; text-transform: uppercase; letter-spacing: .06em; cursor: pointer; user-select: none; }
+    th:first-child, td:first-child, th:nth-child(2), td:nth-child(2), th:nth-child(3), td:nth-child(3) { text-align: left; }
+    tbody tr:hover { background: rgba(125, 211, 252, .06); }
+    .player { font-weight: 750; color: #f7f9ff; }
+    .rank { color: var(--muted); }
+    .pos { display: inline-block; min-width: 31px; text-align: center; padding: 2px 6px; border-radius: 6px; background: #24334e; color: #c9e7ff; font-size: 11px; font-weight: 800; }
+    .projection { color: var(--green); font-weight: 800; }
+    .negative { color: var(--red); }
+    .chart-box { height: 360px; }
+    .chart-caption { color: var(--muted); font-size: 12px; margin: 8px 0 0; }
+    .bottom-grid { display: grid; grid-template-columns: 1.4fr 1fr; gap: 16px; }
+    .error { color: var(--red); padding: 12px 0; }
+    .empty { color: var(--muted); text-align: center; padding: 28px; }
+    footer { color: var(--muted); font-size: 12px; margin-top: 20px; }
+    @media (max-width: 850px) {
+      .cards { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+      .filters { grid-template-columns: 1fr 1fr; }
+      .filters input { grid-column: 1 / -1; }
+      .bottom-grid { grid-template-columns: 1fr; }
+      header { align-items: start; flex-direction: column; }
+      .source-link { white-space: normal; }
+    }
+    @media (max-width: 480px) {
+      .wrap { width: min(100% - 22px, 1440px); padding-top: 22px; }
+      .cards { gap: 9px; }
+      .card { padding: 14px; }
+      .card-value { font-size: 24px; }
+      .panel { padding: 13px; }
+      .filters { grid-template-columns: 1fr; }
+      .filters input { grid-column: auto; }
+    }
+  </style>
+</head>
+<body>
+  <main class="wrap">
+    <header>
+      <div>
+        <div class="eyebrow">NFL analytics / 2026 season</div>
+        <h1>Week 6 Projections</h1>
+        <p class="sub">Player forecasts, matchup context, and projected fantasy output.</p>
+        <div class="status" id="status">Loading projections from GitHub…</div>
+      </div>
+      <a class="source-link" href="https://github.com/FlowersJordan/NFL-Projections-Model/blob/main/projections_2026_wk06.csv" target="_blank" rel="noreferrer">View source CSV ↗</a>
+    </header>
+
+    <section class="cards" aria-label="Projection summary">
+      <article class="card"><div class="card-label">Players in view</div><div class="card-value" id="kpi-count">—</div><div class="card-note">After current filters</div></article>
+      <article class="card"><div class="card-label">Top projection</div><div class="card-value" id="kpi-top">—</div><div class="card-note" id="kpi-top-name">Projected points</div></article>
+      <article class="card"><div class="card-label">Average projection</div><div class="card-value" id="kpi-avg">—</div><div class="card-note">Among visible players</div></article>
+      <article class="card"><div class="card-label">Average play probability</div><div class="card-value" id="kpi-play">—</div><div class="card-note">Where available</div></article>
+    </section>
+
+    <section class="panel">
+      <div class="panel-head">
+        <h2>Projection leaderboard</h2>
+        <span class="status" id="result-count"></span>
+      </div>
+      <div class="filters">
+        <input id="search" type="search" placeholder="Search player, team, or opponent…" aria-label="Search players" />
+        <select id="position" aria-label="Filter by position"><option value="">All positions</option></select>
+        <select id="team" aria-label="Filter by team"><option value="">All teams</option></select>
+        <button id="reset" type="button">Reset filters</button>
+      </div>
+      <div class="table-wrap">
+        <table>
+          <thead><tr id="table-head"></tr></thead>
+          <tbody id="table-body"><tr><td colspan="12" class="empty">Waiting for data…</td></tr></tbody>
+        </table>
+      </div>
+    </section>
+
+    <div class="bottom-grid">
+      <section class="panel">
+        <div class="panel-head"><h2>Top projected players</h2><span class="status">Sorted by projection</span></div>
+        <div class="chart-box"><canvas id="top-chart"></canvas></div>
+        <p class="chart-caption">Uses the main <code>proj</code> field from the source CSV. Select a position or team above to update the chart.</p>
+      </section>
+      <section class="panel">
+        <div class="panel-head"><h2>Projection by position</h2></div>
+        <div class="chart-box"><canvas id="position-chart"></canvas></div>
+        <p class="chart-caption">Average projection for each position in the current filtered set.</p>
+      </section>
+    </div>
+
+    <footer>
+      Data is loaded from the repository's public CSV at page load. Projections are model outputs, not guarantees.
+      <span id="load-error" class="error"></span>
+    </footer>
+  </main>
+
+  <script>
+    const CSV_URL = "https://raw.githubusercontent.com/FlowersJordan/NFL-Projections-Model/main/projections_2026_wk06.csv";
+    const $ = (id) => document.getElementById(id);
+    let allRows = [];
+    let sortKey = "proj";
+    let sortDirection = "desc";
+    let topChart = null;
+    let positionChart = null;
+
+    const columns = [
+      ["rank", "Rank", "number"],
+      ["player", "Player", "text"],
+      ["pos", "Pos", "text"],
+      ["team", "Team", "text"],
+      ["opp", "Opp", "text"],
+      ["proj", "Proj", "number"],
+      ["p_play", "Play %", "percent"],
+      ["dk_proj", "DK Proj", "number"],
+      ["pass_att", "Pass Att", "number"],
+      ["pass_yds", "Pass Yds", "number"],
+      ["pass_td", "Pass TD", "number"],
+      ["car", "Rush Att", "number"],
+      ["rush_yds", "Rush Yds", "number"],
+      ["rush_td", "Rush TD", "number"],
+      ["tgt", "Targets", "number"],
+      ["rec", "Receptions", "number"],
+      ["rec_yds", "Rec Yds", "number"],
+      ["rec_td", "Rec TD", "number"],
+      ["injury", "Injury", "text"]
+    ];
+
+    function num(value) {
+      if (value === null || value === undefined || value === "") return null;
+      const n = Number(value);
+      return Number.isFinite(n) ? n : null;
+    }
+    function get(row, key) {
+      return row[key] ?? row[key.toLowerCase()] ?? "";
+    }
+    function fmt(value, type) {
+      if (value === null || value === undefined || value === "") return "—";
+      const n = num(value);
+      if (type === "percent") {
+        if (n === null) return String(value);
+        // Source may store probabilities as either 0–1 or 0–100.
+        return `${(n <= 1 ? n * 100 : n).toFixed(0)}%`;
+      }
+      if (type === "number" && n !== null) {
+        return Number.isInteger(n) ? n.toLocaleString() : n.toFixed(1);
+      }
+      return String(value);
+    }
+    function safeText(value) {
+      return String(value ?? "").replace(/[&<>"']/g, ch => ({
+        "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;"
+      }[ch]));
+    }
+    function normalizedRows(rows) {
+      return rows.filter(row => row && (row.player || row.Player)).map(row => {
+        const out = {};
+        for (const [key] of columns) {
+          const value = row[key] ?? row[key.toUpperCase()] ?? "";
+          out[key] = ["rank", "proj", "p_play", "dk_proj", "pass_att", "pass_yds", "pass_td", "car", "rush_yds", "rush_td", "tgt", "rec", "rec_yds", "rec_td"].includes(key)
+            ? num(value) : String(value ?? "").trim();
+        }
+        // Preserve any source fields for future additions.
+        return { ...row, ...out, player: out.player || String(row.Player || "").trim() };
+      });
+    }
+    function filteredRows() {
+      const query = $("search").value.trim().toLowerCase();
+      const pos = $("position").value;
+      const team = $("team").value;
+      const rows = allRows.filter(row =>
+        (!query || [row.player, row.team, row.opp].some(v => String(v || "").toLowerCase().includes(query))) &&
+        (!pos || row.pos === pos) &&
+        (!team || row.team === team)
+      );
+      rows.sort((a, b) => {
+        const av = a[sortKey], bv = b[sortKey];
+        let result;
+        if (typeof av === "number" || typeof bv === "number") {
+          result = (num(av) ?? -Infinity) - (num(bv) ?? -Infinity);
+        } else {
+          result = String(av ?? "").localeCompare(String(bv ?? ""));
+        }
+        return sortDirection === "asc" ? result : -result;
+      });
+      return rows;
+    }
+    function renderTable(rows) {
+      $("table-head").innerHTML = columns.map(([key, label]) =>
+        `<th scope="col" data-key="${key}" title="Sort by ${safeText(label)}">${safeText(label)}${sortKey === key ? (sortDirection === "asc" ? " ↑" : " ↓") : ""}</th>`
+      ).join("");
+      $("table-body").innerHTML = rows.length ? rows.map(row =>
+        `<tr>${columns.map(([key, label, type]) => {
+          const value = get(row, key);
+          const content = safeText(fmt(value, type));
+          if (key === "player") return `<td class="player">${content}</td>`;
+          if (key === "rank") return `<td class="rank">${content}</td>`;
+          if (key === "pos") return `<td><span class="pos">${content}</span></td>`;
+          if (key === "proj") return `<td class="projection">${content}</td>`;
+          if (key === "injury" && content !== "—" && content !== "") return `<td class="negative">${content}</td>`;
+          return `<td>${content || "—"}</td>`;
+        }).join("")}</tr>`
+      ).join("") : `<tr><td colspan="${columns.length}" class="empty">No players match these filters.</td></tr>`;
+      $("result-count").textContent = `${rows.length.toLocaleString()} player${rows.length === 1 ? "" : "s"}`;
+      $("table-head").querySelectorAll("th").forEach(th => th.addEventListener("click", () => {
+        if (sortKey === th.dataset.key) sortDirection = sortDirection === "asc" ? "desc" : "asc";
+        else { sortKey = th.dataset.key; sortDirection = sortKey === "rank" ? "asc" : "desc"; }
+        render();
+      }));
+    }
+    function renderKpis(rows) {
+      $("kpi-count").textContent = rows.length.toLocaleString();
+      const projected = rows.filter(r => num(r.proj) !== null);
+      const top = [...projected].sort((a,b) => b.proj-a.proj)[0];
+      $("kpi-top").textContent = top ? top.proj.toFixed(1) : "—";
+      $("kpi-top-name").textContent = top ? top.player : "Projected points";
+      const avg = projected.length ? projected.reduce((sum,r) => sum + r.proj, 0) / projected.length : null;
+      $("kpi-avg").textContent = avg === null ? "—" : avg.toFixed(1);
+      const probs = rows.map(r => num(r.p_play)).filter(v => v !== null).map(v => v <= 1 ? v * 100 : v);
+      $("kpi-play").textContent = probs.length ? `${(probs.reduce((a,b) => a+b,0) / probs.length).toFixed(0)}%` : "—";
+    }
+    function renderCharts(rows) {
+      const top = rows.filter(r => num(r.proj) !== null).slice().sort((a,b) => b.proj-a.proj).slice(0, 10).reverse();
+      const chartDefaults = {
+        responsive: true, maintainAspectRatio: false,
+        plugins: { legend: { display: false }, tooltip: { enabled: true } },
+        scales: {
+          x: { ticks: { color: "#94a3bd" }, grid: { color: "rgba(148,163,189,.12)" } },
+          y: { ticks: { color: "#94a3bd" }, grid: { color: "rgba(148,163,189,.12)" } }
+        }
+      };
+      if (topChart) topChart.destroy();
+      topChart = new Chart($("top-chart"), {
+        type: "bar",
+        data: { labels: top.map(r => `${r.player} (${r.pos})`), datasets: [{
+          data: top.map(r => r.proj), backgroundColor: "#38bdf8", borderRadius: 5
+        }] },
+        options: { ...chartDefaults, indexAxis: "y", scales: {
+          x: { ...chartDefaults.scales.x, title: { display: true, text: "Projected points", color: "#94a3bd" } },
+          y: { ...chartDefaults.scales.y }
+        }}
+      });
+      const groups = {};
+      rows.forEach(r => {
+        const p = r.pos || "Unknown";
+        if (num(r.proj) !== null) {
+          if (!groups[p]) groups[p] = [];
+          groups[p].push(r.proj);
+        }
+      });
+      const positions = Object.keys(groups).sort();
+      if (positionChart) positionChart.destroy();
+      positionChart = new Chart($("position-chart"), {
+        type: "bar",
+        data: { labels: positions, datasets: [{
+          data: positions.map(p => groups[p].reduce((a,b) => a+b,0) / groups[p].length),
+          backgroundColor: "#a78bfa", borderRadius: 5
+        }] },
+        options: { ...chartDefaults, scales: {
+          x: { ...chartDefaults.scales.x },
+          y: { ...chartDefaults.scales.y, title: { display: true, text: "Average projected points", color: "#94a3bd" } }
+        }}
+      });
+    }
+    function render() {
+      const rows = filteredRows();
+      renderKpis(rows);
+      renderTable(rows);
+      renderCharts(rows);
+    }
+    function populateFilters() {
+      const positions = [...new Set(allRows.map(r => r.pos).filter(Boolean))].sort();
+      const teams = [...new Set(allRows.map(r => r.team).filter(Boolean))].sort();
+      $("position").innerHTML = '<option value="">All positions</option>' + positions.map(v => `<option value="${safeText(v)}">${safeText(v)}</option>`).join("");
+      $("team").innerHTML = '<option value="">All teams</option>' + teams.map(v => `<option value="${safeText(v)}">${safeText(v)}</option>`).join("");
+    }
+    async function load() {
+      try {
+        const response = await fetch(CSV_URL, { cache: "no-store" });
+        if (!response.ok) throw new Error(`CSV request failed (${response.status})`);
+        const csv = await response.text();
+        const parsed = Papa.parse(csv, { header: true, skipEmptyLines: true, dynamicTyping: false });
+        if (parsed.errors.length && !parsed.data.length) throw new Error(parsed.errors[0].message);
+        allRows = normalizedRows(parsed.data);
+        if (!allRows.length) throw new Error("The CSV loaded, but no player rows were found. Check the source headers.");
+        populateFilters();
+        $("status").textContent = `Loaded ${allRows.length.toLocaleString()} player rows · Source: projections_2026_wk06.csv`;
+        $("load-error").textContent = "";
+        render();
+      } catch (error) {
+        $("status").textContent = "Unable to load projection data.";
+        $("load-error").textContent = ` ${error.message}. Open this page through a local web server or deploy it to a website; file:// pages may block data requests.`;
+        $("table-body").innerHTML = `<tr><td colspan="${columns.length}" class="empty">Could not load the CSV. Check your internet connection and the repository's raw CSV URL.</td></tr>`;
+      }
+    }
+    $("search").addEventListener("input", render);
+    $("position").addEventListener("change", render);
+    $("team").addEventListener("change", render);
+    $("reset").addEventListener("click", () => {
+      $("search").value = ""; $("position").value = ""; $("team").value = "";
+      sortKey = "proj"; sortDirection = "desc"; render();
+    });
+    load();
+  </script>
+</body>
+</html>
