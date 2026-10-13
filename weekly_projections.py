@@ -56,6 +56,10 @@ Usage:
                                                     # any other source: CSV with columns
                                                     # player, proj [, pos, team]
 
+OPPORTUNITIES: opportunities_<season>_wk<NN>.csv lists the top 5 selections per game (our total / spread vs
+  Vegas, and players whose projection is furthest above or below what their form alone says). --props-csv adds
+  a player-prop comparison (prop_edges_<season>_wk<NN>.csv).
+
 GAME SCORES: each team's points are built from its players' projected stat lines (QB passing TDs, all
 rushing TDs, passing and rushing yards, weighted by play chance) and printed next to Vegas's total and
 spread for every game, plus saved to game_projections_<season>_wk<week>.csv. --backtest refits the
@@ -138,6 +142,15 @@ MISSED_GAMES_RULE = 2        # (measured 2018-2025: about 44% of them still play
 # ---- team points from projected stat lines: points = const + b x (QB passing TDs, rushing TDs, passing yds, rushing yds)
 # Fitted on the 2022-2026 backtest (--backtest refits it); touchdowns carry the extra point and the field goals
 # that come with long drives, and the players we don't project (backups, kickers) are absorbed by the constant.
+# ---- best-opportunities report (calibrated on the 2022-2026 backtest)
+ADJ_SD = 0.95            # sd of (our points - form-only points) across players
+TOTAL_DIFF_SD, MARGIN_DIFF_SD = 2.8, 3.2    # sd of (our - Vegas) game total / margin across games
+ADJ_HIT = [(3.0, 0.65), (2.0, 0.65), (1.0, 0.59), (0.0, 0.54)]   # |adjustment| >= x -> share that moved our way
+PROP_SD = {("QB", "pass_yds"): 81.3, ("QB", "pass_td"): 1.1, ("QB", "pass_att"): 9.9, ("QB", "car"): 2.4,
+           ("QB", "rush_yds"): 16.9, ("RB", "car"): 5.3, ("RB", "rush_yds"): 32.3, ("RB", "rush_td"): 0.59,
+           ("RB", "tgt"): 2.0, ("RB", "rec"): 1.7, ("RB", "rec_yds"): 17.0, ("WR", "tgt"): 2.9, ("WR", "rec"): 2.2,
+           ("WR", "rec_yds"): 34.0, ("WR", "rush_yds"): 4.4, ("TE", "tgt"): 2.4, ("TE", "rec"): 1.9,
+           ("TE", "rec_yds"): 24.0}   # sd of (actual - projected) per stat; a prop edge is scored in these units
 TEAM_PTS_X = ["ptd", "rtd", "pyd", "ryd"]
 TEAM_PTS = {"const": 19.2165, "ptd": 11.8472, "rtd": 5.7382, "pyd": -0.0593, "ryd": -0.0422}
 
@@ -1247,7 +1260,7 @@ def report_game_scores(up, games, season, week, coef, path):
          "our_spread", "vegas_spread", "spread_diff", "vegas_home", "vegas_away"]]
     out = out.dropna(subset=["our_total"]).sort_values("total_diff", ascending=False).round(1)
     if out.empty:
-        return
+        return None
     out.to_csv(path, index=False)
     print(f"\n=== PROJECTED SCORES - week {week} (built from the players' projected stat lines, p_play-weighted) ===")
     print("home_pts / away_pts = our score; our_spread > 0 means the HOME team wins by that much; "
@@ -1255,6 +1268,122 @@ def report_game_scores(up, games, season, week, coef, path):
     print(out.to_string(index=False))
     print(f"(saved to {path}. Caution: the stat lines are anchored to the Vegas total, so big gaps mostly come from "
           "injuries/usage that the line may not reflect; in backtests this build matched Vegas but did not beat it.)")
+    return out
+
+
+def _stat_note(r):
+    f = lambda c, n=1: f"{r[c]:.{n}f}"
+    if r.pos == "QB":
+        return f"{f('pass_yds', 0)} pass yds, {f('pass_td')} pass TD, {f('rush_yds', 0)} rush yds"
+    if r.pos == "RB":
+        return f"{f('car', 0)} car, {f('rush_yds', 0)} rush yds, {f('rec')} rec, {f('rec_yds', 0)} rec yds, {f('rush_td')}+{f('rec_td')} TD"
+    return f"{f('tgt')} tgt, {f('rec')} rec, {f('rec_yds', 0)} rec yds, {f('rec_td')} TD"
+
+
+def _hit_rate(a):
+    return next(h for lo, h in ADJ_HIT if a >= lo)
+
+
+def load_props(path):
+    p = pd.read_csv(path)
+    p.columns = [c.strip().lower() for c in p.columns]
+    need = {"player", "stat", "line"} - set(p.columns)
+    if need:
+        raise ValueError(f"props file needs columns player, stat, line (missing {sorted(need)})")
+    p["stat"] = p.stat.str.strip().str.lower()
+    return p
+
+
+def report_opportunities(out, games_out, season, week, props=None, top_n=5):
+    """Top selections per game: our game total / spread vs Vegas, and players whose projection moved most
+    away from what their recent form alone says (matchup, injuries, teammates' absences, game script)."""
+    if games_out is None or games_out.empty:
+        return
+    rows = []
+    for g in games_out.itertuples():
+        game = f"{g.away} @ {g.home}"
+        if abs(g.total_diff) > 0:
+            side = "OVER" if g.total_diff > 0 else "UNDER"
+            rows.append(dict(game=game, type="TOTAL", selection=f"{side} {g.vegas_total:g}", ours=g.our_total,
+                             baseline=g.vegas_total, edge=g.total_diff, z=abs(g.total_diff) / TOTAL_DIFF_SD,
+                             confidence="low: no proven edge vs Vegas in backtest",
+                             note=f"our score {g.away} {g.away_pts:.1f}, {g.home} {g.home_pts:.1f}"))
+        if abs(g.spread_diff) > 0:
+            fav = g.home if g.spread_diff > 0 else g.away       # we like the home team more when our spread is higher
+            line = g.vegas_spread if fav == g.home else -g.vegas_spread
+            rows.append(dict(game=game, type="SPREAD", selection=f"{fav} {-line:+g}", ours=g.our_spread,
+                             baseline=g.vegas_spread, edge=g.spread_diff, z=abs(g.spread_diff) / MARGIN_DIFF_SD,
+                             confidence="low: no proven edge vs Vegas in backtest",
+                             note=f"our margin {g.home} by {g.our_spread:+.1f} vs Vegas {g.vegas_spread:+.1f}"))
+        for team in (g.home, g.away):
+            pl = out[(out.team == team) & (out.p_play >= 0.6)]
+            for r in pl.itertuples(index=False):
+                r = pd.Series(r._asdict())
+                adj = r.proj - r.form_only
+                if not np.isfinite(adj) or abs(adj) < 0.5:
+                    continue
+                rows.append(dict(game=game, type="PLAYER", selection=f"{r.player} ({r.pos}, {team}) "
+                                 f"{'UP' if adj > 0 else 'DOWN'}", ours=r.proj, baseline=r.form_only, edge=adj,
+                                 z=abs(adj) / ADJ_SD, confidence=f"backtest: moved our way {_hit_rate(abs(adj)):.0%} of the time",
+                                 note=f"proj {_stat_note(r)} | p_play {r.p_play:.2f}"
+                                      + (f" | {r.injury}" if isinstance(r.injury, str) and r.injury else "")))
+    if not rows:
+        return
+    o = pd.DataFrame(rows).sort_values(["game", "z"], ascending=[True, False])
+    o["rank"] = o.groupby("game").cumcount() + 1
+    o = o[o["rank"] <= top_n]
+    order = games_out.assign(g=games_out.away + " @ " + games_out.home).set_index("g").total_diff.abs()
+    o["_k"] = o.game.map(order)
+    o = o.sort_values(["_k", "game", "rank"], ascending=[False, True, True]).drop(columns="_k")
+    o = o[["game", "rank", "type", "selection", "ours", "baseline", "edge", "z", "confidence", "note"]].round(2)
+    path = f"opportunities_{season}_wk{week:02d}.csv"
+    o.to_csv(path, index=False)
+    print(f"\n=== BEST OPPORTUNITIES BY GAME - week {week} (top {top_n} per game; z = size of the gap in standard deviations) ===")
+    print("PLAYER UP/DOWN = our projection vs what his recent form alone implies (edge in fantasy points). "
+          "TOTAL/SPREAD = our game score vs Vegas.")
+    for game, g in o.groupby("game", sort=False):
+        print(f"\n{game}")
+        print(g[["rank", "type", "selection", "ours", "baseline", "edge", "z"]].to_string(index=False, header=True))
+    print(f"\n(saved to {path}. In the backtest, players with |adjustment| >= 2 pts moved the way we said about 65% of the time; "
+          "our game totals/spreads did not reliably beat Vegas, so treat those two as flags only.)")
+
+    if props is not None:
+        pr = []
+        key = {(name_key(r.player), r.team): r for r in out.itertuples(index=False)}
+        by_name = {}
+        for r in out.itertuples(index=False):
+            by_name.setdefault(name_key(r.player), []).append(r)
+        gm = {}
+        for g in games_out.itertuples():
+            gm[g.home] = gm[g.away] = f"{g.away} @ {g.home}"
+        miss = 0
+        for q in props.itertuples():
+            c = by_name.get(name_key(q.player), [])
+            if hasattr(q, "team") and isinstance(q.team, str):
+                c = [x for x in c if x.team == q.team.upper()] or c
+            if len(c) != 1 or q.stat not in SHORT.values() or not hasattr(c[0], q.stat):
+                miss += 1
+                continue
+            r = c[0]
+            ours, sd = getattr(r, q.stat), PROP_SD.get((r.pos, q.stat))
+            if sd is None or not np.isfinite(ours):
+                miss += 1
+                continue
+            pr.append(dict(game=gm.get(r.team, ""), player=f"{r.player} ({r.pos}, {r.team})", stat=q.stat,
+                           line=q.line, ours=ours, edge=ours - q.line, pick="OVER" if ours > q.line else "UNDER",
+                           z=abs(ours - q.line) / sd, p_play=r.p_play))
+        if pr:
+            pdf = pd.DataFrame(pr).sort_values(["game", "z"], ascending=[True, False])
+            pdf["rank"] = pdf.groupby("game").cumcount() + 1
+            pdf = pdf[pdf["rank"] <= top_n].round(2)
+            pp = f"prop_edges_{season}_wk{week:02d}.csv"
+            pdf.to_csv(pp, index=False)
+            print(f"\n=== PROP LINES vs OUR STAT LINES (top {top_n} per game; matched {len(pr)} of {len(props)} lines) ===")
+            print(pdf[["game", "rank", "player", "stat", "line", "ours", "edge", "pick", "z", "p_play"]].to_string(index=False))
+            print(f"(saved to {pp}. z = edge / typical projection miss for that stat; most edges are well under 0.5, "
+                  "and nothing here has been tested against historical lines.)")
+        elif miss:
+            print("(no prop lines could be matched; the file needs player, stat, line with stat like rec, rec_yds, pass_yds)")
 
 
 # ----------------------------------------------------------------------------- main
@@ -1276,6 +1405,9 @@ def main():
     ap.add_argument("--compare-name", default="other", help="label for --compare-csv, e.g. ESPN")
     ap.add_argument("--dk-salaries", default=None,
                     help="DraftKings salary CSV (the 'Export to CSV' / DKSalaries.csv file for your slate)")
+    ap.add_argument("--props-csv", default=None,
+                    help="optional player prop lines (columns: player, stat, line[, team]; stat = rec, rec_yds, "
+                         "pass_yds, rush_yds, ...) to compare with our stat lines")
     ap.add_argument("--no-roster-filter", action="store_true",
                     help="skip the roster-status / missed-games availability filter")
     ap.add_argument("--drop-missed", action="store_true",
@@ -1412,7 +1544,14 @@ def main():
         elif pos == "WR":
             c = [x for x in c if x != "rush_td"]
         print(t[c].to_string())
-    report_game_scores(up, games, season, week, TEAM_PTS, f"game_projections_{season}_wk{week:02d}.csv")
+    gout = report_game_scores(up, games, season, week, TEAM_PTS, f"game_projections_{season}_wk{week:02d}.csv")
+    props = None
+    if args.props_csv:
+        try:
+            props = load_props(args.props_csv)
+        except Exception as e:
+            print(f"(could not read the props file: {e})")
+    report_opportunities(out, gout, season, week, props)
     print("\n=== BIGGEST MATCHUP BOOSTS / DRAGS (vs. the same player's form-only projection) ===")
     mb = ["player", "pos", "team", "opp", "line", "total", "recent_avg", "proj", "matchup_boost", "injury"]
     print(out.sort_values("matchup_boost", ascending=False).head(10)[mb].to_string())

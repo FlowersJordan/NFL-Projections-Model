@@ -1,0 +1,2 @@
+season,week,games_scored,n_scored,n_played,rmse,mae,bias,rank_corr,rank_corr_QB,rank_corr_RB,rank_corr_WR,rank_corr_TE,avg_p_play,share_recorded_stats,dk_rmse,dk_bias
+2026,5,14,207,181,7.4211,5.9015,-0.6772,0.5635,0.584,0.4682,0.4659,0.5176,0.9714,0.8744,7.7462,-0.7716
