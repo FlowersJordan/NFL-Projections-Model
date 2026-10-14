@@ -1,9 +1,9 @@
 game,rank,type,selection,ours,baseline,edge,z,confidence,note
-ARI @ LA,1,PLAYER,"Matthew Stafford (QB, LA) UP",22.94,18.72,4.22,4.44,backtest: moved our way 65% of the time,"proj 306 pass yds, 2.8 pass TD, 5 rush yds | p_play 1.00"
-ARI @ LA,2,PLAYER,"Puka Nacua (WR, LA) UP",26.64,23.59,3.05,3.21,backtest: moved our way 65% of the time,"proj 11.7 tgt, 8.5 rec, 107 rec yds, 1.2 TD | p_play 1.00"
-ARI @ LA,3,PLAYER,"Kyren Williams (RB, LA) UP",19.94,17.2,2.74,2.88,backtest: moved our way 65% of the time,"proj 14 car, 70 rush yds, 3.9 rec, 31 rec yds, 0.8+0.2 TD | p_play 1.00"
-ARI @ LA,4,TOTAL,OVER 52.5,59.8,52.5,7.3,2.61,low: no proven edge vs Vegas in backtest,"our score ARI 24.0, LA 35.8"
-ARI @ LA,5,PLAYER,"Davante Adams (WR, LA) UP",16.67,14.76,1.91,2.01,backtest: moved our way 59% of the time,"proj 7.9 tgt, 5.0 rec, 71 rec yds, 0.7 TD | p_play 1.00"
+ARI @ LA,1,PLAYER,"Matthew Stafford (QB, LA) UP",22.53,18.72,3.81,4.01,backtest: moved our way 65% of the time,"proj 304 pass yds, 2.7 pass TD, 5 rush yds | p_play 1.00"
+ARI @ LA,2,PLAYER,"Puka Nacua (WR, LA) UP",26.42,23.59,2.83,2.98,backtest: moved our way 65% of the time,"proj 11.7 tgt, 8.4 rec, 106 rec yds, 1.1 TD | p_play 1.00"
+ARI @ LA,3,PLAYER,"Kyren Williams (RB, LA) UP",19.74,17.2,2.54,2.67,backtest: moved our way 65% of the time,"proj 14 car, 70 rush yds, 3.8 rec, 31 rec yds, 0.8+0.2 TD | p_play 1.00"
+ARI @ LA,4,TOTAL,OVER 51.5,58.6,51.5,7.1,2.54,low: no proven edge vs Vegas in backtest,"our score ARI 23.6, LA 35.0"
+ARI @ LA,5,PLAYER,"Davante Adams (WR, LA) UP",16.51,14.76,1.75,1.84,backtest: moved our way 59% of the time,"proj 7.9 tgt, 4.9 rec, 71 rec yds, 0.7 TD | p_play 1.00"
 CHI @ ATL,1,TOTAL,UNDER 49.5,43.1,49.5,-6.4,2.29,low: no proven edge vs Vegas in backtest,"our score CHI 21.6, ATL 21.5"
 CHI @ ATL,2,PLAYER,"Michael Penix Jr. (QB, ATL) UP",14.33,13.2,1.13,1.19,backtest: moved our way 59% of the time,"proj 228 pass yds, 1.3 pass TD, 7 rush yds | p_play 1.00"
 CHI @ ATL,3,SPREAD,ATL +3,-0.0,-3.0,3.0,0.94,low: no proven edge vs Vegas in backtest,our margin ATL by -0.0 vs Vegas -3.0
