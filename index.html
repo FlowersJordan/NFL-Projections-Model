@@ -27,6 +27,12 @@
       font: 15px/1.5 system-ui, -apple-system, Segoe UI, sans-serif;
     }
     .wrap { width: min(1440px, calc(100% - 36px)); margin: 0 auto; padding: 32px 0 56px; }
+    nav { display: flex; justify-content: space-between; align-items: center; gap: 16px; margin-bottom: 30px; }
+    .brand { font-weight: 900; letter-spacing: -.04em; }
+    .brand span { color: var(--accent); }
+    .nav-links { display: flex; gap: 8px; flex-wrap: wrap; }
+    .nav-links a { padding: 8px 12px; border: 1px solid var(--border); border-radius: 9px; color: var(--muted); text-decoration: none; font-size: 13px; }
+    .nav-links a.active, .nav-links a:hover { border-color: var(--accent); color: var(--text); }
     header { display: flex; justify-content: space-between; gap: 20px; align-items: end; margin-bottom: 26px; }
     .eyebrow { color: var(--accent); text-transform: uppercase; letter-spacing: .15em; font-size: 11px; font-weight: 800; }
     h1 { margin: 5px 0 4px; font-size: clamp(28px, 4vw, 42px); letter-spacing: -.04em; line-height: 1.1; }
@@ -78,6 +84,7 @@
     }
     @media (max-width: 480px) {
       .wrap { width: min(100% - 22px, 1440px); padding-top: 22px; }
+      nav { align-items: start; flex-direction: column; }
       .cards { gap: 9px; }
       .card { padding: 14px; }
       .card-value { font-size: 24px; }
@@ -89,6 +96,13 @@
 </head>
 <body>
   <main class="wrap">
+    <nav aria-label="Main navigation">
+      <div class="brand">NFL <span>PROJECTIONS</span></div>
+      <div class="nav-links">
+        <a class="active" href="index.html" aria-current="page">Player Projections</a>
+        <a href="game-projections.html">Game Projections</a>
+      </div>
+    </nav>
     <header>
       <div>
         <div class="eyebrow">NFL analytics / 2026 season</div>
