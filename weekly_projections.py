@@ -229,16 +229,26 @@ def load_data(season, te_premium, pass_td=4.0):
     return stats, games
 
 
-def build_frame(stats, games, season, week, max_gap_days):
+def build_frame(stats, games, season, week, max_gap_days, rosters=None):
     """History rows (played games) + one 'upcoming' row per active player for the target week."""
     hist = stats.merge(games, on=["season", "week", "team"], how="inner")
     hist = hist.dropna(subset=["team_spread", "total_line"])
     hist["upcoming"] = False
+    hist["prev_team"] = None
 
     last = (hist.sort_values(["season", "week"]).groupby("player_id").tail(1)
             [["player_id", "player_display_name", "position", "team", "gameday"]]
             .rename(columns={"gameday": "last_gameday"}))
     ug = games[(games.season == season) & (games.week == week) & (~games.played)]
+    last["prev_team"] = None
+    if rosters is not None and (rosters.week <= week).any():
+        # traded / signed players: an Active player whose roster team differs from the team he last played for
+        # is projected with his NEW team's game this week (his own form carries over)
+        r = rosters[rosters.week == rosters.week[rosters.week <= week].max()].set_index("player_id")
+        rt, rs = last.player_id.map(r.roster_team), last.player_id.map(r.roster_status)
+        mv = rs.isin(["ACT", "INA"]) & rt.notna() & (rt != last.team)
+        last.loc[mv, "prev_team"] = last.loc[mv, "team"]
+        last.loc[mv, "team"] = rt[mv]
     up = last.merge(ug, on="team")
     up = up[(up.gameday - up.last_gameday).dt.days <= max_gap_days].dropna(
         subset=["team_spread", "total_line"])
@@ -484,8 +494,10 @@ def roster_filter(up, rosters, stats, games, inj, season, week, hard_drop_missed
     ina = status.eq("INA")
     bad = status.notna() & ~status.isin(AVAILABLE_STATUS) & (~ina | (wu == week))   # INA this very week = inactive
     reason[bad] = "roster status " + status[bad].astype(str)
-    moved = status.isin(AVAILABLE_STATUS) & rteam.notna() & (rteam != up.team)
+    moved = status.isin(AVAILABLE_STATUS) & rteam.notna() & (rteam != up.team)      # (movers are re-teamed in build_frame)
     reason[moved] = "moved to " + rteam[moved].astype(str)
+    new_team = up.prev_team.notna() & (reason == "")
+    up.loc[new_team, "roster_note"] = "joined " + up.team[new_team].astype(str) + " from " + up.prev_team[new_team].astype(str)
 
     # team games already played, most recent first; did the player appear in the last MISSED_GAMES_RULE of them?
     tg = games[games.played & ((games.season < season) | ((games.season == season) & (games.week < week)))]
@@ -499,7 +511,7 @@ def roster_filter(up, rosters, stats, games, inj, season, week, hard_drop_missed
     need = up.team.map(ngames).fillna(0).to_numpy()
     listed = (set(inj.loc[(inj.season == season) & (inj.week == week), "player_id"])
               if inj is not None else set())
-    missed = (need >= MISSED_GAMES_RULE) & (appeared == 0) & ~up.player_id.isin(listed).to_numpy() & (reason == "").to_numpy()
+    missed = (need >= MISSED_GAMES_RULE) & (appeared == 0) & ~up.player_id.isin(listed).to_numpy() & (reason == "").to_numpy() & up.prev_team.isna().to_numpy()
 
     dropped = up[reason != ""].assign(reason=reason[reason != ""])
     if hard_drop_missed:
@@ -529,17 +541,32 @@ def roster_filter(up, rosters, stats, games, inj, season, week, hard_drop_missed
 
 def choose_starting_qbs(up):
     """One QB per team: the starter listed in the schedule if he is still in the pool, else the QB with the
-    most recent passing volume. Teams with no listed starter keep every QB (old behavior)."""
+    most recent passing volume. If the listed starter has not played for 2+ games without being on the injury
+    report (the roster filter flags him), and a teammate QB has been playing, the teammate is used instead:
+    the schedule's starter field is sometimes wrong. Teams with no listed starter keep every QB."""
     is_qb = up.position == "QB"
     keep = ~is_qb
+    swaps = []
     for team, g in up[is_qb].groupby("team"):
         lst = g.team_qb_id.iloc[0]
+        listed = g[g.player_id == lst]
         if pd.isna(lst):
             keep[g.index] = True
-        elif (g.player_id == lst).any():
-            keep[g.index[g.player_id == lst]] = True
+        elif not listed.empty:
+            row = listed.iloc[0]
+            alt = g[(g.player_id != lst) & (g.roster_note == "")] if "roster_note" in g else g.iloc[0:0]
+            if str(row.get("roster_note", "")).startswith("missed last") and not alt.empty:
+                best = alt.ea_attempts.fillna(0).idxmax()
+                if alt.at[best, "ea_attempts"] > (row.ea_attempts if pd.notna(row.ea_attempts) else -1):
+                    keep[best] = True
+                    swaps.append((team, alt.at[best, "player_display_name"], row.player_display_name))
+                    continue
+            keep[listed.index] = True
         else:
             keep[g.ea_attempts.fillna(0).idxmax()] = True
+    if swaps:
+        print("\nStarting QB switched (the schedule's listed starter has not played in his team's last 2+ games and "
+              "is not on the injury report): " + "; ".join(f"{t}: {new} instead of {old}" for t, new, old in swaps))
     return up[keep]
 
 
@@ -1423,7 +1450,8 @@ def main():
     print(f"Season {season}, projecting week {week}  |  TE premium: +{args.te_premium}/rec "
           f"(TE = {1 + args.te_premium:g} PPR), passing TD = {args.pass_td:g}")
 
-    d = build_frame(stats, games, season, week, args.max_gap_days)
+    rosters = None if args.no_roster_filter else load_rosters(season)
+    d = build_frame(stats, games, season, week, args.max_gap_days, rosters)
     d = add_features(d, games, season, week)
     inj = load_injuries_all(range(FIRST_SEASON, season + 1))
     if inj is None:
@@ -1456,7 +1484,7 @@ def main():
     print(f"\nInjury report: {n_out} projectable players listed Out for week {week} (dropped; "
           f"their teammates' work is adjusted below).")
     if not args.no_roster_filter:
-        up, _ = roster_filter(up, load_rosters(season), stats, games, inj, season, week, args.drop_missed)
+        up, _ = roster_filter(up, rosters, stats, games, inj, season, week, args.drop_missed)
     else:
         up["roster_note"] = ""
     up = choose_starting_qbs(up)
