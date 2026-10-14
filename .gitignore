@@ -1,1 +1,3 @@
 *.pkl
+_pycache__/**
+game_backtest_runs/**
