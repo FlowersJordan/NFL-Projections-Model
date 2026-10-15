@@ -81,6 +81,11 @@ import nflreadpy as nfl
 import statsmodels.api as sm
 import statsmodels.formula.api as smf
 
+try:
+    import def_injuries as DI          # defender absences (free nflverse snap counts + injury reports)
+except Exception:                      # file missing next to this script: run without it
+    DI = None
+
 warnings.filterwarnings("ignore")
 
 POS = ["QB", "RB", "WR", "TE"]
@@ -94,7 +99,7 @@ TOPK = {"QB": 6, "RB": 12, "WR": 18, "TE": 8}         # backtest "start" sizes
 TEAM_FIX = {"OAK": "LV", "SD": "LAC", "STL": "LA"}
 CTX = ["def_rel", "team_implied", "team_spread", "is_home"]   # features of the direct points model
 
-CFG = {"te_premium": 0.5, "pass_td": 4.0}             # set from the command line in main()
+CFG = {"te_premium": 0.5, "pass_td": 4.0, "def_inj": True}             # set from the command line in main()
 
 # ---- which stats are modeled for each position (anything else falls into the small "other" bucket)
 _RECV = ["targets", "receptions", "receiving_yards", "receiving_tds"]
@@ -153,6 +158,10 @@ PROP_SD = {("QB", "pass_yds"): 81.3, ("QB", "pass_td"): 1.1, ("QB", "pass_att"):
            ("TE", "rec_yds"): 24.0}   # sd of (actual - projected) per stat; a prop edge is scored in these units
 TEAM_PTS_X = ["ptd", "rtd", "pyd", "ryd"]
 TEAM_PTS = {"const": 19.2165, "ptd": 11.8472, "rtd": 5.7382, "pyd": -0.0593, "ryd": -0.0422}
+
+# ---- defender absences: only cornerbacks showed a consistent effect (more passing yards/TDs for the opposing
+# QB and WRs); safeties, linebackers and linemen were noise in the 2022-2026 residual test, so they are only reported
+DEF_CB_STATS = {"passing_yards", "passing_tds", "receptions", "receiving_yards", "receiving_tds"}
 
 # ---- injury features
 PPLAY_TRAIN_END = 2021     # play-probability table is learned from seasons <= this (backtest starts 2022)
@@ -509,7 +518,9 @@ def roster_filter(up, rosters, stats, games, inj, season, week, hard_drop_missed
     ngames = last.groupby("team").size()
     appeared = pd.Series(list(zip(up.team, up.player_id))).map(j).fillna(0).to_numpy()
     need = up.team.map(ngames).fillna(0).to_numpy()
-    listed = (set(inj.loc[(inj.season == season) & (inj.week == week), "player_id"])
+    # "on the report" = carries an injury designation (Out / Doubtful / Questionable); a bare practice-participation
+    # line (limited, DNP) with no designation does not explain two missed games
+    listed = (set(inj.loc[(inj.season == season) & (inj.week == week) & inj.report_status.notna(), "player_id"])
               if inj is not None else set())
     missed = (need >= MISSED_GAMES_RULE) & (appeared == 0) & ~up.player_id.isin(listed).to_numpy() & (reason == "").to_numpy() & up.prev_team.isna().to_numpy()
 
@@ -570,6 +581,47 @@ def choose_starting_qbs(up):
     return up[keep]
 
 
+# ----------------------------------------------------------------------------- defender absences
+def attach_defense_missing(d, season):
+    """Adds opp_dm_cb / opp_dm_s / opp_dm_lb / opp_dm_dl: defensive snap share missing from the OPPOSING defense."""
+    cols = ["opp_dm_cb", "opp_dm_s", "opp_dm_lb", "opp_dm_dl"]
+    info = None
+    if DI is not None and CFG.get("def_inj"):
+        try:
+            sn, ij = DI.load_defense_data(range(FIRST_SEASON, season + 1))
+            m, players, _ = DI.build_missing(sn, ij)
+            m = m.rename(columns={"team": "opp", **{f"dm_{g}": f"opp_dm_{g}" for g in DI.GROUPS}})
+            d = d.merge(m, on=["season", "week", "opp"], how="left")
+            info = players
+        except Exception as e:
+            print(f"(defender absences unavailable: {str(e)[:80]} - running without them)")
+            CFG["def_inj"] = False
+    elif DI is None:
+        print("(def_injuries.py not found next to this script - running without defender absences)")
+        CFG["def_inj"] = False
+    for c in cols:
+        if c not in d:
+            d[c] = 0.0
+        d[c] = d[c].fillna(0.0)
+    return d, info
+
+
+def report_defense_missing(players, up, season, week):
+    """Defenders (CB / S / LB / DL) expected to miss this week's games, for the defenses facing projected players."""
+    if players is None or not len(up):
+        return
+    teams = set(up.opp)
+    p = players[(players.season == season) & (players.week == week) & players.team.isin(teams) & (players.miss >= 0.15)]
+    if p.empty:
+        return
+    print(f"\n=== DEFENDERS EXPECTED TO MISS WEEK {week} (miss = chance he sits x his recent snap share; 1.0 = a full-time starter) ===")
+    show = p.sort_values(["team", "miss"], ascending=[True, False])[["team", "full_name", "group", "status", "practice", "share", "miss"]]
+    show = show.rename(columns={"full_name": "defender", "share": "snap_share"})
+    print(show.round(2).to_string(index=False))
+    print("(Only cornerbacks feed the projections: a missing CB raises the opposing QB's and WRs' passing numbers, "
+          "about +18 pass yds / +0.35 pass TD per full-time CB for the QB and +4 yds per WR in the 2022-2026 test.)")
+
+
 # ----------------------------------------------------------------------------- direct points model
 def feature_list(pos, ctx=True):
     f = ["pts_ewma"] + ([] if pos == "QB" else ["tgt_ewma"])
@@ -609,6 +661,8 @@ def stat_features(s, ctx=True, inj=False):
         f += ["def_" + s, "team_implied", "team_spread", "is_home"]
     if inj:
         f += INJ_OWN + MISS_FOR[s]
+        if CFG.get("def_inj") and s in DEF_CB_STATS:
+            f.append("opp_dm_cb")          # cornerback snaps missing from the opposing defense
     return f
 
 
@@ -1435,13 +1489,15 @@ def main():
     ap.add_argument("--props-csv", default=None,
                     help="optional player prop lines (columns: player, stat, line[, team]; stat = rec, rec_yds, "
                          "pass_yds, rush_yds, ...) to compare with our stat lines")
+    ap.add_argument("--no-def-injuries", action="store_true",
+                    help="ignore defender absences (e.g. a missing cornerback)")
     ap.add_argument("--no-roster-filter", action="store_true",
                     help="skip the roster-status / missed-games availability filter")
     ap.add_argument("--drop-missed", action="store_true",
                     help="drop (instead of discounting) regulars who missed their team's last 2+ games unreported")
     args = ap.parse_args()
 
-    CFG.update(te_premium=args.te_premium, pass_td=args.pass_td)
+    CFG.update(te_premium=args.te_premium, pass_td=args.pass_td, def_inj=not args.no_def_injuries)
     season = args.season or nfl.get_current_season()
     stats, games = load_data(season, args.te_premium, args.pass_td)
 
@@ -1459,6 +1515,7 @@ def main():
     elif not (inj.season == season).any() or not ((inj.season == season) & (inj.week == week)).any():
         print(f"(no injury report posted yet for {season} week {week} - injury adjustments will be minimal)")
     d, panel = add_injury_features(d, inj, stats, games)
+    d, def_players = attach_defense_missing(d, season)
     if panel is not None:
         report_play_rates(panel)
 
@@ -1558,6 +1615,8 @@ def main():
     print(f"\n=== TOP 30 OVERALL - week {week} (TE-premium PPR; sorted by proj_ev = p_play x proj) ===")
     print(out.head(30)[head].to_string())
     report_injury_week(out, panel, season, week, set(up.team))
+    if CFG.get("def_inj"):
+        report_defense_missing(def_players, up, season, week)
 
     recv = ["player", "team", "opp", "line", "total", "proj", "proj_ev", "tgt", "rec", "rec_yds", "rec_td",
             "car", "rush_yds", "rush_td", "pts_rec", "pts_yds", "pts_td", "pts_other"] + extra + ["injury"]
