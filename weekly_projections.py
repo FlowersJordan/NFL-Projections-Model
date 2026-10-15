@@ -141,6 +141,12 @@ AVAILABLE_STATUS = {"ACT"}   # roster statuses that can play; RES/IR, CUT, SUS, 
 # "INA" (game-day inactive) is NOT permanent: 0% play in the same week, but 32% play the next week
 # (2018-2026 regulars), so an INA tag from an EARLIER week only caps the play chance.
 P_PREV_INACTIVE = 0.35
+# Out / Doubtful on LAST week's report, did not play, and no designation yet this week. Measured 2018-2025
+# (QB/RB/WR/TE): 22% of last-week-Out and 38% of last-week-Doubtful players play the next week; 8% when this
+# week's report IS posted for his team and he is not on it (usually IR / gone).
+P_PREV_OUT = 0.22
+P_PREV_DOUBT = 0.38
+P_PREV_OUT_POSTED = 0.10
 P_MISSED_GAMES = 0.40        # play chance for regulars who missed MISSED_GAMES_RULE+ team games, not on the report
 MISSED_GAMES_RULE = 2        # (measured 2018-2025: about 44% of them still played)
 
@@ -352,8 +358,11 @@ def load_injuries_all(seasons):
     inj["practice"] = np.select([ps.str.startswith("Full"), ps.str.startswith("Limited"),
                                  ps.str.startswith("Did Not")], ["full", "limited", "dnp"], default="")
     inj = inj.drop_duplicates(["season", "week", "gsis_id"], keep="last")
+    if "report_primary_injury" not in inj:
+        inj["report_primary_injury"] = None
     return inj.rename(columns={"gsis_id": "player_id"})[
-        ["season", "week", "team", "player_id", "full_name", "position", "report_status", "practice"]]
+        ["season", "week", "team", "player_id", "full_name", "position", "report_status", "practice",
+         "report_primary_injury"]]
 
 
 def prepare_injury_panel(inj, d, stats, games):
@@ -533,9 +542,30 @@ def roster_filter(up, rosters, stats, games, inj, season, week, hard_drop_missed
     prev_ina = (ina & ~(bad | moved)).to_numpy()[keep] & ~up.player_id.isin(listed).to_numpy()
     up.loc[prev_ina, "p_play"] = up.loc[prev_ina, "p_play"].clip(upper=P_PREV_INACTIVE)
     up.loc[prev_ina & (up.roster_note == ""), "roster_note"] = f"inactive last week (week {wu}), not on report"
+
+    # hurt last week (Out / Doubtful) and did not play, and nothing yet this week: the report may simply not be posted
+    if inj is not None and week > 1:
+        pw = inj[(inj.season == season) & (inj.week == week - 1) & inj.report_status.isin(["Out", "Doubtful"])]
+        pw = pw.drop_duplicates("player_id", keep="last").set_index("player_id")
+        played_pw = set(stats.loc[(stats.season == season) & (stats.week == week - 1), "player_id"])
+        cur = inj[(inj.season == season) & (inj.week == week)]
+        posted = set(cur.team.replace(TEAM_FIX))
+        full_now = set(cur.loc[cur.practice.eq("full"), "player_id"])
+        hit = (up.player_id.isin(pw.index) & ~up.player_id.isin(played_pw) & ~up.player_id.isin(listed)
+               & ~up.player_id.isin(full_now)).to_numpy()
+        if hit.sum():
+            was = up.player_id[hit].map(pw.report_status)
+            body = up.player_id[hit].map(pw.get("report_primary_injury", pd.Series(dtype=object))).fillna("")
+            cap = np.where(up.team[hit].isin(posted), P_PREV_OUT_POSTED, np.where(was.eq("Out"), P_PREV_OUT, P_PREV_DOUBT))
+            idx = up.index[hit]
+            up.loc[idx, "p_play"] = np.minimum(up.loc[idx, "p_play"].to_numpy(), cap)
+            where = np.where(up.team[hit].isin(posted), "not on this week's report", "no report yet this week")
+            up.loc[idx, "roster_note"] = [f"{w} last week{' (' + b + ')' if b else ''}, {x}" for w, b, x in zip(was, body, where)]
+            print("\nplay chance capped (hurt last week, nothing yet this week): "
+                  + ", ".join(f"{a} ({b}, {c:.0%})" for a, b, c in zip(up.loc[idx, "player_display_name"], up.loc[idx, "team"], cap)))
     if not hard_drop_missed:
         up.loc[soft, "p_play"] = up.loc[soft, "p_play"].clip(upper=P_MISSED_GAMES)
-        up.loc[soft, "roster_note"] = f"missed last {MISSED_GAMES_RULE}+ games, not on report"
+        up.loc[soft & (up.roster_note == "").to_numpy(), "roster_note"] = f"missed last {MISSED_GAMES_RULE}+ games, not on report"
     dropped = dropped.rename(columns={"player_display_name": "player", "position": "pos"})[["player", "pos", "team", "reason"]]
     if prev_ina.sum():
         print(f"\nplay chance capped at {P_PREV_INACTIVE:.0%} (inactive in week {wu}, not on the injury report): "
