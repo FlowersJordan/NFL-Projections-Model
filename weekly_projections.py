@@ -99,7 +99,7 @@ TOPK = {"QB": 6, "RB": 12, "WR": 18, "TE": 8}         # backtest "start" sizes
 TEAM_FIX = {"OAK": "LV", "SD": "LAC", "STL": "LA"}
 CTX = ["def_rel", "team_implied", "team_spread", "is_home"]   # features of the direct points model
 
-CFG = {"te_premium": 0.5, "pass_td": 4.0, "def_inj": True}             # set from the command line in main()
+CFG = {"te_premium": 0.5, "pass_td": 4.0, "def_inj": True, "snap": True}             # set from the command line in main()
 
 # ---- which stats are modeled for each position (anything else falls into the small "other" bucket)
 _RECV = ["targets", "receptions", "receiving_yards", "receiving_tds"]
@@ -167,6 +167,7 @@ TEAM_PTS = {"const": 19.2165, "ptd": 11.8472, "rtd": 5.7382, "pyd": -0.0593, "ry
 
 # ---- defender absences: only cornerbacks showed a consistent effect (more passing yards/TDs for the opposing
 # QB and WRs); safeties, linebackers and linemen were noise in the 2022-2026 residual test, so they are only reported
+SNAP_STATS = {"targets", "receptions", "receiving_yards", "receiving_tds", "carries", "rushing_yards", "rushing_tds"}
 DEF_CB_STATS = {"passing_yards", "passing_tds", "receptions", "receiving_yards", "receiving_tds"}
 
 # ---- injury features
@@ -612,6 +613,40 @@ def choose_starting_qbs(up):
 
 
 # ----------------------------------------------------------------------------- defender absences
+def attach_snap_features(d, season):
+    """Offensive snap share from nflverse snap counts: f_snap = recency-weighted level over PRIOR games, f_snaptrend =
+    fast (half-life 2 games) minus slow (8 games) average, i.e. whether his role is growing or shrinking. Both are
+    centred on the position average; players with no snap history get 0 ('average').
+    Walk-forward test 2022-2026: -0.65% RMSE for RBs, -0.33% TEs, -0.23% WRs (clustered t of -3.0 to -3.9 overall);
+    recency weighting, expected-TD/yards, weather and Next Gen Stats added nothing."""
+    d = d.copy()
+    d["f_snap"], d["f_snaptrend"] = 0.0, 0.0
+    if not CFG.get("snap"):
+        return d
+    try:
+        seasons = list(range(FIRST_SEASON, season + 1))
+        ro = nfl.load_rosters(seasons=seasons).to_pandas()[["gsis_id", "pfr_id"]].dropna().drop_duplicates("pfr_id")
+        sn = nfl.load_snap_counts(seasons=seasons).to_pandas()
+    except Exception as e:
+        print(f"(snap counts unavailable - snap-share features set to 0: {str(e)[:70]})")
+        return d
+    sn = sn[sn.game_type == "REG"].merge(ro, left_on="pfr_player_id", right_on="pfr_id", how="inner")
+    sn = sn.rename(columns={"gsis_id": "player_id"}).drop_duplicates(["player_id", "season", "week"])
+    sn = sn[["player_id", "season", "week", "offense_pct"]].astype({"season": int, "week": int})
+    d = d.drop(columns=["offense_pct"], errors="ignore").merge(sn, on=["player_id", "season", "week"], how="left")
+    d = d.sort_values(["player_id", "season", "week"]).reset_index(drop=True)
+
+    def prior(hl):
+        ew = d.groupby("player_id").offense_pct.transform(lambda x: x.ewm(halflife=hl, min_periods=1).mean())
+        return ew.groupby(d.player_id).shift(1)
+
+    lvl, trend = prior(4), prior(2) - prior(8)
+    for name, v in (("f_snap", lvl), ("f_snaptrend", trend)):
+        mu = v.groupby(d.position).transform("mean")
+        d[name] = (v - mu).fillna(0.0)
+    return d.drop(columns=["offense_pct"])
+
+
 def attach_defense_missing(d, season):
     """Adds opp_dm_cb / opp_dm_s / opp_dm_lb / opp_dm_dl: defensive snap share missing from the OPPOSING defense."""
     cols = ["opp_dm_cb", "opp_dm_s", "opp_dm_lb", "opp_dm_dl"]
@@ -693,6 +728,8 @@ def stat_features(s, ctx=True, inj=False):
         f += INJ_OWN + MISS_FOR[s]
         if CFG.get("def_inj") and s in DEF_CB_STATS:
             f.append("opp_dm_cb")          # cornerback snaps missing from the opposing defense
+        if CFG.get("snap") and s in SNAP_STATS:
+            f += ["f_snap", "f_snaptrend"]  # offensive snap share (level and trend); tested: helps RB/WR/TE usage
     return f
 
 
@@ -1521,13 +1558,15 @@ def main():
                          "pass_yds, rush_yds, ...) to compare with our stat lines")
     ap.add_argument("--no-def-injuries", action="store_true",
                     help="ignore defender absences (e.g. a missing cornerback)")
+    ap.add_argument("--no-snap-trend", action="store_true",
+                    help="do not use snap-share level/trend features")
     ap.add_argument("--no-roster-filter", action="store_true",
                     help="skip the roster-status / missed-games availability filter")
     ap.add_argument("--drop-missed", action="store_true",
                     help="drop (instead of discounting) regulars who missed their team's last 2+ games unreported")
     args = ap.parse_args()
 
-    CFG.update(te_premium=args.te_premium, pass_td=args.pass_td, def_inj=not args.no_def_injuries)
+    CFG.update(te_premium=args.te_premium, pass_td=args.pass_td, def_inj=not args.no_def_injuries, snap=not args.no_snap_trend)
     season = args.season or nfl.get_current_season()
     stats, games = load_data(season, args.te_premium, args.pass_td)
 
@@ -1546,6 +1585,7 @@ def main():
         print(f"(no injury report posted yet for {season} week {week} - injury adjustments will be minimal)")
     d, panel = add_injury_features(d, inj, stats, games)
     d, def_players = attach_defense_missing(d, season)
+    d = attach_snap_features(d, season)
     if panel is not None:
         report_play_rates(panel)
 
