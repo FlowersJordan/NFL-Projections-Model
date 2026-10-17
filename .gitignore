@@ -1,3 +1,7 @@
 *.pkl
 _pycache__/**
 game_backtest_runs/**
+.env
+props_raw.csv
+sharpapi_probe_output.json
+__pycahche__/**
