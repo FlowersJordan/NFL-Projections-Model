@@ -120,6 +120,12 @@ df = df[df.get("is_live", False).fillna(False) == False] if "is_live" in df else
 df["line"] = pd.to_numeric(df.line, errors="coerce")
 df = df.dropna(subset=["line"])
 df["side"] = df.selection.astype(str).str.lower().str.extract(r"(over|under)")[0]
+ONLY_BOOKS = ["draftkings"]          # DraftKings lines only
+BOOK_PRIORITY = ["draftkings"]
+MAX_ONE_SIDED_ODDS = 250             # a one-sided price beyond this is an alternate rung, never the standard line
+FLAGS_MAIN = ["is_main", "main", "is_main_line", "is_primary", "primary"]
+FLAGS_ALT = ["is_alternate", "alternate", "is_alt", "alt"]
+
 df = df[df.sportsbook.astype(str).str.lower().isin(ONLY_BOOKS)]
 df.to_csv("props_raw.csv", index=False)
 print(f"\n{len(df)} full-game prop lines for games before {end:%a %b %d}; "
@@ -130,11 +136,6 @@ print(f"\n{len(df)} full-game prop lines for games before {end:%a %b %d}; "
 # yards). The STANDARD line is the one a book prices as a real two-way market: both Over and Under quoted, at
 # odds closest to even. The other rungs are ALTERNATE lines (one-sided "X+" ladders, priced far from even).
 # If the data carries an explicit main/alternate flag, that is used instead.
-ONLY_BOOKS = ["draftkings"]          # DraftKings lines only
-BOOK_PRIORITY = ["draftkings"]
-MAX_ONE_SIDED_ODDS = 250             # a one-sided price beyond this is an alternate rung, never the standard line
-FLAGS_MAIN = ["is_main", "main", "is_main_line", "is_primary", "primary"]
-FLAGS_ALT = ["is_alternate", "alternate", "is_alt", "alt"]
 
 
 def implied(odds):
