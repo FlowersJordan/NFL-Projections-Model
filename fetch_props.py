@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-Fetch NFL player-prop lines from SharpAPI (free tier: DraftKings + FanDuel, 12 requests/min) and write the file
+Fetch NFL player-prop lines from SharpAPI (free tier, 12 requests/min); only DraftKings lines are kept (ONLY_BOOKS) and write the file
 weekly_projections.py reads with --props-csv.
 
 Setup:   pip install requests python-dotenv     and put SHARPAPI_KEY=... in a .env file (or the environment / a GitHub secret)
@@ -120,6 +120,7 @@ df = df[df.get("is_live", False).fillna(False) == False] if "is_live" in df else
 df["line"] = pd.to_numeric(df.line, errors="coerce")
 df = df.dropna(subset=["line"])
 df["side"] = df.selection.astype(str).str.lower().str.extract(r"(over|under)")[0]
+df = df[df.sportsbook.astype(str).str.lower().isin(ONLY_BOOKS)]
 df.to_csv("props_raw.csv", index=False)
 print(f"\n{len(df)} full-game prop lines for games before {end:%a %b %d}; "
       f"{df.player_name.nunique()} players, {df.event_id.nunique()} games, books: {sorted(df.sportsbook.unique())}")
@@ -129,7 +130,9 @@ print(f"\n{len(df)} full-game prop lines for games before {end:%a %b %d}; "
 # yards). The STANDARD line is the one a book prices as a real two-way market: both Over and Under quoted, at
 # odds closest to even. The other rungs are ALTERNATE lines (one-sided "X+" ladders, priced far from even).
 # If the data carries an explicit main/alternate flag, that is used instead.
-BOOK_PRIORITY = ["draftkings", "fanduel"]
+ONLY_BOOKS = ["draftkings"]          # DraftKings lines only
+BOOK_PRIORITY = ["draftkings"]
+MAX_ONE_SIDED_ODDS = 250             # a one-sided price beyond this is an alternate rung, never the standard line
 FLAGS_MAIN = ["is_main", "main", "is_main_line", "is_primary", "primary"]
 FLAGS_ALT = ["is_alternate", "alternate", "is_alt", "alt"]
 
@@ -155,7 +158,7 @@ def build_lines(df):
     keys = ["event_id", "player_name", "stat", "sportsbook", "line"]
     ov = d[d.side == "over"].groupby(keys).odds_american.median().rename("over_odds")
     un = d[d.side == "under"].groupby(keys).odds_american.median().rename("under_odds")
-    fm = d.groupby(keys)._flagmain.agg(lambda s: bool(s.dropna().iloc[0]) if s.notna().any() else None).rename("flagmain")
+    fm = d.groupby(keys)._flagmain.agg(lambda s: bool(s.dropna().any()) if s.notna().any() else None).rename("flagmain")
     lad = pd.concat([ov, un, fm], axis=1).reset_index()
     lad["p_over"], lad["p_under"] = implied(lad.over_odds), implied(lad.under_odds)
     lad["two_sided"] = lad.p_over.notna() & lad.p_under.notna()
@@ -163,33 +166,42 @@ def build_lines(df):
     lad.loc[~lad.two_sided, "balance"] = (lad.p_over - 0.5).abs()           # one-sided: closeness of the Over price to even
 
     bk = ["event_id", "player_name", "stat", "sportsbook"]
+    has_flags = bool(flag_main or flag_alt)
     mains = {}
     for key, g in lad.groupby(bk):
-        if g.flagmain.notna().any() and g.flagmain.eq(True).any():
-            m, basis = g[g.flagmain.eq(True)].iloc[0], "flag"
+        m = basis = None
+        if has_flags:
+            f = g[g.flagmain.eq(True)]
+            if len(f):                                    # the book's own "main line" marker is authoritative
+                m, basis = f.sort_values(["balance", "line"]).iloc[0], "flag"
         elif g.two_sided.any():
-            t = g[g.two_sided]
-            m, basis = t.sort_values(["balance", "line"]).iloc[0], "two_sided"
+            m, basis = g[g.two_sided].sort_values(["balance", "line"]).iloc[0], "two_sided"
         else:
             m, basis = g.sort_values(["balance", "line"]).iloc[0], "one_sided"
-        mains[key] = (float(m.line), basis)
+        if m is not None and not m.two_sided:
+            px = m.over_odds if pd.notna(m.over_odds) else m.under_odds
+            if pd.isna(px) or abs(px) > MAX_ONE_SIDED_ODDS:
+                m = None                                  # a far-from-even one-sided price is an alternate rung
+        if m is not None:
+            mains[key] = (float(m.line), basis)           # no entry = the book has no standard line for this stat
 
     ev = d.drop_duplicates("event_id").set_index("event_id")
     out = []
     for (e, p, st), g in lad.groupby(["event_id", "player_name", "stat"]):
         books = [b for b in BOOK_PRIORITY if (e, p, st, b) in mains] + sorted(
             {b for b in g.sportsbook if (e, p, st, b) in mains and b not in BOOK_PRIORITY})
-        # standard line: the best-supported main (two-sided beats one-sided), then book priority
         rank = {"flag": 0, "two_sided": 1, "one_sided": 2}
         books.sort(key=lambda b: (rank[mains[(e, p, st, b)][1]], BOOK_PRIORITY.index(b) if b in BOOK_PRIORITY else 9))
-        pick = books[0]
-        std_line, basis = mains[(e, p, st, pick)]
+        if books:
+            std_line, basis = mains[(e, p, st, books[0])]
+        else:
+            std_line, basis = None, "none"               # no standard line offered: every rung is an alternate
         base = {"player": p, "stat": st, "game": f"{ev.loc[e, 'away_team']} @ {ev.loc[e, 'home_team']}",
                 "start": ev.loc[e, "start"], "main_basis": basis}
         for b in sorted(d.sportsbook.unique()):
             base[f"main_{b}"] = mains.get((e, p, st, b), (None, None))[0]
         for ln, gl in g.groupby("line"):
-            row = dict(base, line=float(ln), line_type="standard" if float(ln) == std_line else "alternate",
+            row = dict(base, line=float(ln), line_type="standard" if (std_line is not None and float(ln) == std_line) else "alternate",
                        books="/".join(sorted(gl.sportsbook.unique())), n_books=gl.sportsbook.nunique(),
                        over_odds=gl.over_odds.median(), under_odds=gl.under_odds.median())
             out.append(row)
