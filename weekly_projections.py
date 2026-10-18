@@ -1432,6 +1432,9 @@ def _hit_rate(a):
     return next(h for lo, h in ADJ_HIT if a >= lo)
 
 
+ALT_TOP_N = 15      # alternate prop rungs kept per game (standard lines: top_n)
+
+
 def load_props(path):
     p = pd.read_csv(path)
     p.columns = [c.strip().lower() for c in p.columns]
@@ -1517,17 +1520,27 @@ def report_opportunities(out, games_out, season, week, props=None, top_n=5):
             if sd is None or not np.isfinite(ours):
                 miss += 1
                 continue
+            pick = "OVER" if ours > q.line else "UNDER"
+            lt = str(getattr(q, "line_type", "standard")).strip().lower()
+            lt = "alternate" if lt.startswith("alt") else "standard"
+            odds = getattr(q, "over_odds" if pick == "OVER" else "under_odds", np.nan)
             pr.append(dict(game=gm.get(r.team, ""), player=f"{r.player} ({r.pos}, {r.team})", stat=q.stat,
-                           line=q.line, ours=ours, edge=ours - q.line, pick="OVER" if ours > q.line else "UNDER",
-                           z=abs(ours - q.line) / sd, p_play=r.p_play))
+                           line=q.line, ours=ours, edge=ours - q.line, pick=pick,
+                           z=abs(ours - q.line) / sd, p_play=r.p_play, line_type=lt,
+                           odds=odds if isinstance(odds, (int, float, np.floating)) else np.nan))
         if pr:
             pdf = pd.DataFrame(pr).sort_values(["game", "z"], ascending=[True, False])
-            pdf["rank"] = pdf.groupby("game").cumcount() + 1
-            pdf = pdf[pdf["rank"] <= top_n].round(2)
+            # the STANDARD lines are ranked (top_n per game); alternate rungs are kept, labelled, so the web page can
+            # show them on request (a far-away rung always has a big gap to our number, so they are ranked separately)
+            pdf["rank"] = pdf.groupby(["game", "line_type"]).cumcount() + 1
+            keep = ((pdf.line_type == "standard") & (pdf["rank"] <= top_n)) | ((pdf.line_type == "alternate") & (pdf["rank"] <= ALT_TOP_N))
+            pdf = pdf[keep].sort_values(["game", "line_type", "rank"], ascending=[True, False, True]).round(2)
             pp = f"prop_edges_{season}_wk{week:02d}.csv"
             pdf.to_csv(pp, index=False)
-            print(f"\n=== PROP LINES vs OUR STAT LINES (top {top_n} per game; matched {len(pr)} of {len(props)} lines) ===")
-            print(pdf[["game", "rank", "player", "stat", "line", "ours", "edge", "pick", "z", "p_play"]].to_string(index=False))
+            std = pdf[pdf.line_type == "standard"]
+            print(f"\n=== PROP LINES vs OUR STAT LINES (standard lines, top {top_n} per game; matched {len(pr)} of {len(props)} lines; "
+                  f"{(pdf.line_type == 'alternate').sum()} alternate rungs also saved) ===")
+            print(std[["game", "rank", "player", "stat", "line", "ours", "edge", "pick", "z", "p_play"]].to_string(index=False))
             print(f"(saved to {pp}. z = edge / typical projection miss for that stat; most edges are well under 0.5, "
                   "and nothing here has been tested against historical lines.)")
         elif miss:

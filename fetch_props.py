@@ -124,27 +124,92 @@ df.to_csv("props_raw.csv", index=False)
 print(f"\n{len(df)} full-game prop lines for games before {end:%a %b %d}; "
       f"{df.player_name.nunique()} players, {df.event_id.nunique()} games, books: {sorted(df.sportsbook.unique())}")
 
-# one row per player/stat: consensus (median) line across books, plus each book's line and the over/under prices
-keys = ["event_id", "player_name", "stat"]
-over = df[df.side == "over"]
-g = over.groupby(keys)
-res = g.line.median().rename("line").to_frame()
-res["books"] = g.sportsbook.agg(lambda s: "/".join(sorted(set(s))))
-res["n_books"] = g.sportsbook.nunique()
-res["line_spread"] = g.line.max() - g.line.min()
-for b in sorted(df.sportsbook.unique()):
-    res[f"line_{b}"] = over[over.sportsbook == b].groupby(keys).line.first()
-res["over_odds"] = g.odds_american.median()
-und = df[df.side == "under"].groupby(keys).odds_american.median().rename("under_odds")
-res = res.join(und).reset_index()
-ev = df.drop_duplicates("event_id").set_index("event_id")
-res["game"] = res.event_id.map(ev.away_team.astype(str) + " @ " + ev.home_team.astype(str))
-res["start"] = res.event_id.map(ev.start)
-res = res.rename(columns={"player_name": "player"}).sort_values(["start", "game", "player", "stat"])
-cols = ["player", "stat", "line", "game", "start", "books", "n_books", "line_spread", "over_odds", "under_odds"] + \
-       [c for c in res.columns if c.startswith("line_") and c != "line_spread"]
+# ---------------------------------------------------------------------------------------------------------------
+# Standard line vs alternate rungs. A book lists a whole ladder per player and stat (e.g. 179.5 ... 429.5 passing
+# yards). The STANDARD line is the one a book prices as a real two-way market: both Over and Under quoted, at
+# odds closest to even. The other rungs are ALTERNATE lines (one-sided "X+" ladders, priced far from even).
+# If the data carries an explicit main/alternate flag, that is used instead.
+BOOK_PRIORITY = ["draftkings", "fanduel"]
+FLAGS_MAIN = ["is_main", "main", "is_main_line", "is_primary", "primary"]
+FLAGS_ALT = ["is_alternate", "alternate", "is_alt", "alt"]
+
+
+def implied(odds):
+    """American odds -> implied probability (NaN where missing)."""
+    o = pd.to_numeric(odds, errors="coerce")
+    return pd.Series([(100.0 / (x + 100.0) if x > 0 else -x / (-x + 100.0)) if pd.notna(x) else float("nan") for x in o],
+                     index=o.index)
+
+
+def build_lines(df):
+    """df: one row per quoted selection (event_id, player_name, stat, sportsbook, line, side, odds_american).
+    Returns one row per player/stat/line with line_type = standard | alternate."""
+    flag_main = next((c for c in FLAGS_MAIN if c in df.columns and df[c].dropna().astype(str).str.lower().isin(["true", "false"]).any()), None)
+    flag_alt = next((c for c in FLAGS_ALT if c in df.columns and df[c].dropna().astype(str).str.lower().isin(["true", "false"]).any()), None)
+    d = df.copy()
+    d["_flagmain"] = None
+    if flag_main:
+        d["_flagmain"] = d[flag_main].astype(str).str.lower().eq("true")
+    elif flag_alt:
+        d["_flagmain"] = ~d[flag_alt].astype(str).str.lower().eq("true")
+    keys = ["event_id", "player_name", "stat", "sportsbook", "line"]
+    ov = d[d.side == "over"].groupby(keys).odds_american.median().rename("over_odds")
+    un = d[d.side == "under"].groupby(keys).odds_american.median().rename("under_odds")
+    fm = d.groupby(keys)._flagmain.agg(lambda s: bool(s.dropna().iloc[0]) if s.notna().any() else None).rename("flagmain")
+    lad = pd.concat([ov, un, fm], axis=1).reset_index()
+    lad["p_over"], lad["p_under"] = implied(lad.over_odds), implied(lad.under_odds)
+    lad["two_sided"] = lad.p_over.notna() & lad.p_under.notna()
+    lad["balance"] = (lad.p_over / (lad.p_over + lad.p_under) - 0.5).abs()
+    lad.loc[~lad.two_sided, "balance"] = (lad.p_over - 0.5).abs()           # one-sided: closeness of the Over price to even
+
+    bk = ["event_id", "player_name", "stat", "sportsbook"]
+    mains = {}
+    for key, g in lad.groupby(bk):
+        if g.flagmain.notna().any() and g.flagmain.eq(True).any():
+            m, basis = g[g.flagmain.eq(True)].iloc[0], "flag"
+        elif g.two_sided.any():
+            t = g[g.two_sided]
+            m, basis = t.sort_values(["balance", "line"]).iloc[0], "two_sided"
+        else:
+            m, basis = g.sort_values(["balance", "line"]).iloc[0], "one_sided"
+        mains[key] = (float(m.line), basis)
+
+    ev = d.drop_duplicates("event_id").set_index("event_id")
+    out = []
+    for (e, p, st), g in lad.groupby(["event_id", "player_name", "stat"]):
+        books = [b for b in BOOK_PRIORITY if (e, p, st, b) in mains] + sorted(
+            {b for b in g.sportsbook if (e, p, st, b) in mains and b not in BOOK_PRIORITY})
+        # standard line: the best-supported main (two-sided beats one-sided), then book priority
+        rank = {"flag": 0, "two_sided": 1, "one_sided": 2}
+        books.sort(key=lambda b: (rank[mains[(e, p, st, b)][1]], BOOK_PRIORITY.index(b) if b in BOOK_PRIORITY else 9))
+        pick = books[0]
+        std_line, basis = mains[(e, p, st, pick)]
+        base = {"player": p, "stat": st, "game": f"{ev.loc[e, 'away_team']} @ {ev.loc[e, 'home_team']}",
+                "start": ev.loc[e, "start"], "main_basis": basis}
+        for b in sorted(d.sportsbook.unique()):
+            base[f"main_{b}"] = mains.get((e, p, st, b), (None, None))[0]
+        for ln, gl in g.groupby("line"):
+            row = dict(base, line=float(ln), line_type="standard" if float(ln) == std_line else "alternate",
+                       books="/".join(sorted(gl.sportsbook.unique())), n_books=gl.sportsbook.nunique(),
+                       over_odds=gl.over_odds.median(), under_odds=gl.under_odds.median())
+            out.append(row)
+    res = pd.DataFrame(out)
+    # alternate rungs that sit between the books' two different standard lines are still alternates of the chosen one
+    return res.sort_values(["start", "game", "player", "stat", "line"]).reset_index(drop=True)
+
+
+res = build_lines(df)
+cols = ["player", "stat", "line", "line_type", "game", "start", "books", "n_books", "over_odds", "under_odds", "main_basis"] + \
+       [c for c in res.columns if c.startswith("main_") and c != "main_basis"]
 res[cols].to_csv("props_latest.csv", index=False)
-print(f"Saved props_latest.csv ({len(res)} player-stat lines) and props_raw.csv.")
-print("\nlines per stat:\n" + res.stat.value_counts().to_string())
-print("\nsample:\n" + res[["player", "stat", "line", "game", "books"]].head(12).to_string(index=False))
+std = res[res.line_type == "standard"]
+print(f"Saved props_latest.csv: {len(std)} standard lines + {(res.line_type == 'alternate').sum()} alternate lines "
+      f"({res.groupby(['player', 'stat']).ngroups} player-stats).")
+print("how the standard line was identified:\n" + std.main_basis.value_counts().to_string())
+print("\nstandard lines per stat:\n" + std.stat.value_counts().to_string())
+print("\nexample ladders (standard line marked *):")
+for (p, st), g in list(res.groupby(["player", "stat"]))[:4]:
+    print(f"  {p} / {st}: " + ", ".join(f"{r.line:g}{'*' if r.line_type == 'standard' else ''}" for r in g.itertuples()))
+extra = [c for c in df.columns if any(k in c.lower() for k in ("main", "alt", "primary", "segment", "type"))]
+print("\nraw columns that might flag main/alternate lines:", extra)
 print("\nNext: python weekly_projections.py --props-csv props_latest.csv")
