@@ -1,762 +1,340 @@
 player,stat,line,line_type,game,start,books,n_books,over_odds,under_odds,main_basis,main_draftkings
-Audric Estime,rec,1.5,standard,Baltimore Ravens @ Cleveland Browns,2026-10-18 17:00:00+00:00,draftkings,1,106.0,-135.0,flag,1.5
-Audric Estime,rec,2.5,alternate,Baltimore Ravens @ Cleveland Browns,2026-10-18 17:00:00+00:00,draftkings,1,327.0,,flag,1.5
-Audric Estime,rec,3.5,alternate,Baltimore Ravens @ Cleveland Browns,2026-10-18 17:00:00+00:00,draftkings,1,920.0,,flag,1.5
-Audric Estime,rec,4.5,alternate,Baltimore Ravens @ Cleveland Browns,2026-10-18 17:00:00+00:00,draftkings,1,2100.0,,flag,1.5
-Audric Estime,rush_yds,18.5,standard,Baltimore Ravens @ Cleveland Browns,2026-10-18 17:00:00+00:00,draftkings,1,-114.0,-110.0,flag,18.5
-Audric Estime,rush_yds,69.5,alternate,Baltimore Ravens @ Cleveland Browns,2026-10-18 17:00:00+00:00,draftkings,1,2300.0,,flag,18.5
-Audric Estime,rush_yds,79.5,alternate,Baltimore Ravens @ Cleveland Browns,2026-10-18 17:00:00+00:00,draftkings,1,3200.0,,flag,18.5
-Denzel Boston,rec,1.5,alternate,Baltimore Ravens @ Cleveland Browns,2026-10-18 17:00:00+00:00,draftkings,1,-990.0,,flag,3.5
-Denzel Boston,rec,2.5,alternate,Baltimore Ravens @ Cleveland Browns,2026-10-18 17:00:00+00:00,draftkings,1,-282.0,,flag,3.5
-Denzel Boston,rec,3.5,standard,Baltimore Ravens @ Cleveland Browns,2026-10-18 17:00:00+00:00,draftkings,1,-112.0,-114.0,flag,3.5
-Denzel Boston,rec,4.5,alternate,Baltimore Ravens @ Cleveland Browns,2026-10-18 17:00:00+00:00,draftkings,1,202.0,,flag,3.5
-Denzel Boston,rec,5.5,alternate,Baltimore Ravens @ Cleveland Browns,2026-10-18 17:00:00+00:00,draftkings,1,414.0,,flag,3.5
-Denzel Boston,rec,6.5,alternate,Baltimore Ravens @ Cleveland Browns,2026-10-18 17:00:00+00:00,draftkings,1,820.0,,flag,3.5
-Denzel Boston,rec,7.5,alternate,Baltimore Ravens @ Cleveland Browns,2026-10-18 17:00:00+00:00,draftkings,1,1540.0,,flag,3.5
-Denzel Boston,rec,8.5,alternate,Baltimore Ravens @ Cleveland Browns,2026-10-18 17:00:00+00:00,draftkings,1,2500.0,,flag,3.5
-Denzel Boston,rec_yds,14.5,alternate,Baltimore Ravens @ Cleveland Browns,2026-10-18 17:00:00+00:00,draftkings,1,-860.0,,none,
-Denzel Boston,rec_yds,59.5,alternate,Baltimore Ravens @ Cleveland Browns,2026-10-18 17:00:00+00:00,draftkings,1,119.0,,none,
-Denzel Boston,rec_yds,79.5,alternate,Baltimore Ravens @ Cleveland Browns,2026-10-18 17:00:00+00:00,draftkings,1,252.0,,none,
-Denzel Boston,rec_yds,99.5,alternate,Baltimore Ravens @ Cleveland Browns,2026-10-18 17:00:00+00:00,draftkings,1,502.0,,none,
-Denzel Boston,rec_yds,109.5,alternate,Baltimore Ravens @ Cleveland Browns,2026-10-18 17:00:00+00:00,draftkings,1,710.0,,none,
-Denzel Boston,rec_yds,149.5,alternate,Baltimore Ravens @ Cleveland Browns,2026-10-18 17:00:00+00:00,draftkings,1,2400.0,,none,
-Derrick Henry,car,20.5,standard,Baltimore Ravens @ Cleveland Browns,2026-10-18 17:00:00+00:00,draftkings,1,-109.0,-117.0,flag,20.5
-Derrick Henry,rec,1.5,standard,Baltimore Ravens @ Cleveland Browns,2026-10-18 17:00:00+00:00,draftkings,1,133.0,-170.0,flag,1.5
-Derrick Henry,rec,2.5,alternate,Baltimore Ravens @ Cleveland Browns,2026-10-18 17:00:00+00:00,draftkings,1,431.0,,flag,1.5
-Derrick Henry,rec,3.5,alternate,Baltimore Ravens @ Cleveland Browns,2026-10-18 17:00:00+00:00,draftkings,1,1200.0,,flag,1.5
-Derrick Henry,rec,4.5,alternate,Baltimore Ravens @ Cleveland Browns,2026-10-18 17:00:00+00:00,draftkings,1,2600.0,,flag,1.5
-Derrick Henry,rec_yds,7.5,standard,Baltimore Ravens @ Cleveland Browns,2026-10-18 17:00:00+00:00,draftkings,1,-108.0,-116.0,flag,7.5
-Derrick Henry,rush_yds,39.5,alternate,Baltimore Ravens @ Cleveland Browns,2026-10-18 17:00:00+00:00,draftkings,1,-2400.0,,flag,89.5
-Derrick Henry,rush_yds,49.5,alternate,Baltimore Ravens @ Cleveland Browns,2026-10-18 17:00:00+00:00,draftkings,1,-960.0,,flag,89.5
-Derrick Henry,rush_yds,59.5,alternate,Baltimore Ravens @ Cleveland Browns,2026-10-18 17:00:00+00:00,draftkings,1,-490.0,,flag,89.5
-Derrick Henry,rush_yds,69.5,alternate,Baltimore Ravens @ Cleveland Browns,2026-10-18 17:00:00+00:00,draftkings,1,-279.0,,flag,89.5
-Derrick Henry,rush_yds,79.5,alternate,Baltimore Ravens @ Cleveland Browns,2026-10-18 17:00:00+00:00,draftkings,1,-175.0,,flag,89.5
-Derrick Henry,rush_yds,89.5,standard,Baltimore Ravens @ Cleveland Browns,2026-10-18 17:00:00+00:00,draftkings,1,-112.0,-112.0,flag,89.5
-Derrick Henry,rush_yds,99.5,alternate,Baltimore Ravens @ Cleveland Browns,2026-10-18 17:00:00+00:00,draftkings,1,132.0,,flag,89.5
-Derrick Henry,rush_yds,109.5,alternate,Baltimore Ravens @ Cleveland Browns,2026-10-18 17:00:00+00:00,draftkings,1,191.0,,flag,89.5
-Derrick Henry,rush_yds,119.5,alternate,Baltimore Ravens @ Cleveland Browns,2026-10-18 17:00:00+00:00,draftkings,1,274.0,,flag,89.5
-Derrick Henry,rush_yds,129.5,alternate,Baltimore Ravens @ Cleveland Browns,2026-10-18 17:00:00+00:00,draftkings,1,387.0,,flag,89.5
-Derrick Henry,rush_yds,139.5,alternate,Baltimore Ravens @ Cleveland Browns,2026-10-18 17:00:00+00:00,draftkings,1,557.0,,flag,89.5
-Derrick Henry,rush_yds,149.5,alternate,Baltimore Ravens @ Cleveland Browns,2026-10-18 17:00:00+00:00,draftkings,1,780.0,,flag,89.5
-Derrick Henry,rush_yds,159.5,alternate,Baltimore Ravens @ Cleveland Browns,2026-10-18 17:00:00+00:00,draftkings,1,1060.0,,flag,89.5
-Derrick Henry,rush_yds,169.5,alternate,Baltimore Ravens @ Cleveland Browns,2026-10-18 17:00:00+00:00,draftkings,1,1480.0,,flag,89.5
-Derrick Henry,rush_yds,179.5,alternate,Baltimore Ravens @ Cleveland Browns,2026-10-18 17:00:00+00:00,draftkings,1,2000.0,,flag,89.5
-Derrick Henry,rush_yds,189.5,alternate,Baltimore Ravens @ Cleveland Browns,2026-10-18 17:00:00+00:00,draftkings,1,2800.0,,flag,89.5
-Derrick Henry,rush_yds,199.5,alternate,Baltimore Ravens @ Cleveland Browns,2026-10-18 17:00:00+00:00,draftkings,1,3600.0,,flag,89.5
-Deshaun Watson,car,6.5,standard,Baltimore Ravens @ Cleveland Browns,2026-10-18 17:00:00+00:00,draftkings,1,-104.0,-123.0,flag,6.5
-Deshaun Watson,pass_att,31.5,standard,Baltimore Ravens @ Cleveland Browns,2026-10-18 17:00:00+00:00,draftkings,1,-114.0,-111.0,flag,31.5
-Deshaun Watson,pass_td,1.5,standard,Baltimore Ravens @ Cleveland Browns,2026-10-18 17:00:00+00:00,draftkings,1,165.0,-213.0,flag,1.5
-Deshaun Watson,pass_yds,149.5,alternate,Baltimore Ravens @ Cleveland Browns,2026-10-18 17:00:00+00:00,draftkings,1,-585.0,,flag,203.5
-Deshaun Watson,pass_yds,159.5,alternate,Baltimore Ravens @ Cleveland Browns,2026-10-18 17:00:00+00:00,draftkings,1,-414.0,,flag,203.5
-Deshaun Watson,pass_yds,169.5,alternate,Baltimore Ravens @ Cleveland Browns,2026-10-18 17:00:00+00:00,draftkings,1,-303.0,,flag,203.5
-Deshaun Watson,pass_yds,179.5,alternate,Baltimore Ravens @ Cleveland Browns,2026-10-18 17:00:00+00:00,draftkings,1,-223.0,,flag,203.5
-Deshaun Watson,pass_yds,189.5,alternate,Baltimore Ravens @ Cleveland Browns,2026-10-18 17:00:00+00:00,draftkings,1,-165.0,,flag,203.5
-Deshaun Watson,pass_yds,199.5,alternate,Baltimore Ravens @ Cleveland Browns,2026-10-18 17:00:00+00:00,draftkings,1,-124.0,,flag,203.5
-Deshaun Watson,pass_yds,203.5,standard,Baltimore Ravens @ Cleveland Browns,2026-10-18 17:00:00+00:00,draftkings,1,-111.0,-113.0,flag,203.5
-Deshaun Watson,pass_yds,209.5,alternate,Baltimore Ravens @ Cleveland Browns,2026-10-18 17:00:00+00:00,draftkings,1,106.0,,flag,203.5
-Deshaun Watson,pass_yds,219.5,alternate,Baltimore Ravens @ Cleveland Browns,2026-10-18 17:00:00+00:00,draftkings,1,139.0,,flag,203.5
-Deshaun Watson,pass_yds,229.5,alternate,Baltimore Ravens @ Cleveland Browns,2026-10-18 17:00:00+00:00,draftkings,1,182.0,,flag,203.5
-Deshaun Watson,pass_yds,239.5,alternate,Baltimore Ravens @ Cleveland Browns,2026-10-18 17:00:00+00:00,draftkings,1,234.0,,flag,203.5
-Deshaun Watson,pass_yds,249.5,alternate,Baltimore Ravens @ Cleveland Browns,2026-10-18 17:00:00+00:00,draftkings,1,304.0,,flag,203.5
-Deshaun Watson,pass_yds,259.5,alternate,Baltimore Ravens @ Cleveland Browns,2026-10-18 17:00:00+00:00,draftkings,1,400.0,,flag,203.5
-Deshaun Watson,pass_yds,269.5,alternate,Baltimore Ravens @ Cleveland Browns,2026-10-18 17:00:00+00:00,draftkings,1,519.0,,flag,203.5
-Deshaun Watson,pass_yds,279.5,alternate,Baltimore Ravens @ Cleveland Browns,2026-10-18 17:00:00+00:00,draftkings,1,680.0,,flag,203.5
-Deshaun Watson,pass_yds,289.5,alternate,Baltimore Ravens @ Cleveland Browns,2026-10-18 17:00:00+00:00,draftkings,1,880.0,,flag,203.5
-Deshaun Watson,pass_yds,299.5,alternate,Baltimore Ravens @ Cleveland Browns,2026-10-18 17:00:00+00:00,draftkings,1,1140.0,,flag,203.5
-Deshaun Watson,pass_yds,309.5,alternate,Baltimore Ravens @ Cleveland Browns,2026-10-18 17:00:00+00:00,draftkings,1,1460.0,,flag,203.5
-Deshaun Watson,pass_yds,319.5,alternate,Baltimore Ravens @ Cleveland Browns,2026-10-18 17:00:00+00:00,draftkings,1,1920.0,,flag,203.5
-Deshaun Watson,pass_yds,329.5,alternate,Baltimore Ravens @ Cleveland Browns,2026-10-18 17:00:00+00:00,draftkings,1,2400.0,,flag,203.5
-Deshaun Watson,pass_yds,339.5,alternate,Baltimore Ravens @ Cleveland Browns,2026-10-18 17:00:00+00:00,draftkings,1,3100.0,,flag,203.5
-Deshaun Watson,pass_yds,349.5,alternate,Baltimore Ravens @ Cleveland Browns,2026-10-18 17:00:00+00:00,draftkings,1,3800.0,,flag,203.5
-Deshaun Watson,rush_yds,9.5,alternate,Baltimore Ravens @ Cleveland Browns,2026-10-18 17:00:00+00:00,draftkings,1,-1740.0,,flag,30.5
-Deshaun Watson,rush_yds,14.5,alternate,Baltimore Ravens @ Cleveland Browns,2026-10-18 17:00:00+00:00,draftkings,1,-690.0,,flag,30.5
-Deshaun Watson,rush_yds,19.5,alternate,Baltimore Ravens @ Cleveland Browns,2026-10-18 17:00:00+00:00,draftkings,1,-350.0,,flag,30.5
-Deshaun Watson,rush_yds,24.5,alternate,Baltimore Ravens @ Cleveland Browns,2026-10-18 17:00:00+00:00,draftkings,1,-201.0,,flag,30.5
-Deshaun Watson,rush_yds,29.5,alternate,Baltimore Ravens @ Cleveland Browns,2026-10-18 17:00:00+00:00,draftkings,1,-125.0,,flag,30.5
-Deshaun Watson,rush_yds,30.5,standard,Baltimore Ravens @ Cleveland Browns,2026-10-18 17:00:00+00:00,draftkings,1,-113.0,-111.0,flag,30.5
-Deshaun Watson,rush_yds,39.5,alternate,Baltimore Ravens @ Cleveland Browns,2026-10-18 17:00:00+00:00,draftkings,1,186.0,,flag,30.5
-Deshaun Watson,rush_yds,49.5,alternate,Baltimore Ravens @ Cleveland Browns,2026-10-18 17:00:00+00:00,draftkings,1,391.0,,flag,30.5
-Deshaun Watson,rush_yds,59.5,alternate,Baltimore Ravens @ Cleveland Browns,2026-10-18 17:00:00+00:00,draftkings,1,770.0,,flag,30.5
-Deshaun Watson,rush_yds,69.5,alternate,Baltimore Ravens @ Cleveland Browns,2026-10-18 17:00:00+00:00,draftkings,1,1460.0,,flag,30.5
-Deshaun Watson,rush_yds,79.5,alternate,Baltimore Ravens @ Cleveland Browns,2026-10-18 17:00:00+00:00,draftkings,1,2600.0,,flag,30.5
-Harold Fannin Jr.,rec,1.5,alternate,Baltimore Ravens @ Cleveland Browns,2026-10-18 17:00:00+00:00,draftkings,1,-2200.0,,flag,4.5
-Harold Fannin Jr.,rec,2.5,alternate,Baltimore Ravens @ Cleveland Browns,2026-10-18 17:00:00+00:00,draftkings,1,-514.0,,flag,4.5
-Harold Fannin Jr.,rec,3.5,alternate,Baltimore Ravens @ Cleveland Browns,2026-10-18 17:00:00+00:00,draftkings,1,-190.0,,flag,4.5
-Harold Fannin Jr.,rec,4.5,standard,Baltimore Ravens @ Cleveland Browns,2026-10-18 17:00:00+00:00,draftkings,1,111.0,-142.0,flag,4.5
-Harold Fannin Jr.,rec,5.5,alternate,Baltimore Ravens @ Cleveland Browns,2026-10-18 17:00:00+00:00,draftkings,1,228.0,,flag,4.5
-Harold Fannin Jr.,rec,6.5,alternate,Baltimore Ravens @ Cleveland Browns,2026-10-18 17:00:00+00:00,draftkings,1,452.0,,flag,4.5
-Harold Fannin Jr.,rec,7.5,alternate,Baltimore Ravens @ Cleveland Browns,2026-10-18 17:00:00+00:00,draftkings,1,860.0,,flag,4.5
-Harold Fannin Jr.,rec,8.5,alternate,Baltimore Ravens @ Cleveland Browns,2026-10-18 17:00:00+00:00,draftkings,1,1560.0,,flag,4.5
-Harold Fannin Jr.,rec,9.5,alternate,Baltimore Ravens @ Cleveland Browns,2026-10-18 17:00:00+00:00,draftkings,1,2500.0,,flag,4.5
-Harold Fannin Jr.,rec_yds,24.5,alternate,Baltimore Ravens @ Cleveland Browns,2026-10-18 17:00:00+00:00,draftkings,1,-282.0,,flag,38.5
-Harold Fannin Jr.,rec_yds,38.5,standard,Baltimore Ravens @ Cleveland Browns,2026-10-18 17:00:00+00:00,draftkings,1,-109.0,,flag,38.5
-Harold Fannin Jr.,rec_yds,69.5,alternate,Baltimore Ravens @ Cleveland Browns,2026-10-18 17:00:00+00:00,draftkings,1,455.0,,flag,38.5
-Harold Fannin Jr.,rec_yds,109.5,alternate,Baltimore Ravens @ Cleveland Browns,2026-10-18 17:00:00+00:00,draftkings,1,2300.0,,flag,38.5
-Ja'Kobi Lane,rec,1.5,standard,Baltimore Ravens @ Cleveland Browns,2026-10-18 17:00:00+00:00,draftkings,1,123.0,-157.0,flag,1.5
-Ja'Kobi Lane,rec,2.5,alternate,Baltimore Ravens @ Cleveland Browns,2026-10-18 17:00:00+00:00,draftkings,1,389.0,,flag,1.5
-Ja'Kobi Lane,rec,3.5,alternate,Baltimore Ravens @ Cleveland Browns,2026-10-18 17:00:00+00:00,draftkings,1,1060.0,,flag,1.5
-Ja'Kobi Lane,rec,4.5,alternate,Baltimore Ravens @ Cleveland Browns,2026-10-18 17:00:00+00:00,draftkings,1,2400.0,,flag,1.5
-Ja'Kobi Lane,rec_yds,49.5,alternate,Baltimore Ravens @ Cleveland Browns,2026-10-18 17:00:00+00:00,draftkings,1,1420.0,,none,
-Jaleel McLaughlin,rush_yds,9.5,alternate,Baltimore Ravens @ Cleveland Browns,2026-10-18 17:00:00+00:00,draftkings,1,-1580.0,,flag,34.5
-Jaleel McLaughlin,rush_yds,14.5,alternate,Baltimore Ravens @ Cleveland Browns,2026-10-18 17:00:00+00:00,draftkings,1,-720.0,,flag,34.5
-Jaleel McLaughlin,rush_yds,19.5,alternate,Baltimore Ravens @ Cleveland Browns,2026-10-18 17:00:00+00:00,draftkings,1,-398.0,,flag,34.5
-Jaleel McLaughlin,rush_yds,24.5,alternate,Baltimore Ravens @ Cleveland Browns,2026-10-18 17:00:00+00:00,draftkings,1,-246.0,,flag,34.5
-Jaleel McLaughlin,rush_yds,29.5,alternate,Baltimore Ravens @ Cleveland Browns,2026-10-18 17:00:00+00:00,draftkings,1,-164.0,,flag,34.5
-Jaleel McLaughlin,rush_yds,34.5,standard,Baltimore Ravens @ Cleveland Browns,2026-10-18 17:00:00+00:00,draftkings,1,-113.0,-111.0,flag,34.5
-Jaleel McLaughlin,rush_yds,39.5,alternate,Baltimore Ravens @ Cleveland Browns,2026-10-18 17:00:00+00:00,draftkings,1,124.0,,flag,34.5
-Jaleel McLaughlin,rush_yds,49.5,alternate,Baltimore Ravens @ Cleveland Browns,2026-10-18 17:00:00+00:00,draftkings,1,224.0,,flag,34.5
-Jaleel McLaughlin,rush_yds,59.5,alternate,Baltimore Ravens @ Cleveland Browns,2026-10-18 17:00:00+00:00,draftkings,1,379.0,,flag,34.5
-Jaleel McLaughlin,rush_yds,69.5,alternate,Baltimore Ravens @ Cleveland Browns,2026-10-18 17:00:00+00:00,draftkings,1,600.0,,flag,34.5
-Jaleel McLaughlin,rush_yds,79.5,alternate,Baltimore Ravens @ Cleveland Browns,2026-10-18 17:00:00+00:00,draftkings,1,920.0,,flag,34.5
-Jaleel McLaughlin,rush_yds,89.5,alternate,Baltimore Ravens @ Cleveland Browns,2026-10-18 17:00:00+00:00,draftkings,1,1340.0,,flag,34.5
-Jaleel McLaughlin,rush_yds,99.5,alternate,Baltimore Ravens @ Cleveland Browns,2026-10-18 17:00:00+00:00,draftkings,1,1960.0,,flag,34.5
-Jaleel McLaughlin,rush_yds,109.5,alternate,Baltimore Ravens @ Cleveland Browns,2026-10-18 17:00:00+00:00,draftkings,1,2800.0,,flag,34.5
-Jaleel McLaughlin,rush_yds,119.5,alternate,Baltimore Ravens @ Cleveland Browns,2026-10-18 17:00:00+00:00,draftkings,1,3800.0,,flag,34.5
-Jerry Jeudy,rec,1.5,standard,Baltimore Ravens @ Cleveland Browns,2026-10-18 17:00:00+00:00,draftkings,1,105.0,-134.0,flag,1.5
-Jerry Jeudy,rec,2.5,alternate,Baltimore Ravens @ Cleveland Browns,2026-10-18 17:00:00+00:00,draftkings,1,328.0,,flag,1.5
-Jerry Jeudy,rec,3.5,alternate,Baltimore Ravens @ Cleveland Browns,2026-10-18 17:00:00+00:00,draftkings,1,910.0,,flag,1.5
-Jerry Jeudy,rec,4.5,alternate,Baltimore Ravens @ Cleveland Browns,2026-10-18 17:00:00+00:00,draftkings,1,2100.0,,flag,1.5
-Jerry Jeudy,rec_yds,39.5,alternate,Baltimore Ravens @ Cleveland Browns,2026-10-18 17:00:00+00:00,draftkings,1,411.0,,none,
-Jerry Jeudy,rec_yds,69.5,alternate,Baltimore Ravens @ Cleveland Browns,2026-10-18 17:00:00+00:00,draftkings,1,1920.0,,none,
-Josh Cuevas,rec,0.5,standard,Baltimore Ravens @ Cleveland Browns,2026-10-18 17:00:00+00:00,draftkings,1,-176.0,137.0,flag,0.5
-Josh Cuevas,rec,1.5,alternate,Baltimore Ravens @ Cleveland Browns,2026-10-18 17:00:00+00:00,draftkings,1,210.0,,flag,0.5
-Josh Cuevas,rec,2.5,alternate,Baltimore Ravens @ Cleveland Browns,2026-10-18 17:00:00+00:00,draftkings,1,587.0,,flag,0.5
-Josh Cuevas,rec,3.5,alternate,Baltimore Ravens @ Cleveland Browns,2026-10-18 17:00:00+00:00,draftkings,1,1380.0,,flag,0.5
-Josh Cuevas,rec,4.5,alternate,Baltimore Ravens @ Cleveland Browns,2026-10-18 17:00:00+00:00,draftkings,1,2600.0,,flag,0.5
-Josh Cuevas,rec_yds,24.5,alternate,Baltimore Ravens @ Cleveland Browns,2026-10-18 17:00:00+00:00,draftkings,1,413.0,,none,
-Josh Cuevas,rec_yds,69.5,alternate,Baltimore Ravens @ Cleveland Browns,2026-10-18 17:00:00+00:00,draftkings,1,3600.0,,none,
-Justice Hill,rec,1.5,standard,Baltimore Ravens @ Cleveland Browns,2026-10-18 17:00:00+00:00,draftkings,1,-126.0,-102.0,flag,1.5
-Justice Hill,rec,2.5,alternate,Baltimore Ravens @ Cleveland Browns,2026-10-18 17:00:00+00:00,draftkings,1,237.0,,flag,1.5
-Justice Hill,rec,3.5,alternate,Baltimore Ravens @ Cleveland Browns,2026-10-18 17:00:00+00:00,draftkings,1,630.0,,flag,1.5
-Justice Hill,rec,4.5,alternate,Baltimore Ravens @ Cleveland Browns,2026-10-18 17:00:00+00:00,draftkings,1,1500.0,,flag,1.5
-Justice Hill,rec,5.5,alternate,Baltimore Ravens @ Cleveland Browns,2026-10-18 17:00:00+00:00,draftkings,1,2800.0,,flag,1.5
-Justice Hill,rec_yds,10.5,standard,Baltimore Ravens @ Cleveland Browns,2026-10-18 17:00:00+00:00,draftkings,1,-113.0,,flag,10.5
-Justice Hill,rec_yds,24.5,alternate,Baltimore Ravens @ Cleveland Browns,2026-10-18 17:00:00+00:00,draftkings,1,309.0,,flag,10.5
-Justice Hill,rec_yds,39.5,alternate,Baltimore Ravens @ Cleveland Browns,2026-10-18 17:00:00+00:00,draftkings,1,910.0,,flag,10.5
-Justice Hill,rec_yds,59.5,alternate,Baltimore Ravens @ Cleveland Browns,2026-10-18 17:00:00+00:00,draftkings,1,2600.0,,flag,10.5
-Justice Hill,rush_yds,9.5,alternate,Baltimore Ravens @ Cleveland Browns,2026-10-18 17:00:00+00:00,draftkings,1,-159.0,,flag,11.5
-Justice Hill,rush_yds,11.5,standard,Baltimore Ravens @ Cleveland Browns,2026-10-18 17:00:00+00:00,draftkings,1,-116.0,-108.0,flag,11.5
-Justice Hill,rush_yds,14.5,alternate,Baltimore Ravens @ Cleveland Browns,2026-10-18 17:00:00+00:00,draftkings,1,128.0,,flag,11.5
-Justice Hill,rush_yds,19.5,alternate,Baltimore Ravens @ Cleveland Browns,2026-10-18 17:00:00+00:00,draftkings,1,225.0,,flag,11.5
-Justice Hill,rush_yds,24.5,alternate,Baltimore Ravens @ Cleveland Browns,2026-10-18 17:00:00+00:00,draftkings,1,379.0,,flag,11.5
-Justice Hill,rush_yds,29.5,alternate,Baltimore Ravens @ Cleveland Browns,2026-10-18 17:00:00+00:00,draftkings,1,584.0,,flag,11.5
-Justice Hill,rush_yds,39.5,alternate,Baltimore Ravens @ Cleveland Browns,2026-10-18 17:00:00+00:00,draftkings,1,1180.0,,flag,11.5
-Justice Hill,rush_yds,49.5,alternate,Baltimore Ravens @ Cleveland Browns,2026-10-18 17:00:00+00:00,draftkings,1,2000.0,,flag,11.5
-Justice Hill,rush_yds,59.5,alternate,Baltimore Ravens @ Cleveland Browns,2026-10-18 17:00:00+00:00,draftkings,1,3000.0,,flag,11.5
-KC Concepcion,rec,4.5,standard,Baltimore Ravens @ Cleveland Browns,2026-10-18 17:00:00+00:00,draftkings,1,-102.0,-125.0,flag,4.5
-KC Concepcion,rec_yds,39.5,standard,Baltimore Ravens @ Cleveland Browns,2026-10-18 17:00:00+00:00,draftkings,1,,-113.0,flag,39.5
-KC Concepcion,rec_yds,79.5,alternate,Baltimore Ravens @ Cleveland Browns,2026-10-18 17:00:00+00:00,draftkings,1,660.0,,flag,39.5
-KC Concepcion,rec_yds,99.5,alternate,Baltimore Ravens @ Cleveland Browns,2026-10-18 17:00:00+00:00,draftkings,1,1580.0,,flag,39.5
-KC Concepcion,rec_yds,119.5,alternate,Baltimore Ravens @ Cleveland Browns,2026-10-18 17:00:00+00:00,draftkings,1,3200.0,,flag,39.5
-Mark Andrews,rec,1.5,alternate,Baltimore Ravens @ Cleveland Browns,2026-10-18 17:00:00+00:00,draftkings,1,-880.0,,flag,3.5
-Mark Andrews,rec,2.5,alternate,Baltimore Ravens @ Cleveland Browns,2026-10-18 17:00:00+00:00,draftkings,1,-254.0,,flag,3.5
-Mark Andrews,rec,3.5,standard,Baltimore Ravens @ Cleveland Browns,2026-10-18 17:00:00+00:00,draftkings,1,-101.0,-126.0,flag,3.5
-Mark Andrews,rec,4.5,alternate,Baltimore Ravens @ Cleveland Browns,2026-10-18 17:00:00+00:00,draftkings,1,211.0,,flag,3.5
-Mark Andrews,rec,5.5,alternate,Baltimore Ravens @ Cleveland Browns,2026-10-18 17:00:00+00:00,draftkings,1,437.0,,flag,3.5
-Mark Andrews,rec,6.5,alternate,Baltimore Ravens @ Cleveland Browns,2026-10-18 17:00:00+00:00,draftkings,1,870.0,,flag,3.5
-Mark Andrews,rec,7.5,alternate,Baltimore Ravens @ Cleveland Browns,2026-10-18 17:00:00+00:00,draftkings,1,1600.0,,flag,3.5
-Mark Andrews,rec,8.5,alternate,Baltimore Ravens @ Cleveland Browns,2026-10-18 17:00:00+00:00,draftkings,1,2600.0,,flag,3.5
-Mark Andrews,rec_yds,28.5,standard,Baltimore Ravens @ Cleveland Browns,2026-10-18 17:00:00+00:00,draftkings,1,,-112.0,flag,28.5
-Mark Andrews,rec_yds,59.5,alternate,Baltimore Ravens @ Cleveland Browns,2026-10-18 17:00:00+00:00,draftkings,1,503.0,,flag,28.5
-Mark Andrews,rec_yds,69.5,alternate,Baltimore Ravens @ Cleveland Browns,2026-10-18 17:00:00+00:00,draftkings,1,820.0,,flag,28.5
-Mark Andrews,rec_yds,79.5,alternate,Baltimore Ravens @ Cleveland Browns,2026-10-18 17:00:00+00:00,draftkings,1,1300.0,,flag,28.5
-Mark Andrews,rec_yds,89.5,alternate,Baltimore Ravens @ Cleveland Browns,2026-10-18 17:00:00+00:00,draftkings,1,2000.0,,flag,28.5
-Rashod Bateman,rec,1.5,standard,Baltimore Ravens @ Cleveland Browns,2026-10-18 17:00:00+00:00,draftkings,1,-164.0,128.0,flag,1.5
-Rashod Bateman,rec,2.5,alternate,Baltimore Ravens @ Cleveland Browns,2026-10-18 17:00:00+00:00,draftkings,1,179.0,,flag,1.5
-Rashod Bateman,rec,3.5,alternate,Baltimore Ravens @ Cleveland Browns,2026-10-18 17:00:00+00:00,draftkings,1,484.0,,flag,1.5
-Rashod Bateman,rec,4.5,alternate,Baltimore Ravens @ Cleveland Browns,2026-10-18 17:00:00+00:00,draftkings,1,1140.0,,flag,1.5
-Rashod Bateman,rec,5.5,alternate,Baltimore Ravens @ Cleveland Browns,2026-10-18 17:00:00+00:00,draftkings,1,2200.0,,flag,1.5
-Rashod Bateman,rec_yds,24.5,alternate,Baltimore Ravens @ Cleveland Browns,2026-10-18 17:00:00+00:00,draftkings,1,117.0,,none,
-Rashod Bateman,rec_yds,59.5,alternate,Baltimore Ravens @ Cleveland Browns,2026-10-18 17:00:00+00:00,draftkings,1,650.0,,none,
-Rashod Bateman,rec_yds,79.5,alternate,Baltimore Ravens @ Cleveland Browns,2026-10-18 17:00:00+00:00,draftkings,1,1560.0,,none,
-Rashod Bateman,rec_yds,89.5,alternate,Baltimore Ravens @ Cleveland Browns,2026-10-18 17:00:00+00:00,draftkings,1,2300.0,,none,
-Rashod Bateman,rec_yds,99.5,alternate,Baltimore Ravens @ Cleveland Browns,2026-10-18 17:00:00+00:00,draftkings,1,3300.0,,none,
-Tyler Huntley,car,5.5,standard,Baltimore Ravens @ Cleveland Browns,2026-10-18 17:00:00+00:00,draftkings,1,-103.0,-124.0,flag,5.5
-Tyler Huntley,pass_att,26.5,standard,Baltimore Ravens @ Cleveland Browns,2026-10-18 17:00:00+00:00,draftkings,1,-109.0,-117.0,flag,26.5
-Tyler Huntley,pass_td,1.5,standard,Baltimore Ravens @ Cleveland Browns,2026-10-18 17:00:00+00:00,draftkings,1,196.0,-255.0,flag,1.5
-Tyler Huntley,pass_yds,149.5,alternate,Baltimore Ravens @ Cleveland Browns,2026-10-18 17:00:00+00:00,draftkings,1,-204.0,,flag,168.5
-Tyler Huntley,pass_yds,159.5,alternate,Baltimore Ravens @ Cleveland Browns,2026-10-18 17:00:00+00:00,draftkings,1,-149.0,,flag,168.5
-Tyler Huntley,pass_yds,168.5,standard,Baltimore Ravens @ Cleveland Browns,2026-10-18 17:00:00+00:00,draftkings,1,-113.0,-111.0,flag,168.5
-Tyler Huntley,pass_yds,169.5,alternate,Baltimore Ravens @ Cleveland Browns,2026-10-18 17:00:00+00:00,draftkings,1,-110.0,,flag,168.5
-Tyler Huntley,pass_yds,179.5,alternate,Baltimore Ravens @ Cleveland Browns,2026-10-18 17:00:00+00:00,draftkings,1,122.0,,flag,168.5
-Tyler Huntley,pass_yds,189.5,alternate,Baltimore Ravens @ Cleveland Browns,2026-10-18 17:00:00+00:00,draftkings,1,163.0,,flag,168.5
-Tyler Huntley,pass_yds,199.5,alternate,Baltimore Ravens @ Cleveland Browns,2026-10-18 17:00:00+00:00,draftkings,1,219.0,,flag,168.5
-Tyler Huntley,pass_yds,209.5,alternate,Baltimore Ravens @ Cleveland Browns,2026-10-18 17:00:00+00:00,draftkings,1,292.0,,flag,168.5
-Tyler Huntley,pass_yds,219.5,alternate,Baltimore Ravens @ Cleveland Browns,2026-10-18 17:00:00+00:00,draftkings,1,384.0,,flag,168.5
-Tyler Huntley,pass_yds,229.5,alternate,Baltimore Ravens @ Cleveland Browns,2026-10-18 17:00:00+00:00,draftkings,1,513.0,,flag,168.5
-Tyler Huntley,pass_yds,239.5,alternate,Baltimore Ravens @ Cleveland Browns,2026-10-18 17:00:00+00:00,draftkings,1,690.0,,flag,168.5
-Tyler Huntley,pass_yds,249.5,alternate,Baltimore Ravens @ Cleveland Browns,2026-10-18 17:00:00+00:00,draftkings,1,900.0,,flag,168.5
-Tyler Huntley,pass_yds,259.5,alternate,Baltimore Ravens @ Cleveland Browns,2026-10-18 17:00:00+00:00,draftkings,1,1200.0,,flag,168.5
-Tyler Huntley,pass_yds,269.5,alternate,Baltimore Ravens @ Cleveland Browns,2026-10-18 17:00:00+00:00,draftkings,1,1580.0,,flag,168.5
-Tyler Huntley,pass_yds,279.5,alternate,Baltimore Ravens @ Cleveland Browns,2026-10-18 17:00:00+00:00,draftkings,1,2000.0,,flag,168.5
-Tyler Huntley,pass_yds,289.5,alternate,Baltimore Ravens @ Cleveland Browns,2026-10-18 17:00:00+00:00,draftkings,1,2700.0,,flag,168.5
-Tyler Huntley,pass_yds,299.5,alternate,Baltimore Ravens @ Cleveland Browns,2026-10-18 17:00:00+00:00,draftkings,1,3500.0,,flag,168.5
-Tyler Huntley,rush_yds,9.5,alternate,Baltimore Ravens @ Cleveland Browns,2026-10-18 17:00:00+00:00,draftkings,1,-660.0,,flag,25.5
-Tyler Huntley,rush_yds,14.5,alternate,Baltimore Ravens @ Cleveland Browns,2026-10-18 17:00:00+00:00,draftkings,1,-337.0,,flag,25.5
-Tyler Huntley,rush_yds,19.5,alternate,Baltimore Ravens @ Cleveland Browns,2026-10-18 17:00:00+00:00,draftkings,1,-197.0,,flag,25.5
-Tyler Huntley,rush_yds,24.5,alternate,Baltimore Ravens @ Cleveland Browns,2026-10-18 17:00:00+00:00,draftkings,1,-123.0,,flag,25.5
-Tyler Huntley,rush_yds,25.5,standard,Baltimore Ravens @ Cleveland Browns,2026-10-18 17:00:00+00:00,draftkings,1,-113.0,-111.0,flag,25.5
-Tyler Huntley,rush_yds,29.5,alternate,Baltimore Ravens @ Cleveland Browns,2026-10-18 17:00:00+00:00,draftkings,1,122.0,,flag,25.5
-Tyler Huntley,rush_yds,39.5,alternate,Baltimore Ravens @ Cleveland Browns,2026-10-18 17:00:00+00:00,draftkings,1,248.0,,flag,25.5
-Tyler Huntley,rush_yds,49.5,alternate,Baltimore Ravens @ Cleveland Browns,2026-10-18 17:00:00+00:00,draftkings,1,462.0,,flag,25.5
-Tyler Huntley,rush_yds,59.5,alternate,Baltimore Ravens @ Cleveland Browns,2026-10-18 17:00:00+00:00,draftkings,1,790.0,,flag,25.5
-Tyler Huntley,rush_yds,69.5,alternate,Baltimore Ravens @ Cleveland Browns,2026-10-18 17:00:00+00:00,draftkings,1,1340.0,,flag,25.5
-Tyler Huntley,rush_yds,79.5,alternate,Baltimore Ravens @ Cleveland Browns,2026-10-18 17:00:00+00:00,draftkings,1,2100.0,,flag,25.5
-Tyler Huntley,rush_yds,89.5,alternate,Baltimore Ravens @ Cleveland Browns,2026-10-18 17:00:00+00:00,draftkings,1,3200.0,,flag,25.5
-Zay Flowers,rec,2.5,alternate,Baltimore Ravens @ Cleveland Browns,2026-10-18 17:00:00+00:00,draftkings,1,-1320.0,,flag,5.5
-Zay Flowers,rec,3.5,alternate,Baltimore Ravens @ Cleveland Browns,2026-10-18 17:00:00+00:00,draftkings,1,-419.0,,flag,5.5
-Zay Flowers,rec,4.5,alternate,Baltimore Ravens @ Cleveland Browns,2026-10-18 17:00:00+00:00,draftkings,1,-184.0,,flag,5.5
-Zay Flowers,rec,5.5,standard,Baltimore Ravens @ Cleveland Browns,2026-10-18 17:00:00+00:00,draftkings,1,109.0,-139.0,flag,5.5
-Zay Flowers,rec,6.5,alternate,Baltimore Ravens @ Cleveland Browns,2026-10-18 17:00:00+00:00,draftkings,1,205.0,,flag,5.5
-Zay Flowers,rec,7.5,alternate,Baltimore Ravens @ Cleveland Browns,2026-10-18 17:00:00+00:00,draftkings,1,381.0,,flag,5.5
-Zay Flowers,rec,8.5,alternate,Baltimore Ravens @ Cleveland Browns,2026-10-18 17:00:00+00:00,draftkings,1,670.0,,flag,5.5
-Zay Flowers,rec,9.5,alternate,Baltimore Ravens @ Cleveland Browns,2026-10-18 17:00:00+00:00,draftkings,1,1160.0,,flag,5.5
-Zay Flowers,rec,10.5,alternate,Baltimore Ravens @ Cleveland Browns,2026-10-18 17:00:00+00:00,draftkings,1,1900.0,,flag,5.5
-Zay Flowers,rec,11.5,alternate,Baltimore Ravens @ Cleveland Browns,2026-10-18 17:00:00+00:00,draftkings,1,2700.0,,flag,5.5
-Zay Flowers,rec_yds,14.5,alternate,Baltimore Ravens @ Cleveland Browns,2026-10-18 17:00:00+00:00,draftkings,1,-2600.0,,none,
-Zay Flowers,rec_yds,24.5,alternate,Baltimore Ravens @ Cleveland Browns,2026-10-18 17:00:00+00:00,draftkings,1,-830.0,,none,
-Zay Flowers,rec_yds,79.5,alternate,Baltimore Ravens @ Cleveland Browns,2026-10-18 17:00:00+00:00,draftkings,1,222.0,,none,
-Zay Flowers,rec_yds,99.5,alternate,Baltimore Ravens @ Cleveland Browns,2026-10-18 17:00:00+00:00,draftkings,1,482.0,,none,
-Zay Flowers,rec_yds,139.5,alternate,Baltimore Ravens @ Cleveland Browns,2026-10-18 17:00:00+00:00,draftkings,1,2000.0,,none,
-Zay Flowers,rec_yds,149.5,alternate,Baltimore Ravens @ Cleveland Browns,2026-10-18 17:00:00+00:00,draftkings,1,2700.0,,none,
-Zay Flowers,rec_yds,159.5,alternate,Baltimore Ravens @ Cleveland Browns,2026-10-18 17:00:00+00:00,draftkings,1,3600.0,,none,
-Bryce Young,pass_att,35.5,standard,Carolina Panthers @ Philadelphia Eagles,2026-10-18 17:00:00+00:00,draftkings,1,-113.0,-113.0,flag,35.5
-Bryce Young,pass_td,1.5,standard,Carolina Panthers @ Philadelphia Eagles,2026-10-18 17:00:00+00:00,draftkings,1,154.0,-198.0,flag,1.5
-Bryce Young,pass_yds,159.5,alternate,Carolina Panthers @ Philadelphia Eagles,2026-10-18 17:00:00+00:00,draftkings,1,-1320.0,,none,
-Bryce Young,pass_yds,199.5,alternate,Carolina Panthers @ Philadelphia Eagles,2026-10-18 17:00:00+00:00,draftkings,1,-314.0,,none,
-Bryce Young,pass_yds,219.5,alternate,Carolina Panthers @ Philadelphia Eagles,2026-10-18 17:00:00+00:00,draftkings,1,-173.0,,none,
-Bryce Young,pass_yds,229.5,alternate,Carolina Panthers @ Philadelphia Eagles,2026-10-18 17:00:00+00:00,draftkings,1,-132.0,,none,
-Bryce Young,pass_yds,279.5,alternate,Carolina Panthers @ Philadelphia Eagles,2026-10-18 17:00:00+00:00,draftkings,1,272.0,,none,
-Bryce Young,pass_yds,349.5,alternate,Carolina Panthers @ Philadelphia Eagles,2026-10-18 17:00:00+00:00,draftkings,1,1720.0,,none,
-Bryce Young,pass_yds,369.5,alternate,Carolina Panthers @ Philadelphia Eagles,2026-10-18 17:00:00+00:00,draftkings,1,2700.0,,none,
-Chuba Hubbard,car,18.5,standard,Carolina Panthers @ Philadelphia Eagles,2026-10-18 17:00:00+00:00,draftkings,1,-104.0,-122.0,flag,18.5
-Dameon Pierce,car,14.5,standard,Carolina Panthers @ Philadelphia Eagles,2026-10-18 17:00:00+00:00,draftkings,1,100.0,-128.0,flag,14.5
-Tanner McKee,pass_att,31.5,standard,Carolina Panthers @ Philadelphia Eagles,2026-10-18 17:00:00+00:00,draftkings,1,-122.0,-104.0,flag,31.5
-Tanner McKee,pass_td,0.5,standard,Carolina Panthers @ Philadelphia Eagles,2026-10-18 17:00:00+00:00,draftkings,1,-254.0,195.0,flag,0.5
-Tanner McKee,pass_yds,289.5,alternate,Carolina Panthers @ Philadelphia Eagles,2026-10-18 17:00:00+00:00,draftkings,1,710.0,,none,
-Tanner McKee,pass_yds,299.5,alternate,Carolina Panthers @ Philadelphia Eagles,2026-10-18 17:00:00+00:00,draftkings,1,910.0,,none,
-Tanner McKee,pass_yds,309.5,alternate,Carolina Panthers @ Philadelphia Eagles,2026-10-18 17:00:00+00:00,draftkings,1,1160.0,,none,
-Tanner McKee,pass_yds,329.5,alternate,Carolina Panthers @ Philadelphia Eagles,2026-10-18 17:00:00+00:00,draftkings,1,1860.0,,none,
-Tanner McKee,pass_yds,369.5,alternate,Carolina Panthers @ Philadelphia Eagles,2026-10-18 17:00:00+00:00,draftkings,1,3900.0,,none,
-Bijan Robinson,car,18.5,standard,Chicago Bears @ Atlanta Falcons,2026-10-18 17:00:00+00:00,draftkings,1,-111.0,-115.0,flag,18.5
-Bijan Robinson,rec,1.5,alternate,Chicago Bears @ Atlanta Falcons,2026-10-18 17:00:00+00:00,draftkings,1,-910.0,,flag,3.5
-Bijan Robinson,rec,2.5,alternate,Chicago Bears @ Atlanta Falcons,2026-10-18 17:00:00+00:00,draftkings,1,-268.0,,flag,3.5
-Bijan Robinson,rec,3.5,standard,Chicago Bears @ Atlanta Falcons,2026-10-18 17:00:00+00:00,draftkings,1,-106.0,-120.0,flag,3.5
-Bijan Robinson,rec,4.5,alternate,Chicago Bears @ Atlanta Falcons,2026-10-18 17:00:00+00:00,draftkings,1,198.0,,flag,3.5
-Bijan Robinson,rec,5.5,alternate,Chicago Bears @ Atlanta Falcons,2026-10-18 17:00:00+00:00,draftkings,1,417.0,,flag,3.5
-Bijan Robinson,rec,6.5,alternate,Chicago Bears @ Atlanta Falcons,2026-10-18 17:00:00+00:00,draftkings,1,830.0,,flag,3.5
-Bijan Robinson,rec,7.5,alternate,Chicago Bears @ Atlanta Falcons,2026-10-18 17:00:00+00:00,draftkings,1,1600.0,,flag,3.5
-Bijan Robinson,rec,8.5,alternate,Chicago Bears @ Atlanta Falcons,2026-10-18 17:00:00+00:00,draftkings,1,2600.0,,flag,3.5
-Bijan Robinson,rec_yds,14.5,alternate,Chicago Bears @ Atlanta Falcons,2026-10-18 17:00:00+00:00,draftkings,1,-425.0,,flag,30.5
-Bijan Robinson,rec_yds,24.5,alternate,Chicago Bears @ Atlanta Falcons,2026-10-18 17:00:00+00:00,draftkings,1,-168.0,,flag,30.5
-Bijan Robinson,rec_yds,30.5,standard,Chicago Bears @ Atlanta Falcons,2026-10-18 17:00:00+00:00,draftkings,1,-109.0,-115.0,flag,30.5
-Bijan Robinson,rec_yds,39.5,alternate,Chicago Bears @ Atlanta Falcons,2026-10-18 17:00:00+00:00,draftkings,1,162.0,,flag,30.5
-Bijan Robinson,rec_yds,49.5,alternate,Chicago Bears @ Atlanta Falcons,2026-10-18 17:00:00+00:00,draftkings,1,289.0,,flag,30.5
-Bijan Robinson,rec_yds,59.5,alternate,Chicago Bears @ Atlanta Falcons,2026-10-18 17:00:00+00:00,draftkings,1,482.0,,flag,30.5
-Bijan Robinson,rec_yds,69.5,alternate,Chicago Bears @ Atlanta Falcons,2026-10-18 17:00:00+00:00,draftkings,1,790.0,,flag,30.5
-Bijan Robinson,rec_yds,79.5,alternate,Chicago Bears @ Atlanta Falcons,2026-10-18 17:00:00+00:00,draftkings,1,1260.0,,flag,30.5
-Bijan Robinson,rec_yds,89.5,alternate,Chicago Bears @ Atlanta Falcons,2026-10-18 17:00:00+00:00,draftkings,1,1940.0,,flag,30.5
-Bijan Robinson,rec_yds,99.5,alternate,Chicago Bears @ Atlanta Falcons,2026-10-18 17:00:00+00:00,draftkings,1,2900.0,,flag,30.5
-Bijan Robinson,rush_yds,39.5,alternate,Chicago Bears @ Atlanta Falcons,2026-10-18 17:00:00+00:00,draftkings,1,-2800.0,,flag,95.5
-Bijan Robinson,rush_yds,49.5,alternate,Chicago Bears @ Atlanta Falcons,2026-10-18 17:00:00+00:00,draftkings,1,-1100.0,,flag,95.5
-Bijan Robinson,rush_yds,59.5,alternate,Chicago Bears @ Atlanta Falcons,2026-10-18 17:00:00+00:00,draftkings,1,-578.0,,flag,95.5
-Bijan Robinson,rush_yds,69.5,alternate,Chicago Bears @ Atlanta Falcons,2026-10-18 17:00:00+00:00,draftkings,1,-333.0,,flag,95.5
-Bijan Robinson,rush_yds,79.5,alternate,Chicago Bears @ Atlanta Falcons,2026-10-18 17:00:00+00:00,draftkings,1,-209.0,,flag,95.5
-Bijan Robinson,rush_yds,89.5,alternate,Chicago Bears @ Atlanta Falcons,2026-10-18 17:00:00+00:00,draftkings,1,-141.0,,flag,95.5
-Bijan Robinson,rush_yds,95.5,standard,Chicago Bears @ Atlanta Falcons,2026-10-18 17:00:00+00:00,draftkings,1,-112.0,-111.0,flag,95.5
-Bijan Robinson,rush_yds,99.5,alternate,Chicago Bears @ Atlanta Falcons,2026-10-18 17:00:00+00:00,draftkings,1,104.0,,flag,95.5
-Bijan Robinson,rush_yds,109.5,alternate,Chicago Bears @ Atlanta Falcons,2026-10-18 17:00:00+00:00,draftkings,1,147.0,,flag,95.5
-Bijan Robinson,rush_yds,119.5,alternate,Chicago Bears @ Atlanta Falcons,2026-10-18 17:00:00+00:00,draftkings,1,205.0,,flag,95.5
-Bijan Robinson,rush_yds,129.5,alternate,Chicago Bears @ Atlanta Falcons,2026-10-18 17:00:00+00:00,draftkings,1,285.0,,flag,95.5
-Bijan Robinson,rush_yds,139.5,alternate,Chicago Bears @ Atlanta Falcons,2026-10-18 17:00:00+00:00,draftkings,1,395.0,,flag,95.5
-Bijan Robinson,rush_yds,149.5,alternate,Chicago Bears @ Atlanta Falcons,2026-10-18 17:00:00+00:00,draftkings,1,545.0,,flag,95.5
-Bijan Robinson,rush_yds,159.5,alternate,Chicago Bears @ Atlanta Falcons,2026-10-18 17:00:00+00:00,draftkings,1,740.0,,flag,95.5
-Bijan Robinson,rush_yds,169.5,alternate,Chicago Bears @ Atlanta Falcons,2026-10-18 17:00:00+00:00,draftkings,1,1020.0,,flag,95.5
-Bijan Robinson,rush_yds,179.5,alternate,Chicago Bears @ Atlanta Falcons,2026-10-18 17:00:00+00:00,draftkings,1,1360.0,,flag,95.5
-Bijan Robinson,rush_yds,189.5,alternate,Chicago Bears @ Atlanta Falcons,2026-10-18 17:00:00+00:00,draftkings,1,1840.0,,flag,95.5
-Bijan Robinson,rush_yds,199.5,alternate,Chicago Bears @ Atlanta Falcons,2026-10-18 17:00:00+00:00,draftkings,1,2400.0,,flag,95.5
-Brian Robinson Jr.,car,8.5,standard,Chicago Bears @ Atlanta Falcons,2026-10-18 17:00:00+00:00,draftkings,1,109.0,-139.0,flag,8.5
-Brian Robinson Jr.,rush_yds,9.5,alternate,Chicago Bears @ Atlanta Falcons,2026-10-18 17:00:00+00:00,draftkings,1,-1740.0,,flag,32.5
-Brian Robinson Jr.,rush_yds,14.5,alternate,Chicago Bears @ Atlanta Falcons,2026-10-18 17:00:00+00:00,draftkings,1,-700.0,,flag,32.5
-Brian Robinson Jr.,rush_yds,19.5,alternate,Chicago Bears @ Atlanta Falcons,2026-10-18 17:00:00+00:00,draftkings,1,-366.0,,flag,32.5
-Brian Robinson Jr.,rush_yds,24.5,alternate,Chicago Bears @ Atlanta Falcons,2026-10-18 17:00:00+00:00,draftkings,1,-215.0,,flag,32.5
-Brian Robinson Jr.,rush_yds,29.5,alternate,Chicago Bears @ Atlanta Falcons,2026-10-18 17:00:00+00:00,draftkings,1,-141.0,,flag,32.5
-Brian Robinson Jr.,rush_yds,32.5,standard,Chicago Bears @ Atlanta Falcons,2026-10-18 17:00:00+00:00,draftkings,1,-113.0,-111.0,flag,32.5
-Brian Robinson Jr.,rush_yds,39.5,alternate,Chicago Bears @ Atlanta Falcons,2026-10-18 17:00:00+00:00,draftkings,1,145.0,,flag,32.5
-Brian Robinson Jr.,rush_yds,49.5,alternate,Chicago Bears @ Atlanta Falcons,2026-10-18 17:00:00+00:00,draftkings,1,257.0,,flag,32.5
-Brian Robinson Jr.,rush_yds,59.5,alternate,Chicago Bears @ Atlanta Falcons,2026-10-18 17:00:00+00:00,draftkings,1,429.0,,flag,32.5
-Brian Robinson Jr.,rush_yds,69.5,alternate,Chicago Bears @ Atlanta Falcons,2026-10-18 17:00:00+00:00,draftkings,1,670.0,,flag,32.5
-Brian Robinson Jr.,rush_yds,79.5,alternate,Chicago Bears @ Atlanta Falcons,2026-10-18 17:00:00+00:00,draftkings,1,1040.0,,flag,32.5
-Brian Robinson Jr.,rush_yds,89.5,alternate,Chicago Bears @ Atlanta Falcons,2026-10-18 17:00:00+00:00,draftkings,1,1560.0,,flag,32.5
-Brian Robinson Jr.,rush_yds,99.5,alternate,Chicago Bears @ Atlanta Falcons,2026-10-18 17:00:00+00:00,draftkings,1,2200.0,,flag,32.5
-Brian Robinson Jr.,rush_yds,109.5,alternate,Chicago Bears @ Atlanta Falcons,2026-10-18 17:00:00+00:00,draftkings,1,3200.0,,flag,32.5
-Caleb Williams,car,4.5,standard,Chicago Bears @ Atlanta Falcons,2026-10-18 17:00:00+00:00,draftkings,1,-142.0,111.0,flag,4.5
-Caleb Williams,pass_att,32.5,standard,Chicago Bears @ Atlanta Falcons,2026-10-18 17:00:00+00:00,draftkings,1,-113.0,-113.0,flag,32.5
-Caleb Williams,pass_td,1.5,standard,Chicago Bears @ Atlanta Falcons,2026-10-18 17:00:00+00:00,draftkings,1,-136.0,107.0,flag,1.5
-Caleb Williams,pass_yds,159.5,alternate,Chicago Bears @ Atlanta Falcons,2026-10-18 17:00:00+00:00,draftkings,1,-1020.0,,flag,234.5
-Caleb Williams,pass_yds,169.5,alternate,Chicago Bears @ Atlanta Falcons,2026-10-18 17:00:00+00:00,draftkings,1,-710.0,,flag,234.5
-Caleb Williams,pass_yds,179.5,alternate,Chicago Bears @ Atlanta Falcons,2026-10-18 17:00:00+00:00,draftkings,1,-502.0,,flag,234.5
-Caleb Williams,pass_yds,189.5,alternate,Chicago Bears @ Atlanta Falcons,2026-10-18 17:00:00+00:00,draftkings,1,-372.0,,flag,234.5
-Caleb Williams,pass_yds,199.5,alternate,Chicago Bears @ Atlanta Falcons,2026-10-18 17:00:00+00:00,draftkings,1,-280.0,,flag,234.5
-Caleb Williams,pass_yds,209.5,alternate,Chicago Bears @ Atlanta Falcons,2026-10-18 17:00:00+00:00,draftkings,1,-214.0,,flag,234.5
-Caleb Williams,pass_yds,219.5,alternate,Chicago Bears @ Atlanta Falcons,2026-10-18 17:00:00+00:00,draftkings,1,-162.0,,flag,234.5
-Caleb Williams,pass_yds,229.5,alternate,Chicago Bears @ Atlanta Falcons,2026-10-18 17:00:00+00:00,draftkings,1,-126.0,,flag,234.5
-Caleb Williams,pass_yds,234.5,standard,Chicago Bears @ Atlanta Falcons,2026-10-18 17:00:00+00:00,draftkings,1,-112.0,-112.0,flag,234.5
-Caleb Williams,pass_yds,239.5,alternate,Chicago Bears @ Atlanta Falcons,2026-10-18 17:00:00+00:00,draftkings,1,100.0,,flag,234.5
-Caleb Williams,pass_yds,249.5,alternate,Chicago Bears @ Atlanta Falcons,2026-10-18 17:00:00+00:00,draftkings,1,128.0,,flag,234.5
-Caleb Williams,pass_yds,259.5,alternate,Chicago Bears @ Atlanta Falcons,2026-10-18 17:00:00+00:00,draftkings,1,163.0,,flag,234.5
-Caleb Williams,pass_yds,269.5,alternate,Chicago Bears @ Atlanta Falcons,2026-10-18 17:00:00+00:00,draftkings,1,206.0,,flag,234.5
-Caleb Williams,pass_yds,279.5,alternate,Chicago Bears @ Atlanta Falcons,2026-10-18 17:00:00+00:00,draftkings,1,265.0,,flag,234.5
-Caleb Williams,pass_yds,289.5,alternate,Chicago Bears @ Atlanta Falcons,2026-10-18 17:00:00+00:00,draftkings,1,336.0,,flag,234.5
-Caleb Williams,pass_yds,299.5,alternate,Chicago Bears @ Atlanta Falcons,2026-10-18 17:00:00+00:00,draftkings,1,425.0,,flag,234.5
-Caleb Williams,pass_yds,309.5,alternate,Chicago Bears @ Atlanta Falcons,2026-10-18 17:00:00+00:00,draftkings,1,535.0,,flag,234.5
-Caleb Williams,pass_yds,319.5,alternate,Chicago Bears @ Atlanta Falcons,2026-10-18 17:00:00+00:00,draftkings,1,670.0,,flag,234.5
-Caleb Williams,pass_yds,329.5,alternate,Chicago Bears @ Atlanta Falcons,2026-10-18 17:00:00+00:00,draftkings,1,840.0,,flag,234.5
-Caleb Williams,pass_yds,339.5,alternate,Chicago Bears @ Atlanta Falcons,2026-10-18 17:00:00+00:00,draftkings,1,1080.0,,flag,234.5
-Caleb Williams,pass_yds,349.5,alternate,Chicago Bears @ Atlanta Falcons,2026-10-18 17:00:00+00:00,draftkings,1,1340.0,,flag,234.5
-Caleb Williams,pass_yds,359.5,alternate,Chicago Bears @ Atlanta Falcons,2026-10-18 17:00:00+00:00,draftkings,1,1660.0,,flag,234.5
-Caleb Williams,pass_yds,369.5,alternate,Chicago Bears @ Atlanta Falcons,2026-10-18 17:00:00+00:00,draftkings,1,2100.0,,flag,234.5
-Caleb Williams,pass_yds,379.5,alternate,Chicago Bears @ Atlanta Falcons,2026-10-18 17:00:00+00:00,draftkings,1,2600.0,,flag,234.5
-Caleb Williams,pass_yds,389.5,alternate,Chicago Bears @ Atlanta Falcons,2026-10-18 17:00:00+00:00,draftkings,1,3100.0,,flag,234.5
-Caleb Williams,pass_yds,399.5,alternate,Chicago Bears @ Atlanta Falcons,2026-10-18 17:00:00+00:00,draftkings,1,3700.0,,flag,234.5
-Caleb Williams,rush_yds,9.5,alternate,Chicago Bears @ Atlanta Falcons,2026-10-18 17:00:00+00:00,draftkings,1,-313.0,,flag,19.5
-Caleb Williams,rush_yds,14.5,alternate,Chicago Bears @ Atlanta Falcons,2026-10-18 17:00:00+00:00,draftkings,1,-177.0,,flag,19.5
-Caleb Williams,rush_yds,19.5,standard,Chicago Bears @ Atlanta Falcons,2026-10-18 17:00:00+00:00,draftkings,1,-108.0,-116.0,flag,19.5
-Caleb Williams,rush_yds,24.5,alternate,Chicago Bears @ Atlanta Falcons,2026-10-18 17:00:00+00:00,draftkings,1,138.0,,flag,19.5
-Caleb Williams,rush_yds,29.5,alternate,Chicago Bears @ Atlanta Falcons,2026-10-18 17:00:00+00:00,draftkings,1,201.0,,flag,19.5
-Caleb Williams,rush_yds,39.5,alternate,Chicago Bears @ Atlanta Falcons,2026-10-18 17:00:00+00:00,draftkings,1,399.0,,flag,19.5
-Caleb Williams,rush_yds,49.5,alternate,Chicago Bears @ Atlanta Falcons,2026-10-18 17:00:00+00:00,draftkings,1,770.0,,flag,19.5
-Caleb Williams,rush_yds,59.5,alternate,Chicago Bears @ Atlanta Falcons,2026-10-18 17:00:00+00:00,draftkings,1,1440.0,,flag,19.5
-Caleb Williams,rush_yds,69.5,alternate,Chicago Bears @ Atlanta Falcons,2026-10-18 17:00:00+00:00,draftkings,1,2400.0,,flag,19.5
-Caleb Williams,rush_yds,79.5,alternate,Chicago Bears @ Atlanta Falcons,2026-10-18 17:00:00+00:00,draftkings,1,3800.0,,flag,19.5
-Cole Kmet,rec,1.5,standard,Chicago Bears @ Atlanta Falcons,2026-10-18 17:00:00+00:00,draftkings,1,161.0,-207.0,flag,1.5
-Cole Kmet,rec,2.5,alternate,Chicago Bears @ Atlanta Falcons,2026-10-18 17:00:00+00:00,draftkings,1,534.0,,flag,1.5
-Cole Kmet,rec,3.5,alternate,Chicago Bears @ Atlanta Falcons,2026-10-18 17:00:00+00:00,draftkings,1,1480.0,,flag,1.5
-Cole Kmet,rec_yds,9.5,standard,Chicago Bears @ Atlanta Falcons,2026-10-18 17:00:00+00:00,draftkings,1,-108.0,-117.0,flag,9.5
-Cole Kmet,rec_yds,14.5,alternate,Chicago Bears @ Atlanta Falcons,2026-10-18 17:00:00+00:00,draftkings,1,148.0,,flag,9.5
-Cole Kmet,rec_yds,24.5,alternate,Chicago Bears @ Atlanta Falcons,2026-10-18 17:00:00+00:00,draftkings,1,307.0,,flag,9.5
-Cole Kmet,rec_yds,39.5,alternate,Chicago Bears @ Atlanta Falcons,2026-10-18 17:00:00+00:00,draftkings,1,740.0,,flag,9.5
-Cole Kmet,rec_yds,49.5,alternate,Chicago Bears @ Atlanta Falcons,2026-10-18 17:00:00+00:00,draftkings,1,1240.0,,flag,9.5
-Cole Kmet,rec_yds,59.5,alternate,Chicago Bears @ Atlanta Falcons,2026-10-18 17:00:00+00:00,draftkings,1,2000.0,,flag,9.5
-Cole Kmet,rec_yds,69.5,alternate,Chicago Bears @ Atlanta Falcons,2026-10-18 17:00:00+00:00,draftkings,1,3000.0,,flag,9.5
-Colston Loveland,rec,1.5,alternate,Chicago Bears @ Atlanta Falcons,2026-10-18 17:00:00+00:00,draftkings,1,-860.0,,flag,3.5
-Colston Loveland,rec,2.5,alternate,Chicago Bears @ Atlanta Falcons,2026-10-18 17:00:00+00:00,draftkings,1,-257.0,,flag,3.5
-Colston Loveland,rec,3.5,standard,Chicago Bears @ Atlanta Falcons,2026-10-18 17:00:00+00:00,draftkings,1,-105.0,-121.0,flag,3.5
-Colston Loveland,rec,4.5,alternate,Chicago Bears @ Atlanta Falcons,2026-10-18 17:00:00+00:00,draftkings,1,211.0,,flag,3.5
-Colston Loveland,rec,5.5,alternate,Chicago Bears @ Atlanta Falcons,2026-10-18 17:00:00+00:00,draftkings,1,448.0,,flag,3.5
-Colston Loveland,rec,6.5,alternate,Chicago Bears @ Atlanta Falcons,2026-10-18 17:00:00+00:00,draftkings,1,930.0,,flag,3.5
-Colston Loveland,rec,7.5,alternate,Chicago Bears @ Atlanta Falcons,2026-10-18 17:00:00+00:00,draftkings,1,1780.0,,flag,3.5
-Colston Loveland,rec,8.5,alternate,Chicago Bears @ Atlanta Falcons,2026-10-18 17:00:00+00:00,draftkings,1,2900.0,,flag,3.5
-Colston Loveland,rec_yds,14.5,alternate,Chicago Bears @ Atlanta Falcons,2026-10-18 17:00:00+00:00,draftkings,1,-477.0,,flag,38.5
-Colston Loveland,rec_yds,24.5,alternate,Chicago Bears @ Atlanta Falcons,2026-10-18 17:00:00+00:00,draftkings,1,-239.0,,flag,38.5
-Colston Loveland,rec_yds,38.5,standard,Chicago Bears @ Atlanta Falcons,2026-10-18 17:00:00+00:00,draftkings,1,-110.0,-114.0,flag,38.5
-Colston Loveland,rec_yds,39.5,alternate,Chicago Bears @ Atlanta Falcons,2026-10-18 17:00:00+00:00,draftkings,1,-105.0,,flag,38.5
-Colston Loveland,rec_yds,49.5,alternate,Chicago Bears @ Atlanta Falcons,2026-10-18 17:00:00+00:00,draftkings,1,149.0,,flag,38.5
-Colston Loveland,rec_yds,59.5,alternate,Chicago Bears @ Atlanta Falcons,2026-10-18 17:00:00+00:00,draftkings,1,227.0,,flag,38.5
-Colston Loveland,rec_yds,69.5,alternate,Chicago Bears @ Atlanta Falcons,2026-10-18 17:00:00+00:00,draftkings,1,339.0,,flag,38.5
-Colston Loveland,rec_yds,79.5,alternate,Chicago Bears @ Atlanta Falcons,2026-10-18 17:00:00+00:00,draftkings,1,502.0,,flag,38.5
-Colston Loveland,rec_yds,89.5,alternate,Chicago Bears @ Atlanta Falcons,2026-10-18 17:00:00+00:00,draftkings,1,730.0,,flag,38.5
-Colston Loveland,rec_yds,99.5,alternate,Chicago Bears @ Atlanta Falcons,2026-10-18 17:00:00+00:00,draftkings,1,1040.0,,flag,38.5
-Colston Loveland,rec_yds,109.5,alternate,Chicago Bears @ Atlanta Falcons,2026-10-18 17:00:00+00:00,draftkings,1,1460.0,,flag,38.5
-Colston Loveland,rec_yds,119.5,alternate,Chicago Bears @ Atlanta Falcons,2026-10-18 17:00:00+00:00,draftkings,1,2000.0,,flag,38.5
-Colston Loveland,rec_yds,129.5,alternate,Chicago Bears @ Atlanta Falcons,2026-10-18 17:00:00+00:00,draftkings,1,2700.0,,flag,38.5
-Colston Loveland,rec_yds,139.5,alternate,Chicago Bears @ Atlanta Falcons,2026-10-18 17:00:00+00:00,draftkings,1,3600.0,,flag,38.5
-D'Andre Swift,car,15.5,standard,Chicago Bears @ Atlanta Falcons,2026-10-18 17:00:00+00:00,draftkings,1,-115.0,-110.0,flag,15.5
-D'Andre Swift,rec,1.5,alternate,Chicago Bears @ Atlanta Falcons,2026-10-18 17:00:00+00:00,draftkings,1,-305.0,,flag,2.5
-D'Andre Swift,rec,2.5,standard,Chicago Bears @ Atlanta Falcons,2026-10-18 17:00:00+00:00,draftkings,1,101.0,-129.0,flag,2.5
-D'Andre Swift,rec,3.5,alternate,Chicago Bears @ Atlanta Falcons,2026-10-18 17:00:00+00:00,draftkings,1,246.0,,flag,2.5
-D'Andre Swift,rec,4.5,alternate,Chicago Bears @ Atlanta Falcons,2026-10-18 17:00:00+00:00,draftkings,1,579.0,,flag,2.5
-D'Andre Swift,rec,5.5,alternate,Chicago Bears @ Atlanta Falcons,2026-10-18 17:00:00+00:00,draftkings,1,1260.0,,flag,2.5
-D'Andre Swift,rec,6.5,alternate,Chicago Bears @ Atlanta Falcons,2026-10-18 17:00:00+00:00,draftkings,1,2300.0,,flag,2.5
-D'Andre Swift,rec_yds,14.5,alternate,Chicago Bears @ Atlanta Falcons,2026-10-18 17:00:00+00:00,draftkings,1,-129.0,,flag,16.5
-D'Andre Swift,rec_yds,16.5,standard,Chicago Bears @ Atlanta Falcons,2026-10-18 17:00:00+00:00,draftkings,1,-107.0,-117.0,flag,16.5
-D'Andre Swift,rec_yds,24.5,alternate,Chicago Bears @ Atlanta Falcons,2026-10-18 17:00:00+00:00,draftkings,1,174.0,,flag,16.5
-D'Andre Swift,rec_yds,39.5,alternate,Chicago Bears @ Atlanta Falcons,2026-10-18 17:00:00+00:00,draftkings,1,471.0,,flag,16.5
-D'Andre Swift,rec_yds,49.5,alternate,Chicago Bears @ Atlanta Falcons,2026-10-18 17:00:00+00:00,draftkings,1,810.0,,flag,16.5
-D'Andre Swift,rec_yds,59.5,alternate,Chicago Bears @ Atlanta Falcons,2026-10-18 17:00:00+00:00,draftkings,1,1280.0,,flag,16.5
-D'Andre Swift,rec_yds,69.5,alternate,Chicago Bears @ Atlanta Falcons,2026-10-18 17:00:00+00:00,draftkings,1,1960.0,,flag,16.5
-D'Andre Swift,rec_yds,79.5,alternate,Chicago Bears @ Atlanta Falcons,2026-10-18 17:00:00+00:00,draftkings,1,2800.0,,flag,16.5
-D'Andre Swift,rec_yds,89.5,alternate,Chicago Bears @ Atlanta Falcons,2026-10-18 17:00:00+00:00,draftkings,1,3900.0,,flag,16.5
-D'Andre Swift,rush_yds,24.5,alternate,Chicago Bears @ Atlanta Falcons,2026-10-18 17:00:00+00:00,draftkings,1,-2000.0,,flag,62.5
-D'Andre Swift,rush_yds,29.5,alternate,Chicago Bears @ Atlanta Falcons,2026-10-18 17:00:00+00:00,draftkings,1,-1080.0,,flag,62.5
-D'Andre Swift,rush_yds,39.5,alternate,Chicago Bears @ Atlanta Falcons,2026-10-18 17:00:00+00:00,draftkings,1,-446.0,,flag,62.5
-D'Andre Swift,rush_yds,49.5,alternate,Chicago Bears @ Atlanta Falcons,2026-10-18 17:00:00+00:00,draftkings,1,-227.0,,flag,62.5
-D'Andre Swift,rush_yds,59.5,alternate,Chicago Bears @ Atlanta Falcons,2026-10-18 17:00:00+00:00,draftkings,1,-133.0,,flag,62.5
-D'Andre Swift,rush_yds,62.5,standard,Chicago Bears @ Atlanta Falcons,2026-10-18 17:00:00+00:00,draftkings,1,-115.0,-109.0,flag,62.5
-D'Andre Swift,rush_yds,69.5,alternate,Chicago Bears @ Atlanta Falcons,2026-10-18 17:00:00+00:00,draftkings,1,122.0,,flag,62.5
-D'Andre Swift,rush_yds,79.5,alternate,Chicago Bears @ Atlanta Falcons,2026-10-18 17:00:00+00:00,draftkings,1,189.0,,flag,62.5
-D'Andre Swift,rush_yds,89.5,alternate,Chicago Bears @ Atlanta Falcons,2026-10-18 17:00:00+00:00,draftkings,1,283.0,,flag,62.5
-D'Andre Swift,rush_yds,99.5,alternate,Chicago Bears @ Atlanta Falcons,2026-10-18 17:00:00+00:00,draftkings,1,429.0,,flag,62.5
-D'Andre Swift,rush_yds,109.5,alternate,Chicago Bears @ Atlanta Falcons,2026-10-18 17:00:00+00:00,draftkings,1,630.0,,flag,62.5
-D'Andre Swift,rush_yds,119.5,alternate,Chicago Bears @ Atlanta Falcons,2026-10-18 17:00:00+00:00,draftkings,1,910.0,,flag,62.5
-D'Andre Swift,rush_yds,129.5,alternate,Chicago Bears @ Atlanta Falcons,2026-10-18 17:00:00+00:00,draftkings,1,1320.0,,flag,62.5
-D'Andre Swift,rush_yds,139.5,alternate,Chicago Bears @ Atlanta Falcons,2026-10-18 17:00:00+00:00,draftkings,1,1900.0,,flag,62.5
-D'Andre Swift,rush_yds,149.5,alternate,Chicago Bears @ Atlanta Falcons,2026-10-18 17:00:00+00:00,draftkings,1,2700.0,,flag,62.5
-D'Andre Swift,rush_yds,159.5,alternate,Chicago Bears @ Atlanta Falcons,2026-10-18 17:00:00+00:00,draftkings,1,3700.0,,flag,62.5
-Drake London,rec,2.5,alternate,Chicago Bears @ Atlanta Falcons,2026-10-18 17:00:00+00:00,draftkings,1,-3500.0,,flag,5.5
-Drake London,rec,3.5,alternate,Chicago Bears @ Atlanta Falcons,2026-10-18 17:00:00+00:00,draftkings,1,-840.0,,flag,5.5
-Drake London,rec,4.5,alternate,Chicago Bears @ Atlanta Falcons,2026-10-18 17:00:00+00:00,draftkings,1,-326.0,,flag,5.5
-Drake London,rec,5.5,standard,Chicago Bears @ Atlanta Falcons,2026-10-18 17:00:00+00:00,draftkings,1,-154.0,121.0,flag,5.5
-Drake London,rec,6.5,alternate,Chicago Bears @ Atlanta Falcons,2026-10-18 17:00:00+00:00,draftkings,1,123.0,,flag,5.5
-Drake London,rec,7.5,alternate,Chicago Bears @ Atlanta Falcons,2026-10-18 17:00:00+00:00,draftkings,1,228.0,,flag,5.5
-Drake London,rec,8.5,alternate,Chicago Bears @ Atlanta Falcons,2026-10-18 17:00:00+00:00,draftkings,1,411.0,,flag,5.5
-Drake London,rec,9.5,alternate,Chicago Bears @ Atlanta Falcons,2026-10-18 17:00:00+00:00,draftkings,1,720.0,,flag,5.5
-Drake London,rec,10.5,alternate,Chicago Bears @ Atlanta Falcons,2026-10-18 17:00:00+00:00,draftkings,1,1240.0,,flag,5.5
-Drake London,rec,11.5,alternate,Chicago Bears @ Atlanta Falcons,2026-10-18 17:00:00+00:00,draftkings,1,2000.0,,flag,5.5
-Drake London,rec,12.5,alternate,Chicago Bears @ Atlanta Falcons,2026-10-18 17:00:00+00:00,draftkings,1,2900.0,,flag,5.5
-Drake London,rec_yds,39.5,alternate,Chicago Bears @ Atlanta Falcons,2026-10-18 17:00:00+00:00,draftkings,1,-1160.0,,flag,89.5
-Drake London,rec_yds,49.5,alternate,Chicago Bears @ Atlanta Falcons,2026-10-18 17:00:00+00:00,draftkings,1,-640.0,,flag,89.5
-Drake London,rec_yds,59.5,alternate,Chicago Bears @ Atlanta Falcons,2026-10-18 17:00:00+00:00,draftkings,1,-385.0,,flag,89.5
-Drake London,rec_yds,69.5,alternate,Chicago Bears @ Atlanta Falcons,2026-10-18 17:00:00+00:00,draftkings,1,-245.0,,flag,89.5
-Drake London,rec_yds,79.5,alternate,Chicago Bears @ Atlanta Falcons,2026-10-18 17:00:00+00:00,draftkings,1,-164.0,,flag,89.5
-Drake London,rec_yds,89.5,standard,Chicago Bears @ Atlanta Falcons,2026-10-18 17:00:00+00:00,draftkings,1,-113.0,-111.0,flag,89.5
-Drake London,rec_yds,99.5,alternate,Chicago Bears @ Atlanta Falcons,2026-10-18 17:00:00+00:00,draftkings,1,125.0,,flag,89.5
-Drake London,rec_yds,109.5,alternate,Chicago Bears @ Atlanta Falcons,2026-10-18 17:00:00+00:00,draftkings,1,174.0,,flag,89.5
-Drake London,rec_yds,119.5,alternate,Chicago Bears @ Atlanta Falcons,2026-10-18 17:00:00+00:00,draftkings,1,241.0,,flag,89.5
-Drake London,rec_yds,129.5,alternate,Chicago Bears @ Atlanta Falcons,2026-10-18 17:00:00+00:00,draftkings,1,330.0,,flag,89.5
-Drake London,rec_yds,139.5,alternate,Chicago Bears @ Atlanta Falcons,2026-10-18 17:00:00+00:00,draftkings,1,454.0,,flag,89.5
-Drake London,rec_yds,149.5,alternate,Chicago Bears @ Atlanta Falcons,2026-10-18 17:00:00+00:00,draftkings,1,620.0,,flag,89.5
-Drake London,rec_yds,159.5,alternate,Chicago Bears @ Atlanta Falcons,2026-10-18 17:00:00+00:00,draftkings,1,840.0,,flag,89.5
-Drake London,rec_yds,169.5,alternate,Chicago Bears @ Atlanta Falcons,2026-10-18 17:00:00+00:00,draftkings,1,1140.0,,flag,89.5
-Drake London,rec_yds,179.5,alternate,Chicago Bears @ Atlanta Falcons,2026-10-18 17:00:00+00:00,draftkings,1,1520.0,,flag,89.5
-Drake London,rec_yds,189.5,alternate,Chicago Bears @ Atlanta Falcons,2026-10-18 17:00:00+00:00,draftkings,1,2000.0,,flag,89.5
-Drake London,rec_yds,199.5,alternate,Chicago Bears @ Atlanta Falcons,2026-10-18 17:00:00+00:00,draftkings,1,2600.0,,flag,89.5
-Jahan Dotson,rec,1.5,standard,Chicago Bears @ Atlanta Falcons,2026-10-18 17:00:00+00:00,draftkings,1,-177.0,138.0,flag,1.5
-Jahan Dotson,rec,2.5,alternate,Chicago Bears @ Atlanta Falcons,2026-10-18 17:00:00+00:00,draftkings,1,174.0,,flag,1.5
-Jahan Dotson,rec,3.5,alternate,Chicago Bears @ Atlanta Falcons,2026-10-18 17:00:00+00:00,draftkings,1,461.0,,flag,1.5
-Jahan Dotson,rec,4.5,alternate,Chicago Bears @ Atlanta Falcons,2026-10-18 17:00:00+00:00,draftkings,1,1100.0,,flag,1.5
-Jahan Dotson,rec,5.5,alternate,Chicago Bears @ Atlanta Falcons,2026-10-18 17:00:00+00:00,draftkings,1,2300.0,,flag,1.5
-Jahan Dotson,rec_yds,14.5,alternate,Chicago Bears @ Atlanta Falcons,2026-10-18 17:00:00+00:00,draftkings,1,-223.0,,flag,23.5
-Jahan Dotson,rec_yds,23.5,standard,Chicago Bears @ Atlanta Falcons,2026-10-18 17:00:00+00:00,draftkings,1,-108.0,-116.0,flag,23.5
-Jahan Dotson,rec_yds,24.5,alternate,Chicago Bears @ Atlanta Falcons,2026-10-18 17:00:00+00:00,draftkings,1,-101.0,,flag,23.5
-Jahan Dotson,rec_yds,39.5,alternate,Chicago Bears @ Atlanta Falcons,2026-10-18 17:00:00+00:00,draftkings,1,230.0,,flag,23.5
-Jahan Dotson,rec_yds,49.5,alternate,Chicago Bears @ Atlanta Falcons,2026-10-18 17:00:00+00:00,draftkings,1,376.0,,flag,23.5
-Jahan Dotson,rec_yds,59.5,alternate,Chicago Bears @ Atlanta Falcons,2026-10-18 17:00:00+00:00,draftkings,1,610.0,,flag,23.5
-Jahan Dotson,rec_yds,69.5,alternate,Chicago Bears @ Atlanta Falcons,2026-10-18 17:00:00+00:00,draftkings,1,960.0,,flag,23.5
-Jahan Dotson,rec_yds,79.5,alternate,Chicago Bears @ Atlanta Falcons,2026-10-18 17:00:00+00:00,draftkings,1,1500.0,,flag,23.5
-Jahan Dotson,rec_yds,89.5,alternate,Chicago Bears @ Atlanta Falcons,2026-10-18 17:00:00+00:00,draftkings,1,2200.0,,flag,23.5
-Jahan Dotson,rec_yds,99.5,alternate,Chicago Bears @ Atlanta Falcons,2026-10-18 17:00:00+00:00,draftkings,1,3000.0,,flag,23.5
-Kalif Raymond,rec,1.5,alternate,Chicago Bears @ Atlanta Falcons,2026-10-18 17:00:00+00:00,draftkings,1,-516.0,,flag,2.5
-Kalif Raymond,rec,2.5,standard,Chicago Bears @ Atlanta Falcons,2026-10-18 17:00:00+00:00,draftkings,1,-166.0,130.0,flag,2.5
-Kalif Raymond,rec,3.5,alternate,Chicago Bears @ Atlanta Falcons,2026-10-18 17:00:00+00:00,draftkings,1,145.0,,flag,2.5
-Kalif Raymond,rec,4.5,alternate,Chicago Bears @ Atlanta Falcons,2026-10-18 17:00:00+00:00,draftkings,1,329.0,,flag,2.5
-Kalif Raymond,rec,5.5,alternate,Chicago Bears @ Atlanta Falcons,2026-10-18 17:00:00+00:00,draftkings,1,720.0,,flag,2.5
-Kalif Raymond,rec,6.5,alternate,Chicago Bears @ Atlanta Falcons,2026-10-18 17:00:00+00:00,draftkings,1,1480.0,,flag,2.5
-Kalif Raymond,rec,7.5,alternate,Chicago Bears @ Atlanta Falcons,2026-10-18 17:00:00+00:00,draftkings,1,2600.0,,flag,2.5
-Kalif Raymond,rec_yds,14.5,alternate,Chicago Bears @ Atlanta Falcons,2026-10-18 17:00:00+00:00,draftkings,1,-326.0,,flag,28.5
-Kalif Raymond,rec_yds,24.5,alternate,Chicago Bears @ Atlanta Falcons,2026-10-18 17:00:00+00:00,draftkings,1,-145.0,,flag,28.5
-Kalif Raymond,rec_yds,28.5,standard,Chicago Bears @ Atlanta Falcons,2026-10-18 17:00:00+00:00,draftkings,1,-114.0,-110.0,flag,28.5
-Kalif Raymond,rec_yds,39.5,alternate,Chicago Bears @ Atlanta Falcons,2026-10-18 17:00:00+00:00,draftkings,1,171.0,,flag,28.5
-Kalif Raymond,rec_yds,49.5,alternate,Chicago Bears @ Atlanta Falcons,2026-10-18 17:00:00+00:00,draftkings,1,289.0,,flag,28.5
-Kalif Raymond,rec_yds,59.5,alternate,Chicago Bears @ Atlanta Falcons,2026-10-18 17:00:00+00:00,draftkings,1,475.0,,flag,28.5
-Kalif Raymond,rec_yds,69.5,alternate,Chicago Bears @ Atlanta Falcons,2026-10-18 17:00:00+00:00,draftkings,1,750.0,,flag,28.5
-Kalif Raymond,rec_yds,79.5,alternate,Chicago Bears @ Atlanta Falcons,2026-10-18 17:00:00+00:00,draftkings,1,1040.0,,flag,28.5
-Kalif Raymond,rec_yds,89.5,alternate,Chicago Bears @ Atlanta Falcons,2026-10-18 17:00:00+00:00,draftkings,1,1580.0,,flag,28.5
-Kalif Raymond,rec_yds,99.5,alternate,Chicago Bears @ Atlanta Falcons,2026-10-18 17:00:00+00:00,draftkings,1,2300.0,,flag,28.5
-Kalif Raymond,rec_yds,109.5,alternate,Chicago Bears @ Atlanta Falcons,2026-10-18 17:00:00+00:00,draftkings,1,3700.0,,flag,28.5
-Kyle Pitts Sr.,rec,1.5,alternate,Chicago Bears @ Atlanta Falcons,2026-10-18 17:00:00+00:00,draftkings,1,-620.0,,flag,3.5
-Kyle Pitts Sr.,rec,2.5,alternate,Chicago Bears @ Atlanta Falcons,2026-10-18 17:00:00+00:00,draftkings,1,-188.0,,flag,3.5
-Kyle Pitts Sr.,rec,3.5,standard,Chicago Bears @ Atlanta Falcons,2026-10-18 17:00:00+00:00,draftkings,1,133.0,-170.0,flag,3.5
-Kyle Pitts Sr.,rec,4.5,alternate,Chicago Bears @ Atlanta Falcons,2026-10-18 17:00:00+00:00,draftkings,1,299.0,,flag,3.5
-Kyle Pitts Sr.,rec,5.5,alternate,Chicago Bears @ Atlanta Falcons,2026-10-18 17:00:00+00:00,draftkings,1,640.0,,flag,3.5
-Kyle Pitts Sr.,rec,6.5,alternate,Chicago Bears @ Atlanta Falcons,2026-10-18 17:00:00+00:00,draftkings,1,1280.0,,flag,3.5
-Kyle Pitts Sr.,rec,7.5,alternate,Chicago Bears @ Atlanta Falcons,2026-10-18 17:00:00+00:00,draftkings,1,2200.0,,flag,3.5
-Kyle Pitts Sr.,rec_yds,14.5,alternate,Chicago Bears @ Atlanta Falcons,2026-10-18 17:00:00+00:00,draftkings,1,-426.0,,flag,31.5
-Kyle Pitts Sr.,rec_yds,24.5,alternate,Chicago Bears @ Atlanta Falcons,2026-10-18 17:00:00+00:00,draftkings,1,-177.0,,flag,31.5
-Kyle Pitts Sr.,rec_yds,31.5,standard,Chicago Bears @ Atlanta Falcons,2026-10-18 17:00:00+00:00,draftkings,1,-110.0,-114.0,flag,31.5
-Kyle Pitts Sr.,rec_yds,39.5,alternate,Chicago Bears @ Atlanta Falcons,2026-10-18 17:00:00+00:00,draftkings,1,144.0,,flag,31.5
-Kyle Pitts Sr.,rec_yds,49.5,alternate,Chicago Bears @ Atlanta Falcons,2026-10-18 17:00:00+00:00,draftkings,1,244.0,,flag,31.5
-Kyle Pitts Sr.,rec_yds,59.5,alternate,Chicago Bears @ Atlanta Falcons,2026-10-18 17:00:00+00:00,draftkings,1,403.0,,flag,31.5
-Kyle Pitts Sr.,rec_yds,69.5,alternate,Chicago Bears @ Atlanta Falcons,2026-10-18 17:00:00+00:00,draftkings,1,650.0,,flag,31.5
-Kyle Pitts Sr.,rec_yds,79.5,alternate,Chicago Bears @ Atlanta Falcons,2026-10-18 17:00:00+00:00,draftkings,1,1040.0,,flag,31.5
-Kyle Pitts Sr.,rec_yds,89.5,alternate,Chicago Bears @ Atlanta Falcons,2026-10-18 17:00:00+00:00,draftkings,1,1600.0,,flag,31.5
-Kyle Pitts Sr.,rec_yds,99.5,alternate,Chicago Bears @ Atlanta Falcons,2026-10-18 17:00:00+00:00,draftkings,1,2400.0,,flag,31.5
-Kyle Pitts Sr.,rec_yds,109.5,alternate,Chicago Bears @ Atlanta Falcons,2026-10-18 17:00:00+00:00,draftkings,1,3200.0,,flag,31.5
-Luther Burden III,rec,1.5,alternate,Chicago Bears @ Atlanta Falcons,2026-10-18 17:00:00+00:00,draftkings,1,-3300.0,,flag,4.5
-Luther Burden III,rec,2.5,alternate,Chicago Bears @ Atlanta Falcons,2026-10-18 17:00:00+00:00,draftkings,1,-670.0,,flag,4.5
-Luther Burden III,rec,3.5,alternate,Chicago Bears @ Atlanta Falcons,2026-10-18 17:00:00+00:00,draftkings,1,-256.0,,flag,4.5
-Luther Burden III,rec,4.5,standard,Chicago Bears @ Atlanta Falcons,2026-10-18 17:00:00+00:00,draftkings,1,-112.0,-114.0,flag,4.5
-Luther Burden III,rec,5.5,alternate,Chicago Bears @ Atlanta Falcons,2026-10-18 17:00:00+00:00,draftkings,1,178.0,,flag,4.5
-Luther Burden III,rec,6.5,alternate,Chicago Bears @ Atlanta Falcons,2026-10-18 17:00:00+00:00,draftkings,1,355.0,,flag,4.5
-Luther Burden III,rec,7.5,alternate,Chicago Bears @ Atlanta Falcons,2026-10-18 17:00:00+00:00,draftkings,1,680.0,,flag,4.5
-Luther Burden III,rec,8.5,alternate,Chicago Bears @ Atlanta Falcons,2026-10-18 17:00:00+00:00,draftkings,1,1280.0,,flag,4.5
-Luther Burden III,rec,9.5,alternate,Chicago Bears @ Atlanta Falcons,2026-10-18 17:00:00+00:00,draftkings,1,2100.0,,flag,4.5
-Luther Burden III,rec_yds,14.5,alternate,Chicago Bears @ Atlanta Falcons,2026-10-18 17:00:00+00:00,draftkings,1,-1620.0,,flag,53.5
-Luther Burden III,rec_yds,24.5,alternate,Chicago Bears @ Atlanta Falcons,2026-10-18 17:00:00+00:00,draftkings,1,-610.0,,flag,53.5
-Luther Burden III,rec_yds,39.5,alternate,Chicago Bears @ Atlanta Falcons,2026-10-18 17:00:00+00:00,draftkings,1,-227.0,,flag,53.5
-Luther Burden III,rec_yds,49.5,alternate,Chicago Bears @ Atlanta Falcons,2026-10-18 17:00:00+00:00,draftkings,1,-136.0,,flag,53.5
-Luther Burden III,rec_yds,53.5,standard,Chicago Bears @ Atlanta Falcons,2026-10-18 17:00:00+00:00,draftkings,1,-110.0,-114.0,flag,53.5
-Luther Burden III,rec_yds,59.5,alternate,Chicago Bears @ Atlanta Falcons,2026-10-18 17:00:00+00:00,draftkings,1,116.0,,flag,53.5
-Luther Burden III,rec_yds,69.5,alternate,Chicago Bears @ Atlanta Falcons,2026-10-18 17:00:00+00:00,draftkings,1,178.0,,flag,53.5
-Luther Burden III,rec_yds,79.5,alternate,Chicago Bears @ Atlanta Falcons,2026-10-18 17:00:00+00:00,draftkings,1,267.0,,flag,53.5
-Luther Burden III,rec_yds,89.5,alternate,Chicago Bears @ Atlanta Falcons,2026-10-18 17:00:00+00:00,draftkings,1,392.0,,flag,53.5
-Luther Burden III,rec_yds,99.5,alternate,Chicago Bears @ Atlanta Falcons,2026-10-18 17:00:00+00:00,draftkings,1,575.0,,flag,53.5
-Luther Burden III,rec_yds,109.5,alternate,Chicago Bears @ Atlanta Falcons,2026-10-18 17:00:00+00:00,draftkings,1,830.0,,flag,53.5
-Luther Burden III,rec_yds,119.5,alternate,Chicago Bears @ Atlanta Falcons,2026-10-18 17:00:00+00:00,draftkings,1,1220.0,,flag,53.5
-Luther Burden III,rec_yds,129.5,alternate,Chicago Bears @ Atlanta Falcons,2026-10-18 17:00:00+00:00,draftkings,1,1760.0,,flag,53.5
-Luther Burden III,rec_yds,139.5,alternate,Chicago Bears @ Atlanta Falcons,2026-10-18 17:00:00+00:00,draftkings,1,2400.0,,flag,53.5
-Luther Burden III,rec_yds,149.5,alternate,Chicago Bears @ Atlanta Falcons,2026-10-18 17:00:00+00:00,draftkings,1,3300.0,,flag,53.5
-Luther Burden III,rush_yds,5.5,standard,Chicago Bears @ Atlanta Falcons,2026-10-18 17:00:00+00:00,draftkings,1,-117.0,-107.0,flag,5.5
-Luther Burden III,rush_yds,9.5,alternate,Chicago Bears @ Atlanta Falcons,2026-10-18 17:00:00+00:00,draftkings,1,142.0,,flag,5.5
-Luther Burden III,rush_yds,14.5,alternate,Chicago Bears @ Atlanta Falcons,2026-10-18 17:00:00+00:00,draftkings,1,265.0,,flag,5.5
-Luther Burden III,rush_yds,19.5,alternate,Chicago Bears @ Atlanta Falcons,2026-10-18 17:00:00+00:00,draftkings,1,442.0,,flag,5.5
-Luther Burden III,rush_yds,24.5,alternate,Chicago Bears @ Atlanta Falcons,2026-10-18 17:00:00+00:00,draftkings,1,690.0,,flag,5.5
-Luther Burden III,rush_yds,29.5,alternate,Chicago Bears @ Atlanta Falcons,2026-10-18 17:00:00+00:00,draftkings,1,1040.0,,flag,5.5
-Luther Burden III,rush_yds,39.5,alternate,Chicago Bears @ Atlanta Falcons,2026-10-18 17:00:00+00:00,draftkings,1,1980.0,,flag,5.5
-Luther Burden III,rush_yds,49.5,alternate,Chicago Bears @ Atlanta Falcons,2026-10-18 17:00:00+00:00,draftkings,1,3400.0,,flag,5.5
-Michael Penix Jr.,pass_att,30.5,standard,Chicago Bears @ Atlanta Falcons,2026-10-18 17:00:00+00:00,draftkings,1,-110.0,-116.0,flag,30.5
-Michael Penix Jr.,pass_td,1.5,standard,Chicago Bears @ Atlanta Falcons,2026-10-18 17:00:00+00:00,draftkings,1,-102.0,-125.0,flag,1.5
-Michael Penix Jr.,pass_yds,159.5,alternate,Chicago Bears @ Atlanta Falcons,2026-10-18 17:00:00+00:00,draftkings,1,-1080.0,,flag,234.5
-Michael Penix Jr.,pass_yds,169.5,alternate,Chicago Bears @ Atlanta Falcons,2026-10-18 17:00:00+00:00,draftkings,1,-730.0,,flag,234.5
-Michael Penix Jr.,pass_yds,179.5,alternate,Chicago Bears @ Atlanta Falcons,2026-10-18 17:00:00+00:00,draftkings,1,-518.0,,flag,234.5
-Michael Penix Jr.,pass_yds,189.5,alternate,Chicago Bears @ Atlanta Falcons,2026-10-18 17:00:00+00:00,draftkings,1,-379.0,,flag,234.5
-Michael Penix Jr.,pass_yds,199.5,alternate,Chicago Bears @ Atlanta Falcons,2026-10-18 17:00:00+00:00,draftkings,1,-282.0,,flag,234.5
-Michael Penix Jr.,pass_yds,209.5,alternate,Chicago Bears @ Atlanta Falcons,2026-10-18 17:00:00+00:00,draftkings,1,-215.0,,flag,234.5
-Michael Penix Jr.,pass_yds,219.5,alternate,Chicago Bears @ Atlanta Falcons,2026-10-18 17:00:00+00:00,draftkings,1,-166.0,,flag,234.5
-Michael Penix Jr.,pass_yds,229.5,alternate,Chicago Bears @ Atlanta Falcons,2026-10-18 17:00:00+00:00,draftkings,1,-129.0,,flag,234.5
-Michael Penix Jr.,pass_yds,234.5,standard,Chicago Bears @ Atlanta Falcons,2026-10-18 17:00:00+00:00,draftkings,1,-113.0,-111.0,flag,234.5
-Michael Penix Jr.,pass_yds,239.5,alternate,Chicago Bears @ Atlanta Falcons,2026-10-18 17:00:00+00:00,draftkings,1,101.0,,flag,234.5
-Michael Penix Jr.,pass_yds,249.5,alternate,Chicago Bears @ Atlanta Falcons,2026-10-18 17:00:00+00:00,draftkings,1,128.0,,flag,234.5
-Michael Penix Jr.,pass_yds,259.5,alternate,Chicago Bears @ Atlanta Falcons,2026-10-18 17:00:00+00:00,draftkings,1,160.0,,flag,234.5
-Michael Penix Jr.,pass_yds,269.5,alternate,Chicago Bears @ Atlanta Falcons,2026-10-18 17:00:00+00:00,draftkings,1,207.0,,flag,234.5
-Michael Penix Jr.,pass_yds,279.5,alternate,Chicago Bears @ Atlanta Falcons,2026-10-18 17:00:00+00:00,draftkings,1,259.0,,flag,234.5
-Michael Penix Jr.,pass_yds,289.5,alternate,Chicago Bears @ Atlanta Falcons,2026-10-18 17:00:00+00:00,draftkings,1,328.0,,flag,234.5
-Michael Penix Jr.,pass_yds,299.5,alternate,Chicago Bears @ Atlanta Falcons,2026-10-18 17:00:00+00:00,draftkings,1,416.0,,flag,234.5
-Michael Penix Jr.,pass_yds,309.5,alternate,Chicago Bears @ Atlanta Falcons,2026-10-18 17:00:00+00:00,draftkings,1,525.0,,flag,234.5
-Michael Penix Jr.,pass_yds,319.5,alternate,Chicago Bears @ Atlanta Falcons,2026-10-18 17:00:00+00:00,draftkings,1,660.0,,flag,234.5
-Michael Penix Jr.,pass_yds,329.5,alternate,Chicago Bears @ Atlanta Falcons,2026-10-18 17:00:00+00:00,draftkings,1,820.0,,flag,234.5
-Michael Penix Jr.,pass_yds,339.5,alternate,Chicago Bears @ Atlanta Falcons,2026-10-18 17:00:00+00:00,draftkings,1,1060.0,,flag,234.5
-Michael Penix Jr.,pass_yds,349.5,alternate,Chicago Bears @ Atlanta Falcons,2026-10-18 17:00:00+00:00,draftkings,1,1340.0,,flag,234.5
-Michael Penix Jr.,pass_yds,359.5,alternate,Chicago Bears @ Atlanta Falcons,2026-10-18 17:00:00+00:00,draftkings,1,1680.0,,flag,234.5
-Michael Penix Jr.,pass_yds,369.5,alternate,Chicago Bears @ Atlanta Falcons,2026-10-18 17:00:00+00:00,draftkings,1,2100.0,,flag,234.5
-Michael Penix Jr.,pass_yds,379.5,alternate,Chicago Bears @ Atlanta Falcons,2026-10-18 17:00:00+00:00,draftkings,1,2600.0,,flag,234.5
-Michael Penix Jr.,pass_yds,389.5,alternate,Chicago Bears @ Atlanta Falcons,2026-10-18 17:00:00+00:00,draftkings,1,3300.0,,flag,234.5
-Michael Penix Jr.,pass_yds,399.5,alternate,Chicago Bears @ Atlanta Falcons,2026-10-18 17:00:00+00:00,draftkings,1,3800.0,,flag,234.5
-Michael Penix Jr.,rush_yds,2.5,standard,Chicago Bears @ Atlanta Falcons,2026-10-18 17:00:00+00:00,draftkings,1,-113.0,-111.0,flag,2.5
-Michael Penix Jr.,rush_yds,9.5,alternate,Chicago Bears @ Atlanta Falcons,2026-10-18 17:00:00+00:00,draftkings,1,254.0,,flag,2.5
-Michael Penix Jr.,rush_yds,14.5,alternate,Chicago Bears @ Atlanta Falcons,2026-10-18 17:00:00+00:00,draftkings,1,463.0,,flag,2.5
-Michael Penix Jr.,rush_yds,19.5,alternate,Chicago Bears @ Atlanta Falcons,2026-10-18 17:00:00+00:00,draftkings,1,810.0,,flag,2.5
-Michael Penix Jr.,rush_yds,24.5,alternate,Chicago Bears @ Atlanta Falcons,2026-10-18 17:00:00+00:00,draftkings,1,1340.0,,flag,2.5
-Michael Penix Jr.,rush_yds,29.5,alternate,Chicago Bears @ Atlanta Falcons,2026-10-18 17:00:00+00:00,draftkings,1,2200.0,,flag,2.5
-Rome Odunze,rec,1.5,alternate,Chicago Bears @ Atlanta Falcons,2026-10-18 17:00:00+00:00,draftkings,1,-620.0,,flag,3.5
-Rome Odunze,rec,2.5,alternate,Chicago Bears @ Atlanta Falcons,2026-10-18 17:00:00+00:00,draftkings,1,-199.0,,flag,3.5
-Rome Odunze,rec,3.5,standard,Chicago Bears @ Atlanta Falcons,2026-10-18 17:00:00+00:00,draftkings,1,128.0,-163.0,flag,3.5
-Rome Odunze,rec,4.5,alternate,Chicago Bears @ Atlanta Falcons,2026-10-18 17:00:00+00:00,draftkings,1,284.0,,flag,3.5
-Rome Odunze,rec,5.5,alternate,Chicago Bears @ Atlanta Falcons,2026-10-18 17:00:00+00:00,draftkings,1,620.0,,flag,3.5
-Rome Odunze,rec,6.5,alternate,Chicago Bears @ Atlanta Falcons,2026-10-18 17:00:00+00:00,draftkings,1,1280.0,,flag,3.5
-Rome Odunze,rec,7.5,alternate,Chicago Bears @ Atlanta Falcons,2026-10-18 17:00:00+00:00,draftkings,1,2400.0,,flag,3.5
-Rome Odunze,rec_yds,14.5,alternate,Chicago Bears @ Atlanta Falcons,2026-10-18 17:00:00+00:00,draftkings,1,-558.0,,flag,44.5
-Rome Odunze,rec_yds,24.5,alternate,Chicago Bears @ Atlanta Falcons,2026-10-18 17:00:00+00:00,draftkings,1,-285.0,,flag,44.5
-Rome Odunze,rec_yds,39.5,alternate,Chicago Bears @ Atlanta Falcons,2026-10-18 17:00:00+00:00,draftkings,1,-137.0,,flag,44.5
-Rome Odunze,rec_yds,44.5,standard,Chicago Bears @ Atlanta Falcons,2026-10-18 17:00:00+00:00,draftkings,1,-112.0,-111.0,flag,44.5
-Rome Odunze,rec_yds,49.5,alternate,Chicago Bears @ Atlanta Falcons,2026-10-18 17:00:00+00:00,draftkings,1,111.0,,flag,44.5
-Rome Odunze,rec_yds,59.5,alternate,Chicago Bears @ Atlanta Falcons,2026-10-18 17:00:00+00:00,draftkings,1,164.0,,flag,44.5
-Rome Odunze,rec_yds,69.5,alternate,Chicago Bears @ Atlanta Falcons,2026-10-18 17:00:00+00:00,draftkings,1,235.0,,flag,44.5
-Rome Odunze,rec_yds,79.5,alternate,Chicago Bears @ Atlanta Falcons,2026-10-18 17:00:00+00:00,draftkings,1,333.0,,flag,44.5
-Rome Odunze,rec_yds,89.5,alternate,Chicago Bears @ Atlanta Falcons,2026-10-18 17:00:00+00:00,draftkings,1,465.0,,flag,44.5
-Rome Odunze,rec_yds,99.5,alternate,Chicago Bears @ Atlanta Falcons,2026-10-18 17:00:00+00:00,draftkings,1,640.0,,flag,44.5
-Rome Odunze,rec_yds,109.5,alternate,Chicago Bears @ Atlanta Falcons,2026-10-18 17:00:00+00:00,draftkings,1,890.0,,flag,44.5
-Rome Odunze,rec_yds,119.5,alternate,Chicago Bears @ Atlanta Falcons,2026-10-18 17:00:00+00:00,draftkings,1,1240.0,,flag,44.5
-Rome Odunze,rec_yds,129.5,alternate,Chicago Bears @ Atlanta Falcons,2026-10-18 17:00:00+00:00,draftkings,1,1740.0,,flag,44.5
-Rome Odunze,rec_yds,139.5,alternate,Chicago Bears @ Atlanta Falcons,2026-10-18 17:00:00+00:00,draftkings,1,2300.0,,flag,44.5
-Rome Odunze,rec_yds,149.5,alternate,Chicago Bears @ Atlanta Falcons,2026-10-18 17:00:00+00:00,draftkings,1,3100.0,,flag,44.5
-Rome Odunze,rec_yds,159.5,alternate,Chicago Bears @ Atlanta Falcons,2026-10-18 17:00:00+00:00,draftkings,1,4000.0,,flag,44.5
-Roschon Johnson,rec,1.5,standard,Chicago Bears @ Atlanta Falcons,2026-10-18 17:00:00+00:00,draftkings,1,141.0,-182.0,flag,1.5
-Roschon Johnson,rec,2.5,alternate,Chicago Bears @ Atlanta Falcons,2026-10-18 17:00:00+00:00,draftkings,1,456.0,,flag,1.5
-Roschon Johnson,rec,3.5,alternate,Chicago Bears @ Atlanta Falcons,2026-10-18 17:00:00+00:00,draftkings,1,1280.0,,flag,1.5
-Roschon Johnson,rec,4.5,alternate,Chicago Bears @ Atlanta Falcons,2026-10-18 17:00:00+00:00,draftkings,1,2700.0,,flag,1.5
-Roschon Johnson,rec_yds,6.5,standard,Chicago Bears @ Atlanta Falcons,2026-10-18 17:00:00+00:00,draftkings,1,-104.0,-121.0,flag,6.5
-Roschon Johnson,rec_yds,14.5,alternate,Chicago Bears @ Atlanta Falcons,2026-10-18 17:00:00+00:00,draftkings,1,238.0,,flag,6.5
-Roschon Johnson,rec_yds,24.5,alternate,Chicago Bears @ Atlanta Falcons,2026-10-18 17:00:00+00:00,draftkings,1,514.0,,flag,6.5
-Roschon Johnson,rec_yds,39.5,alternate,Chicago Bears @ Atlanta Falcons,2026-10-18 17:00:00+00:00,draftkings,1,1480.0,,flag,6.5
-Roschon Johnson,rec_yds,49.5,alternate,Chicago Bears @ Atlanta Falcons,2026-10-18 17:00:00+00:00,draftkings,1,2300.0,,flag,6.5
-Roschon Johnson,rec_yds,59.5,alternate,Chicago Bears @ Atlanta Falcons,2026-10-18 17:00:00+00:00,draftkings,1,3500.0,,flag,6.5
-Roschon Johnson,rush_yds,9.5,alternate,Chicago Bears @ Atlanta Falcons,2026-10-18 17:00:00+00:00,draftkings,1,-451.0,,flag,20.5
-Roschon Johnson,rush_yds,14.5,alternate,Chicago Bears @ Atlanta Falcons,2026-10-18 17:00:00+00:00,draftkings,1,-217.0,,flag,20.5
-Roschon Johnson,rush_yds,19.5,alternate,Chicago Bears @ Atlanta Falcons,2026-10-18 17:00:00+00:00,draftkings,1,-128.0,,flag,20.5
-Roschon Johnson,rush_yds,20.5,standard,Chicago Bears @ Atlanta Falcons,2026-10-18 17:00:00+00:00,draftkings,1,-116.0,-108.0,flag,20.5
-Roschon Johnson,rush_yds,24.5,alternate,Chicago Bears @ Atlanta Falcons,2026-10-18 17:00:00+00:00,draftkings,1,124.0,,flag,20.5
-Roschon Johnson,rush_yds,29.5,alternate,Chicago Bears @ Atlanta Falcons,2026-10-18 17:00:00+00:00,draftkings,1,181.0,,flag,20.5
-Roschon Johnson,rush_yds,39.5,alternate,Chicago Bears @ Atlanta Falcons,2026-10-18 17:00:00+00:00,draftkings,1,356.0,,flag,20.5
-Roschon Johnson,rush_yds,49.5,alternate,Chicago Bears @ Atlanta Falcons,2026-10-18 17:00:00+00:00,draftkings,1,620.0,,flag,20.5
-Roschon Johnson,rush_yds,59.5,alternate,Chicago Bears @ Atlanta Falcons,2026-10-18 17:00:00+00:00,draftkings,1,1040.0,,flag,20.5
-Roschon Johnson,rush_yds,69.5,alternate,Chicago Bears @ Atlanta Falcons,2026-10-18 17:00:00+00:00,draftkings,1,1600.0,,flag,20.5
-Roschon Johnson,rush_yds,79.5,alternate,Chicago Bears @ Atlanta Falcons,2026-10-18 17:00:00+00:00,draftkings,1,2500.0,,flag,20.5
-Roschon Johnson,rush_yds,89.5,alternate,Chicago Bears @ Atlanta Falcons,2026-10-18 17:00:00+00:00,draftkings,1,3600.0,,flag,20.5
-Zachariah Branch,rec,1.5,standard,Chicago Bears @ Atlanta Falcons,2026-10-18 17:00:00+00:00,draftkings,1,129.0,-165.0,flag,1.5
-Zachariah Branch,rec,2.5,alternate,Chicago Bears @ Atlanta Falcons,2026-10-18 17:00:00+00:00,draftkings,1,402.0,,flag,1.5
-Zachariah Branch,rec,3.5,alternate,Chicago Bears @ Atlanta Falcons,2026-10-18 17:00:00+00:00,draftkings,1,1160.0,,flag,1.5
-Zachariah Branch,rec,4.5,alternate,Chicago Bears @ Atlanta Falcons,2026-10-18 17:00:00+00:00,draftkings,1,2500.0,,flag,1.5
-Zachariah Branch,rec_yds,9.5,standard,Chicago Bears @ Atlanta Falcons,2026-10-18 17:00:00+00:00,draftkings,1,-117.0,-107.0,flag,9.5
-Zachariah Branch,rec_yds,14.5,alternate,Chicago Bears @ Atlanta Falcons,2026-10-18 17:00:00+00:00,draftkings,1,146.0,,flag,9.5
-Zachariah Branch,rec_yds,24.5,alternate,Chicago Bears @ Atlanta Falcons,2026-10-18 17:00:00+00:00,draftkings,1,326.0,,flag,9.5
-Zachariah Branch,rec_yds,39.5,alternate,Chicago Bears @ Atlanta Falcons,2026-10-18 17:00:00+00:00,draftkings,1,870.0,,flag,9.5
-Zachariah Branch,rec_yds,49.5,alternate,Chicago Bears @ Atlanta Falcons,2026-10-18 17:00:00+00:00,draftkings,1,1580.0,,flag,9.5
-Zachariah Branch,rec_yds,59.5,alternate,Chicago Bears @ Atlanta Falcons,2026-10-18 17:00:00+00:00,draftkings,1,2500.0,,flag,9.5
-Jameis Winston,pass_att,31.5,standard,New Orleans Saints @ New York Giants,2026-10-18 17:00:00+00:00,draftkings,1,-123.0,-103.0,flag,31.5
-Jameis Winston,pass_td,1.5,standard,New Orleans Saints @ New York Giants,2026-10-18 17:00:00+00:00,draftkings,1,110.0,-141.0,flag,1.5
-Kendre Miller,car,9.5,standard,New Orleans Saints @ New York Giants,2026-10-18 17:00:00+00:00,draftkings,1,103.0,-131.0,flag,9.5
-Tyler Shough,pass_att,35.5,standard,New Orleans Saints @ New York Giants,2026-10-18 17:00:00+00:00,draftkings,1,-110.0,-115.0,flag,35.5
-Tyler Shough,pass_td,1.5,standard,New Orleans Saints @ New York Giants,2026-10-18 17:00:00+00:00,draftkings,1,-102.0,-125.0,flag,1.5
-Braelon Allen,car,16.5,standard,New York Jets @ New England Patriots,2026-10-18 17:00:00+00:00,draftkings,1,-115.0,-111.0,flag,16.5
-Drake Maye,car,5.5,standard,New York Jets @ New England Patriots,2026-10-18 17:00:00+00:00,draftkings,1,-127.0,100.0,flag,5.5
-Drake Maye,pass_att,30.5,standard,New York Jets @ New England Patriots,2026-10-18 17:00:00+00:00,draftkings,1,-113.0,-113.0,flag,30.5
-Drake Maye,pass_td,1.5,standard,New York Jets @ New England Patriots,2026-10-18 17:00:00+00:00,draftkings,1,-145.0,113.0,flag,1.5
-Geno Smith,pass_att,30.5,standard,New York Jets @ New England Patriots,2026-10-18 17:00:00+00:00,draftkings,1,-121.0,-105.0,flag,30.5
-Geno Smith,pass_td,0.5,standard,New York Jets @ New England Patriots,2026-10-18 17:00:00+00:00,draftkings,1,-270.0,207.0,flag,0.5
-Rhamondre Stevenson,car,14.5,standard,New York Jets @ New England Patriots,2026-10-18 17:00:00+00:00,draftkings,1,-105.0,-122.0,flag,14.5
-TreVeyon Henderson,car,7.5,standard,New York Jets @ New England Patriots,2026-10-18 17:00:00+00:00,draftkings,1,-102.0,-125.0,flag,7.5
-Aaron Rodgers,pass_td,1.5,standard,Pittsburgh Steelers @ Tampa Bay Buccaneers,2026-10-18 17:00:00+00:00,draftkings,1,146.0,-187.0,flag,1.5
-Aaron Rodgers,pass_yds,149.5,alternate,Pittsburgh Steelers @ Tampa Bay Buccaneers,2026-10-18 17:00:00+00:00,draftkings,1,-1200.0,,flag,221.5
-Aaron Rodgers,pass_yds,159.5,alternate,Pittsburgh Steelers @ Tampa Bay Buccaneers,2026-10-18 17:00:00+00:00,draftkings,1,-800.0,,flag,221.5
-Aaron Rodgers,pass_yds,169.5,alternate,Pittsburgh Steelers @ Tampa Bay Buccaneers,2026-10-18 17:00:00+00:00,draftkings,1,-537.0,,flag,221.5
-Aaron Rodgers,pass_yds,179.5,alternate,Pittsburgh Steelers @ Tampa Bay Buccaneers,2026-10-18 17:00:00+00:00,draftkings,1,-381.0,,flag,221.5
-Aaron Rodgers,pass_yds,189.5,alternate,Pittsburgh Steelers @ Tampa Bay Buccaneers,2026-10-18 17:00:00+00:00,draftkings,1,-274.0,,flag,221.5
-Aaron Rodgers,pass_yds,199.5,alternate,Pittsburgh Steelers @ Tampa Bay Buccaneers,2026-10-18 17:00:00+00:00,draftkings,1,-205.0,,flag,221.5
-Aaron Rodgers,pass_yds,209.5,alternate,Pittsburgh Steelers @ Tampa Bay Buccaneers,2026-10-18 17:00:00+00:00,draftkings,1,-154.0,,flag,221.5
-Aaron Rodgers,pass_yds,219.5,alternate,Pittsburgh Steelers @ Tampa Bay Buccaneers,2026-10-18 17:00:00+00:00,draftkings,1,-118.0,,flag,221.5
-Aaron Rodgers,pass_yds,221.5,standard,Pittsburgh Steelers @ Tampa Bay Buccaneers,2026-10-18 17:00:00+00:00,draftkings,1,-111.0,-113.0,flag,221.5
-Aaron Rodgers,pass_yds,229.5,alternate,Pittsburgh Steelers @ Tampa Bay Buccaneers,2026-10-18 17:00:00+00:00,draftkings,1,111.0,,flag,221.5
-Aaron Rodgers,pass_yds,239.5,alternate,Pittsburgh Steelers @ Tampa Bay Buccaneers,2026-10-18 17:00:00+00:00,draftkings,1,144.0,,flag,221.5
-Aaron Rodgers,pass_yds,249.5,alternate,Pittsburgh Steelers @ Tampa Bay Buccaneers,2026-10-18 17:00:00+00:00,draftkings,1,186.0,,flag,221.5
-Aaron Rodgers,pass_yds,259.5,alternate,Pittsburgh Steelers @ Tampa Bay Buccaneers,2026-10-18 17:00:00+00:00,draftkings,1,239.0,,flag,221.5
-Aaron Rodgers,pass_yds,269.5,alternate,Pittsburgh Steelers @ Tampa Bay Buccaneers,2026-10-18 17:00:00+00:00,draftkings,1,309.0,,flag,221.5
-Aaron Rodgers,pass_yds,279.5,alternate,Pittsburgh Steelers @ Tampa Bay Buccaneers,2026-10-18 17:00:00+00:00,draftkings,1,399.0,,flag,221.5
-Aaron Rodgers,pass_yds,289.5,alternate,Pittsburgh Steelers @ Tampa Bay Buccaneers,2026-10-18 17:00:00+00:00,draftkings,1,520.0,,flag,221.5
-Aaron Rodgers,pass_yds,299.5,alternate,Pittsburgh Steelers @ Tampa Bay Buccaneers,2026-10-18 17:00:00+00:00,draftkings,1,660.0,,flag,221.5
-Aaron Rodgers,pass_yds,309.5,alternate,Pittsburgh Steelers @ Tampa Bay Buccaneers,2026-10-18 17:00:00+00:00,draftkings,1,870.0,,flag,221.5
-Aaron Rodgers,pass_yds,319.5,alternate,Pittsburgh Steelers @ Tampa Bay Buccaneers,2026-10-18 17:00:00+00:00,draftkings,1,1140.0,,flag,221.5
-Aaron Rodgers,pass_yds,329.5,alternate,Pittsburgh Steelers @ Tampa Bay Buccaneers,2026-10-18 17:00:00+00:00,draftkings,1,1420.0,,flag,221.5
-Aaron Rodgers,pass_yds,339.5,alternate,Pittsburgh Steelers @ Tampa Bay Buccaneers,2026-10-18 17:00:00+00:00,draftkings,1,1880.0,,flag,221.5
-Aaron Rodgers,pass_yds,349.5,alternate,Pittsburgh Steelers @ Tampa Bay Buccaneers,2026-10-18 17:00:00+00:00,draftkings,1,2300.0,,flag,221.5
-Aaron Rodgers,pass_yds,359.5,alternate,Pittsburgh Steelers @ Tampa Bay Buccaneers,2026-10-18 17:00:00+00:00,draftkings,1,3000.0,,flag,221.5
-Aaron Rodgers,pass_yds,369.5,alternate,Pittsburgh Steelers @ Tampa Bay Buccaneers,2026-10-18 17:00:00+00:00,draftkings,1,3600.0,,flag,221.5
-Aaron Rodgers,rush_yds,0.5,standard,Pittsburgh Steelers @ Tampa Bay Buccaneers,2026-10-18 17:00:00+00:00,draftkings,1,-109.0,-115.0,flag,0.5
-Bucky Irving,car,15.5,standard,Pittsburgh Steelers @ Tampa Bay Buccaneers,2026-10-18 17:00:00+00:00,draftkings,1,-123.0,-104.0,flag,15.5
-Bucky Irving,rec,1.5,standard,Pittsburgh Steelers @ Tampa Bay Buccaneers,2026-10-18 17:00:00+00:00,draftkings,1,,148.0,flag,1.5
-Bucky Irving,rec,5.5,alternate,Pittsburgh Steelers @ Tampa Bay Buccaneers,2026-10-18 17:00:00+00:00,draftkings,1,1980.0,,flag,1.5
-Bucky Irving,rush_yds,67.5,standard,Pittsburgh Steelers @ Tampa Bay Buccaneers,2026-10-18 17:00:00+00:00,draftkings,1,-112.0,-111.0,flag,67.5
-Bucky Irving,rush_yds,89.5,alternate,Pittsburgh Steelers @ Tampa Bay Buccaneers,2026-10-18 17:00:00+00:00,draftkings,1,247.0,,flag,67.5
-Bucky Irving,rush_yds,119.5,alternate,Pittsburgh Steelers @ Tampa Bay Buccaneers,2026-10-18 17:00:00+00:00,draftkings,1,860.0,,flag,67.5
-DK Metcalf,rec,8.5,alternate,Pittsburgh Steelers @ Tampa Bay Buccaneers,2026-10-18 17:00:00+00:00,draftkings,1,1720.0,,none,
-Emeka Egbuka,rec,3.5,standard,Pittsburgh Steelers @ Tampa Bay Buccaneers,2026-10-18 17:00:00+00:00,draftkings,1,-136.0,106.0,flag,3.5
-Emeka Egbuka,rec,4.5,alternate,Pittsburgh Steelers @ Tampa Bay Buccaneers,2026-10-18 17:00:00+00:00,draftkings,1,162.0,,flag,3.5
-Germie Bernard,rec,4.5,standard,Pittsburgh Steelers @ Tampa Bay Buccaneers,2026-10-18 17:00:00+00:00,draftkings,1,118.0,,flag,4.5
-Germie Bernard,rec,6.5,alternate,Pittsburgh Steelers @ Tampa Bay Buccaneers,2026-10-18 17:00:00+00:00,draftkings,1,420.0,,flag,4.5
-Germie Bernard,rec,8.5,alternate,Pittsburgh Steelers @ Tampa Bay Buccaneers,2026-10-18 17:00:00+00:00,draftkings,1,1380.0,,flag,4.5
-Jalon Daniels,car,6.5,standard,Pittsburgh Steelers @ Tampa Bay Buccaneers,2026-10-18 17:00:00+00:00,draftkings,1,-127.0,-101.0,flag,6.5
-Jalon Daniels,pass_att,28.5,standard,Pittsburgh Steelers @ Tampa Bay Buccaneers,2026-10-18 17:00:00+00:00,draftkings,1,-109.0,-117.0,flag,28.5
-Jalon Daniels,pass_yds,149.5,alternate,Pittsburgh Steelers @ Tampa Bay Buccaneers,2026-10-18 17:00:00+00:00,draftkings,1,-223.0,,flag,171.5
-Jalon Daniels,pass_yds,159.5,alternate,Pittsburgh Steelers @ Tampa Bay Buccaneers,2026-10-18 17:00:00+00:00,draftkings,1,-162.0,,flag,171.5
-Jalon Daniels,pass_yds,169.5,alternate,Pittsburgh Steelers @ Tampa Bay Buccaneers,2026-10-18 17:00:00+00:00,draftkings,1,-120.0,,flag,171.5
-Jalon Daniels,pass_yds,171.5,standard,Pittsburgh Steelers @ Tampa Bay Buccaneers,2026-10-18 17:00:00+00:00,draftkings,1,-113.0,-111.0,flag,171.5
-Jalon Daniels,pass_yds,179.5,alternate,Pittsburgh Steelers @ Tampa Bay Buccaneers,2026-10-18 17:00:00+00:00,draftkings,1,111.0,,flag,171.5
-Jalon Daniels,pass_yds,189.5,alternate,Pittsburgh Steelers @ Tampa Bay Buccaneers,2026-10-18 17:00:00+00:00,draftkings,1,148.0,,flag,171.5
-Jalon Daniels,pass_yds,199.5,alternate,Pittsburgh Steelers @ Tampa Bay Buccaneers,2026-10-18 17:00:00+00:00,draftkings,1,193.0,,flag,171.5
-Jalon Daniels,pass_yds,209.5,alternate,Pittsburgh Steelers @ Tampa Bay Buccaneers,2026-10-18 17:00:00+00:00,draftkings,1,259.0,,flag,171.5
-Jalon Daniels,pass_yds,219.5,alternate,Pittsburgh Steelers @ Tampa Bay Buccaneers,2026-10-18 17:00:00+00:00,draftkings,1,343.0,,flag,171.5
-Jalon Daniels,pass_yds,229.5,alternate,Pittsburgh Steelers @ Tampa Bay Buccaneers,2026-10-18 17:00:00+00:00,draftkings,1,447.0,,flag,171.5
-Jalon Daniels,pass_yds,239.5,alternate,Pittsburgh Steelers @ Tampa Bay Buccaneers,2026-10-18 17:00:00+00:00,draftkings,1,582.0,,flag,171.5
-Jalon Daniels,pass_yds,249.5,alternate,Pittsburgh Steelers @ Tampa Bay Buccaneers,2026-10-18 17:00:00+00:00,draftkings,1,750.0,,flag,171.5
-Jalon Daniels,pass_yds,259.5,alternate,Pittsburgh Steelers @ Tampa Bay Buccaneers,2026-10-18 17:00:00+00:00,draftkings,1,990.0,,flag,171.5
-Jalon Daniels,pass_yds,269.5,alternate,Pittsburgh Steelers @ Tampa Bay Buccaneers,2026-10-18 17:00:00+00:00,draftkings,1,1300.0,,flag,171.5
-Jalon Daniels,pass_yds,279.5,alternate,Pittsburgh Steelers @ Tampa Bay Buccaneers,2026-10-18 17:00:00+00:00,draftkings,1,1700.0,,flag,171.5
-Jalon Daniels,pass_yds,289.5,alternate,Pittsburgh Steelers @ Tampa Bay Buccaneers,2026-10-18 17:00:00+00:00,draftkings,1,2200.0,,flag,171.5
-Jalon Daniels,pass_yds,299.5,alternate,Pittsburgh Steelers @ Tampa Bay Buccaneers,2026-10-18 17:00:00+00:00,draftkings,1,2800.0,,flag,171.5
-Jalon Daniels,pass_yds,309.5,alternate,Pittsburgh Steelers @ Tampa Bay Buccaneers,2026-10-18 17:00:00+00:00,draftkings,1,3600.0,,flag,171.5
-Jalon Daniels,rush_yds,14.5,alternate,Pittsburgh Steelers @ Tampa Bay Buccaneers,2026-10-18 17:00:00+00:00,draftkings,1,-880.0,,none,
-Jaylen Warren,rec,1.5,alternate,Pittsburgh Steelers @ Tampa Bay Buccaneers,2026-10-18 17:00:00+00:00,draftkings,1,-1000.0,,flag,3.5
-Jaylen Warren,rec,3.5,standard,Pittsburgh Steelers @ Tampa Bay Buccaneers,2026-10-18 17:00:00+00:00,draftkings,1,-117.0,-109.0,flag,3.5
-Jaylen Warren,rec,6.5,alternate,Pittsburgh Steelers @ Tampa Bay Buccaneers,2026-10-18 17:00:00+00:00,draftkings,1,740.0,,flag,3.5
-Jaylen Warren,rec,8.5,alternate,Pittsburgh Steelers @ Tampa Bay Buccaneers,2026-10-18 17:00:00+00:00,draftkings,1,2300.0,,flag,3.5
-Jaylen Warren,rush_yds,29.5,alternate,Pittsburgh Steelers @ Tampa Bay Buccaneers,2026-10-18 17:00:00+00:00,draftkings,1,-1020.0,,none,
-Jaylen Warren,rush_yds,59.5,alternate,Pittsburgh Steelers @ Tampa Bay Buccaneers,2026-10-18 17:00:00+00:00,draftkings,1,-121.0,,none,
-Kenneth Gainwell,rec,2.5,standard,Pittsburgh Steelers @ Tampa Bay Buccaneers,2026-10-18 17:00:00+00:00,draftkings,1,,-152.0,flag,2.5
-Kenneth Gainwell,rec,3.5,alternate,Pittsburgh Steelers @ Tampa Bay Buccaneers,2026-10-18 17:00:00+00:00,draftkings,1,302.0,,flag,2.5
-Rico Dowdle,car,6.5,standard,Pittsburgh Steelers @ Tampa Bay Buccaneers,2026-10-18 17:00:00+00:00,draftkings,1,105.0,-134.0,flag,6.5
-Rico Dowdle,rec,1.5,standard,Pittsburgh Steelers @ Tampa Bay Buccaneers,2026-10-18 17:00:00+00:00,draftkings,1,,-138.0,flag,1.5
-Rico Dowdle,rec,4.5,alternate,Pittsburgh Steelers @ Tampa Bay Buccaneers,2026-10-18 17:00:00+00:00,draftkings,1,2000.0,,flag,1.5
-Rico Dowdle,rush_yds,9.5,alternate,Pittsburgh Steelers @ Tampa Bay Buccaneers,2026-10-18 17:00:00+00:00,draftkings,1,-338.0,,flag,17.5
-Rico Dowdle,rush_yds,14.5,alternate,Pittsburgh Steelers @ Tampa Bay Buccaneers,2026-10-18 17:00:00+00:00,draftkings,1,-156.0,,flag,17.5
-Rico Dowdle,rush_yds,17.5,standard,Pittsburgh Steelers @ Tampa Bay Buccaneers,2026-10-18 17:00:00+00:00,draftkings,1,-109.0,-115.0,flag,17.5
-Rico Dowdle,rush_yds,19.5,alternate,Pittsburgh Steelers @ Tampa Bay Buccaneers,2026-10-18 17:00:00+00:00,draftkings,1,114.0,,flag,17.5
-Rico Dowdle,rush_yds,24.5,alternate,Pittsburgh Steelers @ Tampa Bay Buccaneers,2026-10-18 17:00:00+00:00,draftkings,1,190.0,,flag,17.5
-Rico Dowdle,rush_yds,29.5,alternate,Pittsburgh Steelers @ Tampa Bay Buccaneers,2026-10-18 17:00:00+00:00,draftkings,1,295.0,,flag,17.5
-Rico Dowdle,rush_yds,39.5,alternate,Pittsburgh Steelers @ Tampa Bay Buccaneers,2026-10-18 17:00:00+00:00,draftkings,1,620.0,,flag,17.5
-Rico Dowdle,rush_yds,49.5,alternate,Pittsburgh Steelers @ Tampa Bay Buccaneers,2026-10-18 17:00:00+00:00,draftkings,1,1080.0,,flag,17.5
-Rico Dowdle,rush_yds,59.5,alternate,Pittsburgh Steelers @ Tampa Bay Buccaneers,2026-10-18 17:00:00+00:00,draftkings,1,1680.0,,flag,17.5
-Rico Dowdle,rush_yds,69.5,alternate,Pittsburgh Steelers @ Tampa Bay Buccaneers,2026-10-18 17:00:00+00:00,draftkings,1,2500.0,,flag,17.5
-Rico Dowdle,rush_yds,79.5,alternate,Pittsburgh Steelers @ Tampa Bay Buccaneers,2026-10-18 17:00:00+00:00,draftkings,1,3600.0,,flag,17.5
-Cameron Ward,pass_att,31.5,standard,Tennessee Titans @ Indianapolis Colts,2026-10-18 17:00:00+00:00,draftkings,1,-123.0,-104.0,flag,31.5
-Cameron Ward,pass_td,0.5,standard,Tennessee Titans @ Indianapolis Colts,2026-10-18 17:00:00+00:00,draftkings,1,-261.0,200.0,flag,0.5
-Cameron Ward,pass_yds,149.5,alternate,Tennessee Titans @ Indianapolis Colts,2026-10-18 17:00:00+00:00,draftkings,1,-650.0,,flag,203.5
-Cameron Ward,pass_yds,159.5,alternate,Tennessee Titans @ Indianapolis Colts,2026-10-18 17:00:00+00:00,draftkings,1,-441.0,,flag,203.5
-Cameron Ward,pass_yds,169.5,alternate,Tennessee Titans @ Indianapolis Colts,2026-10-18 17:00:00+00:00,draftkings,1,-313.0,,flag,203.5
-Cameron Ward,pass_yds,179.5,alternate,Tennessee Titans @ Indianapolis Colts,2026-10-18 17:00:00+00:00,draftkings,1,-227.0,,flag,203.5
-Cameron Ward,pass_yds,189.5,alternate,Tennessee Titans @ Indianapolis Colts,2026-10-18 17:00:00+00:00,draftkings,1,-167.0,,flag,203.5
-Cameron Ward,pass_yds,199.5,alternate,Tennessee Titans @ Indianapolis Colts,2026-10-18 17:00:00+00:00,draftkings,1,-125.0,,flag,203.5
-Cameron Ward,pass_yds,203.5,standard,Tennessee Titans @ Indianapolis Colts,2026-10-18 17:00:00+00:00,draftkings,1,-112.0,-112.0,flag,203.5
-Cameron Ward,pass_yds,209.5,alternate,Tennessee Titans @ Indianapolis Colts,2026-10-18 17:00:00+00:00,draftkings,1,105.0,,flag,203.5
-Cameron Ward,pass_yds,219.5,alternate,Tennessee Titans @ Indianapolis Colts,2026-10-18 17:00:00+00:00,draftkings,1,140.0,,flag,203.5
-Cameron Ward,pass_yds,229.5,alternate,Tennessee Titans @ Indianapolis Colts,2026-10-18 17:00:00+00:00,draftkings,1,182.0,,flag,203.5
-Cameron Ward,pass_yds,239.5,alternate,Tennessee Titans @ Indianapolis Colts,2026-10-18 17:00:00+00:00,draftkings,1,243.0,,flag,203.5
-Cameron Ward,pass_yds,249.5,alternate,Tennessee Titans @ Indianapolis Colts,2026-10-18 17:00:00+00:00,draftkings,1,322.0,,flag,203.5
-Cameron Ward,pass_yds,259.5,alternate,Tennessee Titans @ Indianapolis Colts,2026-10-18 17:00:00+00:00,draftkings,1,423.0,,flag,203.5
-Cameron Ward,pass_yds,269.5,alternate,Tennessee Titans @ Indianapolis Colts,2026-10-18 17:00:00+00:00,draftkings,1,557.0,,flag,203.5
-Cameron Ward,pass_yds,279.5,alternate,Tennessee Titans @ Indianapolis Colts,2026-10-18 17:00:00+00:00,draftkings,1,730.0,,flag,203.5
-Cameron Ward,pass_yds,289.5,alternate,Tennessee Titans @ Indianapolis Colts,2026-10-18 17:00:00+00:00,draftkings,1,980.0,,flag,203.5
-Cameron Ward,pass_yds,299.5,alternate,Tennessee Titans @ Indianapolis Colts,2026-10-18 17:00:00+00:00,draftkings,1,1240.0,,flag,203.5
-Cameron Ward,pass_yds,309.5,alternate,Tennessee Titans @ Indianapolis Colts,2026-10-18 17:00:00+00:00,draftkings,1,1640.0,,flag,203.5
-Cameron Ward,pass_yds,319.5,alternate,Tennessee Titans @ Indianapolis Colts,2026-10-18 17:00:00+00:00,draftkings,1,2200.0,,flag,203.5
-Cameron Ward,pass_yds,329.5,alternate,Tennessee Titans @ Indianapolis Colts,2026-10-18 17:00:00+00:00,draftkings,1,2800.0,,flag,203.5
-Cameron Ward,pass_yds,339.5,alternate,Tennessee Titans @ Indianapolis Colts,2026-10-18 17:00:00+00:00,draftkings,1,3500.0,,flag,203.5
-Cameron Ward,rush_yds,19.5,alternate,Tennessee Titans @ Indianapolis Colts,2026-10-18 17:00:00+00:00,draftkings,1,191.0,,none,
-Daniel Jones,pass_att,30.5,standard,Tennessee Titans @ Indianapolis Colts,2026-10-18 17:00:00+00:00,draftkings,1,-118.0,-108.0,flag,30.5
-Daniel Jones,pass_td,1.5,standard,Tennessee Titans @ Indianapolis Colts,2026-10-18 17:00:00+00:00,draftkings,1,113.0,-145.0,flag,1.5
-Daniel Jones,pass_yds,159.5,alternate,Tennessee Titans @ Indianapolis Colts,2026-10-18 17:00:00+00:00,draftkings,1,-1000.0,,flag,224.5
-Daniel Jones,pass_yds,169.5,alternate,Tennessee Titans @ Indianapolis Colts,2026-10-18 17:00:00+00:00,draftkings,1,-650.0,,flag,224.5
-Daniel Jones,pass_yds,179.5,alternate,Tennessee Titans @ Indianapolis Colts,2026-10-18 17:00:00+00:00,draftkings,1,-456.0,,flag,224.5
-Daniel Jones,pass_yds,189.5,alternate,Tennessee Titans @ Indianapolis Colts,2026-10-18 17:00:00+00:00,draftkings,1,-320.0,,flag,224.5
-Daniel Jones,pass_yds,199.5,alternate,Tennessee Titans @ Indianapolis Colts,2026-10-18 17:00:00+00:00,draftkings,1,-231.0,,flag,224.5
-Daniel Jones,pass_yds,209.5,alternate,Tennessee Titans @ Indianapolis Colts,2026-10-18 17:00:00+00:00,draftkings,1,-172.0,,flag,224.5
-Daniel Jones,pass_yds,219.5,alternate,Tennessee Titans @ Indianapolis Colts,2026-10-18 17:00:00+00:00,draftkings,1,-129.0,,flag,224.5
-Daniel Jones,pass_yds,224.5,standard,Tennessee Titans @ Indianapolis Colts,2026-10-18 17:00:00+00:00,draftkings,1,-112.0,-112.0,flag,224.5
-Daniel Jones,pass_yds,229.5,alternate,Tennessee Titans @ Indianapolis Colts,2026-10-18 17:00:00+00:00,draftkings,1,102.0,,flag,224.5
-Daniel Jones,pass_yds,239.5,alternate,Tennessee Titans @ Indianapolis Colts,2026-10-18 17:00:00+00:00,draftkings,1,134.0,,flag,224.5
-Daniel Jones,pass_yds,249.5,alternate,Tennessee Titans @ Indianapolis Colts,2026-10-18 17:00:00+00:00,draftkings,1,176.0,,flag,224.5
-Daniel Jones,pass_yds,259.5,alternate,Tennessee Titans @ Indianapolis Colts,2026-10-18 17:00:00+00:00,draftkings,1,233.0,,flag,224.5
-Daniel Jones,pass_yds,269.5,alternate,Tennessee Titans @ Indianapolis Colts,2026-10-18 17:00:00+00:00,draftkings,1,304.0,,flag,224.5
-Daniel Jones,pass_yds,279.5,alternate,Tennessee Titans @ Indianapolis Colts,2026-10-18 17:00:00+00:00,draftkings,1,392.0,,flag,224.5
-Daniel Jones,pass_yds,289.5,alternate,Tennessee Titans @ Indianapolis Colts,2026-10-18 17:00:00+00:00,draftkings,1,517.0,,flag,224.5
-Daniel Jones,pass_yds,299.5,alternate,Tennessee Titans @ Indianapolis Colts,2026-10-18 17:00:00+00:00,draftkings,1,670.0,,flag,224.5
-Daniel Jones,pass_yds,309.5,alternate,Tennessee Titans @ Indianapolis Colts,2026-10-18 17:00:00+00:00,draftkings,1,880.0,,flag,224.5
-Daniel Jones,pass_yds,319.5,alternate,Tennessee Titans @ Indianapolis Colts,2026-10-18 17:00:00+00:00,draftkings,1,1160.0,,flag,224.5
-Daniel Jones,pass_yds,329.5,alternate,Tennessee Titans @ Indianapolis Colts,2026-10-18 17:00:00+00:00,draftkings,1,1480.0,,flag,224.5
-Daniel Jones,pass_yds,339.5,alternate,Tennessee Titans @ Indianapolis Colts,2026-10-18 17:00:00+00:00,draftkings,1,1940.0,,flag,224.5
-Daniel Jones,pass_yds,349.5,alternate,Tennessee Titans @ Indianapolis Colts,2026-10-18 17:00:00+00:00,draftkings,1,2500.0,,flag,224.5
-Daniel Jones,pass_yds,359.5,alternate,Tennessee Titans @ Indianapolis Colts,2026-10-18 17:00:00+00:00,draftkings,1,3100.0,,flag,224.5
-Daniel Jones,pass_yds,369.5,alternate,Tennessee Titans @ Indianapolis Colts,2026-10-18 17:00:00+00:00,draftkings,1,3800.0,,flag,224.5
-Daniel Jones,rush_yds,49.5,alternate,Tennessee Titans @ Indianapolis Colts,2026-10-18 17:00:00+00:00,draftkings,1,3500.0,,none,
-Jonathan Taylor,car,19.5,standard,Tennessee Titans @ Indianapolis Colts,2026-10-18 17:00:00+00:00,draftkings,1,-128.0,100.0,flag,19.5
-Jonathan Taylor,rush_yds,39.5,alternate,Tennessee Titans @ Indianapolis Colts,2026-10-18 17:00:00+00:00,draftkings,1,-1860.0,,flag,89.5
-Jonathan Taylor,rush_yds,59.5,alternate,Tennessee Titans @ Indianapolis Colts,2026-10-18 17:00:00+00:00,draftkings,1,-447.0,,flag,89.5
-Jonathan Taylor,rush_yds,89.5,standard,Tennessee Titans @ Indianapolis Colts,2026-10-18 17:00:00+00:00,draftkings,1,,-113.0,flag,89.5
-Seth McGowan,rush_yds,14.5,standard,Tennessee Titans @ Indianapolis Colts,2026-10-18 17:00:00+00:00,draftkings,1,,-114.0,flag,14.5
-Seth McGowan,rush_yds,19.5,alternate,Tennessee Titans @ Indianapolis Colts,2026-10-18 17:00:00+00:00,draftkings,1,143.0,,flag,14.5
-Tony Pollard,car,14.5,standard,Tennessee Titans @ Indianapolis Colts,2026-10-18 17:00:00+00:00,draftkings,1,-121.0,-105.0,flag,14.5
-Tony Pollard,rush_yds,79.5,alternate,Tennessee Titans @ Indianapolis Colts,2026-10-18 17:00:00+00:00,draftkings,1,258.0,,none,
-Tyjae Spears,rush_yds,14.5,alternate,Tennessee Titans @ Indianapolis Colts,2026-10-18 17:00:00+00:00,draftkings,1,105.0,,none,
-Blake Corum,car,10.5,standard,ARI Cardinals @ Los Angeles Rams,2026-10-18 20:05:00+00:00,draftkings,1,106.0,-136.0,flag,10.5
-Jacoby Brissett,pass_att,37.5,standard,ARI Cardinals @ Los Angeles Rams,2026-10-18 20:05:00+00:00,draftkings,1,-111.0,-115.0,flag,37.5
-Jacoby Brissett,pass_td,1.5,standard,ARI Cardinals @ Los Angeles Rams,2026-10-18 20:05:00+00:00,draftkings,1,133.0,-170.0,flag,1.5
-Kyren Williams,car,14.5,standard,ARI Cardinals @ Los Angeles Rams,2026-10-18 20:05:00+00:00,draftkings,1,-106.0,-121.0,flag,14.5
-Matthew Stafford,pass_att,34.5,standard,ARI Cardinals @ Los Angeles Rams,2026-10-18 20:05:00+00:00,draftkings,1,-107.0,-119.0,flag,34.5
-Matthew Stafford,pass_td,2.5,standard,ARI Cardinals @ Los Angeles Rams,2026-10-18 20:05:00+00:00,draftkings,1,107.0,-136.0,flag,2.5
-Tyler Allgeier,car,13.5,standard,ARI Cardinals @ Los Angeles Rams,2026-10-18 20:05:00+00:00,draftkings,1,100.0,-128.0,flag,13.5
-Ashton Jeanty,car,14.5,standard,Buffalo Bills @ Las Vegas Raiders,2026-10-18 20:25:00+00:00,draftkings,1,-112.0,-114.0,flag,14.5
-James Cook,car,18.5,standard,Buffalo Bills @ Las Vegas Raiders,2026-10-18 20:25:00+00:00,draftkings,1,-113.0,-112.0,flag,18.5
-Josh Allen,car,7.5,standard,Buffalo Bills @ Las Vegas Raiders,2026-10-18 20:25:00+00:00,draftkings,1,-106.0,-120.0,flag,7.5
-Josh Allen,pass_att,30.5,standard,Buffalo Bills @ Las Vegas Raiders,2026-10-18 20:25:00+00:00,draftkings,1,-104.0,-123.0,flag,30.5
-Josh Allen,pass_td,1.5,standard,Buffalo Bills @ Las Vegas Raiders,2026-10-18 20:25:00+00:00,draftkings,1,-138.0,108.0,flag,1.5
-Kirk Cousins,pass_att,36.5,standard,Buffalo Bills @ Las Vegas Raiders,2026-10-18 20:25:00+00:00,draftkings,1,-116.0,-110.0,flag,36.5
-Kirk Cousins,pass_td,1.5,standard,Buffalo Bills @ Las Vegas Raiders,2026-10-18 20:25:00+00:00,draftkings,1,-148.0,116.0,flag,1.5
+Antonio Williams,rec,1.5,alternate,Washington Commanders @ San Francisco 49ers,2026-10-20 00:15:00+00:00,draftkings,1,-231.0,,flag,2.5
+Antonio Williams,rec,2.5,standard,Washington Commanders @ San Francisco 49ers,2026-10-20 00:15:00+00:00,draftkings,1,129.0,-166.0,flag,2.5
+Antonio Williams,rec,3.5,alternate,Washington Commanders @ San Francisco 49ers,2026-10-20 00:15:00+00:00,draftkings,1,314.0,,flag,2.5
+Antonio Williams,rec,4.5,alternate,Washington Commanders @ San Francisco 49ers,2026-10-20 00:15:00+00:00,draftkings,1,720.0,,flag,2.5
+Antonio Williams,rec,5.5,alternate,Washington Commanders @ San Francisco 49ers,2026-10-20 00:15:00+00:00,draftkings,1,1520.0,,flag,2.5
+Antonio Williams,rec,6.5,alternate,Washington Commanders @ San Francisco 49ers,2026-10-20 00:15:00+00:00,draftkings,1,2600.0,,flag,2.5
+Antonio Williams,rec_yds,14.5,alternate,Washington Commanders @ San Francisco 49ers,2026-10-20 00:15:00+00:00,draftkings,1,-185.0,,flag,20.5
+Antonio Williams,rec_yds,20.5,standard,Washington Commanders @ San Francisco 49ers,2026-10-20 00:15:00+00:00,draftkings,1,-110.0,-114.0,flag,20.5
+Antonio Williams,rec_yds,24.5,alternate,Washington Commanders @ San Francisco 49ers,2026-10-20 00:15:00+00:00,draftkings,1,120.0,,flag,20.5
+Antonio Williams,rec_yds,39.5,alternate,Washington Commanders @ San Francisco 49ers,2026-10-20 00:15:00+00:00,draftkings,1,301.0,,flag,20.5
+Antonio Williams,rec_yds,49.5,alternate,Washington Commanders @ San Francisco 49ers,2026-10-20 00:15:00+00:00,draftkings,1,523.0,,flag,20.5
+Antonio Williams,rec_yds,59.5,alternate,Washington Commanders @ San Francisco 49ers,2026-10-20 00:15:00+00:00,draftkings,1,880.0,,flag,20.5
+Antonio Williams,rec_yds,69.5,alternate,Washington Commanders @ San Francisco 49ers,2026-10-20 00:15:00+00:00,draftkings,1,1400.0,,flag,20.5
+Antonio Williams,rec_yds,79.5,alternate,Washington Commanders @ San Francisco 49ers,2026-10-20 00:15:00+00:00,draftkings,1,2200.0,,flag,20.5
+Antonio Williams,rec_yds,89.5,alternate,Washington Commanders @ San Francisco 49ers,2026-10-20 00:15:00+00:00,draftkings,1,3300.0,,flag,20.5
+Chigoziem Okonkwo,rec,1.5,alternate,Washington Commanders @ San Francisco 49ers,2026-10-20 00:15:00+00:00,draftkings,1,-475.0,,flag,2.5
+Chigoziem Okonkwo,rec,2.5,standard,Washington Commanders @ San Francisco 49ers,2026-10-20 00:15:00+00:00,draftkings,1,-156.0,122.0,flag,2.5
+Chigoziem Okonkwo,rec,3.5,alternate,Washington Commanders @ San Francisco 49ers,2026-10-20 00:15:00+00:00,draftkings,1,155.0,,flag,2.5
+Chigoziem Okonkwo,rec,4.5,alternate,Washington Commanders @ San Francisco 49ers,2026-10-20 00:15:00+00:00,draftkings,1,337.0,,flag,2.5
+Chigoziem Okonkwo,rec,5.5,alternate,Washington Commanders @ San Francisco 49ers,2026-10-20 00:15:00+00:00,draftkings,1,680.0,,flag,2.5
+Chigoziem Okonkwo,rec,6.5,alternate,Washington Commanders @ San Francisco 49ers,2026-10-20 00:15:00+00:00,draftkings,1,1340.0,,flag,2.5
+Chigoziem Okonkwo,rec,7.5,alternate,Washington Commanders @ San Francisco 49ers,2026-10-20 00:15:00+00:00,draftkings,1,2200.0,,flag,2.5
+Chigoziem Okonkwo,rec_yds,14.5,alternate,Washington Commanders @ San Francisco 49ers,2026-10-20 00:15:00+00:00,draftkings,1,-257.0,,flag,24.5
+Chigoziem Okonkwo,rec_yds,24.5,standard,Washington Commanders @ San Francisco 49ers,2026-10-20 00:15:00+00:00,draftkings,1,-116.0,-108.0,flag,24.5
+Chigoziem Okonkwo,rec_yds,39.5,alternate,Washington Commanders @ San Francisco 49ers,2026-10-20 00:15:00+00:00,draftkings,1,235.0,,flag,24.5
+Chigoziem Okonkwo,rec_yds,49.5,alternate,Washington Commanders @ San Francisco 49ers,2026-10-20 00:15:00+00:00,draftkings,1,401.0,,flag,24.5
+Chigoziem Okonkwo,rec_yds,59.5,alternate,Washington Commanders @ San Francisco 49ers,2026-10-20 00:15:00+00:00,draftkings,1,670.0,,flag,24.5
+Chigoziem Okonkwo,rec_yds,69.5,alternate,Washington Commanders @ San Francisco 49ers,2026-10-20 00:15:00+00:00,draftkings,1,1120.0,,flag,24.5
+Chigoziem Okonkwo,rec_yds,79.5,alternate,Washington Commanders @ San Francisco 49ers,2026-10-20 00:15:00+00:00,draftkings,1,1760.0,,flag,24.5
+Chigoziem Okonkwo,rec_yds,89.5,alternate,Washington Commanders @ San Francisco 49ers,2026-10-20 00:15:00+00:00,draftkings,1,2500.0,,flag,24.5
+Chigoziem Okonkwo,rec_yds,99.5,alternate,Washington Commanders @ San Francisco 49ers,2026-10-20 00:15:00+00:00,draftkings,1,3700.0,,flag,24.5
+Christian McCaffrey,rec,1.5,alternate,Washington Commanders @ San Francisco 49ers,2026-10-20 00:15:00+00:00,draftkings,1,-3500.0,,flag,4.5
+Christian McCaffrey,rec,2.5,alternate,Washington Commanders @ San Francisco 49ers,2026-10-20 00:15:00+00:00,draftkings,1,-720.0,,flag,4.5
+Christian McCaffrey,rec,3.5,alternate,Washington Commanders @ San Francisco 49ers,2026-10-20 00:15:00+00:00,draftkings,1,-266.0,,flag,4.5
+Christian McCaffrey,rec,4.5,standard,Washington Commanders @ San Francisco 49ers,2026-10-20 00:15:00+00:00,draftkings,1,-121.0,-106.0,flag,4.5
+Christian McCaffrey,rec,5.5,alternate,Washington Commanders @ San Francisco 49ers,2026-10-20 00:15:00+00:00,draftkings,1,160.0,,flag,4.5
+Christian McCaffrey,rec,6.5,alternate,Washington Commanders @ San Francisco 49ers,2026-10-20 00:15:00+00:00,draftkings,1,310.0,,flag,4.5
+Christian McCaffrey,rec,7.5,alternate,Washington Commanders @ San Francisco 49ers,2026-10-20 00:15:00+00:00,draftkings,1,581.0,,flag,4.5
+Christian McCaffrey,rec,8.5,alternate,Washington Commanders @ San Francisco 49ers,2026-10-20 00:15:00+00:00,draftkings,1,1020.0,,flag,4.5
+Christian McCaffrey,rec,9.5,alternate,Washington Commanders @ San Francisco 49ers,2026-10-20 00:15:00+00:00,draftkings,1,1680.0,,flag,4.5
+Christian McCaffrey,rec,10.5,alternate,Washington Commanders @ San Francisco 49ers,2026-10-20 00:15:00+00:00,draftkings,1,2600.0,,flag,4.5
+Christian McCaffrey,rec_yds,14.5,alternate,Washington Commanders @ San Francisco 49ers,2026-10-20 00:15:00+00:00,draftkings,1,-730.0,,flag,39.5
+Christian McCaffrey,rec_yds,24.5,alternate,Washington Commanders @ San Francisco 49ers,2026-10-20 00:15:00+00:00,draftkings,1,-288.0,,flag,39.5
+Christian McCaffrey,rec_yds,39.5,standard,Washington Commanders @ San Francisco 49ers,2026-10-20 00:15:00+00:00,draftkings,1,-111.0,-113.0,flag,39.5
+Christian McCaffrey,rec_yds,49.5,alternate,Washington Commanders @ San Francisco 49ers,2026-10-20 00:15:00+00:00,draftkings,1,156.0,,flag,39.5
+Christian McCaffrey,rec_yds,59.5,alternate,Washington Commanders @ San Francisco 49ers,2026-10-20 00:15:00+00:00,draftkings,1,250.0,,flag,39.5
+Christian McCaffrey,rec_yds,69.5,alternate,Washington Commanders @ San Francisco 49ers,2026-10-20 00:15:00+00:00,draftkings,1,398.0,,flag,39.5
+Christian McCaffrey,rec_yds,79.5,alternate,Washington Commanders @ San Francisco 49ers,2026-10-20 00:15:00+00:00,draftkings,1,610.0,,flag,39.5
+Christian McCaffrey,rec_yds,89.5,alternate,Washington Commanders @ San Francisco 49ers,2026-10-20 00:15:00+00:00,draftkings,1,930.0,,flag,39.5
+Christian McCaffrey,rec_yds,99.5,alternate,Washington Commanders @ San Francisco 49ers,2026-10-20 00:15:00+00:00,draftkings,1,1400.0,,flag,39.5
+Christian McCaffrey,rec_yds,109.5,alternate,Washington Commanders @ San Francisco 49ers,2026-10-20 00:15:00+00:00,draftkings,1,1980.0,,flag,39.5
+Christian McCaffrey,rec_yds,119.5,alternate,Washington Commanders @ San Francisco 49ers,2026-10-20 00:15:00+00:00,draftkings,1,2800.0,,flag,39.5
+Christian McCaffrey,rec_yds,129.5,alternate,Washington Commanders @ San Francisco 49ers,2026-10-20 00:15:00+00:00,draftkings,1,3700.0,,flag,39.5
+George Kittle,rec,2.5,alternate,Washington Commanders @ San Francisco 49ers,2026-10-20 00:15:00+00:00,draftkings,1,-1380.0,,flag,5.5
+George Kittle,rec,3.5,alternate,Washington Commanders @ San Francisco 49ers,2026-10-20 00:15:00+00:00,draftkings,1,-460.0,,flag,5.5
+George Kittle,rec,4.5,alternate,Washington Commanders @ San Francisco 49ers,2026-10-20 00:15:00+00:00,draftkings,1,-208.0,,flag,5.5
+George Kittle,rec,5.5,standard,Washington Commanders @ San Francisco 49ers,2026-10-20 00:15:00+00:00,draftkings,1,-106.0,-120.0,flag,5.5
+George Kittle,rec,6.5,alternate,Washington Commanders @ San Francisco 49ers,2026-10-20 00:15:00+00:00,draftkings,1,166.0,,flag,5.5
+George Kittle,rec,7.5,alternate,Washington Commanders @ San Francisco 49ers,2026-10-20 00:15:00+00:00,draftkings,1,283.0,,flag,5.5
+George Kittle,rec,8.5,alternate,Washington Commanders @ San Francisco 49ers,2026-10-20 00:15:00+00:00,draftkings,1,466.0,,flag,5.5
+George Kittle,rec,9.5,alternate,Washington Commanders @ San Francisco 49ers,2026-10-20 00:15:00+00:00,draftkings,1,740.0,,flag,5.5
+George Kittle,rec,10.5,alternate,Washington Commanders @ San Francisco 49ers,2026-10-20 00:15:00+00:00,draftkings,1,1160.0,,flag,5.5
+George Kittle,rec,11.5,alternate,Washington Commanders @ San Francisco 49ers,2026-10-20 00:15:00+00:00,draftkings,1,1740.0,,flag,5.5
+George Kittle,rec,12.5,alternate,Washington Commanders @ San Francisco 49ers,2026-10-20 00:15:00+00:00,draftkings,1,2400.0,,flag,5.5
+George Kittle,rec_yds,24.5,alternate,Washington Commanders @ San Francisco 49ers,2026-10-20 00:15:00+00:00,draftkings,1,-1080.0,,flag,65.5
+George Kittle,rec_yds,39.5,alternate,Washington Commanders @ San Francisco 49ers,2026-10-20 00:15:00+00:00,draftkings,1,-370.0,,flag,65.5
+George Kittle,rec_yds,49.5,alternate,Washington Commanders @ San Francisco 49ers,2026-10-20 00:15:00+00:00,draftkings,1,-222.0,,flag,65.5
+George Kittle,rec_yds,59.5,alternate,Washington Commanders @ San Francisco 49ers,2026-10-20 00:15:00+00:00,draftkings,1,-144.0,,flag,65.5
+George Kittle,rec_yds,65.5,standard,Washington Commanders @ San Francisco 49ers,2026-10-20 00:15:00+00:00,draftkings,1,-113.0,-111.0,flag,65.5
+George Kittle,rec_yds,69.5,alternate,Washington Commanders @ San Francisco 49ers,2026-10-20 00:15:00+00:00,draftkings,1,103.0,,flag,65.5
+George Kittle,rec_yds,79.5,alternate,Washington Commanders @ San Francisco 49ers,2026-10-20 00:15:00+00:00,draftkings,1,147.0,,flag,65.5
+George Kittle,rec_yds,89.5,alternate,Washington Commanders @ San Francisco 49ers,2026-10-20 00:15:00+00:00,draftkings,1,208.0,,flag,65.5
+George Kittle,rec_yds,99.5,alternate,Washington Commanders @ San Francisco 49ers,2026-10-20 00:15:00+00:00,draftkings,1,287.0,,flag,65.5
+George Kittle,rec_yds,109.5,alternate,Washington Commanders @ San Francisco 49ers,2026-10-20 00:15:00+00:00,draftkings,1,396.0,,flag,65.5
+George Kittle,rec_yds,119.5,alternate,Washington Commanders @ San Francisco 49ers,2026-10-20 00:15:00+00:00,draftkings,1,546.0,,flag,65.5
+George Kittle,rec_yds,129.5,alternate,Washington Commanders @ San Francisco 49ers,2026-10-20 00:15:00+00:00,draftkings,1,730.0,,flag,65.5
+George Kittle,rec_yds,139.5,alternate,Washington Commanders @ San Francisco 49ers,2026-10-20 00:15:00+00:00,draftkings,1,990.0,,flag,65.5
+George Kittle,rec_yds,149.5,alternate,Washington Commanders @ San Francisco 49ers,2026-10-20 00:15:00+00:00,draftkings,1,1360.0,,flag,65.5
+George Kittle,rec_yds,159.5,alternate,Washington Commanders @ San Francisco 49ers,2026-10-20 00:15:00+00:00,draftkings,1,1860.0,,flag,65.5
+George Kittle,rec_yds,169.5,alternate,Washington Commanders @ San Francisco 49ers,2026-10-20 00:15:00+00:00,draftkings,1,2400.0,,flag,65.5
+George Kittle,rec_yds,179.5,alternate,Washington Commanders @ San Francisco 49ers,2026-10-20 00:15:00+00:00,draftkings,1,3300.0,,flag,65.5
+Mike Evans,rec,2.5,alternate,Washington Commanders @ San Francisco 49ers,2026-10-20 00:15:00+00:00,draftkings,1,-1620.0,,flag,5.5
+Mike Evans,rec,3.5,alternate,Washington Commanders @ San Francisco 49ers,2026-10-20 00:15:00+00:00,draftkings,1,-502.0,,flag,5.5
+Mike Evans,rec,4.5,alternate,Washington Commanders @ San Francisco 49ers,2026-10-20 00:15:00+00:00,draftkings,1,-211.0,,flag,5.5
+Mike Evans,rec,5.5,standard,Washington Commanders @ San Francisco 49ers,2026-10-20 00:15:00+00:00,draftkings,1,-103.0,-123.0,flag,5.5
+Mike Evans,rec,6.5,alternate,Washington Commanders @ San Francisco 49ers,2026-10-20 00:15:00+00:00,draftkings,1,188.0,,flag,5.5
+Mike Evans,rec,7.5,alternate,Washington Commanders @ San Francisco 49ers,2026-10-20 00:15:00+00:00,draftkings,1,352.0,,flag,5.5
+Mike Evans,rec,8.5,alternate,Washington Commanders @ San Francisco 49ers,2026-10-20 00:15:00+00:00,draftkings,1,660.0,,flag,5.5
+Mike Evans,rec,9.5,alternate,Washington Commanders @ San Francisco 49ers,2026-10-20 00:15:00+00:00,draftkings,1,1160.0,,flag,5.5
+Mike Evans,rec,10.5,alternate,Washington Commanders @ San Francisco 49ers,2026-10-20 00:15:00+00:00,draftkings,1,1900.0,,flag,5.5
+Mike Evans,rec_yds,24.5,alternate,Washington Commanders @ San Francisco 49ers,2026-10-20 00:15:00+00:00,draftkings,1,-1480.0,,flag,70.5
+Mike Evans,rec_yds,39.5,alternate,Washington Commanders @ San Francisco 49ers,2026-10-20 00:15:00+00:00,draftkings,1,-480.0,,flag,70.5
+Mike Evans,rec_yds,49.5,alternate,Washington Commanders @ San Francisco 49ers,2026-10-20 00:15:00+00:00,draftkings,1,-284.0,,flag,70.5
+Mike Evans,rec_yds,59.5,alternate,Washington Commanders @ San Francisco 49ers,2026-10-20 00:15:00+00:00,draftkings,1,-179.0,,flag,70.5
+Mike Evans,rec_yds,69.5,alternate,Washington Commanders @ San Francisco 49ers,2026-10-20 00:15:00+00:00,draftkings,1,-116.0,,flag,70.5
+Mike Evans,rec_yds,70.5,standard,Washington Commanders @ San Francisco 49ers,2026-10-20 00:15:00+00:00,draftkings,1,-112.0,-112.0,flag,70.5
+Mike Evans,rec_yds,79.5,alternate,Washington Commanders @ San Francisco 49ers,2026-10-20 00:15:00+00:00,draftkings,1,126.0,,flag,70.5
+Mike Evans,rec_yds,89.5,alternate,Washington Commanders @ San Francisco 49ers,2026-10-20 00:15:00+00:00,draftkings,1,182.0,,flag,70.5
+Mike Evans,rec_yds,99.5,alternate,Washington Commanders @ San Francisco 49ers,2026-10-20 00:15:00+00:00,draftkings,1,263.0,,flag,70.5
+Mike Evans,rec_yds,109.5,alternate,Washington Commanders @ San Francisco 49ers,2026-10-20 00:15:00+00:00,draftkings,1,373.0,,flag,70.5
+Mike Evans,rec_yds,119.5,alternate,Washington Commanders @ San Francisco 49ers,2026-10-20 00:15:00+00:00,draftkings,1,522.0,,flag,70.5
+Mike Evans,rec_yds,129.5,alternate,Washington Commanders @ San Francisco 49ers,2026-10-20 00:15:00+00:00,draftkings,1,730.0,,flag,70.5
+Mike Evans,rec_yds,139.5,alternate,Washington Commanders @ San Francisco 49ers,2026-10-20 00:15:00+00:00,draftkings,1,1020.0,,flag,70.5
+Mike Evans,rec_yds,149.5,alternate,Washington Commanders @ San Francisco 49ers,2026-10-20 00:15:00+00:00,draftkings,1,1460.0,,flag,70.5
+Mike Evans,rec_yds,159.5,alternate,Washington Commanders @ San Francisco 49ers,2026-10-20 00:15:00+00:00,draftkings,1,2000.0,,flag,70.5
+Mike Evans,rec_yds,169.5,alternate,Washington Commanders @ San Francisco 49ers,2026-10-20 00:15:00+00:00,draftkings,1,2600.0,,flag,70.5
+Rachaad White,rec,1.5,alternate,Washington Commanders @ San Francisco 49ers,2026-10-20 00:15:00+00:00,draftkings,1,-253.0,,flag,2.5
+Rachaad White,rec,2.5,standard,Washington Commanders @ San Francisco 49ers,2026-10-20 00:15:00+00:00,draftkings,1,110.0,-140.0,flag,2.5
+Rachaad White,rec,3.5,alternate,Washington Commanders @ San Francisco 49ers,2026-10-20 00:15:00+00:00,draftkings,1,269.0,,flag,2.5
+Rachaad White,rec,4.5,alternate,Washington Commanders @ San Francisco 49ers,2026-10-20 00:15:00+00:00,draftkings,1,594.0,,flag,2.5
+Rachaad White,rec,5.5,alternate,Washington Commanders @ San Francisco 49ers,2026-10-20 00:15:00+00:00,draftkings,1,1260.0,,flag,2.5
+Rachaad White,rec,6.5,alternate,Washington Commanders @ San Francisco 49ers,2026-10-20 00:15:00+00:00,draftkings,1,2200.0,,flag,2.5
+Rachaad White,rec_yds,12.5,standard,Washington Commanders @ San Francisco 49ers,2026-10-20 00:15:00+00:00,draftkings,1,-115.0,-109.0,flag,12.5
+Rachaad White,rec_yds,14.5,alternate,Washington Commanders @ San Francisco 49ers,2026-10-20 00:15:00+00:00,draftkings,1,105.0,,flag,12.5
+Rachaad White,rec_yds,24.5,alternate,Washington Commanders @ San Francisco 49ers,2026-10-20 00:15:00+00:00,draftkings,1,253.0,,flag,12.5
+Rachaad White,rec_yds,39.5,alternate,Washington Commanders @ San Francisco 49ers,2026-10-20 00:15:00+00:00,draftkings,1,730.0,,flag,12.5
+Rachaad White,rec_yds,49.5,alternate,Washington Commanders @ San Francisco 49ers,2026-10-20 00:15:00+00:00,draftkings,1,1280.0,,flag,12.5
+Rachaad White,rec_yds,59.5,alternate,Washington Commanders @ San Francisco 49ers,2026-10-20 00:15:00+00:00,draftkings,1,2000.0,,flag,12.5
+Rachaad White,rec_yds,69.5,alternate,Washington Commanders @ San Francisco 49ers,2026-10-20 00:15:00+00:00,draftkings,1,3200.0,,flag,12.5
+Stefon Diggs,rec,1.5,alternate,Washington Commanders @ San Francisco 49ers,2026-10-20 00:15:00+00:00,draftkings,1,-1640.0,,flag,3.5
+Stefon Diggs,rec,2.5,alternate,Washington Commanders @ San Francisco 49ers,2026-10-20 00:15:00+00:00,draftkings,1,-427.0,,flag,3.5
+Stefon Diggs,rec,3.5,standard,Washington Commanders @ San Francisco 49ers,2026-10-20 00:15:00+00:00,draftkings,1,-166.0,130.0,flag,3.5
+Stefon Diggs,rec,4.5,alternate,Washington Commanders @ San Francisco 49ers,2026-10-20 00:15:00+00:00,draftkings,1,130.0,,flag,3.5
+Stefon Diggs,rec,5.5,alternate,Washington Commanders @ San Francisco 49ers,2026-10-20 00:15:00+00:00,draftkings,1,264.0,,flag,3.5
+Stefon Diggs,rec,6.5,alternate,Washington Commanders @ San Francisco 49ers,2026-10-20 00:15:00+00:00,draftkings,1,516.0,,flag,3.5
+Stefon Diggs,rec,7.5,alternate,Washington Commanders @ San Francisco 49ers,2026-10-20 00:15:00+00:00,draftkings,1,970.0,,flag,3.5
+Stefon Diggs,rec,8.5,alternate,Washington Commanders @ San Francisco 49ers,2026-10-20 00:15:00+00:00,draftkings,1,1780.0,,flag,3.5
+Stefon Diggs,rec_yds,14.5,alternate,Washington Commanders @ San Francisco 49ers,2026-10-20 00:15:00+00:00,draftkings,1,-760.0,,flag,39.5
+Stefon Diggs,rec_yds,24.5,alternate,Washington Commanders @ San Francisco 49ers,2026-10-20 00:15:00+00:00,draftkings,1,-306.0,,flag,39.5
+Stefon Diggs,rec_yds,39.5,standard,Washington Commanders @ San Francisco 49ers,2026-10-20 00:15:00+00:00,draftkings,1,-114.0,-110.0,flag,39.5
+Stefon Diggs,rec_yds,49.5,alternate,Washington Commanders @ San Francisco 49ers,2026-10-20 00:15:00+00:00,draftkings,1,149.0,,flag,39.5
+Stefon Diggs,rec_yds,59.5,alternate,Washington Commanders @ San Francisco 49ers,2026-10-20 00:15:00+00:00,draftkings,1,245.0,,flag,39.5
+Stefon Diggs,rec_yds,69.5,alternate,Washington Commanders @ San Francisco 49ers,2026-10-20 00:15:00+00:00,draftkings,1,392.0,,flag,39.5
+Stefon Diggs,rec_yds,79.5,alternate,Washington Commanders @ San Francisco 49ers,2026-10-20 00:15:00+00:00,draftkings,1,600.0,,flag,39.5
+Stefon Diggs,rec_yds,89.5,alternate,Washington Commanders @ San Francisco 49ers,2026-10-20 00:15:00+00:00,draftkings,1,940.0,,flag,39.5
+Stefon Diggs,rec_yds,99.5,alternate,Washington Commanders @ San Francisco 49ers,2026-10-20 00:15:00+00:00,draftkings,1,1420.0,,flag,39.5
+Stefon Diggs,rec_yds,109.5,alternate,Washington Commanders @ San Francisco 49ers,2026-10-20 00:15:00+00:00,draftkings,1,2200.0,,flag,39.5
+Stefon Diggs,rec_yds,119.5,alternate,Washington Commanders @ San Francisco 49ers,2026-10-20 00:15:00+00:00,draftkings,1,3000.0,,flag,39.5
+Terry McLaurin,rec,1.5,alternate,Washington Commanders @ San Francisco 49ers,2026-10-20 00:15:00+00:00,draftkings,1,-1060.0,,flag,3.5
+Terry McLaurin,rec,2.5,alternate,Washington Commanders @ San Francisco 49ers,2026-10-20 00:15:00+00:00,draftkings,1,-312.0,,flag,3.5
+Terry McLaurin,rec,3.5,standard,Washington Commanders @ San Francisco 49ers,2026-10-20 00:15:00+00:00,draftkings,1,-126.0,-101.0,flag,3.5
+Terry McLaurin,rec,4.5,alternate,Washington Commanders @ San Francisco 49ers,2026-10-20 00:15:00+00:00,draftkings,1,170.0,,flag,3.5
+Terry McLaurin,rec,5.5,alternate,Washington Commanders @ San Francisco 49ers,2026-10-20 00:15:00+00:00,draftkings,1,347.0,,flag,3.5
+Terry McLaurin,rec,6.5,alternate,Washington Commanders @ San Francisco 49ers,2026-10-20 00:15:00+00:00,draftkings,1,670.0,,flag,3.5
+Terry McLaurin,rec,7.5,alternate,Washington Commanders @ San Francisco 49ers,2026-10-20 00:15:00+00:00,draftkings,1,1180.0,,flag,3.5
+Terry McLaurin,rec,8.5,alternate,Washington Commanders @ San Francisco 49ers,2026-10-20 00:15:00+00:00,draftkings,1,2000.0,,flag,3.5
+Terry McLaurin,rec_yds,14.5,alternate,Washington Commanders @ San Francisco 49ers,2026-10-20 00:15:00+00:00,draftkings,1,-730.0,,flag,46.5
+Terry McLaurin,rec_yds,24.5,alternate,Washington Commanders @ San Francisco 49ers,2026-10-20 00:15:00+00:00,draftkings,1,-353.0,,flag,46.5
+Terry McLaurin,rec_yds,39.5,alternate,Washington Commanders @ San Francisco 49ers,2026-10-20 00:15:00+00:00,draftkings,1,-156.0,,flag,46.5
+Terry McLaurin,rec_yds,46.5,standard,Washington Commanders @ San Francisco 49ers,2026-10-20 00:15:00+00:00,draftkings,1,-114.0,-110.0,flag,46.5
+Terry McLaurin,rec_yds,49.5,alternate,Washington Commanders @ San Francisco 49ers,2026-10-20 00:15:00+00:00,draftkings,1,100.0,,flag,46.5
+Terry McLaurin,rec_yds,59.5,alternate,Washington Commanders @ San Francisco 49ers,2026-10-20 00:15:00+00:00,draftkings,1,150.0,,flag,46.5
+Terry McLaurin,rec_yds,69.5,alternate,Washington Commanders @ San Francisco 49ers,2026-10-20 00:15:00+00:00,draftkings,1,223.0,,flag,46.5
+Terry McLaurin,rec_yds,79.5,alternate,Washington Commanders @ San Francisco 49ers,2026-10-20 00:15:00+00:00,draftkings,1,320.0,,flag,46.5
+Terry McLaurin,rec_yds,89.5,alternate,Washington Commanders @ San Francisco 49ers,2026-10-20 00:15:00+00:00,draftkings,1,459.0,,flag,46.5
+Terry McLaurin,rec_yds,99.5,alternate,Washington Commanders @ San Francisco 49ers,2026-10-20 00:15:00+00:00,draftkings,1,650.0,,flag,46.5
+Terry McLaurin,rec_yds,109.5,alternate,Washington Commanders @ San Francisco 49ers,2026-10-20 00:15:00+00:00,draftkings,1,910.0,,flag,46.5
+Terry McLaurin,rec_yds,119.5,alternate,Washington Commanders @ San Francisco 49ers,2026-10-20 00:15:00+00:00,draftkings,1,1260.0,,flag,46.5
+Terry McLaurin,rec_yds,129.5,alternate,Washington Commanders @ San Francisco 49ers,2026-10-20 00:15:00+00:00,draftkings,1,1740.0,,flag,46.5
+Terry McLaurin,rec_yds,139.5,alternate,Washington Commanders @ San Francisco 49ers,2026-10-20 00:15:00+00:00,draftkings,1,2300.0,,flag,46.5
+Terry McLaurin,rec_yds,149.5,alternate,Washington Commanders @ San Francisco 49ers,2026-10-20 00:15:00+00:00,draftkings,1,3000.0,,flag,46.5
+Terry McLaurin,rec_yds,159.5,alternate,Washington Commanders @ San Francisco 49ers,2026-10-20 00:15:00+00:00,draftkings,1,4000.0,,flag,46.5
+A.J. Brown,rec,3.5,alternate,New England Patriots @ Chicago Bears,2026-10-23 00:15:00+00:00,draftkings,1,-323.0,,flag,4.5
+A.J. Brown,rec,4.5,standard,New England Patriots @ Chicago Bears,2026-10-23 00:15:00+00:00,draftkings,1,,113.0,flag,4.5
+A.J. Brown,rec,5.5,alternate,New England Patriots @ Chicago Bears,2026-10-23 00:15:00+00:00,draftkings,1,138.0,,flag,4.5
+A.J. Brown,rec,7.5,alternate,New England Patriots @ Chicago Bears,2026-10-23 00:15:00+00:00,draftkings,1,483.0,,flag,4.5
+A.J. Brown,rec,8.5,alternate,New England Patriots @ Chicago Bears,2026-10-23 00:15:00+00:00,draftkings,1,870.0,,flag,4.5
+A.J. Brown,rec,9.5,alternate,New England Patriots @ Chicago Bears,2026-10-23 00:15:00+00:00,draftkings,1,1540.0,,flag,4.5
+Caleb Williams,pass_att,32.5,standard,New England Patriots @ Chicago Bears,2026-10-23 00:15:00+00:00,draftkings,1,-111.0,-114.0,flag,32.5
+Caleb Williams,pass_td,1.5,standard,New England Patriots @ Chicago Bears,2026-10-23 00:15:00+00:00,draftkings,1,-133.0,104.0,flag,1.5
+Caleb Williams,pass_yds,169.5,alternate,New England Patriots @ Chicago Bears,2026-10-23 00:15:00+00:00,draftkings,1,-1040.0,,flag,241.5
+Caleb Williams,pass_yds,179.5,alternate,New England Patriots @ Chicago Bears,2026-10-23 00:15:00+00:00,draftkings,1,-700.0,,flag,241.5
+Caleb Williams,pass_yds,189.5,alternate,New England Patriots @ Chicago Bears,2026-10-23 00:15:00+00:00,draftkings,1,-494.0,,flag,241.5
+Caleb Williams,pass_yds,199.5,alternate,New England Patriots @ Chicago Bears,2026-10-23 00:15:00+00:00,draftkings,1,-362.0,,flag,241.5
+Caleb Williams,pass_yds,209.5,alternate,New England Patriots @ Chicago Bears,2026-10-23 00:15:00+00:00,draftkings,1,-267.0,,flag,241.5
+Caleb Williams,pass_yds,219.5,alternate,New England Patriots @ Chicago Bears,2026-10-23 00:15:00+00:00,draftkings,1,-201.0,,flag,241.5
+Caleb Williams,pass_yds,229.5,alternate,New England Patriots @ Chicago Bears,2026-10-23 00:15:00+00:00,draftkings,1,-152.0,,flag,241.5
+Caleb Williams,pass_yds,239.5,alternate,New England Patriots @ Chicago Bears,2026-10-23 00:15:00+00:00,draftkings,1,-117.0,,flag,241.5
+Caleb Williams,pass_yds,241.5,standard,New England Patriots @ Chicago Bears,2026-10-23 00:15:00+00:00,draftkings,1,-111.0,-113.0,flag,241.5
+Caleb Williams,pass_yds,249.5,alternate,New England Patriots @ Chicago Bears,2026-10-23 00:15:00+00:00,draftkings,1,111.0,,flag,241.5
+Caleb Williams,pass_yds,259.5,alternate,New England Patriots @ Chicago Bears,2026-10-23 00:15:00+00:00,draftkings,1,143.0,,flag,241.5
+Caleb Williams,pass_yds,269.5,alternate,New England Patriots @ Chicago Bears,2026-10-23 00:15:00+00:00,draftkings,1,185.0,,flag,241.5
+Caleb Williams,pass_yds,279.5,alternate,New England Patriots @ Chicago Bears,2026-10-23 00:15:00+00:00,draftkings,1,239.0,,flag,241.5
+Caleb Williams,pass_yds,289.5,alternate,New England Patriots @ Chicago Bears,2026-10-23 00:15:00+00:00,draftkings,1,304.0,,flag,241.5
+Caleb Williams,pass_yds,299.5,alternate,New England Patriots @ Chicago Bears,2026-10-23 00:15:00+00:00,draftkings,1,391.0,,flag,241.5
+Caleb Williams,pass_yds,309.5,alternate,New England Patriots @ Chicago Bears,2026-10-23 00:15:00+00:00,draftkings,1,501.0,,flag,241.5
+Caleb Williams,pass_yds,319.5,alternate,New England Patriots @ Chicago Bears,2026-10-23 00:15:00+00:00,draftkings,1,640.0,,flag,241.5
+Caleb Williams,pass_yds,329.5,alternate,New England Patriots @ Chicago Bears,2026-10-23 00:15:00+00:00,draftkings,1,820.0,,flag,241.5
+Caleb Williams,pass_yds,339.5,alternate,New England Patriots @ Chicago Bears,2026-10-23 00:15:00+00:00,draftkings,1,1060.0,,flag,241.5
+Caleb Williams,pass_yds,349.5,alternate,New England Patriots @ Chicago Bears,2026-10-23 00:15:00+00:00,draftkings,1,1360.0,,flag,241.5
+Caleb Williams,pass_yds,359.5,alternate,New England Patriots @ Chicago Bears,2026-10-23 00:15:00+00:00,draftkings,1,1720.0,,flag,241.5
+Caleb Williams,pass_yds,369.5,alternate,New England Patriots @ Chicago Bears,2026-10-23 00:15:00+00:00,draftkings,1,2200.0,,flag,241.5
+Caleb Williams,pass_yds,379.5,alternate,New England Patriots @ Chicago Bears,2026-10-23 00:15:00+00:00,draftkings,1,2800.0,,flag,241.5
+Caleb Williams,pass_yds,389.5,alternate,New England Patriots @ Chicago Bears,2026-10-23 00:15:00+00:00,draftkings,1,3400.0,,flag,241.5
+Caleb Williams,rush_yds,9.5,alternate,New England Patriots @ Chicago Bears,2026-10-23 00:15:00+00:00,draftkings,1,-299.0,,flag,17.5
+Caleb Williams,rush_yds,14.5,alternate,New England Patriots @ Chicago Bears,2026-10-23 00:15:00+00:00,draftkings,1,-157.0,,flag,17.5
+Caleb Williams,rush_yds,17.5,standard,New England Patriots @ Chicago Bears,2026-10-23 00:15:00+00:00,draftkings,1,-113.0,-111.0,flag,17.5
+Caleb Williams,rush_yds,19.5,alternate,New England Patriots @ Chicago Bears,2026-10-23 00:15:00+00:00,draftkings,1,108.0,,flag,17.5
+Caleb Williams,rush_yds,24.5,alternate,New England Patriots @ Chicago Bears,2026-10-23 00:15:00+00:00,draftkings,1,171.0,,flag,17.5
+Caleb Williams,rush_yds,29.5,alternate,New England Patriots @ Chicago Bears,2026-10-23 00:15:00+00:00,draftkings,1,262.0,,flag,17.5
+Caleb Williams,rush_yds,39.5,alternate,New England Patriots @ Chicago Bears,2026-10-23 00:15:00+00:00,draftkings,1,566.0,,flag,17.5
+Caleb Williams,rush_yds,49.5,alternate,New England Patriots @ Chicago Bears,2026-10-23 00:15:00+00:00,draftkings,1,1080.0,,flag,17.5
+Caleb Williams,rush_yds,59.5,alternate,New England Patriots @ Chicago Bears,2026-10-23 00:15:00+00:00,draftkings,1,1940.0,,flag,17.5
+Caleb Williams,rush_yds,69.5,alternate,New England Patriots @ Chicago Bears,2026-10-23 00:15:00+00:00,draftkings,1,3100.0,,flag,17.5
+Colston Loveland,rec,1.5,alternate,New England Patriots @ Chicago Bears,2026-10-23 00:15:00+00:00,draftkings,1,-1500.0,,flag,3.5
+Colston Loveland,rec,2.5,alternate,New England Patriots @ Chicago Bears,2026-10-23 00:15:00+00:00,draftkings,1,-397.0,,flag,3.5
+Colston Loveland,rec,3.5,standard,New England Patriots @ Chicago Bears,2026-10-23 00:15:00+00:00,draftkings,1,-148.0,,flag,3.5
+Colston Loveland,rec,4.5,alternate,New England Patriots @ Chicago Bears,2026-10-23 00:15:00+00:00,draftkings,1,144.0,,flag,3.5
+Colston Loveland,rec,5.5,alternate,New England Patriots @ Chicago Bears,2026-10-23 00:15:00+00:00,draftkings,1,292.0,,flag,3.5
+Colston Loveland,rec,6.5,alternate,New England Patriots @ Chicago Bears,2026-10-23 00:15:00+00:00,draftkings,1,585.0,,flag,3.5
+Colston Loveland,rec,8.5,alternate,New England Patriots @ Chicago Bears,2026-10-23 00:15:00+00:00,draftkings,1,1960.0,,flag,3.5
+D'Andre Swift,car,14.5,standard,New England Patriots @ Chicago Bears,2026-10-23 00:15:00+00:00,draftkings,1,-124.0,-103.0,flag,14.5
+D'Andre Swift,rec,1.5,alternate,New England Patriots @ Chicago Bears,2026-10-23 00:15:00+00:00,draftkings,1,-411.0,,flag,2.5
+D'Andre Swift,rec,2.5,standard,New England Patriots @ Chicago Bears,2026-10-23 00:15:00+00:00,draftkings,1,-133.0,104.0,flag,2.5
+D'Andre Swift,rec,4.5,alternate,New England Patriots @ Chicago Bears,2026-10-23 00:15:00+00:00,draftkings,1,412.0,,flag,2.5
+D'Andre Swift,rec,5.5,alternate,New England Patriots @ Chicago Bears,2026-10-23 00:15:00+00:00,draftkings,1,900.0,,flag,2.5
+D'Andre Swift,rec,7.5,alternate,New England Patriots @ Chicago Bears,2026-10-23 00:15:00+00:00,draftkings,1,2900.0,,flag,2.5
+D'Andre Swift,rush_yds,24.5,alternate,New England Patriots @ Chicago Bears,2026-10-23 00:15:00+00:00,draftkings,1,-2500.0,,flag,65.5
+D'Andre Swift,rush_yds,29.5,alternate,New England Patriots @ Chicago Bears,2026-10-23 00:15:00+00:00,draftkings,1,-1280.0,,flag,65.5
+D'Andre Swift,rush_yds,39.5,alternate,New England Patriots @ Chicago Bears,2026-10-23 00:15:00+00:00,draftkings,1,-513.0,,flag,65.5
+D'Andre Swift,rush_yds,49.5,alternate,New England Patriots @ Chicago Bears,2026-10-23 00:15:00+00:00,draftkings,1,-264.0,,flag,65.5
+D'Andre Swift,rush_yds,59.5,alternate,New England Patriots @ Chicago Bears,2026-10-23 00:15:00+00:00,draftkings,1,-150.0,,flag,65.5
+D'Andre Swift,rush_yds,65.5,standard,New England Patriots @ Chicago Bears,2026-10-23 00:15:00+00:00,draftkings,1,-110.0,-114.0,flag,65.5
+D'Andre Swift,rush_yds,69.5,alternate,New England Patriots @ Chicago Bears,2026-10-23 00:15:00+00:00,draftkings,1,110.0,,flag,65.5
+D'Andre Swift,rush_yds,79.5,alternate,New England Patriots @ Chicago Bears,2026-10-23 00:15:00+00:00,draftkings,1,175.0,,flag,65.5
+D'Andre Swift,rush_yds,89.5,alternate,New England Patriots @ Chicago Bears,2026-10-23 00:15:00+00:00,draftkings,1,273.0,,flag,65.5
+D'Andre Swift,rush_yds,99.5,alternate,New England Patriots @ Chicago Bears,2026-10-23 00:15:00+00:00,draftkings,1,405.0,,flag,65.5
+D'Andre Swift,rush_yds,109.5,alternate,New England Patriots @ Chicago Bears,2026-10-23 00:15:00+00:00,draftkings,1,600.0,,flag,65.5
+D'Andre Swift,rush_yds,119.5,alternate,New England Patriots @ Chicago Bears,2026-10-23 00:15:00+00:00,draftkings,1,900.0,,flag,65.5
+D'Andre Swift,rush_yds,129.5,alternate,New England Patriots @ Chicago Bears,2026-10-23 00:15:00+00:00,draftkings,1,1300.0,,flag,65.5
+D'Andre Swift,rush_yds,139.5,alternate,New England Patriots @ Chicago Bears,2026-10-23 00:15:00+00:00,draftkings,1,1880.0,,flag,65.5
+D'Andre Swift,rush_yds,149.5,alternate,New England Patriots @ Chicago Bears,2026-10-23 00:15:00+00:00,draftkings,1,2600.0,,flag,65.5
+D'Andre Swift,rush_yds,159.5,alternate,New England Patriots @ Chicago Bears,2026-10-23 00:15:00+00:00,draftkings,1,3700.0,,flag,65.5
+Demario Douglas,rec,2.5,standard,New England Patriots @ Chicago Bears,2026-10-23 00:15:00+00:00,draftkings,1,-161.0,126.0,flag,2.5
+Demario Douglas,rec,3.5,alternate,New England Patriots @ Chicago Bears,2026-10-23 00:15:00+00:00,draftkings,1,148.0,,flag,2.5
+Demario Douglas,rec,4.5,alternate,New England Patriots @ Chicago Bears,2026-10-23 00:15:00+00:00,draftkings,1,330.0,,flag,2.5
+Demario Douglas,rec,5.5,alternate,New England Patriots @ Chicago Bears,2026-10-23 00:15:00+00:00,draftkings,1,710.0,,flag,2.5
+Demario Douglas,rec,7.5,alternate,New England Patriots @ Chicago Bears,2026-10-23 00:15:00+00:00,draftkings,1,2500.0,,flag,2.5
+Drake Maye,pass_att,31.5,standard,New England Patriots @ Chicago Bears,2026-10-23 00:15:00+00:00,draftkings,1,-104.0,-122.0,flag,31.5
+Drake Maye,pass_td,1.5,standard,New England Patriots @ Chicago Bears,2026-10-23 00:15:00+00:00,draftkings,1,-126.0,-101.0,flag,1.5
+Drake Maye,pass_yds,159.5,alternate,New England Patriots @ Chicago Bears,2026-10-23 00:15:00+00:00,draftkings,1,-1320.0,,flag,237.5
+Drake Maye,pass_yds,169.5,alternate,New England Patriots @ Chicago Bears,2026-10-23 00:15:00+00:00,draftkings,1,-890.0,,flag,237.5
+Drake Maye,pass_yds,179.5,alternate,New England Patriots @ Chicago Bears,2026-10-23 00:15:00+00:00,draftkings,1,-610.0,,flag,237.5
+Drake Maye,pass_yds,189.5,alternate,New England Patriots @ Chicago Bears,2026-10-23 00:15:00+00:00,draftkings,1,-432.0,,flag,237.5
+Drake Maye,pass_yds,199.5,alternate,New England Patriots @ Chicago Bears,2026-10-23 00:15:00+00:00,draftkings,1,-317.0,,flag,237.5
+Drake Maye,pass_yds,209.5,alternate,New England Patriots @ Chicago Bears,2026-10-23 00:15:00+00:00,draftkings,1,-237.0,,flag,237.5
+Drake Maye,pass_yds,219.5,alternate,New England Patriots @ Chicago Bears,2026-10-23 00:15:00+00:00,draftkings,1,-181.0,,flag,237.5
+Drake Maye,pass_yds,229.5,alternate,New England Patriots @ Chicago Bears,2026-10-23 00:15:00+00:00,draftkings,1,-138.0,,flag,237.5
+Drake Maye,pass_yds,237.5,standard,New England Patriots @ Chicago Bears,2026-10-23 00:15:00+00:00,draftkings,1,-112.0,-112.0,flag,237.5
+Drake Maye,pass_yds,239.5,alternate,New England Patriots @ Chicago Bears,2026-10-23 00:15:00+00:00,draftkings,1,-107.0,,flag,237.5
+Drake Maye,pass_yds,249.5,alternate,New England Patriots @ Chicago Bears,2026-10-23 00:15:00+00:00,draftkings,1,122.0,,flag,237.5
+Drake Maye,pass_yds,259.5,alternate,New England Patriots @ Chicago Bears,2026-10-23 00:15:00+00:00,draftkings,1,158.0,,flag,237.5
+Drake Maye,pass_yds,269.5,alternate,New England Patriots @ Chicago Bears,2026-10-23 00:15:00+00:00,draftkings,1,203.0,,flag,237.5
+Drake Maye,pass_yds,279.5,alternate,New England Patriots @ Chicago Bears,2026-10-23 00:15:00+00:00,draftkings,1,261.0,,flag,237.5
+Drake Maye,pass_yds,289.5,alternate,New England Patriots @ Chicago Bears,2026-10-23 00:15:00+00:00,draftkings,1,337.0,,flag,237.5
+Drake Maye,pass_yds,299.5,alternate,New England Patriots @ Chicago Bears,2026-10-23 00:15:00+00:00,draftkings,1,433.0,,flag,237.5
+Drake Maye,pass_yds,309.5,alternate,New England Patriots @ Chicago Bears,2026-10-23 00:15:00+00:00,draftkings,1,562.0,,flag,237.5
+Drake Maye,pass_yds,319.5,alternate,New England Patriots @ Chicago Bears,2026-10-23 00:15:00+00:00,draftkings,1,720.0,,flag,237.5
+Drake Maye,pass_yds,329.5,alternate,New England Patriots @ Chicago Bears,2026-10-23 00:15:00+00:00,draftkings,1,920.0,,flag,237.5
+Drake Maye,pass_yds,339.5,alternate,New England Patriots @ Chicago Bears,2026-10-23 00:15:00+00:00,draftkings,1,1160.0,,flag,237.5
+Drake Maye,pass_yds,349.5,alternate,New England Patriots @ Chicago Bears,2026-10-23 00:15:00+00:00,draftkings,1,1500.0,,flag,237.5
+Drake Maye,pass_yds,359.5,alternate,New England Patriots @ Chicago Bears,2026-10-23 00:15:00+00:00,draftkings,1,1960.0,,flag,237.5
+Drake Maye,pass_yds,369.5,alternate,New England Patriots @ Chicago Bears,2026-10-23 00:15:00+00:00,draftkings,1,2500.0,,flag,237.5
+Drake Maye,pass_yds,379.5,alternate,New England Patriots @ Chicago Bears,2026-10-23 00:15:00+00:00,draftkings,1,3100.0,,flag,237.5
+Drake Maye,pass_yds,389.5,alternate,New England Patriots @ Chicago Bears,2026-10-23 00:15:00+00:00,draftkings,1,3800.0,,flag,237.5
+Drake Maye,rush_yds,9.5,alternate,New England Patriots @ Chicago Bears,2026-10-23 00:15:00+00:00,draftkings,1,-800.0,,flag,29.5
+Drake Maye,rush_yds,14.5,alternate,New England Patriots @ Chicago Bears,2026-10-23 00:15:00+00:00,draftkings,1,-416.0,,flag,29.5
+Drake Maye,rush_yds,19.5,alternate,New England Patriots @ Chicago Bears,2026-10-23 00:15:00+00:00,draftkings,1,-247.0,,flag,29.5
+Drake Maye,rush_yds,24.5,alternate,New England Patriots @ Chicago Bears,2026-10-23 00:15:00+00:00,draftkings,1,-159.0,,flag,29.5
+Drake Maye,rush_yds,29.5,standard,New England Patriots @ Chicago Bears,2026-10-23 00:15:00+00:00,draftkings,1,-109.0,-115.0,flag,29.5
+Drake Maye,rush_yds,39.5,alternate,New England Patriots @ Chicago Bears,2026-10-23 00:15:00+00:00,draftkings,1,182.0,,flag,29.5
+Drake Maye,rush_yds,49.5,alternate,New England Patriots @ Chicago Bears,2026-10-23 00:15:00+00:00,draftkings,1,340.0,,flag,29.5
+Drake Maye,rush_yds,59.5,alternate,New England Patriots @ Chicago Bears,2026-10-23 00:15:00+00:00,draftkings,1,620.0,,flag,29.5
+Drake Maye,rush_yds,69.5,alternate,New England Patriots @ Chicago Bears,2026-10-23 00:15:00+00:00,draftkings,1,1100.0,,flag,29.5
+Drake Maye,rush_yds,79.5,alternate,New England Patriots @ Chicago Bears,2026-10-23 00:15:00+00:00,draftkings,1,1840.0,,flag,29.5
+Drake Maye,rush_yds,89.5,alternate,New England Patriots @ Chicago Bears,2026-10-23 00:15:00+00:00,draftkings,1,2900.0,,flag,29.5
+Efton Chism III,rec,1.5,standard,New England Patriots @ Chicago Bears,2026-10-23 00:15:00+00:00,draftkings,1,-188.0,146.0,flag,1.5
+Efton Chism III,rec,2.5,alternate,New England Patriots @ Chicago Bears,2026-10-23 00:15:00+00:00,draftkings,1,157.0,,flag,1.5
+Efton Chism III,rec,3.5,alternate,New England Patriots @ Chicago Bears,2026-10-23 00:15:00+00:00,draftkings,1,399.0,,flag,1.5
+Efton Chism III,rec,4.5,alternate,New England Patriots @ Chicago Bears,2026-10-23 00:15:00+00:00,draftkings,1,960.0,,flag,1.5
+Efton Chism III,rec,5.5,alternate,New England Patriots @ Chicago Bears,2026-10-23 00:15:00+00:00,draftkings,1,2000.0,,flag,1.5
+Hunter Henry,rec,2.5,alternate,New England Patriots @ Chicago Bears,2026-10-23 00:15:00+00:00,draftkings,1,-204.0,,flag,3.5
+Hunter Henry,rec,3.5,standard,New England Patriots @ Chicago Bears,2026-10-23 00:15:00+00:00,draftkings,1,,-157.0,flag,3.5
+Hunter Henry,rec,4.5,alternate,New England Patriots @ Chicago Bears,2026-10-23 00:15:00+00:00,draftkings,1,270.0,,flag,3.5
+Hunter Henry,rec,5.5,alternate,New England Patriots @ Chicago Bears,2026-10-23 00:15:00+00:00,draftkings,1,567.0,,flag,3.5
+Hunter Henry,rec,7.5,alternate,New England Patriots @ Chicago Bears,2026-10-23 00:15:00+00:00,draftkings,1,2100.0,,flag,3.5
+Kalif Raymond,rec,1.5,alternate,New England Patriots @ Chicago Bears,2026-10-23 00:15:00+00:00,draftkings,1,-395.0,,flag,2.5
+Kalif Raymond,rec,2.5,standard,New England Patriots @ Chicago Bears,2026-10-23 00:15:00+00:00,draftkings,1,-130.0,102.0,flag,2.5
+Kalif Raymond,rec,3.5,alternate,New England Patriots @ Chicago Bears,2026-10-23 00:15:00+00:00,draftkings,1,189.0,,flag,2.5
+Kalif Raymond,rec,4.5,alternate,New England Patriots @ Chicago Bears,2026-10-23 00:15:00+00:00,draftkings,1,433.0,,flag,2.5
+Kalif Raymond,rec,5.5,alternate,New England Patriots @ Chicago Bears,2026-10-23 00:15:00+00:00,draftkings,1,940.0,,flag,2.5
+Luther Burden III,rec,3.5,alternate,New England Patriots @ Chicago Bears,2026-10-23 00:15:00+00:00,draftkings,1,-268.0,,flag,4.5
+Luther Burden III,rec,4.5,standard,New England Patriots @ Chicago Bears,2026-10-23 00:15:00+00:00,draftkings,1,-123.0,,flag,4.5
+Luther Burden III,rec,6.5,alternate,New England Patriots @ Chicago Bears,2026-10-23 00:15:00+00:00,draftkings,1,305.0,,flag,4.5
+Luther Burden III,rec,7.5,alternate,New England Patriots @ Chicago Bears,2026-10-23 00:15:00+00:00,draftkings,1,558.0,,flag,4.5
+Luther Burden III,rec,8.5,alternate,New England Patriots @ Chicago Bears,2026-10-23 00:15:00+00:00,draftkings,1,1020.0,,flag,4.5
+Luther Burden III,rec,9.5,alternate,New England Patriots @ Chicago Bears,2026-10-23 00:15:00+00:00,draftkings,1,1760.0,,flag,4.5
+Luther Burden III,rec,10.5,alternate,New England Patriots @ Chicago Bears,2026-10-23 00:15:00+00:00,draftkings,1,2800.0,,flag,4.5
+Rhamondre Stevenson,car,11.5,standard,New England Patriots @ Chicago Bears,2026-10-23 00:15:00+00:00,draftkings,1,101.0,-129.0,flag,11.5
+Rhamondre Stevenson,rec,2.5,standard,New England Patriots @ Chicago Bears,2026-10-23 00:15:00+00:00,draftkings,1,-138.0,,flag,2.5
+Rhamondre Stevenson,rec,3.5,alternate,New England Patriots @ Chicago Bears,2026-10-23 00:15:00+00:00,draftkings,1,171.0,,flag,2.5
+Rhamondre Stevenson,rec,4.5,alternate,New England Patriots @ Chicago Bears,2026-10-23 00:15:00+00:00,draftkings,1,387.0,,flag,2.5
+Rhamondre Stevenson,rec,5.5,alternate,New England Patriots @ Chicago Bears,2026-10-23 00:15:00+00:00,draftkings,1,820.0,,flag,2.5
+Rhamondre Stevenson,rec,6.5,alternate,New England Patriots @ Chicago Bears,2026-10-23 00:15:00+00:00,draftkings,1,1540.0,,flag,2.5
+Rhamondre Stevenson,rec,7.5,alternate,New England Patriots @ Chicago Bears,2026-10-23 00:15:00+00:00,draftkings,1,2600.0,,flag,2.5
+Rhamondre Stevenson,rush_yds,14.5,alternate,New England Patriots @ Chicago Bears,2026-10-23 00:15:00+00:00,draftkings,1,-1520.0,,flag,41.5
+Rhamondre Stevenson,rush_yds,19.5,alternate,New England Patriots @ Chicago Bears,2026-10-23 00:15:00+00:00,draftkings,1,-750.0,,flag,41.5
+Rhamondre Stevenson,rush_yds,24.5,alternate,New England Patriots @ Chicago Bears,2026-10-23 00:15:00+00:00,draftkings,1,-425.0,,flag,41.5
+Rhamondre Stevenson,rush_yds,29.5,alternate,New England Patriots @ Chicago Bears,2026-10-23 00:15:00+00:00,draftkings,1,-269.0,,flag,41.5
+Rhamondre Stevenson,rush_yds,39.5,alternate,New England Patriots @ Chicago Bears,2026-10-23 00:15:00+00:00,draftkings,1,-129.0,,flag,41.5
+Rhamondre Stevenson,rush_yds,41.5,standard,New England Patriots @ Chicago Bears,2026-10-23 00:15:00+00:00,draftkings,1,-113.0,-111.0,flag,41.5
+Rhamondre Stevenson,rush_yds,49.5,alternate,New England Patriots @ Chicago Bears,2026-10-23 00:15:00+00:00,draftkings,1,142.0,,flag,41.5
+Rhamondre Stevenson,rush_yds,59.5,alternate,New England Patriots @ Chicago Bears,2026-10-23 00:15:00+00:00,draftkings,1,240.0,,flag,41.5
+Rhamondre Stevenson,rush_yds,69.5,alternate,New England Patriots @ Chicago Bears,2026-10-23 00:15:00+00:00,draftkings,1,385.0,,flag,41.5
+Rhamondre Stevenson,rush_yds,79.5,alternate,New England Patriots @ Chicago Bears,2026-10-23 00:15:00+00:00,draftkings,1,600.0,,flag,41.5
+Rhamondre Stevenson,rush_yds,89.5,alternate,New England Patriots @ Chicago Bears,2026-10-23 00:15:00+00:00,draftkings,1,920.0,,flag,41.5
+Rhamondre Stevenson,rush_yds,99.5,alternate,New England Patriots @ Chicago Bears,2026-10-23 00:15:00+00:00,draftkings,1,1380.0,,flag,41.5
+Rhamondre Stevenson,rush_yds,109.5,alternate,New England Patriots @ Chicago Bears,2026-10-23 00:15:00+00:00,draftkings,1,1960.0,,flag,41.5
+Rhamondre Stevenson,rush_yds,119.5,alternate,New England Patriots @ Chicago Bears,2026-10-23 00:15:00+00:00,draftkings,1,2700.0,,flag,41.5
+Rhamondre Stevenson,rush_yds,129.5,alternate,New England Patriots @ Chicago Bears,2026-10-23 00:15:00+00:00,draftkings,1,3800.0,,flag,41.5
+Rome Odunze,rec,2.5,alternate,New England Patriots @ Chicago Bears,2026-10-23 00:15:00+00:00,draftkings,1,-201.0,,flag,3.5
+Rome Odunze,rec,3.5,standard,New England Patriots @ Chicago Bears,2026-10-23 00:15:00+00:00,draftkings,1,124.0,-159.0,flag,3.5
+Rome Odunze,rec,4.5,alternate,New England Patriots @ Chicago Bears,2026-10-23 00:15:00+00:00,draftkings,1,284.0,,flag,3.5
+Rome Odunze,rec,5.5,alternate,New England Patriots @ Chicago Bears,2026-10-23 00:15:00+00:00,draftkings,1,600.0,,flag,3.5
+Rome Odunze,rec,6.5,alternate,New England Patriots @ Chicago Bears,2026-10-23 00:15:00+00:00,draftkings,1,1280.0,,flag,3.5
+Rome Odunze,rec,7.5,alternate,New England Patriots @ Chicago Bears,2026-10-23 00:15:00+00:00,draftkings,1,2300.0,,flag,3.5
+TreVeyon Henderson,car,7.5,standard,New England Patriots @ Chicago Bears,2026-10-23 00:15:00+00:00,draftkings,1,103.0,-131.0,flag,7.5
+TreVeyon Henderson,rush_yds,9.5,alternate,New England Patriots @ Chicago Bears,2026-10-23 00:15:00+00:00,draftkings,1,-1140.0,,flag,29.5
+TreVeyon Henderson,rush_yds,14.5,alternate,New England Patriots @ Chicago Bears,2026-10-23 00:15:00+00:00,draftkings,1,-491.0,,flag,29.5
+TreVeyon Henderson,rush_yds,19.5,alternate,New England Patriots @ Chicago Bears,2026-10-23 00:15:00+00:00,draftkings,1,-268.0,,flag,29.5
+TreVeyon Henderson,rush_yds,24.5,alternate,New England Patriots @ Chicago Bears,2026-10-23 00:15:00+00:00,draftkings,1,-166.0,,flag,29.5
+TreVeyon Henderson,rush_yds,29.5,standard,New England Patriots @ Chicago Bears,2026-10-23 00:15:00+00:00,draftkings,1,-113.0,-111.0,flag,29.5
+TreVeyon Henderson,rush_yds,39.5,alternate,New England Patriots @ Chicago Bears,2026-10-23 00:15:00+00:00,draftkings,1,181.0,,flag,29.5
+TreVeyon Henderson,rush_yds,49.5,alternate,New England Patriots @ Chicago Bears,2026-10-23 00:15:00+00:00,draftkings,1,341.0,,flag,29.5
+TreVeyon Henderson,rush_yds,59.5,alternate,New England Patriots @ Chicago Bears,2026-10-23 00:15:00+00:00,draftkings,1,583.0,,flag,29.5
+TreVeyon Henderson,rush_yds,69.5,alternate,New England Patriots @ Chicago Bears,2026-10-23 00:15:00+00:00,draftkings,1,960.0,,flag,29.5
+TreVeyon Henderson,rush_yds,79.5,alternate,New England Patriots @ Chicago Bears,2026-10-23 00:15:00+00:00,draftkings,1,1520.0,,flag,29.5
+TreVeyon Henderson,rush_yds,89.5,alternate,New England Patriots @ Chicago Bears,2026-10-23 00:15:00+00:00,draftkings,1,2300.0,,flag,29.5
+TreVeyon Henderson,rush_yds,99.5,alternate,New England Patriots @ Chicago Bears,2026-10-23 00:15:00+00:00,draftkings,1,3400.0,,flag,29.5
