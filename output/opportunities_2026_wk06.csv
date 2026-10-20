@@ -1,6 +1,6 @@
 game,rank,type,selection,ours,baseline,edge,z,confidence,note
-WAS @ SF,1,PLAYER,"Christian McCaffrey (RB, SF) UP",20.48,17.02,3.46,3.64,backtest: moved our way 65% of the time,"proj 14 car, 67 rush yds, 4.1 rec, 33 rec yds, 0.8+0.3 TD | p_play 0.96 | full practice"
-WAS @ SF,2,PLAYER,"Rachaad White (RB, WAS) UP",10.74,7.77,2.97,3.13,backtest: moved our way 65% of the time,"proj 11 car, 45 rush yds, 2.5 rec, 16 rec yds, 0.3+0.1 TD | p_play 0.94 | limited practice"
-WAS @ SF,3,PLAYER,"George Kittle (TE, SF) UP",16.45,13.93,2.52,2.65,backtest: moved our way 65% of the time,"proj 6.5 tgt, 4.8 rec, 58 rec yds, 0.6 TD | p_play 1.00"
-WAS @ SF,4,PLAYER,"Stefon Diggs (WR, WAS) DOWN",9.21,11.62,-2.41,2.54,backtest: moved our way 65% of the time,"proj 5.9 tgt, 3.9 rec, 41 rec yds, 0.2 TD | p_play 0.74 | Questionable limited practice"
-WAS @ SF,5,PLAYER,"Brock Purdy (QB, SF) UP",20.82,18.56,2.26,2.38,backtest: moved our way 65% of the time,"proj 252 pass yds, 2.1 pass TD, 23 rush yds | p_play 1.00"
+WAS @ SF,1,PLAYER,"Christian McCaffrey (RB, SF) UP",20.27,17.02,3.25,3.42,backtest: moved our way 65% of the time,"proj 14 car, 67 rush yds, 4.1 rec, 33 rec yds, 0.8+0.3 TD | p_play 0.96 | full practice"
+WAS @ SF,2,PLAYER,"Rachaad White (RB, WAS) UP",10.63,7.77,2.86,3.01,backtest: moved our way 65% of the time,"proj 11 car, 45 rush yds, 2.4 rec, 16 rec yds, 0.3+0.1 TD | p_play 0.94 | limited practice"
+WAS @ SF,3,PLAYER,"Stefon Diggs (WR, WAS) DOWN",9.11,11.62,-2.51,2.64,backtest: moved our way 65% of the time,"proj 5.9 tgt, 3.9 rec, 41 rec yds, 0.2 TD | p_play 0.74 | Questionable limited practice"
+WAS @ SF,4,PLAYER,"George Kittle (TE, SF) UP",16.3,13.93,2.37,2.49,backtest: moved our way 65% of the time,"proj 6.5 tgt, 4.8 rec, 58 rec yds, 0.5 TD | p_play 1.00"
+WAS @ SF,5,PLAYER,"Brock Purdy (QB, SF) UP",20.46,18.56,1.9,2.0,backtest: moved our way 59% of the time,"proj 250 pass yds, 2.1 pass TD, 23 rush yds | p_play 1.00"
