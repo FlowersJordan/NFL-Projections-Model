@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-Fetch NFL player-prop lines from SharpAPI (free tier, 12 requests/min); only DraftKings lines are kept (ONLY_BOOKS) and write the file
+Fetch NFL player-prop lines from SharpAPI (free tier, 12 requests/min); DraftKings drives the model file; FanDuel is kept alongside for line shopping, and write the files
 weekly_projections.py reads with --props-csv.
 
 Setup:   pip install requests python-dotenv     and put SHARPAPI_KEY=... in a .env file (or the environment / a GitHub secret)
@@ -120,16 +120,19 @@ df = df[df.get("is_live", False).fillna(False) == False] if "is_live" in df else
 df["line"] = pd.to_numeric(df.line, errors="coerce")
 df = df.dropna(subset=["line"])
 df["side"] = df.selection.astype(str).str.lower().str.extract(r"(over|under)")[0]
-ONLY_BOOKS = ["draftkings"]          # DraftKings lines only
+MODEL_BOOKS = ["draftkings"]         # the model's picks (props_latest.csv -> prop_edges) are measured against DraftKings only
+SHOP_BOOKS = ["draftkings", "fanduel"]   # both books are kept for line shopping (props_books.csv)
 BOOK_PRIORITY = ["draftkings"]
 MAX_ONE_SIDED_ODDS = 250             # a one-sided price beyond this is an alternate rung, never the standard line
 FLAGS_MAIN = ["is_main", "main", "is_main_line", "is_primary", "primary"]
 FLAGS_ALT = ["is_alternate", "alternate", "is_alt", "alt"]
 
-df = df[df.sportsbook.astype(str).str.lower().isin(ONLY_BOOKS)]
-df.to_csv("props_raw.csv", index=False)
+df["sportsbook"] = df.sportsbook.astype(str).str.lower()
+df_all = df[df.sportsbook.isin(SHOP_BOOKS)].copy()          # DraftKings + FanDuel
+df = df_all[df_all.sportsbook.isin(MODEL_BOOKS)].copy()     # DraftKings only: feeds the model exactly as before
+df_all.to_csv("props_raw.csv", index=False)
 print(f"\n{len(df)} full-game prop lines for games before {end:%a %b %d}; "
-      f"{df.player_name.nunique()} players, {df.event_id.nunique()} games, books: {sorted(df.sportsbook.unique())}")
+      f"{df_all.player_name.nunique()} players, {df_all.event_id.nunique()} games, books: {sorted(df_all.sportsbook.unique())}")
 
 # ---------------------------------------------------------------------------------------------------------------
 # Standard line vs alternate rungs. A book lists a whole ladder per player and stat (e.g. 179.5 ... 429.5 passing
@@ -145,9 +148,9 @@ def implied(odds):
                      index=o.index)
 
 
-def build_lines(df):
+def _ladders(df):
     """df: one row per quoted selection (event_id, player_name, stat, sportsbook, line, side, odds_american).
-    Returns one row per player/stat/line with line_type = standard | alternate."""
+    Returns (d, lad, mains): the rows, one row per book/player/stat/line with both prices, and each book's main line."""
     flag_main = next((c for c in FLAGS_MAIN if c in df.columns and df[c].dropna().astype(str).str.lower().isin(["true", "false"]).any()), None)
     flag_alt = next((c for c in FLAGS_ALT if c in df.columns and df[c].dropna().astype(str).str.lower().isin(["true", "false"]).any()), None)
     d = df.copy()
@@ -185,7 +188,26 @@ def build_lines(df):
                 m = None                                  # a far-from-even one-sided price is an alternate rung
         if m is not None:
             mains[key] = (float(m.line), basis)           # no entry = the book has no standard line for this stat
+    return d, lad, mains
 
+
+def build_book_table(df):
+    """One row per book / player / stat / line (nothing blended across books): the input for line shopping."""
+    d, lad, mains = _ladders(df)
+    ev = d.drop_duplicates("event_id").set_index("event_id")
+    out = lad.copy()
+    out["is_main"] = [mains.get((e, p, s, b), (None,))[0] == ln for e, p, s, b, ln in
+                      zip(out.event_id, out.player_name, out.stat, out.sportsbook, out.line)]
+    out["game"] = [f"{ev.loc[e, 'away_team']} @ {ev.loc[e, 'home_team']}" for e in out.event_id]
+    out["start"] = [ev.loc[e, "start"] for e in out.event_id]
+    out = out.rename(columns={"player_name": "player", "sportsbook": "book"})
+    return out[["game", "start", "player", "stat", "book", "line", "over_odds", "under_odds", "is_main"]] \
+        .sort_values(["start", "game", "player", "stat", "line", "book"]).reset_index(drop=True)
+
+
+def build_lines(df):
+    """Returns one row per player/stat/line with line_type = standard | alternate (the model's DraftKings-only table)."""
+    d, lad, mains = _ladders(df)
     ev = d.drop_duplicates("event_id").set_index("event_id")
     out = []
     for (e, p, st), g in lad.groupby(["event_id", "player_name", "stat"]):
@@ -225,4 +247,12 @@ for (p, st), g in list(res.groupby(["player", "stat"]))[:4]:
     print(f"  {p} / {st}: " + ", ".join(f"{r.line:g}{'*' if r.line_type == 'standard' else ''}" for r in g.itertuples()))
 extra = [c for c in df.columns if any(k in c.lower() for k in ("main", "alt", "primary", "segment", "type"))]
 print("\nraw columns that might flag main/alternate lines:", extra)
-print("\nNext: python weekly_projections.py --props-csv props_latest.csv")
+# ---- both books side by side, for line shopping (python line_shop.py) -----------------------------------------------
+bt = build_book_table(df_all)
+bt.to_csv("props_books.csv", index=False)
+m = bt[bt.is_main]
+both = m.groupby(["game", "player", "stat"]).book.nunique()
+print(f"\nSaved props_books.csv: {len(bt)} rungs across {bt.book.nunique()} books ({bt.book.value_counts().to_dict()}).")
+print(f"{int((both == 2).sum())} player-stats have a main line at BOTH books; "
+      f"{int(((m.groupby(['game','player','stat']).line.nunique() > 1) & (both == 2)).sum())} of those have different main lines.")
+print("\nNext: python weekly_projections.py --props-csv props_latest.csv   then   python line_shop.py")

@@ -1,0 +1,10 @@
+player,team,pos,game,stat,games_played,season_min,season_avg,season_games,standard_line,tease_line,gap_to_standard,over_odds,implied_%,hit_l17,l17_smoothed_%,edge_pts,lowest_snap_%
+Alvin Kamara,NO,RB,Pittsburgh Steelers @ New Orleans Saints,rush_yds,5,12.0,24.0,15 36 23 12 34,16.5,9.5,7.0,-283.0,73.9,16/16,94.4,20.6,26.0
+DK Metcalf,PIT,WR,Pittsburgh Steelers @ New Orleans Saints,rec,6,3.0,5.0,4 4 3 5 3 11,4.5,2.5,2.0,-1060.0,91.4,16/17,89.5,-1.9,92.0
+Jaylen Warren,PIT,RB,Pittsburgh Steelers @ New Orleans Saints,rec,6,2.0,3.5,5 2 3 3 6 2,3.5,1.5,2.0,-710.0,87.7,15/17,84.2,-3.4,37.0
+Chris Olave,NO,WR,Pittsburgh Steelers @ New Orleans Saints,rec,6,4.0,7.2,10 8 9 8 4 4,5.5,3.5,2.0,-810.0,89.0,15/17,84.2,-4.8,58.0
+Bijan Robinson,ATL,RB,San Francisco 49ers @ Atlanta Falcons,rush_yds,6,61.0,106.8,83 72 194 145 86 61,,49.5,,-680.0,87.2,14/17,78.9,-8.2,51.0
+Jaylen Warren,PIT,RB,Pittsburgh Steelers @ New Orleans Saints,rush_yds,6,43.0,76.7,46 43 127 93 101 50,63.5,39.5,24.0,-476.0,82.6,13/17,73.7,-9.0,37.0
+Jaylen Warren,PIT,RB,Pittsburgh Steelers @ New Orleans Saints,rec_yds,6,27.0,43.0,27 34 49 33 87 28,27.5,24.5,3.0,-139.0,58.2,8/17,47.4,-10.8,37.0
+Devaughn Vele,NO,WR,Pittsburgh Steelers @ New Orleans Saints,rec_yds,6,26.0,49.0,69 64 39 54 26 42,,24.5,,-313.0,75.8,10/17,57.9,-17.9,88.0
+Devaughn Vele,NO,WR,Pittsburgh Steelers @ New Orleans Saints,rec,6,3.0,4.7,7 5 3 6 4 3,3.5,2.5,1.0,-415.0,80.6,10/17,57.9,-22.7,88.0
