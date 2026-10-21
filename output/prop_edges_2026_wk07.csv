@@ -1,89 +1,109 @@
 game,player,stat,line,ours,edge,pick,z,p_play,line_type,odds,rank
-CIN @ BAL,"Joe Burrow (QB, CIN)",pass_td,1.5,1.86,0.36,OVER,0.33,1.0,standard,-181.0,1
-CIN @ BAL,"Chase Brown (RB, CIN)",car,12.5,13.02,0.52,OVER,0.1,1.0,standard,-125.0,2
-CIN @ BAL,"Joe Burrow (QB, CIN)",pass_att,35.5,36.47,0.97,OVER,0.1,1.0,standard,-119.0,3
-CIN @ BAL,"Derrick Henry (RB, BAL)",car,19.5,19.46,-0.04,UNDER,0.01,1.0,standard,-128.0,4
-CIN @ BAL,"Joe Burrow (QB, CIN)",pass_yds,259.5,259.56,0.06,OVER,0.0,1.0,standard,-113.0,5
-CIN @ BAL,"Joe Burrow (QB, CIN)",pass_yds,409.5,259.56,-149.94,UNDER,1.84,1.0,alternate,,1
-CIN @ BAL,"Joe Burrow (QB, CIN)",pass_yds,399.5,259.56,-139.94,UNDER,1.72,1.0,alternate,,2
-CIN @ BAL,"Joe Burrow (QB, CIN)",pass_yds,389.5,259.56,-129.94,UNDER,1.6,1.0,alternate,,3
-CIN @ BAL,"Joe Burrow (QB, CIN)",pass_yds,379.5,259.56,-119.94,UNDER,1.48,1.0,alternate,,4
-CIN @ BAL,"Joe Burrow (QB, CIN)",pass_yds,369.5,259.56,-109.94,UNDER,1.35,1.0,alternate,,5
-CIN @ BAL,"Joe Burrow (QB, CIN)",pass_yds,359.5,259.56,-99.94,UNDER,1.23,1.0,alternate,,6
-CIN @ BAL,"Joe Burrow (QB, CIN)",pass_yds,349.5,259.56,-89.94,UNDER,1.11,1.0,alternate,,7
-CIN @ BAL,"Joe Burrow (QB, CIN)",pass_yds,179.5,259.56,80.06,OVER,0.98,1.0,alternate,-1380.0,8
-CIN @ BAL,"Joe Burrow (QB, CIN)",pass_yds,339.5,259.56,-79.94,UNDER,0.98,1.0,alternate,,9
-CIN @ BAL,"Joe Burrow (QB, CIN)",pass_yds,189.5,259.56,70.06,OVER,0.86,1.0,alternate,-920.0,10
-CIN @ BAL,"Joe Burrow (QB, CIN)",pass_yds,329.5,259.56,-69.94,UNDER,0.86,1.0,alternate,,11
-CIN @ BAL,"Joe Burrow (QB, CIN)",pass_yds,199.5,259.56,60.06,OVER,0.74,1.0,alternate,-640.0,12
-CIN @ BAL,"Joe Burrow (QB, CIN)",pass_yds,319.5,259.56,-59.94,UNDER,0.74,1.0,alternate,,13
-CIN @ BAL,"Joe Burrow (QB, CIN)",pass_yds,209.5,259.56,50.06,OVER,0.62,1.0,alternate,-463.0,14
-CIN @ BAL,"Joe Burrow (QB, CIN)",pass_yds,309.5,259.56,-49.94,UNDER,0.61,1.0,alternate,,15
+CIN @ BAL,"Joe Burrow (QB, CIN)",pass_td,1.5,1.87,0.37,OVER,0.34,1.0,standard,-178.0,1
+CIN @ BAL,"Derrick Henry (RB, BAL)",car,18.5,19.42,0.92,OVER,0.17,1.0,standard,-127.0,2
+CIN @ BAL,"Joe Burrow (QB, CIN)",pass_att,36.5,35.86,-0.64,UNDER,0.06,1.0,standard,-115.0,3
+CIN @ BAL,"Chase Brown (RB, CIN)",car,13.5,13.19,-0.31,UNDER,0.06,1.0,standard,-127.0,4
 CLE @ TEN,"Deshaun Watson (QB, CLE)",pass_td,1.5,1.02,-0.48,UNDER,0.44,1.0,standard,-200.0,1
-CLE @ TEN,"Tony Pollard (RB, TEN)",car,16.5,14.79,-1.71,UNDER,0.32,1.0,standard,-109.0,2
+CLE @ TEN,"Tony Pollard (RB, TEN)",car,16.5,14.79,-1.71,UNDER,0.32,1.0,standard,-105.0,2
 CLE @ TEN,"Deshaun Watson (QB, CLE)",pass_att,30.5,28.03,-2.47,UNDER,0.25,1.0,standard,-125.0,3
-CLE @ TEN,"Deshaun Watson (QB, CLE)",pass_yds,204.5,186.04,-18.46,UNDER,0.23,1.0,standard,-111.0,4
-CLE @ TEN,"Deshaun Watson (QB, CLE)",pass_yds,359.5,186.04,-173.46,UNDER,2.13,1.0,alternate,,1
-CLE @ TEN,"Deshaun Watson (QB, CLE)",pass_yds,349.5,186.04,-163.46,UNDER,2.01,1.0,alternate,,2
-CLE @ TEN,"Deshaun Watson (QB, CLE)",pass_yds,339.5,186.04,-153.46,UNDER,1.89,1.0,alternate,,3
-CLE @ TEN,"Deshaun Watson (QB, CLE)",pass_yds,299.5,186.04,-113.46,UNDER,1.4,1.0,alternate,,4
-CLE @ TEN,"Deshaun Watson (QB, CLE)",pass_yds,289.5,186.04,-103.46,UNDER,1.27,1.0,alternate,,5
-CLE @ TEN,"Deshaun Watson (QB, CLE)",pass_yds,279.5,186.04,-93.46,UNDER,1.15,1.0,alternate,,6
-CLE @ TEN,"Deshaun Watson (QB, CLE)",pass_yds,269.5,186.04,-83.46,UNDER,1.03,1.0,alternate,,7
-CLE @ TEN,"Deshaun Watson (QB, CLE)",pass_yds,259.5,186.04,-73.46,UNDER,0.9,1.0,alternate,,8
-CLE @ TEN,"Deshaun Watson (QB, CLE)",pass_yds,249.5,186.04,-63.46,UNDER,0.78,1.0,alternate,,9
-CLE @ TEN,"Deshaun Watson (QB, CLE)",pass_yds,239.5,186.04,-53.46,UNDER,0.66,1.0,alternate,,10
-CLE @ TEN,"Deshaun Watson (QB, CLE)",pass_yds,149.5,186.04,36.54,OVER,0.45,1.0,alternate,-640.0,11
-CLE @ TEN,"Deshaun Watson (QB, CLE)",pass_yds,219.5,186.04,-33.46,UNDER,0.41,1.0,alternate,,12
-CLE @ TEN,"Deshaun Watson (QB, CLE)",pass_yds,159.5,186.04,26.54,OVER,0.33,1.0,alternate,-444.0,13
-CLE @ TEN,"Deshaun Watson (QB, CLE)",pass_yds,209.5,186.04,-23.46,UNDER,0.29,1.0,alternate,,14
-CLE @ TEN,"Deshaun Watson (QB, CLE)",pass_yds,169.5,186.04,16.54,OVER,0.2,1.0,alternate,-317.0,15
-KC @ SEA,"Patrick Mahomes (QB, KC)",pass_td,1.5,1.23,-0.27,UNDER,0.25,1.0,standard,-192.0,1
+DAL @ PHI,"Javonte Williams (RB, DAL)",car,16.5,15.06,-1.44,UNDER,0.27,1.0,standard,-110.0,1
+DAL @ PHI,"Dak Prescott (QB, DAL)",pass_td,1.5,1.55,0.05,OVER,0.05,1.0,standard,-159.0,2
+DAL @ PHI,"Dak Prescott (QB, DAL)",pass_att,36.5,36.92,0.42,OVER,0.04,1.0,standard,-117.0,3
+DEN @ ARI,"Jacoby Brissett (QB, ARI)",pass_td,1.5,1.29,-0.21,UNDER,0.19,1.0,standard,-171.0,1
+DEN @ ARI,"Bo Nix (QB, DEN)",pass_td,1.5,1.33,-0.17,UNDER,0.15,1.0,standard,-138.0,2
+DEN @ ARI,"Bo Nix (QB, DEN)",pass_att,32.5,31.05,-1.45,UNDER,0.15,1.0,standard,-113.0,3
+DEN @ ARI,"Jacoby Brissett (QB, ARI)",pass_att,36.5,35.49,-1.01,UNDER,0.1,1.0,standard,-113.0,4
+GB @ DET,"Jared Goff (QB, DET)",pass_td,2.5,2.14,-0.36,UNDER,0.33,1.0,standard,-208.0,1
+GB @ DET,"Jahmyr Gibbs (RB, DET)",car,19.5,18.15,-1.35,UNDER,0.25,1.0,standard,101.0,2
+GB @ DET,"Jordan Love (QB, GB)",pass_td,1.5,1.69,0.19,OVER,0.17,1.0,standard,-204.0,3
+GB @ DET,"Jordan Love (QB, GB)",pass_att,36.5,35.65,-0.85,UNDER,0.09,1.0,standard,-105.0,4
+GB @ DET,"Jared Goff (QB, DET)",pass_att,36.5,36.71,0.21,OVER,0.02,1.0,standard,-105.0,5
+IND @ MIN,"Daniel Jones (QB, IND)",pass_td,0.5,1.0,0.5,OVER,0.45,1.0,standard,-234.0,1
+IND @ MIN,"Kyler Murray (QB, MIN)",pass_td,1.5,1.25,-0.25,UNDER,0.23,1.0,standard,-155.0,2
+IND @ MIN,"Daniel Jones (QB, IND)",pass_att,33.5,31.84,-1.66,UNDER,0.17,1.0,standard,-119.0,3
+IND @ MIN,"Kyler Murray (QB, MIN)",pass_att,30.5,28.92,-1.58,UNDER,0.16,1.0,standard,-116.0,4
+IND @ MIN,"Jonathan Taylor (RB, IND)",car,18.5,18.49,-0.01,UNDER,0.0,1.0,standard,-123.0,5
+KC @ SEA,"Patrick Mahomes (QB, KC)",pass_td,1.5,1.23,-0.27,UNDER,0.25,1.0,standard,-184.0,1
 KC @ SEA,"Sam Darnold (QB, SEA)",pass_td,1.5,1.28,-0.22,UNDER,0.2,1.0,standard,-175.0,2
-KC @ SEA,"Patrick Mahomes (QB, KC)",pass_att,30.5,31.67,1.17,OVER,0.12,1.0,standard,-117.0,3
+KC @ SEA,"Kenneth Walker III (RB, KC)",car,18.5,17.44,-1.06,UNDER,0.2,1.0,standard,-122.0,3
 KC @ SEA,"Sam Darnold (QB, SEA)",pass_att,30.5,30.88,0.38,OVER,0.04,1.0,standard,-116.0,4
+KC @ SEA,"Patrick Mahomes (QB, KC)",car,3.5,3.45,-0.05,UNDER,0.02,1.0,standard,-170.0,5
 LA @ LV,"Matthew Stafford (QB, LA)",pass_td,1.5,1.99,0.49,OVER,0.45,1.0,standard,-157.0,1
 LA @ LV,"Matthew Stafford (QB, LA)",pass_att,34.5,38.55,4.05,OVER,0.41,1.0,standard,-116.0,2
 LA @ LV,"Kirk Cousins (QB, LV)",pass_att,35.5,32.65,-2.85,UNDER,0.29,1.0,standard,-111.0,3
-LA @ LV,"Ashton Jeanty (RB, LV)",car,14.5,13.65,-0.85,UNDER,0.16,1.0,standard,-125.0,4
+LA @ LV,"Kyren Williams (RB, LA)",car,14.5,13.31,-1.19,UNDER,0.22,1.0,standard,-135.0,4
 LA @ LV,"Blake Corum (RB, LA)",car,7.5,7.28,-0.22,UNDER,0.04,1.0,standard,103.0,5
-PIT @ NO,"Kendre Miller (RB, NO)",car,12.5,8.61,-3.89,UNDER,0.73,1.0,standard,-126.0,1
-PIT @ NO,"Kendre Miller (RB, NO)",rush_yds,41.5,28.76,-12.74,UNDER,0.39,1.0,standard,-114.0,2
-PIT @ NO,"Rico Dowdle (RB, PIT)",car,7.5,9.29,1.79,OVER,0.34,1.0,standard,-145.0,3
-PIT @ NO,"Jaylen Warren (RB, PIT)",rush_yds,63.5,73.62,10.12,OVER,0.31,1.0,standard,-110.0,4
-PIT @ NO,"Rico Dowdle (RB, PIT)",rec,1.5,1.98,0.48,OVER,0.28,1.0,standard,-144.0,5
-PIT @ NO,"Chris Olave (WR, NO)",rec_yds,179.5,72.66,-106.84,UNDER,3.14,1.0,alternate,,1
-PIT @ NO,"Tyler Shough (QB, NO)",rush_yds,69.5,17.63,-51.87,UNDER,3.07,1.0,alternate,,2
-PIT @ NO,"Chris Olave (WR, NO)",rec,12.5,5.76,-6.74,UNDER,3.06,1.0,alternate,,3
-PIT @ NO,"Germie Bernard (WR, PIT)",rec,11.5,5.02,-6.48,UNDER,2.95,1.0,alternate,,4
-PIT @ NO,"Germie Bernard (WR, PIT)",rec_yds,149.5,51.3,-98.2,UNDER,2.89,1.0,alternate,,5
-PIT @ NO,"Chris Olave (WR, NO)",rec_yds,169.5,72.66,-96.84,UNDER,2.85,1.0,alternate,,6
-PIT @ NO,"Kendre Miller (RB, NO)",rush_yds,119.5,28.76,-90.74,UNDER,2.81,1.0,alternate,,7
-PIT @ NO,"Juwan Johnson (TE, NO)",rec,8.5,3.4,-5.1,UNDER,2.68,1.0,alternate,,8
-PIT @ NO,"Jaylen Warren (RB, PIT)",rush_yds,159.5,73.62,-85.88,UNDER,2.66,1.0,alternate,,9
-PIT @ NO,"Alvin Kamara (RB, NO)",rec,6.5,2.06,-4.44,UNDER,2.61,1.0,alternate,,10
-PIT @ NO,"Chris Olave (WR, NO)",rec,11.5,5.76,-5.74,UNDER,2.61,1.0,alternate,,11
-PIT @ NO,"DK Metcalf (WR, PIT)",rec,10.5,4.96,-5.54,UNDER,2.52,1.0,alternate,,12
-PIT @ NO,"Jaylen Warren (RB, PIT)",rec,7.5,3.22,-4.28,UNDER,2.52,1.0,alternate,,13
-PIT @ NO,"Kendre Miller (RB, NO)",rush_yds,109.5,28.76,-80.74,UNDER,2.5,1.0,alternate,,14
-PIT @ NO,"Germie Bernard (WR, PIT)",rec,10.5,5.02,-5.48,UNDER,2.49,1.0,alternate,,15
-SF @ ATL,"Bijan Robinson (RB, ATL)",car,18.5,16.27,-2.23,UNDER,0.42,1.0,standard,-125.0,1
-SF @ ATL,"Brock Purdy (QB, SF)",pass_td,1.5,1.81,0.31,OVER,0.28,1.0,standard,-156.0,2
-SF @ ATL,"Christian McCaffrey (RB, SF)",car,15.5,14.44,-1.06,UNDER,0.2,1.0,standard,-111.0,3
-SF @ ATL,"Brock Purdy (QB, SF)",pass_att,30.5,31.93,1.43,OVER,0.14,1.0,standard,-106.0,4
-SF @ ATL,"Brock Purdy (QB, SF)",pass_yds,242.5,252.11,9.61,OVER,0.12,1.0,standard,-113.0,5
-SF @ ATL,"Michael Penix Jr. (QB, ATL)",pass_yds,379.5,232.93,-146.57,UNDER,1.8,1.0,alternate,,1
-SF @ ATL,"Brock Purdy (QB, SF)",pass_yds,389.5,252.11,-137.39,UNDER,1.69,1.0,alternate,,2
-SF @ ATL,"Michael Penix Jr. (QB, ATL)",pass_yds,369.5,232.93,-136.57,UNDER,1.68,1.0,alternate,,3
-SF @ ATL,"Brock Purdy (QB, SF)",pass_yds,379.5,252.11,-127.39,UNDER,1.57,1.0,alternate,,4
-SF @ ATL,"Michael Penix Jr. (QB, ATL)",pass_yds,359.5,232.93,-126.57,UNDER,1.56,1.0,alternate,,5
-SF @ ATL,"Brock Purdy (QB, SF)",pass_yds,369.5,252.11,-117.39,UNDER,1.44,1.0,alternate,,6
-SF @ ATL,"Michael Penix Jr. (QB, ATL)",pass_yds,349.5,232.93,-116.57,UNDER,1.43,1.0,alternate,,7
-SF @ ATL,"Bijan Robinson (RB, ATL)",rush_yds,39.5,85.07,45.57,OVER,1.41,1.0,alternate,-1600.0,8
-SF @ ATL,"Michael Penix Jr. (QB, ATL)",rush_yds,29.5,6.39,-23.11,UNDER,1.37,1.0,alternate,,9
-SF @ ATL,"Brock Purdy (QB, SF)",pass_yds,359.5,252.11,-107.39,UNDER,1.32,1.0,alternate,,10
-SF @ ATL,"Michael Penix Jr. (QB, ATL)",pass_yds,339.5,232.93,-106.57,UNDER,1.31,1.0,alternate,,11
-SF @ ATL,"Brock Purdy (QB, SF)",pass_yds,349.5,252.11,-97.39,UNDER,1.2,1.0,alternate,,12
-SF @ ATL,"Michael Penix Jr. (QB, ATL)",pass_yds,329.5,232.93,-96.57,UNDER,1.19,1.0,alternate,,13
-SF @ ATL,"Bijan Robinson (RB, ATL)",rush_yds,49.5,85.07,35.57,OVER,1.1,1.0,alternate,-680.0,14
-SF @ ATL,"Brock Purdy (QB, SF)",pass_yds,339.5,252.11,-87.39,UNDER,1.07,1.0,alternate,,15
+MIA @ NYJ,"Ollie Gordon II (RB, MIA)",car,14.5,9.99,-4.51,UNDER,0.85,1.0,standard,-133.0,1
+MIA @ NYJ,"Malik Willis (QB, MIA)",pass_att,27.5,21.46,-6.04,UNDER,0.61,1.0,standard,-118.0,2
+MIA @ NYJ,"Malik Willis (QB, MIA)",car,6.5,5.52,-0.98,UNDER,0.41,1.0,standard,-117.0,3
+MIA @ NYJ,"Malik Willis (QB, MIA)",pass_td,0.5,0.81,0.31,OVER,0.28,1.0,standard,-180.0,4
+MIA @ NYJ,"Geno Smith (QB, NYJ)",pass_td,1.5,1.21,-0.29,UNDER,0.26,1.0,standard,-132.0,5
+NE @ CHI,"A.J. Brown (WR, NE)",rec,5.5,4.57,-0.93,UNDER,0.42,0.94,standard,-126.0,1
+NE @ CHI,"TreVeyon Henderson (RB, NE)",rush_yds,25.5,38.42,12.92,OVER,0.4,0.96,standard,-113.0,2
+NE @ CHI,"TreVeyon Henderson (RB, NE)",car,6.5,8.34,1.84,OVER,0.35,0.96,standard,114.0,3
+NE @ CHI,"Colston Loveland (TE, CHI)",rec,3.5,4.11,0.61,OVER,0.32,1.0,standard,-165.0,4
+NE @ CHI,"A.J. Brown (WR, NE)",rec_yds,71.5,60.63,-10.87,UNDER,0.32,0.94,standard,-110.0,5
+NE @ CHI,"D'Andre Swift (RB, CHI)",rec_yds,89.5,20.52,-68.98,UNDER,4.06,1.0,alternate,,1
+NE @ CHI,"Colston Loveland (TE, CHI)",rec_yds,139.5,43.37,-96.13,UNDER,4.01,1.0,alternate,,2
+NE @ CHI,"Rhamondre Stevenson (RB, NE)",rec_yds,79.5,17.61,-61.89,UNDER,3.64,1.0,alternate,,3
+NE @ CHI,"Drake Maye (QB, NE)",rush_yds,89.5,28.33,-61.17,UNDER,3.62,0.96,alternate,,4
+NE @ CHI,"Colston Loveland (TE, CHI)",rec_yds,129.5,43.37,-86.13,UNDER,3.59,1.0,alternate,,5
+NE @ CHI,"A.J. Brown (WR, NE)",rec_yds,179.5,60.63,-118.87,UNDER,3.5,0.94,alternate,,6
+NE @ CHI,"D'Andre Swift (RB, CHI)",rec_yds,79.5,20.52,-58.98,UNDER,3.47,1.0,alternate,,7
+NE @ CHI,"Hunter Henry (TE, NE)",rec_yds,119.5,36.62,-82.88,UNDER,3.45,1.0,alternate,,8
+NE @ CHI,"Luther Burden III (WR, CHI)",rec_yds,169.5,53.59,-115.91,UNDER,3.41,1.0,alternate,,9
+NE @ CHI,"A.J. Brown (WR, NE)",rec_yds,169.5,60.63,-108.87,UNDER,3.2,0.94,alternate,,10
+NE @ CHI,"Colston Loveland (TE, CHI)",rec_yds,119.5,43.37,-76.13,UNDER,3.17,1.0,alternate,,11
+NE @ CHI,"A.J. Brown (WR, NE)",rec,11.5,4.57,-6.93,UNDER,3.15,0.94,alternate,,12
+NE @ CHI,"Luther Burden III (WR, CHI)",rec_yds,159.5,53.59,-105.91,UNDER,3.12,1.0,alternate,,13
+NE @ CHI,"D'Andre Swift (RB, CHI)",rush_yds,159.5,59.85,-99.65,UNDER,3.09,1.0,alternate,,14
+NE @ CHI,"Rhamondre Stevenson (RB, NE)",rec_yds,69.5,17.61,-51.89,UNDER,3.05,1.0,alternate,,15
+NYG @ HOU,"J.J. McCarthy (QB, NYG)",pass_att,33.5,23.13,-10.37,UNDER,1.05,1.0,standard,-118.0,1
+NYG @ HOU,"J.J. McCarthy (QB, NYG)",pass_td,0.5,0.83,0.33,OVER,0.3,1.0,standard,-216.0,2
+NYG @ HOU,"C.J. Stroud (QB, HOU)",pass_att,33.5,31.29,-2.21,UNDER,0.22,1.0,standard,-107.0,3
+NYG @ HOU,"C.J. Stroud (QB, HOU)",pass_td,1.5,1.6,0.1,OVER,0.09,1.0,standard,-165.0,4
+PIT @ NO,"Kendre Miller (RB, NO)",car,12.5,8.61,-3.89,UNDER,0.73,1.0,standard,-137.0,1
+PIT @ NO,"Kendre Miller (RB, NO)",rush_yds,40.5,28.76,-11.74,UNDER,0.36,1.0,standard,-109.0,2
+PIT @ NO,"Rico Dowdle (RB, PIT)",car,7.5,9.29,1.79,OVER,0.34,1.0,standard,-138.0,3
+PIT @ NO,"Jaylen Warren (RB, PIT)",rush_yds,63.5,73.62,10.12,OVER,0.31,1.0,standard,-114.0,4
+PIT @ NO,"Germie Bernard (WR, PIT)",rec,5.5,5.02,-0.48,UNDER,0.22,1.0,standard,-153.0,5
+PIT @ NO,"Tyler Shough (QB, NO)",rush_yds,69.5,17.63,-51.87,UNDER,3.07,1.0,alternate,,1
+PIT @ NO,"Jaylen Warren (RB, PIT)",rush_yds,159.5,73.62,-85.88,UNDER,2.66,1.0,alternate,,2
+PIT @ NO,"Kendre Miller (RB, NO)",rush_yds,109.5,28.76,-80.74,UNDER,2.5,1.0,alternate,,3
+PIT @ NO,"Tyler Shough (QB, NO)",rush_yds,59.5,17.63,-41.87,UNDER,2.48,1.0,alternate,,4
+PIT @ NO,"Jaylen Warren (RB, PIT)",rush_yds,149.5,73.62,-75.88,UNDER,2.35,1.0,alternate,,5
+PIT @ NO,"Kendre Miller (RB, NO)",rush_yds,99.5,28.76,-70.74,UNDER,2.19,1.0,alternate,,6
+PIT @ NO,"Chris Olave (WR, NO)",rec,10.5,5.76,-4.74,UNDER,2.15,1.0,alternate,,7
+PIT @ NO,"Aaron Rodgers (QB, PIT)",rush_yds,39.5,3.68,-35.82,UNDER,2.12,1.0,alternate,,8
+PIT @ NO,"Jaylen Warren (RB, PIT)",rush_yds,139.5,73.62,-65.88,UNDER,2.04,1.0,alternate,,9
+PIT @ NO,"Rico Dowdle (RB, PIT)",rush_yds,99.5,37.19,-62.31,UNDER,1.93,1.0,alternate,,10
+PIT @ NO,"Tyler Shough (QB, NO)",pass_yds,379.5,224.06,-155.44,UNDER,1.91,1.0,alternate,,11
+PIT @ NO,"Aaron Rodgers (QB, PIT)",pass_yds,389.5,235.99,-153.51,UNDER,1.89,1.0,alternate,,12
+PIT @ NO,"Tyler Shough (QB, NO)",rush_yds,49.5,17.63,-31.87,UNDER,1.89,1.0,alternate,,13
+PIT @ NO,"Kendre Miller (RB, NO)",rush_yds,89.5,28.76,-60.74,UNDER,1.88,1.0,alternate,,14
+PIT @ NO,"Tyler Shough (QB, NO)",pass_yds,369.5,224.06,-145.44,UNDER,1.79,1.0,alternate,,15
+SF @ ATL,"Brock Purdy (QB, SF)",pass_td,1.5,1.77,0.27,OVER,0.25,1.0,standard,-153.0,1
+SF @ ATL,"Bijan Robinson (RB, ATL)",car,17.5,16.29,-1.21,UNDER,0.23,1.0,standard,-101.0,2
+SF @ ATL,"Christian McCaffrey (RB, SF)",car,15.5,14.46,-1.04,UNDER,0.2,1.0,standard,-123.0,3
+SF @ ATL,"Brock Purdy (QB, SF)",pass_att,30.5,31.72,1.22,OVER,0.12,1.0,standard,-123.0,4
+SF @ ATL,"Michael Penix Jr. (QB, ATL)",pass_td,1.5,1.37,-0.13,UNDER,0.12,1.0,standard,-151.0,5
+SF @ ATL,"Brock Purdy (QB, SF)",pass_yds,399.5,249.54,-149.96,UNDER,1.84,1.0,alternate,,1
+SF @ ATL,"Michael Penix Jr. (QB, ATL)",pass_yds,379.5,230.35,-149.15,UNDER,1.83,1.0,alternate,,2
+SF @ ATL,"Brock Purdy (QB, SF)",pass_yds,389.5,249.54,-139.96,UNDER,1.72,1.0,alternate,,3
+SF @ ATL,"Michael Penix Jr. (QB, ATL)",pass_yds,369.5,230.35,-139.15,UNDER,1.71,1.0,alternate,,4
+SF @ ATL,"Brock Purdy (QB, SF)",pass_yds,379.5,249.54,-129.96,UNDER,1.6,1.0,alternate,,5
+SF @ ATL,"Michael Penix Jr. (QB, ATL)",pass_yds,359.5,230.35,-129.15,UNDER,1.59,1.0,alternate,,6
+SF @ ATL,"Brock Purdy (QB, SF)",pass_yds,369.5,249.54,-119.96,UNDER,1.48,1.0,alternate,,7
+SF @ ATL,"Brock Purdy (QB, SF)",pass_yds,359.5,249.54,-109.96,UNDER,1.35,1.0,alternate,,8
+SF @ ATL,"Michael Penix Jr. (QB, ATL)",pass_yds,339.5,230.35,-109.15,UNDER,1.34,1.0,alternate,,9
+SF @ ATL,"Brock Purdy (QB, SF)",pass_yds,349.5,249.54,-99.96,UNDER,1.23,1.0,alternate,,10
+SF @ ATL,"Michael Penix Jr. (QB, ATL)",pass_yds,329.5,230.35,-99.15,UNDER,1.22,1.0,alternate,,11
+SF @ ATL,"Brock Purdy (QB, SF)",pass_yds,339.5,249.54,-89.96,UNDER,1.11,1.0,alternate,,12
+SF @ ATL,"Michael Penix Jr. (QB, ATL)",pass_yds,319.5,230.35,-89.15,UNDER,1.1,1.0,alternate,,13
+SF @ ATL,"Brock Purdy (QB, SF)",pass_yds,169.5,249.54,80.04,OVER,0.98,1.0,alternate,-1040.0,14
+SF @ ATL,"Brock Purdy (QB, SF)",pass_yds,329.5,249.54,-79.96,UNDER,0.98,1.0,alternate,,15
+TB @ CAR,"Baker Mayfield (QB, TB)",pass_att,34.5,30.64,-3.86,UNDER,0.39,0.22,standard,-123.0,1
+TB @ CAR,"Chuba Hubbard (RB, CAR)",car,17.5,15.49,-2.01,UNDER,0.38,1.0,standard,-126.0,2
+TB @ CAR,"Baker Mayfield (QB, TB)",pass_td,1.5,1.19,-0.31,UNDER,0.28,0.22,standard,-201.0,3
+TB @ CAR,"Bucky Irving (RB, TB)",car,15.5,16.83,1.33,OVER,0.25,1.0,standard,-111.0,4
+TB @ CAR,"Bryce Young (QB, CAR)",pass_td,1.5,1.57,0.07,OVER,0.06,1.0,standard,-148.0,5
