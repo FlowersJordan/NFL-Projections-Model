@@ -172,7 +172,7 @@ def best_bets(bt, edges):
 
 def main():
     ap = argparse.ArgumentParser(description=__doc__, formatter_class=argparse.RawDescriptionHelpFormatter)
-    ap.add_argument("books", nargs="?", default="props_books.csv")
+    ap.add_argument("books", nargs="?", default="output/props_books.csv")
     ap.add_argument("--edges", help="prop_edges CSV from weekly_projections.py (adds the best-book column for our picks)")
     ap.add_argument("--min-ev", type=float, default=2.0, help="min expected value %% to list an 'ev' row")
     ap.add_argument("--min-gain", type=float, default=3.0, help="min price gain %% to list a 'shop' row")
