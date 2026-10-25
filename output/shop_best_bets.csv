@@ -1,51 +1,55 @@
 game,player,pos,team,stat,pick,ours,p_play,best_book,best_line,best_odds,model_p_pct,ev_pct,z,other_book,other_line,other_odds,other_ev_pct,shop_gain_pts
-New York Giants @ Houston Texans,J.J. McCarthy,QB,NYG,pass_att,UNDER,23.12,1.0,draftkings,33.5,-118.0,85.0,57.1,1.04,,,,,
-Miami Dolphins @ New York Jets,Ollie Gordon II,RB,MIA,car,UNDER,10.07,1.0,draftkings,14.5,-133.0,79.8,39.9,0.84,,,,,
-Miami Dolphins @ New York Jets,Malik Willis,QB,MIA,pass_att,UNDER,21.46,0.96,draftkings,27.5,-118.0,72.7,34.3,0.6,,,,,
-Pittsburgh Steelers @ New Orleans Saints,Kendre Miller,RB,NO,car,UNDER,8.82,1.0,draftkings,12.5,-137.0,75.6,30.8,0.69,,,,,
-Tampa Bay Buccaneers @ Carolina Panthers,Bucky Irving,RB,TB,car,OVER,17.58,0.94,draftkings,15.5,-111.0,65.3,24.1,0.39,,,,,
-Cleveland Browns @ Tennessee Titans,Tony Pollard,RB,TEN,car,UNDER,14.72,0.76,draftkings,16.5,-105.0,63.2,23.3,0.34,,,,,
-Los Angeles Rams @ Las Vegas Raiders,Matthew Stafford,QB,LA,pass_att,OVER,38.51,1.0,draftkings,34.5,-116.0,65.6,22.1,0.4,,,,,
-Green Bay Packers @ Detroit Lions,Jahmyr Gibbs,RB,DET,car,UNDER,18.15,1.0,draftkings,19.5,101.0,60.1,20.7,0.25,,,,,
-Tampa Bay Buccaneers @ Carolina Panthers,Baker Mayfield,QB,TB,pass_att,UNDER,30.39,0.4,draftkings,34.5,-123.0,65.9,19.6,0.41,,,,,
-Pittsburgh Steelers @ New Orleans Saints,Rico Dowdle,RB,PIT,car,OVER,9.99,0.94,draftkings,7.5,-138.0,68.1,17.4,0.47,,,,,
-Pittsburgh Steelers @ New Orleans Saints,Jaylen Warren,RB,PIT,rush_yds,OVER,73.73,1.0,draftkings,63.5,-114.0,62.5,17.3,0.32,,,,,
-Los Angeles Rams @ Las Vegas Raiders,Kirk Cousins,QB,LV,pass_att,UNDER,32.63,1.0,draftkings,35.5,-111.0,61.3,16.5,0.29,,,,,
-Dallas Cowboys @ Philadelphia Eagles,Javonte Williams,RB,DAL,car,UNDER,15.06,1.0,draftkings,16.5,-110.0,60.7,15.9,0.27,,,,,
-Tampa Bay Buccaneers @ Carolina Panthers,Chuba Hubbard,RB,CAR,car,UNDER,15.54,0.96,draftkings,17.5,-126.0,64.4,15.6,0.37,,,,,
-Pittsburgh Steelers @ New Orleans Saints,Rico Dowdle,RB,PIT,rush_yds,OVER,40.37,0.94,draftkings,31.5,-112.0,60.9,15.3,0.28,,,,,
-New York Giants @ Houston Texans,C.J. Stroud,QB,HOU,pass_att,UNDER,31.24,1.0,draftkings,33.5,-107.0,58.9,14.0,0.23,,,,,
-Pittsburgh Steelers @ New Orleans Saints,Jaylen Warren,RB,PIT,car,OVER,15.42,1.0,draftkings,14.5,100.0,56.9,13.8,0.17,,,,,
-San Francisco 49ers @ Atlanta Falcons,Bijan Robinson,RB,ATL,car,UNDER,16.87,1.0,draftkings,17.5,-101.0,54.7,8.9,0.12,,,,,
-Cleveland Browns @ Tennessee Titans,Deshaun Watson,QB,CLE,pass_att,UNDER,27.97,1.0,draftkings,30.5,-125.0,60.0,8.0,0.25,,,,,
-Los Angeles Rams @ Las Vegas Raiders,Matthew Stafford,QB,LA,pass_td,OVER,1.95,1.0,draftkings,1.5,-157.0,65.9,7.8,0.41,fanduel,1.5,-174.0,3.7,4.1
-Miami Dolphins @ New York Jets,Malik Willis,QB,MIA,car,UNDER,5.51,0.96,draftkings,6.5,-117.0,57.4,6.5,0.19,,,,,
-Miami Dolphins @ New York Jets,Geno Smith,QB,NYJ,pass_td,UNDER,1.21,1.0,draftkings,1.5,-132.0,60.4,6.2,0.26,fanduel,1.5,-136.0,4.8,1.3
-Denver Broncos @ ARI Cardinals,Bo Nix,QB,DEN,pass_att,UNDER,31.0,1.0,draftkings,32.5,-113.0,56.0,5.5,0.15,,,,,
-Kansas City Chiefs @ Seattle Seahawks,Kenneth Walker III,RB,KC,car,UNDER,17.44,1.0,draftkings,18.5,-122.0,57.9,5.4,0.2,,,,,
-Indianapolis Colts @ Minnesota Vikings,Kyler Murray,QB,MIN,pass_att,UNDER,28.89,1.0,draftkings,30.5,-116.0,56.4,5.0,0.16,,,,,
-San Francisco 49ers @ Atlanta Falcons,Christian McCaffrey,RB,SF,car,UNDER,14.44,1.0,draftkings,15.5,-123.0,57.9,5.0,0.2,,,,,
-Green Bay Packers @ Detroit Lions,Jordan Love,QB,GB,pass_att,UNDER,35.57,0.96,draftkings,36.5,-105.0,53.7,4.9,0.09,,,,,
-Indianapolis Colts @ Minnesota Vikings,Daniel Jones,QB,IND,pass_att,UNDER,31.79,1.0,draftkings,33.5,-119.0,56.8,4.5,0.17,,,,,
-Los Angeles Rams @ Las Vegas Raiders,Kyren Williams,RB,LA,car,UNDER,13.29,1.0,draftkings,14.5,-135.0,59.0,2.8,0.23,,,,,
-Denver Broncos @ ARI Cardinals,Jacoby Brissett,QB,ARI,pass_att,UNDER,35.46,1.0,draftkings,36.5,-113.0,54.1,2.1,0.1,,,,,
-Tampa Bay Buccaneers @ Carolina Panthers,Bryce Young,QB,CAR,pass_att,UNDER,34.13,0.96,draftkings,34.5,-103.0,51.5,1.5,0.04,,,,,
-San Francisco 49ers @ Atlanta Falcons,Brock Purdy,QB,SF,pass_td,OVER,1.77,1.0,fanduel,1.5,-144.0,59.7,1.1,0.25,draftkings,1.5,-153.0,-1.3,2.4
-Cleveland Browns @ Tennessee Titans,Deshaun Watson,QB,CLE,pass_td,UNDER,1.02,1.0,draftkings,1.5,-200.0,66.9,0.3,0.44,fanduel,1.5,-200.0,0.3,0.0
-Cincinnati Bengals @ Baltimore Ravens,Joe Burrow,QB,CIN,pass_att,UNDER,35.85,1.0,draftkings,36.5,-115.0,52.6,-1.7,0.06,,,,,
-Indianapolis Colts @ Minnesota Vikings,Daniel Jones,QB,IND,pass_td,OVER,0.98,1.0,fanduel,0.5,-230.0,66.9,-4.1,0.44,draftkings,0.5,-234.0,-4.6,0.5
-Miami Dolphins @ New York Jets,Malik Willis,QB,MIA,pass_td,OVER,0.81,0.96,draftkings,0.5,-180.0,61.1,-5.0,0.28,fanduel,0.5,-198.0,-8.0,3.1
-Denver Broncos @ ARI Cardinals,Bo Nix,QB,DEN,pass_td,UNDER,1.36,1.0,draftkings,1.5,-138.0,55.1,-5.0,0.13,fanduel,1.5,-144.0,-6.7,1.7
-Indianapolis Colts @ Minnesota Vikings,Kyler Murray,QB,MIN,pass_td,UNDER,1.29,1.0,draftkings,1.5,-155.0,57.6,-5.3,0.19,fanduel,1.5,-158.0,-6.0,0.7
-Cincinnati Bengals @ Baltimore Ravens,Chase Brown,RB,CIN,car,OVER,13.12,1.0,draftkings,13.5,-101.0,47.1,-6.2,0.07,,,,,
-Kansas City Chiefs @ Seattle Seahawks,Patrick Mahomes,QB,KC,pass_td,UNDER,1.2,0.96,draftkings,1.5,-184.0,60.7,-6.2,0.27,fanduel,1.5,-200.0,-8.9,2.6
-Cincinnati Bengals @ Baltimore Ravens,Joe Burrow,QB,CIN,pass_td,OVER,1.77,1.0,draftkings,1.5,-178.0,59.7,-6.8,0.25,fanduel,1.5,-182.0,-7.5,0.7
-Dallas Cowboys @ Philadelphia Eagles,Dak Prescott,QB,DAL,pass_att,UNDER,36.86,1.0,draftkings,36.5,-109.0,48.6,-6.9,0.04,,,,,
-Kansas City Chiefs @ Seattle Seahawks,Sam Darnold,QB,SEA,pass_td,UNDER,1.3,1.0,fanduel,1.5,-162.0,57.2,-7.5,0.18,draftkings,1.5,-175.0,-10.1,2.6
-Green Bay Packers @ Detroit Lions,Jared Goff,QB,DET,pass_td,UNDER,2.15,1.0,draftkings,2.5,-208.0,62.5,-7.5,0.32,fanduel,1.5,168.0,-25.7,18.2
-Tampa Bay Buccaneers @ Carolina Panthers,Baker Mayfield,QB,TB,pass_td,UNDER,1.18,0.4,draftkings,1.5,-201.0,61.4,-8.0,0.29,fanduel,1.5,-210.0,-9.3,1.3
-Denver Broncos @ ARI Cardinals,Jacoby Brissett,QB,ARI,pass_td,UNDER,1.28,1.0,draftkings,1.5,-171.0,57.9,-8.2,0.2,fanduel,1.5,-174.0,-8.8,0.6
-New York Giants @ Houston Texans,J.J. McCarthy,QB,NYG,pass_td,OVER,0.83,1.0,fanduel,0.5,-215.0,61.8,-9.5,0.3,draftkings,0.5,-216.0,-9.6,0.1
-Dallas Cowboys @ Philadelphia Eagles,Dak Prescott,QB,DAL,pass_td,OVER,1.57,1.0,fanduel,1.5,-146.0,52.5,-11.5,0.06,draftkings,1.5,-159.0,-14.4,2.9
-Green Bay Packers @ Detroit Lions,Jordan Love,QB,GB,pass_td,OVER,1.68,0.96,fanduel,1.5,-180.0,56.5,-12.1,0.16,draftkings,1.5,-204.0,-15.8,3.7
-Los Angeles Rams @ Las Vegas Raiders,Ashton Jeanty,RB,LV,car,UNDER,14.12,1.0,draftkings,13.5,-110.0,45.3,-13.4,0.12,,,,,
+Dallas Cowboys @ Philadelphia Eagles,Saquon Barkley,RB,PHI,car,UNDER,11.11,0.1,draftkings,16.5,-105.0,84.6,65.1,1.02,,,,,
+Indianapolis Colts @ Minnesota Vikings,Aaron Jones,RB,MIN,car,OVER,17.92,1.0,draftkings,10.5,-131.0,92.0,62.2,1.4,,,,,
+New York Giants @ Houston Texans,J.J. McCarthy,QB,NYG,pass_att,UNDER,23.09,1.0,draftkings,32.5,-108.0,82.9,59.6,0.95,,,,,
+Miami Dolphins @ New York Jets,Ollie Gordon II,RB,MIA,car,UNDER,10.04,1.0,draftkings,13.5,-102.0,74.3,47.2,0.65,,,,,
+Pittsburgh Steelers @ New Orleans Saints,Kendre Miller,RB,NO,car,UNDER,8.84,1.0,draftkings,12.5,-119.0,75.5,39.0,0.69,,,,,
+Miami Dolphins @ New York Jets,Malik Willis,QB,MIA,pass_att,UNDER,21.46,0.96,draftkings,27.5,-124.0,72.9,31.7,0.61,,,,,
+New York Giants @ Houston Texans,J.J. McCarthy,QB,NYG,car,UNDER,2.78,1.0,draftkings,5.5,-123.0,69.6,26.3,0.51,,,,,
+Tampa Bay Buccaneers @ Carolina Panthers,Baker Mayfield,QB,TB,pass_att,UNDER,29.98,0.84,draftkings,33.5,-105.0,63.9,24.7,0.36,,,,,
+Green Bay Packers @ Detroit Lions,Jahmyr Gibbs,RB,DET,car,UNDER,18.14,1.0,draftkings,20.5,-125.0,67.2,21.0,0.45,,,,,
+Tampa Bay Buccaneers @ Carolina Panthers,Bucky Irving,RB,TB,car,OVER,16.86,0.96,draftkings,15.5,-103.0,60.1,18.5,0.26,,,,,
+Pittsburgh Steelers @ New Orleans Saints,Tyler Shough,QB,NO,pass_att,UNDER,33.48,0.96,draftkings,36.5,-114.0,62.0,16.3,0.3,,,,,
+Tampa Bay Buccaneers @ Carolina Panthers,Chuba Hubbard,RB,CAR,car,UNDER,15.54,0.96,draftkings,17.5,-125.0,64.4,16.0,0.37,,,,,
+New York Giants @ Houston Texans,Woody Marks,RB,HOU,car,UNDER,14.53,1.0,draftkings,16.5,-129.0,64.5,14.5,0.37,,,,,
+Miami Dolphins @ New York Jets,Geno Smith,QB,NYJ,pass_att,UNDER,27.28,1.0,draftkings,29.5,-107.0,58.9,13.9,0.22,,,,,
+Cleveland Browns @ Tennessee Titans,Deshaun Watson,QB,CLE,pass_att,UNDER,27.78,1.0,draftkings,29.5,100.0,56.9,13.8,0.17,,,,,
+San Francisco 49ers @ Atlanta Falcons,Brock Purdy,QB,SF,pass_td,OVER,1.93,1.0,draftkings,1.5,-136.0,65.2,13.1,0.39,fanduel,1.5,-146.0,9.8,3.3
+Los Angeles Rams @ Las Vegas Raiders,Kyren Williams,RB,LA,car,UNDER,13.28,1.0,draftkings,14.5,-110.0,59.1,12.9,0.23,,,,,
+Cleveland Browns @ Tennessee Titans,Deshaun Watson,QB,CLE,pass_yds,UNDER,184.19,1.0,draftkings,203.5,-111.0,59.3,12.8,0.24,,,,,
+Los Angeles Rams @ Las Vegas Raiders,Matthew Stafford,QB,LA,pass_att,OVER,38.15,1.0,draftkings,35.5,-117.0,60.5,12.3,0.27,,,,,
+Los Angeles Rams @ Las Vegas Raiders,Kirk Cousins,QB,LV,pass_att,UNDER,32.61,1.0,draftkings,35.5,-123.0,61.5,11.5,0.29,,,,,
+Dallas Cowboys @ Philadelphia Eagles,Javonte Williams,RB,DAL,car,UNDER,15.08,1.0,draftkings,16.5,-119.0,60.6,11.5,0.27,,,,,
+Cleveland Browns @ Tennessee Titans,Tony Pollard,RB,TEN,car,UNDER,15.11,0.96,draftkings,16.5,-120.0,60.4,10.7,0.26,,,,,
+Los Angeles Rams @ Las Vegas Raiders,Matthew Stafford,QB,LA,pass_td,OVER,1.9,1.0,fanduel,1.5,-144.0,64.2,8.7,0.36,draftkings,1.5,-161.0,4.0,4.7
+San Francisco 49ers @ Atlanta Falcons,Michael Penix Jr.,QB,ATL,rush_yds,OVER,5.5,1.0,draftkings,1.5,-104.0,55.0,7.8,0.12,,,,,
+Denver Broncos @ ARI Cardinals,Jacoby Brissett,QB,ARI,pass_att,UNDER,35.38,1.0,draftkings,36.5,-104.0,54.5,6.9,0.11,,,,,
+Indianapolis Colts @ Minnesota Vikings,Kyler Murray,QB,MIN,pass_att,UNDER,28.89,1.0,draftkings,30.5,-112.0,56.5,6.9,0.16,,,,,
+Miami Dolphins @ New York Jets,Malik Willis,QB,MIA,car,UNDER,5.51,0.96,draftkings,6.5,-120.0,57.4,5.3,0.19,,,,,
+Denver Broncos @ ARI Cardinals,Bo Nix,QB,DEN,pass_att,UNDER,30.94,1.0,draftkings,32.5,-115.0,56.3,5.2,0.16,,,,,
+Kansas City Chiefs @ Seattle Seahawks,Kenneth Walker III,RB,KC,car,UNDER,17.72,1.0,draftkings,18.5,-117.0,55.9,3.6,0.15,,,,,
+Green Bay Packers @ Detroit Lions,Jordan Love,QB,GB,pass_att,UNDER,35.77,0.96,draftkings,36.5,-105.0,52.9,3.4,0.07,,,,,
+Pittsburgh Steelers @ New Orleans Saints,Jaylen Warren,RB,PIT,rec,OVER,3.26,1.0,fanduel,3.5,132.0,44.4,3.0,0.14,draftkings,3.5,125.0,-0.1,3.1
+San Francisco 49ers @ Atlanta Falcons,Christian McCaffrey,RB,SF,rush_yds,OVER,63.92,1.0,draftkings,60.5,-113.0,54.3,2.3,0.11,,,,,
+Tampa Bay Buccaneers @ Carolina Panthers,Bryce Young,QB,CAR,pass_att,UNDER,34.13,0.96,draftkings,35.5,-119.0,55.5,2.1,0.14,,,,,
+Tampa Bay Buccaneers @ Carolina Panthers,Baker Mayfield,QB,TB,pass_td,UNDER,1.02,0.84,draftkings,1.5,-196.0,66.8,0.9,0.44,fanduel,1.5,-198.0,0.6,0.3
+Los Angeles Rams @ Las Vegas Raiders,Blake Corum,RB,LA,car,UNDER,7.25,1.0,draftkings,7.5,-106.0,51.9,0.8,0.05,,,,,
+Cleveland Browns @ Tennessee Titans,Deshaun Watson,QB,CLE,pass_td,UNDER,1.01,1.0,draftkings,1.5,-200.0,67.2,0.7,0.44,fanduel,1.5,-215.0,-1.6,2.3
+Cincinnati Bengals @ Baltimore Ravens,Chase Brown,RB,CIN,car,OVER,13.26,1.0,draftkings,12.5,-128.0,55.7,-0.8,0.14,,,,,
+Kansas City Chiefs @ Seattle Seahawks,Patrick Mahomes,QB,KC,pass_att,UNDER,31.38,0.96,draftkings,31.5,-104.0,50.5,-1.0,0.01,,,,,
+Denver Broncos @ ARI Cardinals,Tyler Allgeier,RB,ARI,car,OVER,12.68,1.0,draftkings,12.5,-108.0,51.4,-1.1,0.03,,,,,
+Cincinnati Bengals @ Baltimore Ravens,Joe Burrow,QB,CIN,pass_td,OVER,1.83,1.0,draftkings,1.5,-170.0,61.8,-1.9,0.3,fanduel,1.5,-174.0,-2.7,0.8
+New York Giants @ Houston Texans,C.J. Stroud,QB,HOU,pass_td,OVER,1.79,1.0,draftkings,1.5,-165.0,60.4,-3.0,0.26,fanduel,1.5,-192.0,-8.2,5.1
+Dallas Cowboys @ Philadelphia Eagles,Dak Prescott,QB,DAL,pass_att,UNDER,36.66,1.0,draftkings,37.5,-125.0,53.4,-3.9,0.08,,,,,
+Indianapolis Colts @ Minnesota Vikings,Jonathan Taylor,RB,IND,car,OVER,18.48,0.96,draftkings,18.5,-109.0,49.8,-4.4,0.0,,,,,
+Pittsburgh Steelers @ New Orleans Saints,Chris Olave,WR,NO,rec,UNDER,5.75,1.0,fanduel,5.5,116.0,44.2,-4.6,0.15,draftkings,5.5,112.0,-6.4,1.8
+Denver Broncos @ ARI Cardinals,Jacoby Brissett,QB,ARI,pass_td,UNDER,1.26,1.0,fanduel,1.5,-162.0,58.6,-5.2,0.22,draftkings,1.5,-184.0,-9.5,4.3
+Denver Broncos @ ARI Cardinals,Bo Nix,QB,DEN,pass_td,UNDER,1.39,1.0,draftkings,1.5,-133.0,54.0,-5.4,0.1,fanduel,1.5,-136.0,-6.3,0.9
+Indianapolis Colts @ Minnesota Vikings,Daniel Jones,QB,IND,pass_td,OVER,0.92,1.0,draftkings,0.5,-218.0,64.8,-5.4,0.38,fanduel,0.5,-230.0,-7.0,1.6
+Green Bay Packers @ Detroit Lions,Jordan Love,QB,GB,car,OVER,2.55,0.96,draftkings,2.5,-117.0,50.4,-6.6,0.01,,,,,
+Kansas City Chiefs @ Seattle Seahawks,Patrick Mahomes,QB,KC,pass_td,UNDER,1.18,0.96,draftkings,1.5,-195.0,61.4,-7.1,0.29,fanduel,1.5,-205.0,-8.6,1.5
+Miami Dolphins @ New York Jets,Malik Willis,QB,MIA,pass_td,OVER,0.81,0.96,draftkings,0.5,-196.0,61.1,-7.8,0.28,fanduel,0.5,-198.0,-8.1,0.3
+New York Giants @ Houston Texans,J.J. McCarthy,QB,NYG,pass_td,OVER,0.81,1.0,draftkings,0.5,-211.0,61.1,-10.0,0.28,fanduel,0.5,-220.0,-11.2,1.2
+Kansas City Chiefs @ Seattle Seahawks,Sam Darnold,QB,SEA,pass_td,UNDER,1.33,1.0,fanduel,1.5,-166.0,56.1,-10.1,0.15,draftkings,1.5,-175.0,-11.8,1.7
+Green Bay Packers @ Detroit Lions,Jordan Love,QB,GB,pass_td,OVER,1.71,0.96,fanduel,1.5,-180.0,57.5,-10.5,0.19,draftkings,1.5,-196.0,-13.1,2.6
+Green Bay Packers @ Detroit Lions,Jared Goff,QB,DET,pass_td,UNDER,2.23,1.0,draftkings,2.5,-204.0,59.7,-11.1,0.24,fanduel,2.5,-215.0,-12.6,1.5
