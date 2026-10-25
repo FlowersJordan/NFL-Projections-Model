@@ -1,622 +1,762 @@
 player,stat,line,line_type,game,start,books,n_books,over_odds,under_odds,main_basis,main_draftkings
-Aaron Rodgers,pass_att,35.5,standard,Pittsburgh Steelers @ New Orleans Saints,2026-10-25 13:30:00+00:00,draftkings,1,-104.0,-123.0,flag,35.5
-Aaron Rodgers,pass_td,1.5,standard,Pittsburgh Steelers @ New Orleans Saints,2026-10-25 13:30:00+00:00,draftkings,1,100.0,-127.0,flag,1.5
-Aaron Rodgers,pass_yds,149.5,alternate,Pittsburgh Steelers @ New Orleans Saints,2026-10-25 13:30:00+00:00,draftkings,1,-1300.0,,flag,227.5
-Aaron Rodgers,pass_yds,159.5,alternate,Pittsburgh Steelers @ New Orleans Saints,2026-10-25 13:30:00+00:00,draftkings,1,-1220.0,,flag,227.5
-Aaron Rodgers,pass_yds,169.5,alternate,Pittsburgh Steelers @ New Orleans Saints,2026-10-25 13:30:00+00:00,draftkings,1,-760.0,,flag,227.5
-Aaron Rodgers,pass_yds,179.5,alternate,Pittsburgh Steelers @ New Orleans Saints,2026-10-25 13:30:00+00:00,draftkings,1,-490.0,,flag,227.5
-Aaron Rodgers,pass_yds,189.5,alternate,Pittsburgh Steelers @ New Orleans Saints,2026-10-25 13:30:00+00:00,draftkings,1,-332.0,,flag,227.5
-Aaron Rodgers,pass_yds,199.5,alternate,Pittsburgh Steelers @ New Orleans Saints,2026-10-25 13:30:00+00:00,draftkings,1,-237.0,,flag,227.5
-Aaron Rodgers,pass_yds,209.5,alternate,Pittsburgh Steelers @ New Orleans Saints,2026-10-25 13:30:00+00:00,draftkings,1,-179.0,,flag,227.5
-Aaron Rodgers,pass_yds,219.5,alternate,Pittsburgh Steelers @ New Orleans Saints,2026-10-25 13:30:00+00:00,draftkings,1,-139.0,,flag,227.5
-Aaron Rodgers,pass_yds,227.5,standard,Pittsburgh Steelers @ New Orleans Saints,2026-10-25 13:30:00+00:00,draftkings,1,-112.0,-112.0,flag,227.5
-Aaron Rodgers,pass_yds,229.5,alternate,Pittsburgh Steelers @ New Orleans Saints,2026-10-25 13:30:00+00:00,draftkings,1,-106.0,,flag,227.5
-Aaron Rodgers,pass_yds,239.5,alternate,Pittsburgh Steelers @ New Orleans Saints,2026-10-25 13:30:00+00:00,draftkings,1,120.0,,flag,227.5
-Aaron Rodgers,pass_yds,249.5,alternate,Pittsburgh Steelers @ New Orleans Saints,2026-10-25 13:30:00+00:00,draftkings,1,155.0,,flag,227.5
-Aaron Rodgers,pass_yds,259.5,alternate,Pittsburgh Steelers @ New Orleans Saints,2026-10-25 13:30:00+00:00,draftkings,1,199.0,,flag,227.5
-Aaron Rodgers,pass_yds,269.5,alternate,Pittsburgh Steelers @ New Orleans Saints,2026-10-25 13:30:00+00:00,draftkings,1,253.0,,flag,227.5
-Aaron Rodgers,pass_yds,279.5,alternate,Pittsburgh Steelers @ New Orleans Saints,2026-10-25 13:30:00+00:00,draftkings,1,326.0,,flag,227.5
-Aaron Rodgers,pass_yds,289.5,alternate,Pittsburgh Steelers @ New Orleans Saints,2026-10-25 13:30:00+00:00,draftkings,1,416.0,,flag,227.5
-Aaron Rodgers,pass_yds,299.5,alternate,Pittsburgh Steelers @ New Orleans Saints,2026-10-25 13:30:00+00:00,draftkings,1,506.0,,flag,227.5
-Aaron Rodgers,pass_yds,309.5,alternate,Pittsburgh Steelers @ New Orleans Saints,2026-10-25 13:30:00+00:00,draftkings,1,630.0,,flag,227.5
-Aaron Rodgers,pass_yds,319.5,alternate,Pittsburgh Steelers @ New Orleans Saints,2026-10-25 13:30:00+00:00,draftkings,1,830.0,,flag,227.5
-Aaron Rodgers,pass_yds,329.5,alternate,Pittsburgh Steelers @ New Orleans Saints,2026-10-25 13:30:00+00:00,draftkings,1,1020.0,,flag,227.5
-Aaron Rodgers,pass_yds,339.5,alternate,Pittsburgh Steelers @ New Orleans Saints,2026-10-25 13:30:00+00:00,draftkings,1,1260.0,,flag,227.5
-Aaron Rodgers,pass_yds,349.5,alternate,Pittsburgh Steelers @ New Orleans Saints,2026-10-25 13:30:00+00:00,draftkings,1,1520.0,,flag,227.5
-Aaron Rodgers,pass_yds,359.5,alternate,Pittsburgh Steelers @ New Orleans Saints,2026-10-25 13:30:00+00:00,draftkings,1,1960.0,,flag,227.5
-Aaron Rodgers,pass_yds,369.5,alternate,Pittsburgh Steelers @ New Orleans Saints,2026-10-25 13:30:00+00:00,draftkings,1,2400.0,,flag,227.5
-Aaron Rodgers,pass_yds,379.5,alternate,Pittsburgh Steelers @ New Orleans Saints,2026-10-25 13:30:00+00:00,draftkings,1,2700.0,,flag,227.5
-Aaron Rodgers,rush_yds,1.5,standard,Pittsburgh Steelers @ New Orleans Saints,2026-10-25 13:30:00+00:00,draftkings,1,-107.0,-117.0,flag,1.5
-Aaron Rodgers,rush_yds,9.5,alternate,Pittsburgh Steelers @ New Orleans Saints,2026-10-25 13:30:00+00:00,draftkings,1,271.0,,flag,1.5
-Aaron Rodgers,rush_yds,14.5,alternate,Pittsburgh Steelers @ New Orleans Saints,2026-10-25 13:30:00+00:00,draftkings,1,464.0,,flag,1.5
-Aaron Rodgers,rush_yds,19.5,alternate,Pittsburgh Steelers @ New Orleans Saints,2026-10-25 13:30:00+00:00,draftkings,1,720.0,,flag,1.5
-Aaron Rodgers,rush_yds,24.5,alternate,Pittsburgh Steelers @ New Orleans Saints,2026-10-25 13:30:00+00:00,draftkings,1,1120.0,,flag,1.5
-Aaron Rodgers,rush_yds,29.5,alternate,Pittsburgh Steelers @ New Orleans Saints,2026-10-25 13:30:00+00:00,draftkings,1,1780.0,,flag,1.5
-Aaron Rodgers,rush_yds,39.5,alternate,Pittsburgh Steelers @ New Orleans Saints,2026-10-25 13:30:00+00:00,draftkings,1,3700.0,,flag,1.5
-Alvin Kamara,rec,1.5,alternate,Pittsburgh Steelers @ New Orleans Saints,2026-10-25 13:30:00+00:00,draftkings,1,-435.0,,flag,2.5
-Alvin Kamara,rec,2.5,standard,Pittsburgh Steelers @ New Orleans Saints,2026-10-25 13:30:00+00:00,draftkings,1,-139.0,109.0,flag,2.5
-Alvin Kamara,rec,3.5,alternate,Pittsburgh Steelers @ New Orleans Saints,2026-10-25 13:30:00+00:00,draftkings,1,177.0,,flag,2.5
-Alvin Kamara,rec,4.5,alternate,Pittsburgh Steelers @ New Orleans Saints,2026-10-25 13:30:00+00:00,draftkings,1,393.0,,flag,2.5
-Alvin Kamara,rec,5.5,alternate,Pittsburgh Steelers @ New Orleans Saints,2026-10-25 13:30:00+00:00,draftkings,1,820.0,,flag,2.5
-Alvin Kamara,rec,6.5,alternate,Pittsburgh Steelers @ New Orleans Saints,2026-10-25 13:30:00+00:00,draftkings,1,1620.0,,flag,2.5
-Alvin Kamara,rec,7.5,alternate,Pittsburgh Steelers @ New Orleans Saints,2026-10-25 13:30:00+00:00,draftkings,1,2700.0,,flag,2.5
-Alvin Kamara,rec_yds,9.5,alternate,Pittsburgh Steelers @ New Orleans Saints,2026-10-25 13:30:00+00:00,draftkings,1,-164.0,,flag,12.5
-Alvin Kamara,rec_yds,12.5,standard,Pittsburgh Steelers @ New Orleans Saints,2026-10-25 13:30:00+00:00,draftkings,1,-118.0,-106.0,flag,12.5
-Alvin Kamara,rec_yds,14.5,alternate,Pittsburgh Steelers @ New Orleans Saints,2026-10-25 13:30:00+00:00,draftkings,1,109.0,,flag,12.5
-Alvin Kamara,rec_yds,19.5,alternate,Pittsburgh Steelers @ New Orleans Saints,2026-10-25 13:30:00+00:00,draftkings,1,176.0,,flag,12.5
-Alvin Kamara,rec_yds,24.5,alternate,Pittsburgh Steelers @ New Orleans Saints,2026-10-25 13:30:00+00:00,draftkings,1,276.0,,flag,12.5
-Alvin Kamara,rec_yds,29.5,alternate,Pittsburgh Steelers @ New Orleans Saints,2026-10-25 13:30:00+00:00,draftkings,1,417.0,,flag,12.5
-Alvin Kamara,rec_yds,39.5,alternate,Pittsburgh Steelers @ New Orleans Saints,2026-10-25 13:30:00+00:00,draftkings,1,840.0,,flag,12.5
-Alvin Kamara,rec_yds,49.5,alternate,Pittsburgh Steelers @ New Orleans Saints,2026-10-25 13:30:00+00:00,draftkings,1,1500.0,,flag,12.5
-Alvin Kamara,rec_yds,59.5,alternate,Pittsburgh Steelers @ New Orleans Saints,2026-10-25 13:30:00+00:00,draftkings,1,2300.0,,flag,12.5
-Alvin Kamara,rec_yds,69.5,alternate,Pittsburgh Steelers @ New Orleans Saints,2026-10-25 13:30:00+00:00,draftkings,1,3200.0,,flag,12.5
-Alvin Kamara,rush_yds,9.5,alternate,Pittsburgh Steelers @ New Orleans Saints,2026-10-25 13:30:00+00:00,draftkings,1,-284.0,,flag,17.5
-Alvin Kamara,rush_yds,14.5,alternate,Pittsburgh Steelers @ New Orleans Saints,2026-10-25 13:30:00+00:00,draftkings,1,-150.0,,flag,17.5
-Alvin Kamara,rush_yds,17.5,standard,Pittsburgh Steelers @ New Orleans Saints,2026-10-25 13:30:00+00:00,draftkings,1,-108.0,-117.0,flag,17.5
-Alvin Kamara,rush_yds,19.5,alternate,Pittsburgh Steelers @ New Orleans Saints,2026-10-25 13:30:00+00:00,draftkings,1,114.0,,flag,17.5
-Alvin Kamara,rush_yds,24.5,alternate,Pittsburgh Steelers @ New Orleans Saints,2026-10-25 13:30:00+00:00,draftkings,1,183.0,,flag,17.5
-Alvin Kamara,rush_yds,29.5,alternate,Pittsburgh Steelers @ New Orleans Saints,2026-10-25 13:30:00+00:00,draftkings,1,280.0,,flag,17.5
-Alvin Kamara,rush_yds,39.5,alternate,Pittsburgh Steelers @ New Orleans Saints,2026-10-25 13:30:00+00:00,draftkings,1,575.0,,flag,17.5
-Alvin Kamara,rush_yds,49.5,alternate,Pittsburgh Steelers @ New Orleans Saints,2026-10-25 13:30:00+00:00,draftkings,1,1040.0,,flag,17.5
-Alvin Kamara,rush_yds,59.5,alternate,Pittsburgh Steelers @ New Orleans Saints,2026-10-25 13:30:00+00:00,draftkings,1,1700.0,,flag,17.5
-Alvin Kamara,rush_yds,69.5,alternate,Pittsburgh Steelers @ New Orleans Saints,2026-10-25 13:30:00+00:00,draftkings,1,2500.0,,flag,17.5
-Alvin Kamara,rush_yds,79.5,alternate,Pittsburgh Steelers @ New Orleans Saints,2026-10-25 13:30:00+00:00,draftkings,1,3500.0,,flag,17.5
-Bryce Lance,rec,1.5,standard,Pittsburgh Steelers @ New Orleans Saints,2026-10-25 13:30:00+00:00,draftkings,1,117.0,-150.0,flag,1.5
-Bryce Lance,rec,2.5,alternate,Pittsburgh Steelers @ New Orleans Saints,2026-10-25 13:30:00+00:00,draftkings,1,360.0,,flag,1.5
-Bryce Lance,rec,3.5,alternate,Pittsburgh Steelers @ New Orleans Saints,2026-10-25 13:30:00+00:00,draftkings,1,980.0,,flag,1.5
-Bryce Lance,rec,4.5,alternate,Pittsburgh Steelers @ New Orleans Saints,2026-10-25 13:30:00+00:00,draftkings,1,2200.0,,flag,1.5
-Bryce Lance,rec_yds,9.5,alternate,Pittsburgh Steelers @ New Orleans Saints,2026-10-25 13:30:00+00:00,draftkings,1,-156.0,,flag,13.5
-Bryce Lance,rec_yds,13.5,standard,Pittsburgh Steelers @ New Orleans Saints,2026-10-25 13:30:00+00:00,draftkings,1,-108.0,-117.0,flag,13.5
-Bryce Lance,rec_yds,14.5,alternate,Pittsburgh Steelers @ New Orleans Saints,2026-10-25 13:30:00+00:00,draftkings,1,102.0,,flag,13.5
-Bryce Lance,rec_yds,19.5,alternate,Pittsburgh Steelers @ New Orleans Saints,2026-10-25 13:30:00+00:00,draftkings,1,156.0,,flag,13.5
-Bryce Lance,rec_yds,24.5,alternate,Pittsburgh Steelers @ New Orleans Saints,2026-10-25 13:30:00+00:00,draftkings,1,228.0,,flag,13.5
-Bryce Lance,rec_yds,29.5,alternate,Pittsburgh Steelers @ New Orleans Saints,2026-10-25 13:30:00+00:00,draftkings,1,323.0,,flag,13.5
-Bryce Lance,rec_yds,39.5,alternate,Pittsburgh Steelers @ New Orleans Saints,2026-10-25 13:30:00+00:00,draftkings,1,599.0,,flag,13.5
-Bryce Lance,rec_yds,49.5,alternate,Pittsburgh Steelers @ New Orleans Saints,2026-10-25 13:30:00+00:00,draftkings,1,1060.0,,flag,13.5
-Bryce Lance,rec_yds,59.5,alternate,Pittsburgh Steelers @ New Orleans Saints,2026-10-25 13:30:00+00:00,draftkings,1,1820.0,,flag,13.5
-Bryce Lance,rec_yds,69.5,alternate,Pittsburgh Steelers @ New Orleans Saints,2026-10-25 13:30:00+00:00,draftkings,1,2800.0,,flag,13.5
-Bryce Lance,rec_yds,79.5,alternate,Pittsburgh Steelers @ New Orleans Saints,2026-10-25 13:30:00+00:00,draftkings,1,4000.0,,flag,13.5
-CJ Donaldson,rush_yds,9.5,alternate,Pittsburgh Steelers @ New Orleans Saints,2026-10-25 13:30:00+00:00,draftkings,1,-127.0,,flag,10.5
-CJ Donaldson,rush_yds,10.5,standard,Pittsburgh Steelers @ New Orleans Saints,2026-10-25 13:30:00+00:00,draftkings,1,-110.0,-114.0,flag,10.5
-CJ Donaldson,rush_yds,14.5,alternate,Pittsburgh Steelers @ New Orleans Saints,2026-10-25 13:30:00+00:00,draftkings,1,145.0,,flag,10.5
-CJ Donaldson,rush_yds,19.5,alternate,Pittsburgh Steelers @ New Orleans Saints,2026-10-25 13:30:00+00:00,draftkings,1,248.0,,flag,10.5
-CJ Donaldson,rush_yds,24.5,alternate,Pittsburgh Steelers @ New Orleans Saints,2026-10-25 13:30:00+00:00,draftkings,1,383.0,,flag,10.5
-CJ Donaldson,rush_yds,29.5,alternate,Pittsburgh Steelers @ New Orleans Saints,2026-10-25 13:30:00+00:00,draftkings,1,584.0,,flag,10.5
-CJ Donaldson,rush_yds,39.5,alternate,Pittsburgh Steelers @ New Orleans Saints,2026-10-25 13:30:00+00:00,draftkings,1,1200.0,,flag,10.5
-CJ Donaldson,rush_yds,49.5,alternate,Pittsburgh Steelers @ New Orleans Saints,2026-10-25 13:30:00+00:00,draftkings,1,2100.0,,flag,10.5
-CJ Donaldson,rush_yds,59.5,alternate,Pittsburgh Steelers @ New Orleans Saints,2026-10-25 13:30:00+00:00,draftkings,1,3200.0,,flag,10.5
-Chris Olave,rec,2.5,alternate,Pittsburgh Steelers @ New Orleans Saints,2026-10-25 13:30:00+00:00,draftkings,1,-2600.0,,flag,6.5
-Chris Olave,rec,3.5,alternate,Pittsburgh Steelers @ New Orleans Saints,2026-10-25 13:30:00+00:00,draftkings,1,-780.0,,flag,6.5
-Chris Olave,rec,4.5,alternate,Pittsburgh Steelers @ New Orleans Saints,2026-10-25 13:30:00+00:00,draftkings,1,-338.0,,flag,6.5
-Chris Olave,rec,5.5,alternate,Pittsburgh Steelers @ New Orleans Saints,2026-10-25 13:30:00+00:00,draftkings,1,-176.0,,flag,6.5
-Chris Olave,rec,6.5,standard,Pittsburgh Steelers @ New Orleans Saints,2026-10-25 13:30:00+00:00,draftkings,1,103.0,-132.0,flag,6.5
-Chris Olave,rec,7.5,alternate,Pittsburgh Steelers @ New Orleans Saints,2026-10-25 13:30:00+00:00,draftkings,1,180.0,,flag,6.5
-Chris Olave,rec,8.5,alternate,Pittsburgh Steelers @ New Orleans Saints,2026-10-25 13:30:00+00:00,draftkings,1,304.0,,flag,6.5
-Chris Olave,rec,9.5,alternate,Pittsburgh Steelers @ New Orleans Saints,2026-10-25 13:30:00+00:00,draftkings,1,507.0,,flag,6.5
-Chris Olave,rec,10.5,alternate,Pittsburgh Steelers @ New Orleans Saints,2026-10-25 13:30:00+00:00,draftkings,1,840.0,,flag,6.5
-Chris Olave,rec,11.5,alternate,Pittsburgh Steelers @ New Orleans Saints,2026-10-25 13:30:00+00:00,draftkings,1,1320.0,,flag,6.5
-Chris Olave,rec,12.5,alternate,Pittsburgh Steelers @ New Orleans Saints,2026-10-25 13:30:00+00:00,draftkings,1,2000.0,,flag,6.5
-Chris Olave,rec,13.5,alternate,Pittsburgh Steelers @ New Orleans Saints,2026-10-25 13:30:00+00:00,draftkings,1,2800.0,,flag,6.5
-Chris Olave,rec_yds,24.5,alternate,Pittsburgh Steelers @ New Orleans Saints,2026-10-25 13:30:00+00:00,draftkings,1,-2300.0,,flag,76.5
-Chris Olave,rec_yds,29.5,alternate,Pittsburgh Steelers @ New Orleans Saints,2026-10-25 13:30:00+00:00,draftkings,1,-1400.0,,flag,76.5
-Chris Olave,rec_yds,39.5,alternate,Pittsburgh Steelers @ New Orleans Saints,2026-10-25 13:30:00+00:00,draftkings,1,-650.0,,flag,76.5
-Chris Olave,rec_yds,49.5,alternate,Pittsburgh Steelers @ New Orleans Saints,2026-10-25 13:30:00+00:00,draftkings,1,-365.0,,flag,76.5
-Chris Olave,rec_yds,59.5,alternate,Pittsburgh Steelers @ New Orleans Saints,2026-10-25 13:30:00+00:00,draftkings,1,-227.0,,flag,76.5
-Chris Olave,rec_yds,69.5,alternate,Pittsburgh Steelers @ New Orleans Saints,2026-10-25 13:30:00+00:00,draftkings,1,-147.0,,flag,76.5
-Chris Olave,rec_yds,76.5,standard,Pittsburgh Steelers @ New Orleans Saints,2026-10-25 13:30:00+00:00,draftkings,1,-110.0,-114.0,flag,76.5
-Chris Olave,rec_yds,79.5,alternate,Pittsburgh Steelers @ New Orleans Saints,2026-10-25 13:30:00+00:00,draftkings,1,102.0,,flag,76.5
-Chris Olave,rec_yds,89.5,alternate,Pittsburgh Steelers @ New Orleans Saints,2026-10-25 13:30:00+00:00,draftkings,1,147.0,,flag,76.5
-Chris Olave,rec_yds,99.5,alternate,Pittsburgh Steelers @ New Orleans Saints,2026-10-25 13:30:00+00:00,draftkings,1,211.0,,flag,76.5
-Chris Olave,rec_yds,109.5,alternate,Pittsburgh Steelers @ New Orleans Saints,2026-10-25 13:30:00+00:00,draftkings,1,306.0,,flag,76.5
-Chris Olave,rec_yds,119.5,alternate,Pittsburgh Steelers @ New Orleans Saints,2026-10-25 13:30:00+00:00,draftkings,1,429.0,,flag,76.5
-Chris Olave,rec_yds,129.5,alternate,Pittsburgh Steelers @ New Orleans Saints,2026-10-25 13:30:00+00:00,draftkings,1,610.0,,flag,76.5
-Chris Olave,rec_yds,139.5,alternate,Pittsburgh Steelers @ New Orleans Saints,2026-10-25 13:30:00+00:00,draftkings,1,890.0,,flag,76.5
-Chris Olave,rec_yds,149.5,alternate,Pittsburgh Steelers @ New Orleans Saints,2026-10-25 13:30:00+00:00,draftkings,1,1220.0,,flag,76.5
-Chris Olave,rec_yds,159.5,alternate,Pittsburgh Steelers @ New Orleans Saints,2026-10-25 13:30:00+00:00,draftkings,1,1700.0,,flag,76.5
-Chris Olave,rec_yds,169.5,alternate,Pittsburgh Steelers @ New Orleans Saints,2026-10-25 13:30:00+00:00,draftkings,1,2300.0,,flag,76.5
-Chris Olave,rec_yds,179.5,alternate,Pittsburgh Steelers @ New Orleans Saints,2026-10-25 13:30:00+00:00,draftkings,1,3200.0,,flag,76.5
-DK Metcalf,rec,2.5,alternate,Pittsburgh Steelers @ New Orleans Saints,2026-10-25 13:30:00+00:00,draftkings,1,-880.0,,flag,4.5
-DK Metcalf,rec,3.5,alternate,Pittsburgh Steelers @ New Orleans Saints,2026-10-25 13:30:00+00:00,draftkings,1,-319.0,,flag,4.5
-DK Metcalf,rec,4.5,standard,Pittsburgh Steelers @ New Orleans Saints,2026-10-25 13:30:00+00:00,draftkings,1,-140.0,110.0,flag,4.5
-DK Metcalf,rec,5.5,alternate,Pittsburgh Steelers @ New Orleans Saints,2026-10-25 13:30:00+00:00,draftkings,1,143.0,,flag,4.5
-DK Metcalf,rec,6.5,alternate,Pittsburgh Steelers @ New Orleans Saints,2026-10-25 13:30:00+00:00,draftkings,1,275.0,,flag,4.5
-DK Metcalf,rec,7.5,alternate,Pittsburgh Steelers @ New Orleans Saints,2026-10-25 13:30:00+00:00,draftkings,1,524.0,,flag,4.5
-DK Metcalf,rec,8.5,alternate,Pittsburgh Steelers @ New Orleans Saints,2026-10-25 13:30:00+00:00,draftkings,1,950.0,,flag,4.5
-DK Metcalf,rec,9.5,alternate,Pittsburgh Steelers @ New Orleans Saints,2026-10-25 13:30:00+00:00,draftkings,1,1640.0,,flag,4.5
-DK Metcalf,rec,10.5,alternate,Pittsburgh Steelers @ New Orleans Saints,2026-10-25 13:30:00+00:00,draftkings,1,2600.0,,flag,4.5
-DK Metcalf,rec_yds,14.5,alternate,Pittsburgh Steelers @ New Orleans Saints,2026-10-25 13:30:00+00:00,draftkings,1,-2500.0,,flag,59.5
-DK Metcalf,rec_yds,19.5,alternate,Pittsburgh Steelers @ New Orleans Saints,2026-10-25 13:30:00+00:00,draftkings,1,-1320.0,,flag,59.5
-DK Metcalf,rec_yds,24.5,alternate,Pittsburgh Steelers @ New Orleans Saints,2026-10-25 13:30:00+00:00,draftkings,1,-830.0,,flag,59.5
-DK Metcalf,rec_yds,29.5,alternate,Pittsburgh Steelers @ New Orleans Saints,2026-10-25 13:30:00+00:00,draftkings,1,-564.0,,flag,59.5
-DK Metcalf,rec_yds,39.5,alternate,Pittsburgh Steelers @ New Orleans Saints,2026-10-25 13:30:00+00:00,draftkings,1,-298.0,,flag,59.5
-DK Metcalf,rec_yds,49.5,alternate,Pittsburgh Steelers @ New Orleans Saints,2026-10-25 13:30:00+00:00,draftkings,1,-177.0,,flag,59.5
-DK Metcalf,rec_yds,59.5,standard,Pittsburgh Steelers @ New Orleans Saints,2026-10-25 13:30:00+00:00,draftkings,1,-110.0,-114.0,flag,59.5
-DK Metcalf,rec_yds,69.5,alternate,Pittsburgh Steelers @ New Orleans Saints,2026-10-25 13:30:00+00:00,draftkings,1,137.0,,flag,59.5
-DK Metcalf,rec_yds,79.5,alternate,Pittsburgh Steelers @ New Orleans Saints,2026-10-25 13:30:00+00:00,draftkings,1,207.0,,flag,59.5
-DK Metcalf,rec_yds,89.5,alternate,Pittsburgh Steelers @ New Orleans Saints,2026-10-25 13:30:00+00:00,draftkings,1,307.0,,flag,59.5
-DK Metcalf,rec_yds,99.5,alternate,Pittsburgh Steelers @ New Orleans Saints,2026-10-25 13:30:00+00:00,draftkings,1,452.0,,flag,59.5
-DK Metcalf,rec_yds,109.5,alternate,Pittsburgh Steelers @ New Orleans Saints,2026-10-25 13:30:00+00:00,draftkings,1,650.0,,flag,59.5
-DK Metcalf,rec_yds,119.5,alternate,Pittsburgh Steelers @ New Orleans Saints,2026-10-25 13:30:00+00:00,draftkings,1,970.0,,flag,59.5
-DK Metcalf,rec_yds,129.5,alternate,Pittsburgh Steelers @ New Orleans Saints,2026-10-25 13:30:00+00:00,draftkings,1,1360.0,,flag,59.5
-DK Metcalf,rec_yds,139.5,alternate,Pittsburgh Steelers @ New Orleans Saints,2026-10-25 13:30:00+00:00,draftkings,1,1940.0,,flag,59.5
-DK Metcalf,rec_yds,149.5,alternate,Pittsburgh Steelers @ New Orleans Saints,2026-10-25 13:30:00+00:00,draftkings,1,2600.0,,flag,59.5
-DK Metcalf,rec_yds,159.5,alternate,Pittsburgh Steelers @ New Orleans Saints,2026-10-25 13:30:00+00:00,draftkings,1,3500.0,,flag,59.5
-Darnell Washington,rec,1.5,alternate,Pittsburgh Steelers @ New Orleans Saints,2026-10-25 13:30:00+00:00,draftkings,1,-317.0,,flag,2.5
-Darnell Washington,rec,2.5,standard,Pittsburgh Steelers @ New Orleans Saints,2026-10-25 13:30:00+00:00,draftkings,1,-105.0,-122.0,flag,2.5
-Darnell Washington,rec,3.5,alternate,Pittsburgh Steelers @ New Orleans Saints,2026-10-25 13:30:00+00:00,draftkings,1,238.0,,flag,2.5
-Darnell Washington,rec,4.5,alternate,Pittsburgh Steelers @ New Orleans Saints,2026-10-25 13:30:00+00:00,draftkings,1,558.0,,flag,2.5
-Darnell Washington,rec,5.5,alternate,Pittsburgh Steelers @ New Orleans Saints,2026-10-25 13:30:00+00:00,draftkings,1,1180.0,,flag,2.5
-Darnell Washington,rec,6.5,alternate,Pittsburgh Steelers @ New Orleans Saints,2026-10-25 13:30:00+00:00,draftkings,1,2200.0,,flag,2.5
-Darnell Washington,rec_yds,9.5,alternate,Pittsburgh Steelers @ New Orleans Saints,2026-10-25 13:30:00+00:00,draftkings,1,-427.0,,flag,25.5
-Darnell Washington,rec_yds,14.5,alternate,Pittsburgh Steelers @ New Orleans Saints,2026-10-25 13:30:00+00:00,draftkings,1,-262.0,,flag,25.5
-Darnell Washington,rec_yds,19.5,alternate,Pittsburgh Steelers @ New Orleans Saints,2026-10-25 13:30:00+00:00,draftkings,1,-168.0,,flag,25.5
-Darnell Washington,rec_yds,24.5,alternate,Pittsburgh Steelers @ New Orleans Saints,2026-10-25 13:30:00+00:00,draftkings,1,-118.0,,flag,25.5
-Darnell Washington,rec_yds,25.5,standard,Pittsburgh Steelers @ New Orleans Saints,2026-10-25 13:30:00+00:00,draftkings,1,-110.0,-114.0,flag,25.5
-Darnell Washington,rec_yds,29.5,alternate,Pittsburgh Steelers @ New Orleans Saints,2026-10-25 13:30:00+00:00,draftkings,1,117.0,,flag,25.5
-Darnell Washington,rec_yds,39.5,alternate,Pittsburgh Steelers @ New Orleans Saints,2026-10-25 13:30:00+00:00,draftkings,1,210.0,,flag,25.5
-Darnell Washington,rec_yds,49.5,alternate,Pittsburgh Steelers @ New Orleans Saints,2026-10-25 13:30:00+00:00,draftkings,1,352.0,,flag,25.5
-Darnell Washington,rec_yds,59.5,alternate,Pittsburgh Steelers @ New Orleans Saints,2026-10-25 13:30:00+00:00,draftkings,1,575.0,,flag,25.5
-Darnell Washington,rec_yds,69.5,alternate,Pittsburgh Steelers @ New Orleans Saints,2026-10-25 13:30:00+00:00,draftkings,1,910.0,,flag,25.5
-Darnell Washington,rec_yds,79.5,alternate,Pittsburgh Steelers @ New Orleans Saints,2026-10-25 13:30:00+00:00,draftkings,1,1440.0,,flag,25.5
-Darnell Washington,rec_yds,89.5,alternate,Pittsburgh Steelers @ New Orleans Saints,2026-10-25 13:30:00+00:00,draftkings,1,2100.0,,flag,25.5
-Darnell Washington,rec_yds,99.5,alternate,Pittsburgh Steelers @ New Orleans Saints,2026-10-25 13:30:00+00:00,draftkings,1,3200.0,,flag,25.5
-Devaughn Vele,rec,1.5,alternate,Pittsburgh Steelers @ New Orleans Saints,2026-10-25 13:30:00+00:00,draftkings,1,-1540.0,,flag,3.5
-Devaughn Vele,rec,2.5,alternate,Pittsburgh Steelers @ New Orleans Saints,2026-10-25 13:30:00+00:00,draftkings,1,-416.0,,flag,3.5
-Devaughn Vele,rec,3.5,standard,Pittsburgh Steelers @ New Orleans Saints,2026-10-25 13:30:00+00:00,draftkings,1,-162.0,127.0,flag,3.5
-Devaughn Vele,rec,4.5,alternate,Pittsburgh Steelers @ New Orleans Saints,2026-10-25 13:30:00+00:00,draftkings,1,131.0,,flag,3.5
-Devaughn Vele,rec,5.5,alternate,Pittsburgh Steelers @ New Orleans Saints,2026-10-25 13:30:00+00:00,draftkings,1,266.0,,flag,3.5
-Devaughn Vele,rec,6.5,alternate,Pittsburgh Steelers @ New Orleans Saints,2026-10-25 13:30:00+00:00,draftkings,1,525.0,,flag,3.5
-Devaughn Vele,rec,7.5,alternate,Pittsburgh Steelers @ New Orleans Saints,2026-10-25 13:30:00+00:00,draftkings,1,1000.0,,flag,3.5
-Devaughn Vele,rec,8.5,alternate,Pittsburgh Steelers @ New Orleans Saints,2026-10-25 13:30:00+00:00,draftkings,1,1780.0,,flag,3.5
-Devaughn Vele,rec,9.5,alternate,Pittsburgh Steelers @ New Orleans Saints,2026-10-25 13:30:00+00:00,draftkings,1,2700.0,,flag,3.5
-Devaughn Vele,rec_yds,9.5,alternate,Pittsburgh Steelers @ New Orleans Saints,2026-10-25 13:30:00+00:00,draftkings,1,-1780.0,,flag,43.5
-Devaughn Vele,rec_yds,14.5,alternate,Pittsburgh Steelers @ New Orleans Saints,2026-10-25 13:30:00+00:00,draftkings,1,-920.0,,flag,43.5
-Devaughn Vele,rec_yds,19.5,alternate,Pittsburgh Steelers @ New Orleans Saints,2026-10-25 13:30:00+00:00,draftkings,1,-563.0,,flag,43.5
-Devaughn Vele,rec_yds,24.5,alternate,Pittsburgh Steelers @ New Orleans Saints,2026-10-25 13:30:00+00:00,draftkings,1,-376.0,,flag,43.5
-Devaughn Vele,rec_yds,29.5,alternate,Pittsburgh Steelers @ New Orleans Saints,2026-10-25 13:30:00+00:00,draftkings,1,-255.0,,flag,43.5
-Devaughn Vele,rec_yds,39.5,alternate,Pittsburgh Steelers @ New Orleans Saints,2026-10-25 13:30:00+00:00,draftkings,1,-137.0,,flag,43.5
-Devaughn Vele,rec_yds,43.5,standard,Pittsburgh Steelers @ New Orleans Saints,2026-10-25 13:30:00+00:00,draftkings,1,-109.0,-115.0,flag,43.5
-Devaughn Vele,rec_yds,49.5,alternate,Pittsburgh Steelers @ New Orleans Saints,2026-10-25 13:30:00+00:00,draftkings,1,125.0,,flag,43.5
-Devaughn Vele,rec_yds,59.5,alternate,Pittsburgh Steelers @ New Orleans Saints,2026-10-25 13:30:00+00:00,draftkings,1,202.0,,flag,43.5
-Devaughn Vele,rec_yds,69.5,alternate,Pittsburgh Steelers @ New Orleans Saints,2026-10-25 13:30:00+00:00,draftkings,1,322.0,,flag,43.5
-Devaughn Vele,rec_yds,79.5,alternate,Pittsburgh Steelers @ New Orleans Saints,2026-10-25 13:30:00+00:00,draftkings,1,511.0,,flag,43.5
-Devaughn Vele,rec_yds,89.5,alternate,Pittsburgh Steelers @ New Orleans Saints,2026-10-25 13:30:00+00:00,draftkings,1,800.0,,flag,43.5
-Devaughn Vele,rec_yds,99.5,alternate,Pittsburgh Steelers @ New Orleans Saints,2026-10-25 13:30:00+00:00,draftkings,1,1240.0,,flag,43.5
-Devaughn Vele,rec_yds,109.5,alternate,Pittsburgh Steelers @ New Orleans Saints,2026-10-25 13:30:00+00:00,draftkings,1,1880.0,,flag,43.5
-Devaughn Vele,rec_yds,119.5,alternate,Pittsburgh Steelers @ New Orleans Saints,2026-10-25 13:30:00+00:00,draftkings,1,2700.0,,flag,43.5
-Devaughn Vele,rec_yds,129.5,alternate,Pittsburgh Steelers @ New Orleans Saints,2026-10-25 13:30:00+00:00,draftkings,1,3800.0,,flag,43.5
-Germie Bernard,rec,1.5,alternate,Pittsburgh Steelers @ New Orleans Saints,2026-10-25 13:30:00+00:00,draftkings,1,-3700.0,,flag,4.5
-Germie Bernard,rec,2.5,alternate,Pittsburgh Steelers @ New Orleans Saints,2026-10-25 13:30:00+00:00,draftkings,1,-780.0,,flag,4.5
-Germie Bernard,rec,3.5,alternate,Pittsburgh Steelers @ New Orleans Saints,2026-10-25 13:30:00+00:00,draftkings,1,-305.0,,flag,4.5
-Germie Bernard,rec,4.5,standard,Pittsburgh Steelers @ New Orleans Saints,2026-10-25 13:30:00+00:00,draftkings,1,-141.0,111.0,flag,4.5
-Germie Bernard,rec,5.5,alternate,Pittsburgh Steelers @ New Orleans Saints,2026-10-25 13:30:00+00:00,draftkings,1,131.0,,flag,4.5
-Germie Bernard,rec,6.5,alternate,Pittsburgh Steelers @ New Orleans Saints,2026-10-25 13:30:00+00:00,draftkings,1,242.0,,flag,4.5
-Germie Bernard,rec,7.5,alternate,Pittsburgh Steelers @ New Orleans Saints,2026-10-25 13:30:00+00:00,draftkings,1,437.0,,flag,4.5
-Germie Bernard,rec,8.5,alternate,Pittsburgh Steelers @ New Orleans Saints,2026-10-25 13:30:00+00:00,draftkings,1,790.0,,flag,4.5
-Germie Bernard,rec,9.5,alternate,Pittsburgh Steelers @ New Orleans Saints,2026-10-25 13:30:00+00:00,draftkings,1,1340.0,,flag,4.5
-Germie Bernard,rec,10.5,alternate,Pittsburgh Steelers @ New Orleans Saints,2026-10-25 13:30:00+00:00,draftkings,1,2200.0,,flag,4.5
-Germie Bernard,rec_yds,14.5,alternate,Pittsburgh Steelers @ New Orleans Saints,2026-10-25 13:30:00+00:00,draftkings,1,-1520.0,,flag,52.5
-Germie Bernard,rec_yds,19.5,alternate,Pittsburgh Steelers @ New Orleans Saints,2026-10-25 13:30:00+00:00,draftkings,1,-870.0,,flag,52.5
-Germie Bernard,rec_yds,24.5,alternate,Pittsburgh Steelers @ New Orleans Saints,2026-10-25 13:30:00+00:00,draftkings,1,-572.0,,flag,52.5
-Germie Bernard,rec_yds,29.5,alternate,Pittsburgh Steelers @ New Orleans Saints,2026-10-25 13:30:00+00:00,draftkings,1,-404.0,,flag,52.5
-Germie Bernard,rec_yds,39.5,alternate,Pittsburgh Steelers @ New Orleans Saints,2026-10-25 13:30:00+00:00,draftkings,1,-216.0,,flag,52.5
-Germie Bernard,rec_yds,49.5,alternate,Pittsburgh Steelers @ New Orleans Saints,2026-10-25 13:30:00+00:00,draftkings,1,-129.0,,flag,52.5
-Germie Bernard,rec_yds,52.5,standard,Pittsburgh Steelers @ New Orleans Saints,2026-10-25 13:30:00+00:00,draftkings,1,-111.0,-113.0,flag,52.5
-Germie Bernard,rec_yds,59.5,alternate,Pittsburgh Steelers @ New Orleans Saints,2026-10-25 13:30:00+00:00,draftkings,1,124.0,,flag,52.5
-Germie Bernard,rec_yds,69.5,alternate,Pittsburgh Steelers @ New Orleans Saints,2026-10-25 13:30:00+00:00,draftkings,1,191.0,,flag,52.5
-Germie Bernard,rec_yds,79.5,alternate,Pittsburgh Steelers @ New Orleans Saints,2026-10-25 13:30:00+00:00,draftkings,1,289.0,,flag,52.5
-Germie Bernard,rec_yds,89.5,alternate,Pittsburgh Steelers @ New Orleans Saints,2026-10-25 13:30:00+00:00,draftkings,1,432.0,,flag,52.5
-Germie Bernard,rec_yds,99.5,alternate,Pittsburgh Steelers @ New Orleans Saints,2026-10-25 13:30:00+00:00,draftkings,1,630.0,,flag,52.5
-Germie Bernard,rec_yds,109.5,alternate,Pittsburgh Steelers @ New Orleans Saints,2026-10-25 13:30:00+00:00,draftkings,1,930.0,,flag,52.5
-Germie Bernard,rec_yds,119.5,alternate,Pittsburgh Steelers @ New Orleans Saints,2026-10-25 13:30:00+00:00,draftkings,1,1380.0,,flag,52.5
-Germie Bernard,rec_yds,129.5,alternate,Pittsburgh Steelers @ New Orleans Saints,2026-10-25 13:30:00+00:00,draftkings,1,1900.0,,flag,52.5
-Germie Bernard,rec_yds,139.5,alternate,Pittsburgh Steelers @ New Orleans Saints,2026-10-25 13:30:00+00:00,draftkings,1,2600.0,,flag,52.5
-Germie Bernard,rec_yds,149.5,alternate,Pittsburgh Steelers @ New Orleans Saints,2026-10-25 13:30:00+00:00,draftkings,1,3600.0,,flag,52.5
-Jaylen Warren,car,14.5,standard,Pittsburgh Steelers @ New Orleans Saints,2026-10-25 13:30:00+00:00,draftkings,1,-112.0,-114.0,flag,14.5
-Jaylen Warren,rec,1.5,alternate,Pittsburgh Steelers @ New Orleans Saints,2026-10-25 13:30:00+00:00,draftkings,1,-551.0,,flag,2.5
-Jaylen Warren,rec,2.5,standard,Pittsburgh Steelers @ New Orleans Saints,2026-10-25 13:30:00+00:00,draftkings,1,-167.0,130.0,flag,2.5
-Jaylen Warren,rec,3.5,alternate,Pittsburgh Steelers @ New Orleans Saints,2026-10-25 13:30:00+00:00,draftkings,1,143.0,,flag,2.5
-Jaylen Warren,rec,4.5,alternate,Pittsburgh Steelers @ New Orleans Saints,2026-10-25 13:30:00+00:00,draftkings,1,314.0,,flag,2.5
-Jaylen Warren,rec,5.5,alternate,Pittsburgh Steelers @ New Orleans Saints,2026-10-25 13:30:00+00:00,draftkings,1,670.0,,flag,2.5
-Jaylen Warren,rec,6.5,alternate,Pittsburgh Steelers @ New Orleans Saints,2026-10-25 13:30:00+00:00,draftkings,1,1320.0,,flag,2.5
-Jaylen Warren,rec,7.5,alternate,Pittsburgh Steelers @ New Orleans Saints,2026-10-25 13:30:00+00:00,draftkings,1,2400.0,,flag,2.5
-Jaylen Warren,rec_yds,9.5,alternate,Pittsburgh Steelers @ New Orleans Saints,2026-10-25 13:30:00+00:00,draftkings,1,-504.0,,flag,25.5
-Jaylen Warren,rec_yds,14.5,alternate,Pittsburgh Steelers @ New Orleans Saints,2026-10-25 13:30:00+00:00,draftkings,1,-280.0,,flag,25.5
-Jaylen Warren,rec_yds,19.5,alternate,Pittsburgh Steelers @ New Orleans Saints,2026-10-25 13:30:00+00:00,draftkings,1,-176.0,,flag,25.5
-Jaylen Warren,rec_yds,24.5,alternate,Pittsburgh Steelers @ New Orleans Saints,2026-10-25 13:30:00+00:00,draftkings,1,-120.0,,flag,25.5
-Jaylen Warren,rec_yds,25.5,standard,Pittsburgh Steelers @ New Orleans Saints,2026-10-25 13:30:00+00:00,draftkings,1,-112.0,-112.0,flag,25.5
-Jaylen Warren,rec_yds,29.5,alternate,Pittsburgh Steelers @ New Orleans Saints,2026-10-25 13:30:00+00:00,draftkings,1,120.0,,flag,25.5
-Jaylen Warren,rec_yds,39.5,alternate,Pittsburgh Steelers @ New Orleans Saints,2026-10-25 13:30:00+00:00,draftkings,1,227.0,,flag,25.5
-Jaylen Warren,rec_yds,49.5,alternate,Pittsburgh Steelers @ New Orleans Saints,2026-10-25 13:30:00+00:00,draftkings,1,399.0,,flag,25.5
-Jaylen Warren,rec_yds,59.5,alternate,Pittsburgh Steelers @ New Orleans Saints,2026-10-25 13:30:00+00:00,draftkings,1,690.0,,flag,25.5
-Jaylen Warren,rec_yds,69.5,alternate,Pittsburgh Steelers @ New Orleans Saints,2026-10-25 13:30:00+00:00,draftkings,1,1140.0,,flag,25.5
-Jaylen Warren,rec_yds,79.5,alternate,Pittsburgh Steelers @ New Orleans Saints,2026-10-25 13:30:00+00:00,draftkings,1,1840.0,,flag,25.5
-Jaylen Warren,rec_yds,89.5,alternate,Pittsburgh Steelers @ New Orleans Saints,2026-10-25 13:30:00+00:00,draftkings,1,2800.0,,flag,25.5
-Jaylen Warren,rush_yds,24.5,alternate,Pittsburgh Steelers @ New Orleans Saints,2026-10-25 13:30:00+00:00,draftkings,1,-2900.0,,flag,66.5
-Jaylen Warren,rush_yds,29.5,alternate,Pittsburgh Steelers @ New Orleans Saints,2026-10-25 13:30:00+00:00,draftkings,1,-1500.0,,flag,66.5
-Jaylen Warren,rush_yds,39.5,alternate,Pittsburgh Steelers @ New Orleans Saints,2026-10-25 13:30:00+00:00,draftkings,1,-572.0,,flag,66.5
-Jaylen Warren,rush_yds,49.5,alternate,Pittsburgh Steelers @ New Orleans Saints,2026-10-25 13:30:00+00:00,draftkings,1,-281.0,,flag,66.5
-Jaylen Warren,rush_yds,59.5,alternate,Pittsburgh Steelers @ New Orleans Saints,2026-10-25 13:30:00+00:00,draftkings,1,-158.0,,flag,66.5
-Jaylen Warren,rush_yds,66.5,standard,Pittsburgh Steelers @ New Orleans Saints,2026-10-25 13:30:00+00:00,draftkings,1,-111.0,-113.0,flag,66.5
-Jaylen Warren,rush_yds,69.5,alternate,Pittsburgh Steelers @ New Orleans Saints,2026-10-25 13:30:00+00:00,draftkings,1,105.0,,flag,66.5
-Jaylen Warren,rush_yds,79.5,alternate,Pittsburgh Steelers @ New Orleans Saints,2026-10-25 13:30:00+00:00,draftkings,1,167.0,,flag,66.5
-Jaylen Warren,rush_yds,89.5,alternate,Pittsburgh Steelers @ New Orleans Saints,2026-10-25 13:30:00+00:00,draftkings,1,259.0,,flag,66.5
-Jaylen Warren,rush_yds,99.5,alternate,Pittsburgh Steelers @ New Orleans Saints,2026-10-25 13:30:00+00:00,draftkings,1,384.0,,flag,66.5
-Jaylen Warren,rush_yds,109.5,alternate,Pittsburgh Steelers @ New Orleans Saints,2026-10-25 13:30:00+00:00,draftkings,1,581.0,,flag,66.5
-Jaylen Warren,rush_yds,119.5,alternate,Pittsburgh Steelers @ New Orleans Saints,2026-10-25 13:30:00+00:00,draftkings,1,870.0,,flag,66.5
-Jaylen Warren,rush_yds,129.5,alternate,Pittsburgh Steelers @ New Orleans Saints,2026-10-25 13:30:00+00:00,draftkings,1,1280.0,,flag,66.5
-Jaylen Warren,rush_yds,139.5,alternate,Pittsburgh Steelers @ New Orleans Saints,2026-10-25 13:30:00+00:00,draftkings,1,1840.0,,flag,66.5
-Jaylen Warren,rush_yds,149.5,alternate,Pittsburgh Steelers @ New Orleans Saints,2026-10-25 13:30:00+00:00,draftkings,1,2600.0,,flag,66.5
-Jaylen Warren,rush_yds,159.5,alternate,Pittsburgh Steelers @ New Orleans Saints,2026-10-25 13:30:00+00:00,draftkings,1,3600.0,,flag,66.5
-Juwan Johnson,rec,1.5,alternate,Pittsburgh Steelers @ New Orleans Saints,2026-10-25 13:30:00+00:00,draftkings,1,-980.0,,flag,3.5
-Juwan Johnson,rec,2.5,alternate,Pittsburgh Steelers @ New Orleans Saints,2026-10-25 13:30:00+00:00,draftkings,1,-290.0,,flag,3.5
-Juwan Johnson,rec,3.5,standard,Pittsburgh Steelers @ New Orleans Saints,2026-10-25 13:30:00+00:00,draftkings,1,-115.0,-110.0,flag,3.5
-Juwan Johnson,rec,4.5,alternate,Pittsburgh Steelers @ New Orleans Saints,2026-10-25 13:30:00+00:00,draftkings,1,185.0,,flag,3.5
-Juwan Johnson,rec,5.5,alternate,Pittsburgh Steelers @ New Orleans Saints,2026-10-25 13:30:00+00:00,draftkings,1,386.0,,flag,3.5
-Juwan Johnson,rec,6.5,alternate,Pittsburgh Steelers @ New Orleans Saints,2026-10-25 13:30:00+00:00,draftkings,1,780.0,,flag,3.5
-Juwan Johnson,rec,7.5,alternate,Pittsburgh Steelers @ New Orleans Saints,2026-10-25 13:30:00+00:00,draftkings,1,1440.0,,flag,3.5
-Juwan Johnson,rec,8.5,alternate,Pittsburgh Steelers @ New Orleans Saints,2026-10-25 13:30:00+00:00,draftkings,1,2500.0,,flag,3.5
-Kendre Miller,car,11.5,standard,Pittsburgh Steelers @ New Orleans Saints,2026-10-25 13:30:00+00:00,draftkings,1,-104.0,-123.0,flag,11.5
-Kendre Miller,rec,0.5,standard,Pittsburgh Steelers @ New Orleans Saints,2026-10-25 13:30:00+00:00,draftkings,1,-160.0,125.0,flag,0.5
-Kendre Miller,rec,1.5,alternate,Pittsburgh Steelers @ New Orleans Saints,2026-10-25 13:30:00+00:00,draftkings,1,259.0,,flag,0.5
-Kendre Miller,rec,2.5,alternate,Pittsburgh Steelers @ New Orleans Saints,2026-10-25 13:30:00+00:00,draftkings,1,830.0,,flag,0.5
-Kendre Miller,rec,3.5,alternate,Pittsburgh Steelers @ New Orleans Saints,2026-10-25 13:30:00+00:00,draftkings,1,2100.0,,flag,0.5
-Kendre Miller,rec_yds,3.5,standard,Pittsburgh Steelers @ New Orleans Saints,2026-10-25 13:30:00+00:00,draftkings,1,-114.0,-110.0,flag,3.5
-Kendre Miller,rec_yds,9.5,alternate,Pittsburgh Steelers @ New Orleans Saints,2026-10-25 13:30:00+00:00,draftkings,1,205.0,,flag,3.5
-Kendre Miller,rec_yds,14.5,alternate,Pittsburgh Steelers @ New Orleans Saints,2026-10-25 13:30:00+00:00,draftkings,1,350.0,,flag,3.5
-Kendre Miller,rec_yds,19.5,alternate,Pittsburgh Steelers @ New Orleans Saints,2026-10-25 13:30:00+00:00,draftkings,1,545.0,,flag,3.5
-Kendre Miller,rec_yds,24.5,alternate,Pittsburgh Steelers @ New Orleans Saints,2026-10-25 13:30:00+00:00,draftkings,1,820.0,,flag,3.5
-Kendre Miller,rec_yds,29.5,alternate,Pittsburgh Steelers @ New Orleans Saints,2026-10-25 13:30:00+00:00,draftkings,1,1220.0,,flag,3.5
-Kendre Miller,rec_yds,39.5,alternate,Pittsburgh Steelers @ New Orleans Saints,2026-10-25 13:30:00+00:00,draftkings,1,2500.0,,flag,3.5
-Kendre Miller,rush_yds,9.5,alternate,Pittsburgh Steelers @ New Orleans Saints,2026-10-25 13:30:00+00:00,draftkings,1,-1820.0,,flag,36.5
-Kendre Miller,rush_yds,14.5,alternate,Pittsburgh Steelers @ New Orleans Saints,2026-10-25 13:30:00+00:00,draftkings,1,-840.0,,flag,36.5
-Kendre Miller,rush_yds,19.5,alternate,Pittsburgh Steelers @ New Orleans Saints,2026-10-25 13:30:00+00:00,draftkings,1,-469.0,,flag,36.5
-Kendre Miller,rush_yds,24.5,alternate,Pittsburgh Steelers @ New Orleans Saints,2026-10-25 13:30:00+00:00,draftkings,1,-287.0,,flag,36.5
-Kendre Miller,rush_yds,29.5,alternate,Pittsburgh Steelers @ New Orleans Saints,2026-10-25 13:30:00+00:00,draftkings,1,-189.0,,flag,36.5
-Kendre Miller,rush_yds,36.5,standard,Pittsburgh Steelers @ New Orleans Saints,2026-10-25 13:30:00+00:00,draftkings,1,-116.0,-108.0,flag,36.5
-Kendre Miller,rush_yds,39.5,alternate,Pittsburgh Steelers @ New Orleans Saints,2026-10-25 13:30:00+00:00,draftkings,1,105.0,,flag,36.5
-Kendre Miller,rush_yds,49.5,alternate,Pittsburgh Steelers @ New Orleans Saints,2026-10-25 13:30:00+00:00,draftkings,1,188.0,,flag,36.5
-Kendre Miller,rush_yds,59.5,alternate,Pittsburgh Steelers @ New Orleans Saints,2026-10-25 13:30:00+00:00,draftkings,1,316.0,,flag,36.5
-Kendre Miller,rush_yds,69.5,alternate,Pittsburgh Steelers @ New Orleans Saints,2026-10-25 13:30:00+00:00,draftkings,1,494.0,,flag,36.5
-Kendre Miller,rush_yds,79.5,alternate,Pittsburgh Steelers @ New Orleans Saints,2026-10-25 13:30:00+00:00,draftkings,1,750.0,,flag,36.5
-Kendre Miller,rush_yds,89.5,alternate,Pittsburgh Steelers @ New Orleans Saints,2026-10-25 13:30:00+00:00,draftkings,1,1140.0,,flag,36.5
-Kendre Miller,rush_yds,99.5,alternate,Pittsburgh Steelers @ New Orleans Saints,2026-10-25 13:30:00+00:00,draftkings,1,1640.0,,flag,36.5
-Kendre Miller,rush_yds,109.5,alternate,Pittsburgh Steelers @ New Orleans Saints,2026-10-25 13:30:00+00:00,draftkings,1,2300.0,,flag,36.5
-Kendre Miller,rush_yds,119.5,alternate,Pittsburgh Steelers @ New Orleans Saints,2026-10-25 13:30:00+00:00,draftkings,1,3200.0,,flag,36.5
-Noah Fant,rec,1.5,standard,Pittsburgh Steelers @ New Orleans Saints,2026-10-25 13:30:00+00:00,draftkings,1,-123.0,-104.0,flag,1.5
-Noah Fant,rec,2.5,alternate,Pittsburgh Steelers @ New Orleans Saints,2026-10-25 13:30:00+00:00,draftkings,1,249.0,,flag,1.5
-Noah Fant,rec,3.5,alternate,Pittsburgh Steelers @ New Orleans Saints,2026-10-25 13:30:00+00:00,draftkings,1,680.0,,flag,1.5
-Noah Fant,rec,4.5,alternate,Pittsburgh Steelers @ New Orleans Saints,2026-10-25 13:30:00+00:00,draftkings,1,1580.0,,flag,1.5
-Noah Fant,rec_yds,9.5,alternate,Pittsburgh Steelers @ New Orleans Saints,2026-10-25 13:30:00+00:00,draftkings,1,-138.0,,flag,11.5
-Noah Fant,rec_yds,11.5,standard,Pittsburgh Steelers @ New Orleans Saints,2026-10-25 13:30:00+00:00,draftkings,1,-110.0,-114.0,flag,11.5
-Noah Fant,rec_yds,14.5,alternate,Pittsburgh Steelers @ New Orleans Saints,2026-10-25 13:30:00+00:00,draftkings,1,125.0,,flag,11.5
-Noah Fant,rec_yds,19.5,alternate,Pittsburgh Steelers @ New Orleans Saints,2026-10-25 13:30:00+00:00,draftkings,1,194.0,,flag,11.5
-Noah Fant,rec_yds,24.5,alternate,Pittsburgh Steelers @ New Orleans Saints,2026-10-25 13:30:00+00:00,draftkings,1,287.0,,flag,11.5
-Noah Fant,rec_yds,29.5,alternate,Pittsburgh Steelers @ New Orleans Saints,2026-10-25 13:30:00+00:00,draftkings,1,417.0,,flag,11.5
-Noah Fant,rec_yds,39.5,alternate,Pittsburgh Steelers @ New Orleans Saints,2026-10-25 13:30:00+00:00,draftkings,1,850.0,,flag,11.5
-Noah Fant,rec_yds,49.5,alternate,Pittsburgh Steelers @ New Orleans Saints,2026-10-25 13:30:00+00:00,draftkings,1,1540.0,,flag,11.5
-Noah Fant,rec_yds,59.5,alternate,Pittsburgh Steelers @ New Orleans Saints,2026-10-25 13:30:00+00:00,draftkings,1,2600.0,,flag,11.5
-Noah Fant,rec_yds,69.5,alternate,Pittsburgh Steelers @ New Orleans Saints,2026-10-25 13:30:00+00:00,draftkings,1,3700.0,,flag,11.5
-Pat Freiermuth,rec,1.5,alternate,Pittsburgh Steelers @ New Orleans Saints,2026-10-25 13:30:00+00:00,draftkings,1,-690.0,,flag,3.5
-Pat Freiermuth,rec,2.5,alternate,Pittsburgh Steelers @ New Orleans Saints,2026-10-25 13:30:00+00:00,draftkings,1,-210.0,,flag,3.5
-Pat Freiermuth,rec,3.5,standard,Pittsburgh Steelers @ New Orleans Saints,2026-10-25 13:30:00+00:00,draftkings,1,117.0,-149.0,flag,3.5
-Pat Freiermuth,rec,4.5,alternate,Pittsburgh Steelers @ New Orleans Saints,2026-10-25 13:30:00+00:00,draftkings,1,252.0,,flag,3.5
-Pat Freiermuth,rec,5.5,alternate,Pittsburgh Steelers @ New Orleans Saints,2026-10-25 13:30:00+00:00,draftkings,1,535.0,,flag,3.5
-Pat Freiermuth,rec,6.5,alternate,Pittsburgh Steelers @ New Orleans Saints,2026-10-25 13:30:00+00:00,draftkings,1,1080.0,,flag,3.5
-Pat Freiermuth,rec,7.5,alternate,Pittsburgh Steelers @ New Orleans Saints,2026-10-25 13:30:00+00:00,draftkings,1,2000.0,,flag,3.5
-Pat Freiermuth,rec_yds,9.5,alternate,Pittsburgh Steelers @ New Orleans Saints,2026-10-25 13:30:00+00:00,draftkings,1,-730.0,,flag,31.5
-Pat Freiermuth,rec_yds,14.5,alternate,Pittsburgh Steelers @ New Orleans Saints,2026-10-25 13:30:00+00:00,draftkings,1,-405.0,,flag,31.5
-Pat Freiermuth,rec_yds,19.5,alternate,Pittsburgh Steelers @ New Orleans Saints,2026-10-25 13:30:00+00:00,draftkings,1,-261.0,,flag,31.5
-Pat Freiermuth,rec_yds,24.5,alternate,Pittsburgh Steelers @ New Orleans Saints,2026-10-25 13:30:00+00:00,draftkings,1,-177.0,,flag,31.5
-Pat Freiermuth,rec_yds,29.5,alternate,Pittsburgh Steelers @ New Orleans Saints,2026-10-25 13:30:00+00:00,draftkings,1,-125.0,,flag,31.5
-Pat Freiermuth,rec_yds,31.5,standard,Pittsburgh Steelers @ New Orleans Saints,2026-10-25 13:30:00+00:00,draftkings,1,-110.0,-114.0,flag,31.5
-Pat Freiermuth,rec_yds,39.5,alternate,Pittsburgh Steelers @ New Orleans Saints,2026-10-25 13:30:00+00:00,draftkings,1,145.0,,flag,31.5
-Pat Freiermuth,rec_yds,49.5,alternate,Pittsburgh Steelers @ New Orleans Saints,2026-10-25 13:30:00+00:00,draftkings,1,249.0,,flag,31.5
-Pat Freiermuth,rec_yds,59.5,alternate,Pittsburgh Steelers @ New Orleans Saints,2026-10-25 13:30:00+00:00,draftkings,1,412.0,,flag,31.5
-Pat Freiermuth,rec_yds,69.5,alternate,Pittsburgh Steelers @ New Orleans Saints,2026-10-25 13:30:00+00:00,draftkings,1,650.0,,flag,31.5
-Pat Freiermuth,rec_yds,79.5,alternate,Pittsburgh Steelers @ New Orleans Saints,2026-10-25 13:30:00+00:00,draftkings,1,1020.0,,flag,31.5
-Pat Freiermuth,rec_yds,89.5,alternate,Pittsburgh Steelers @ New Orleans Saints,2026-10-25 13:30:00+00:00,draftkings,1,1540.0,,flag,31.5
-Pat Freiermuth,rec_yds,99.5,alternate,Pittsburgh Steelers @ New Orleans Saints,2026-10-25 13:30:00+00:00,draftkings,1,2300.0,,flag,31.5
-Pat Freiermuth,rec_yds,109.5,alternate,Pittsburgh Steelers @ New Orleans Saints,2026-10-25 13:30:00+00:00,draftkings,1,3400.0,,flag,31.5
-Rico Dowdle,car,7.5,standard,Pittsburgh Steelers @ New Orleans Saints,2026-10-25 13:30:00+00:00,draftkings,1,-107.0,-119.0,flag,7.5
-Rico Dowdle,rec,1.5,standard,Pittsburgh Steelers @ New Orleans Saints,2026-10-25 13:30:00+00:00,draftkings,1,100.0,-127.0,flag,1.5
-Rico Dowdle,rec,2.5,alternate,Pittsburgh Steelers @ New Orleans Saints,2026-10-25 13:30:00+00:00,draftkings,1,306.0,,flag,1.5
-Rico Dowdle,rec,3.5,alternate,Pittsburgh Steelers @ New Orleans Saints,2026-10-25 13:30:00+00:00,draftkings,1,840.0,,flag,1.5
-Rico Dowdle,rec,4.5,alternate,Pittsburgh Steelers @ New Orleans Saints,2026-10-25 13:30:00+00:00,draftkings,1,1980.0,,flag,1.5
-Rico Dowdle,rec_yds,7.5,standard,Pittsburgh Steelers @ New Orleans Saints,2026-10-25 13:30:00+00:00,draftkings,1,-114.0,-110.0,flag,7.5
-Rico Dowdle,rec_yds,9.5,alternate,Pittsburgh Steelers @ New Orleans Saints,2026-10-25 13:30:00+00:00,draftkings,1,118.0,,flag,7.5
-Rico Dowdle,rec_yds,14.5,alternate,Pittsburgh Steelers @ New Orleans Saints,2026-10-25 13:30:00+00:00,draftkings,1,201.0,,flag,7.5
-Rico Dowdle,rec_yds,19.5,alternate,Pittsburgh Steelers @ New Orleans Saints,2026-10-25 13:30:00+00:00,draftkings,1,314.0,,flag,7.5
-Rico Dowdle,rec_yds,24.5,alternate,Pittsburgh Steelers @ New Orleans Saints,2026-10-25 13:30:00+00:00,draftkings,1,494.0,,flag,7.5
-Rico Dowdle,rec_yds,29.5,alternate,Pittsburgh Steelers @ New Orleans Saints,2026-10-25 13:30:00+00:00,draftkings,1,760.0,,flag,7.5
-Rico Dowdle,rec_yds,39.5,alternate,Pittsburgh Steelers @ New Orleans Saints,2026-10-25 13:30:00+00:00,draftkings,1,1560.0,,flag,7.5
-Rico Dowdle,rec_yds,49.5,alternate,Pittsburgh Steelers @ New Orleans Saints,2026-10-25 13:30:00+00:00,draftkings,1,2700.0,,flag,7.5
-Rico Dowdle,rush_yds,9.5,alternate,Pittsburgh Steelers @ New Orleans Saints,2026-10-25 13:30:00+00:00,draftkings,1,-830.0,,flag,29.5
-Rico Dowdle,rush_yds,14.5,alternate,Pittsburgh Steelers @ New Orleans Saints,2026-10-25 13:30:00+00:00,draftkings,1,-424.0,,flag,29.5
-Rico Dowdle,rush_yds,19.5,alternate,Pittsburgh Steelers @ New Orleans Saints,2026-10-25 13:30:00+00:00,draftkings,1,-247.0,,flag,29.5
-Rico Dowdle,rush_yds,24.5,alternate,Pittsburgh Steelers @ New Orleans Saints,2026-10-25 13:30:00+00:00,draftkings,1,-162.0,,flag,29.5
-Rico Dowdle,rush_yds,29.5,standard,Pittsburgh Steelers @ New Orleans Saints,2026-10-25 13:30:00+00:00,draftkings,1,-111.0,-113.0,flag,29.5
-Rico Dowdle,rush_yds,39.5,alternate,Pittsburgh Steelers @ New Orleans Saints,2026-10-25 13:30:00+00:00,draftkings,1,174.0,,flag,29.5
-Rico Dowdle,rush_yds,49.5,alternate,Pittsburgh Steelers @ New Orleans Saints,2026-10-25 13:30:00+00:00,draftkings,1,304.0,,flag,29.5
-Rico Dowdle,rush_yds,59.5,alternate,Pittsburgh Steelers @ New Orleans Saints,2026-10-25 13:30:00+00:00,draftkings,1,491.0,,flag,29.5
-Rico Dowdle,rush_yds,69.5,alternate,Pittsburgh Steelers @ New Orleans Saints,2026-10-25 13:30:00+00:00,draftkings,1,760.0,,flag,29.5
-Rico Dowdle,rush_yds,79.5,alternate,Pittsburgh Steelers @ New Orleans Saints,2026-10-25 13:30:00+00:00,draftkings,1,1140.0,,flag,29.5
-Rico Dowdle,rush_yds,89.5,alternate,Pittsburgh Steelers @ New Orleans Saints,2026-10-25 13:30:00+00:00,draftkings,1,1680.0,,flag,29.5
-Rico Dowdle,rush_yds,99.5,alternate,Pittsburgh Steelers @ New Orleans Saints,2026-10-25 13:30:00+00:00,draftkings,1,2500.0,,flag,29.5
-Rico Dowdle,rush_yds,109.5,alternate,Pittsburgh Steelers @ New Orleans Saints,2026-10-25 13:30:00+00:00,draftkings,1,3400.0,,flag,29.5
-Tyler Shough,car,3.5,standard,Pittsburgh Steelers @ New Orleans Saints,2026-10-25 13:30:00+00:00,draftkings,1,113.0,-144.0,flag,3.5
-Tyler Shough,pass_att,36.5,standard,Pittsburgh Steelers @ New Orleans Saints,2026-10-25 13:30:00+00:00,draftkings,1,-107.0,-119.0,flag,36.5
-Tyler Shough,pass_td,1.5,standard,Pittsburgh Steelers @ New Orleans Saints,2026-10-25 13:30:00+00:00,draftkings,1,140.0,-180.0,flag,1.5
-Tyler Shough,pass_yds,149.5,alternate,Pittsburgh Steelers @ New Orleans Saints,2026-10-25 13:30:00+00:00,draftkings,1,-930.0,,flag,218.5
-Tyler Shough,pass_yds,159.5,alternate,Pittsburgh Steelers @ New Orleans Saints,2026-10-25 13:30:00+00:00,draftkings,1,-640.0,,flag,218.5
-Tyler Shough,pass_yds,169.5,alternate,Pittsburgh Steelers @ New Orleans Saints,2026-10-25 13:30:00+00:00,draftkings,1,-465.0,,flag,218.5
-Tyler Shough,pass_yds,179.5,alternate,Pittsburgh Steelers @ New Orleans Saints,2026-10-25 13:30:00+00:00,draftkings,1,-339.0,,flag,218.5
-Tyler Shough,pass_yds,189.5,alternate,Pittsburgh Steelers @ New Orleans Saints,2026-10-25 13:30:00+00:00,draftkings,1,-246.0,,flag,218.5
-Tyler Shough,pass_yds,199.5,alternate,Pittsburgh Steelers @ New Orleans Saints,2026-10-25 13:30:00+00:00,draftkings,1,-185.0,,flag,218.5
-Tyler Shough,pass_yds,209.5,alternate,Pittsburgh Steelers @ New Orleans Saints,2026-10-25 13:30:00+00:00,draftkings,1,-141.0,,flag,218.5
-Tyler Shough,pass_yds,218.5,standard,Pittsburgh Steelers @ New Orleans Saints,2026-10-25 13:30:00+00:00,draftkings,1,-111.0,-113.0,flag,218.5
-Tyler Shough,pass_yds,219.5,alternate,Pittsburgh Steelers @ New Orleans Saints,2026-10-25 13:30:00+00:00,draftkings,1,-108.0,,flag,218.5
-Tyler Shough,pass_yds,229.5,alternate,Pittsburgh Steelers @ New Orleans Saints,2026-10-25 13:30:00+00:00,draftkings,1,119.0,,flag,218.5
-Tyler Shough,pass_yds,239.5,alternate,Pittsburgh Steelers @ New Orleans Saints,2026-10-25 13:30:00+00:00,draftkings,1,154.0,,flag,218.5
-Tyler Shough,pass_yds,249.5,alternate,Pittsburgh Steelers @ New Orleans Saints,2026-10-25 13:30:00+00:00,draftkings,1,197.0,,flag,218.5
-Tyler Shough,pass_yds,259.5,alternate,Pittsburgh Steelers @ New Orleans Saints,2026-10-25 13:30:00+00:00,draftkings,1,244.0,,flag,218.5
-Tyler Shough,pass_yds,269.5,alternate,Pittsburgh Steelers @ New Orleans Saints,2026-10-25 13:30:00+00:00,draftkings,1,313.0,,flag,218.5
-Tyler Shough,pass_yds,279.5,alternate,Pittsburgh Steelers @ New Orleans Saints,2026-10-25 13:30:00+00:00,draftkings,1,390.0,,flag,218.5
-Tyler Shough,pass_yds,289.5,alternate,Pittsburgh Steelers @ New Orleans Saints,2026-10-25 13:30:00+00:00,draftkings,1,513.0,,flag,218.5
-Tyler Shough,pass_yds,299.5,alternate,Pittsburgh Steelers @ New Orleans Saints,2026-10-25 13:30:00+00:00,draftkings,1,640.0,,flag,218.5
-Tyler Shough,pass_yds,309.5,alternate,Pittsburgh Steelers @ New Orleans Saints,2026-10-25 13:30:00+00:00,draftkings,1,800.0,,flag,218.5
-Tyler Shough,pass_yds,319.5,alternate,Pittsburgh Steelers @ New Orleans Saints,2026-10-25 13:30:00+00:00,draftkings,1,1040.0,,flag,218.5
-Tyler Shough,pass_yds,329.5,alternate,Pittsburgh Steelers @ New Orleans Saints,2026-10-25 13:30:00+00:00,draftkings,1,1340.0,,flag,218.5
-Tyler Shough,pass_yds,339.5,alternate,Pittsburgh Steelers @ New Orleans Saints,2026-10-25 13:30:00+00:00,draftkings,1,1660.0,,flag,218.5
-Tyler Shough,pass_yds,349.5,alternate,Pittsburgh Steelers @ New Orleans Saints,2026-10-25 13:30:00+00:00,draftkings,1,2100.0,,flag,218.5
-Tyler Shough,pass_yds,359.5,alternate,Pittsburgh Steelers @ New Orleans Saints,2026-10-25 13:30:00+00:00,draftkings,1,2700.0,,flag,218.5
-Tyler Shough,pass_yds,369.5,alternate,Pittsburgh Steelers @ New Orleans Saints,2026-10-25 13:30:00+00:00,draftkings,1,3100.0,,flag,218.5
-Tyler Shough,rush_yds,9.5,alternate,Pittsburgh Steelers @ New Orleans Saints,2026-10-25 13:30:00+00:00,draftkings,1,-191.0,,flag,13.5
-Tyler Shough,rush_yds,13.5,standard,Pittsburgh Steelers @ New Orleans Saints,2026-10-25 13:30:00+00:00,draftkings,1,-112.0,-112.0,flag,13.5
-Tyler Shough,rush_yds,14.5,alternate,Pittsburgh Steelers @ New Orleans Saints,2026-10-25 13:30:00+00:00,draftkings,1,-101.0,,flag,13.5
-Tyler Shough,rush_yds,19.5,alternate,Pittsburgh Steelers @ New Orleans Saints,2026-10-25 13:30:00+00:00,draftkings,1,170.0,,flag,13.5
-Tyler Shough,rush_yds,24.5,alternate,Pittsburgh Steelers @ New Orleans Saints,2026-10-25 13:30:00+00:00,draftkings,1,268.0,,flag,13.5
-Tyler Shough,rush_yds,29.5,alternate,Pittsburgh Steelers @ New Orleans Saints,2026-10-25 13:30:00+00:00,draftkings,1,397.0,,flag,13.5
-Tyler Shough,rush_yds,39.5,alternate,Pittsburgh Steelers @ New Orleans Saints,2026-10-25 13:30:00+00:00,draftkings,1,840.0,,flag,13.5
-Tyler Shough,rush_yds,49.5,alternate,Pittsburgh Steelers @ New Orleans Saints,2026-10-25 13:30:00+00:00,draftkings,1,1520.0,,flag,13.5
-Tyler Shough,rush_yds,59.5,alternate,Pittsburgh Steelers @ New Orleans Saints,2026-10-25 13:30:00+00:00,draftkings,1,2500.0,,flag,13.5
-Tyler Shough,rush_yds,69.5,alternate,Pittsburgh Steelers @ New Orleans Saints,2026-10-25 13:30:00+00:00,draftkings,1,3700.0,,flag,13.5
-Chase Brown,car,11.5,standard,Cincinnati Bengals @ Baltimore Ravens,2026-10-25 17:00:00+00:00,draftkings,1,103.0,-131.0,flag,11.5
-Derrick Henry,car,18.5,standard,Cincinnati Bengals @ Baltimore Ravens,2026-10-25 17:00:00+00:00,draftkings,1,-121.0,-105.0,flag,18.5
-Joe Burrow,pass_att,35.5,standard,Cincinnati Bengals @ Baltimore Ravens,2026-10-25 17:00:00+00:00,draftkings,1,-118.0,-108.0,flag,35.5
-Joe Burrow,pass_td,1.5,standard,Cincinnati Bengals @ Baltimore Ravens,2026-10-25 17:00:00+00:00,draftkings,1,-191.0,149.0,flag,1.5
-Joe Burrow,pass_yds,179.5,alternate,Cincinnati Bengals @ Baltimore Ravens,2026-10-25 17:00:00+00:00,draftkings,1,-1800.0,,flag,258.5
-Joe Burrow,pass_yds,189.5,alternate,Cincinnati Bengals @ Baltimore Ravens,2026-10-25 17:00:00+00:00,draftkings,1,-950.0,,flag,258.5
-Joe Burrow,pass_yds,199.5,alternate,Cincinnati Bengals @ Baltimore Ravens,2026-10-25 17:00:00+00:00,draftkings,1,-588.0,,flag,258.5
-Joe Burrow,pass_yds,209.5,alternate,Cincinnati Bengals @ Baltimore Ravens,2026-10-25 17:00:00+00:00,draftkings,1,-403.0,,flag,258.5
-Joe Burrow,pass_yds,219.5,alternate,Cincinnati Bengals @ Baltimore Ravens,2026-10-25 17:00:00+00:00,draftkings,1,-304.0,,flag,258.5
-Joe Burrow,pass_yds,229.5,alternate,Cincinnati Bengals @ Baltimore Ravens,2026-10-25 17:00:00+00:00,draftkings,1,-234.0,,flag,258.5
-Joe Burrow,pass_yds,239.5,alternate,Cincinnati Bengals @ Baltimore Ravens,2026-10-25 17:00:00+00:00,draftkings,1,-179.0,,flag,258.5
-Joe Burrow,pass_yds,249.5,alternate,Cincinnati Bengals @ Baltimore Ravens,2026-10-25 17:00:00+00:00,draftkings,1,-140.0,,flag,258.5
-Joe Burrow,pass_yds,258.5,standard,Cincinnati Bengals @ Baltimore Ravens,2026-10-25 17:00:00+00:00,draftkings,1,-112.0,-112.0,flag,258.5
-Joe Burrow,pass_yds,259.5,alternate,Cincinnati Bengals @ Baltimore Ravens,2026-10-25 17:00:00+00:00,draftkings,1,-110.0,,flag,258.5
-Joe Burrow,pass_yds,269.5,alternate,Cincinnati Bengals @ Baltimore Ravens,2026-10-25 17:00:00+00:00,draftkings,1,115.0,,flag,258.5
-Joe Burrow,pass_yds,279.5,alternate,Cincinnati Bengals @ Baltimore Ravens,2026-10-25 17:00:00+00:00,draftkings,1,145.0,,flag,258.5
-Joe Burrow,pass_yds,289.5,alternate,Cincinnati Bengals @ Baltimore Ravens,2026-10-25 17:00:00+00:00,draftkings,1,184.0,,flag,258.5
-Joe Burrow,pass_yds,299.5,alternate,Cincinnati Bengals @ Baltimore Ravens,2026-10-25 17:00:00+00:00,draftkings,1,225.0,,flag,258.5
-Joe Burrow,pass_yds,309.5,alternate,Cincinnati Bengals @ Baltimore Ravens,2026-10-25 17:00:00+00:00,draftkings,1,275.0,,flag,258.5
-Joe Burrow,pass_yds,319.5,alternate,Cincinnati Bengals @ Baltimore Ravens,2026-10-25 17:00:00+00:00,draftkings,1,347.0,,flag,258.5
-Joe Burrow,pass_yds,329.5,alternate,Cincinnati Bengals @ Baltimore Ravens,2026-10-25 17:00:00+00:00,draftkings,1,437.0,,flag,258.5
-Joe Burrow,pass_yds,339.5,alternate,Cincinnati Bengals @ Baltimore Ravens,2026-10-25 17:00:00+00:00,draftkings,1,552.0,,flag,258.5
-Joe Burrow,pass_yds,349.5,alternate,Cincinnati Bengals @ Baltimore Ravens,2026-10-25 17:00:00+00:00,draftkings,1,700.0,,flag,258.5
-Joe Burrow,pass_yds,359.5,alternate,Cincinnati Bengals @ Baltimore Ravens,2026-10-25 17:00:00+00:00,draftkings,1,890.0,,flag,258.5
-Joe Burrow,pass_yds,369.5,alternate,Cincinnati Bengals @ Baltimore Ravens,2026-10-25 17:00:00+00:00,draftkings,1,1120.0,,flag,258.5
-Joe Burrow,pass_yds,379.5,alternate,Cincinnati Bengals @ Baltimore Ravens,2026-10-25 17:00:00+00:00,draftkings,1,1420.0,,flag,258.5
-Joe Burrow,pass_yds,389.5,alternate,Cincinnati Bengals @ Baltimore Ravens,2026-10-25 17:00:00+00:00,draftkings,1,1820.0,,flag,258.5
-Joe Burrow,pass_yds,399.5,alternate,Cincinnati Bengals @ Baltimore Ravens,2026-10-25 17:00:00+00:00,draftkings,1,2200.0,,flag,258.5
-Joe Burrow,pass_yds,409.5,alternate,Cincinnati Bengals @ Baltimore Ravens,2026-10-25 17:00:00+00:00,draftkings,1,2600.0,,flag,258.5
-Joe Burrow,pass_yds,419.5,alternate,Cincinnati Bengals @ Baltimore Ravens,2026-10-25 17:00:00+00:00,draftkings,1,2900.0,,flag,258.5
-Samaje Perine,car,7.5,standard,Cincinnati Bengals @ Baltimore Ravens,2026-10-25 17:00:00+00:00,draftkings,1,-132.0,103.0,flag,7.5
-Tyler Huntley,car,5.5,standard,Cincinnati Bengals @ Baltimore Ravens,2026-10-25 17:00:00+00:00,draftkings,1,-109.0,-117.0,flag,5.5
-Tyler Huntley,pass_att,28.5,standard,Cincinnati Bengals @ Baltimore Ravens,2026-10-25 17:00:00+00:00,draftkings,1,-119.0,-107.0,flag,28.5
-Tyler Huntley,pass_td,1.5,standard,Cincinnati Bengals @ Baltimore Ravens,2026-10-25 17:00:00+00:00,draftkings,1,169.0,-219.0,flag,1.5
-Tyler Huntley,pass_yds,149.5,alternate,Cincinnati Bengals @ Baltimore Ravens,2026-10-25 17:00:00+00:00,draftkings,1,-497.0,,flag,197.5
-Tyler Huntley,pass_yds,159.5,alternate,Cincinnati Bengals @ Baltimore Ravens,2026-10-25 17:00:00+00:00,draftkings,1,-345.0,,flag,197.5
-Tyler Huntley,pass_yds,169.5,alternate,Cincinnati Bengals @ Baltimore Ravens,2026-10-25 17:00:00+00:00,draftkings,1,-249.0,,flag,197.5
-Tyler Huntley,pass_yds,179.5,alternate,Cincinnati Bengals @ Baltimore Ravens,2026-10-25 17:00:00+00:00,draftkings,1,-184.0,,flag,197.5
-Tyler Huntley,pass_yds,189.5,alternate,Cincinnati Bengals @ Baltimore Ravens,2026-10-25 17:00:00+00:00,draftkings,1,-139.0,,flag,197.5
-Tyler Huntley,pass_yds,197.5,standard,Cincinnati Bengals @ Baltimore Ravens,2026-10-25 17:00:00+00:00,draftkings,1,-112.0,-112.0,flag,197.5
-Tyler Huntley,pass_yds,199.5,alternate,Cincinnati Bengals @ Baltimore Ravens,2026-10-25 17:00:00+00:00,draftkings,1,-107.0,,flag,197.5
-Tyler Huntley,pass_yds,209.5,alternate,Cincinnati Bengals @ Baltimore Ravens,2026-10-25 17:00:00+00:00,draftkings,1,124.0,,flag,197.5
-Tyler Huntley,pass_yds,219.5,alternate,Cincinnati Bengals @ Baltimore Ravens,2026-10-25 17:00:00+00:00,draftkings,1,163.0,,flag,197.5
-Tyler Huntley,pass_yds,229.5,alternate,Cincinnati Bengals @ Baltimore Ravens,2026-10-25 17:00:00+00:00,draftkings,1,212.0,,flag,197.5
-Tyler Huntley,pass_yds,239.5,alternate,Cincinnati Bengals @ Baltimore Ravens,2026-10-25 17:00:00+00:00,draftkings,1,276.0,,flag,197.5
-Tyler Huntley,pass_yds,249.5,alternate,Cincinnati Bengals @ Baltimore Ravens,2026-10-25 17:00:00+00:00,draftkings,1,360.0,,flag,197.5
-Tyler Huntley,pass_yds,259.5,alternate,Cincinnati Bengals @ Baltimore Ravens,2026-10-25 17:00:00+00:00,draftkings,1,474.0,,flag,197.5
-Tyler Huntley,pass_yds,269.5,alternate,Cincinnati Bengals @ Baltimore Ravens,2026-10-25 17:00:00+00:00,draftkings,1,620.0,,flag,197.5
-Tyler Huntley,pass_yds,279.5,alternate,Cincinnati Bengals @ Baltimore Ravens,2026-10-25 17:00:00+00:00,draftkings,1,810.0,,flag,197.5
-Tyler Huntley,pass_yds,289.5,alternate,Cincinnati Bengals @ Baltimore Ravens,2026-10-25 17:00:00+00:00,draftkings,1,1080.0,,flag,197.5
-Tyler Huntley,pass_yds,299.5,alternate,Cincinnati Bengals @ Baltimore Ravens,2026-10-25 17:00:00+00:00,draftkings,1,1420.0,,flag,197.5
-Tyler Huntley,pass_yds,309.5,alternate,Cincinnati Bengals @ Baltimore Ravens,2026-10-25 17:00:00+00:00,draftkings,1,1840.0,,flag,197.5
-Tyler Huntley,pass_yds,319.5,alternate,Cincinnati Bengals @ Baltimore Ravens,2026-10-25 17:00:00+00:00,draftkings,1,2300.0,,flag,197.5
-Tyler Huntley,pass_yds,329.5,alternate,Cincinnati Bengals @ Baltimore Ravens,2026-10-25 17:00:00+00:00,draftkings,1,2900.0,,flag,197.5
-Tyler Huntley,pass_yds,339.5,alternate,Cincinnati Bengals @ Baltimore Ravens,2026-10-25 17:00:00+00:00,draftkings,1,3600.0,,flag,197.5
-Cameron Ward,pass_att,30.5,standard,Cleveland Browns @ Tennessee Titans,2026-10-25 17:00:00+00:00,draftkings,1,-114.0,-112.0,flag,30.5
-Cameron Ward,pass_td,0.5,standard,Cleveland Browns @ Tennessee Titans,2026-10-25 17:00:00+00:00,draftkings,1,-200.0,155.0,flag,0.5
-Cameron Ward,pass_yds,159.5,alternate,Cleveland Browns @ Tennessee Titans,2026-10-25 17:00:00+00:00,draftkings,1,-204.0,,flag,182.5
-Cameron Ward,pass_yds,179.5,alternate,Cleveland Browns @ Tennessee Titans,2026-10-25 17:00:00+00:00,draftkings,1,-120.0,,flag,182.5
-Cameron Ward,pass_yds,182.5,standard,Cleveland Browns @ Tennessee Titans,2026-10-25 17:00:00+00:00,draftkings,1,,-113.0,flag,182.5
-Cameron Ward,pass_yds,209.5,alternate,Cleveland Browns @ Tennessee Titans,2026-10-25 17:00:00+00:00,draftkings,1,182.0,,flag,182.5
-Cameron Ward,pass_yds,219.5,alternate,Cleveland Browns @ Tennessee Titans,2026-10-25 17:00:00+00:00,draftkings,1,232.0,,flag,182.5
-Cameron Ward,pass_yds,229.5,alternate,Cleveland Browns @ Tennessee Titans,2026-10-25 17:00:00+00:00,draftkings,1,296.0,,flag,182.5
-Cameron Ward,pass_yds,269.5,alternate,Cleveland Browns @ Tennessee Titans,2026-10-25 17:00:00+00:00,draftkings,1,790.0,,flag,182.5
-Cameron Ward,pass_yds,289.5,alternate,Cleveland Browns @ Tennessee Titans,2026-10-25 17:00:00+00:00,draftkings,1,1260.0,,flag,182.5
-Cameron Ward,pass_yds,299.5,alternate,Cleveland Browns @ Tennessee Titans,2026-10-25 17:00:00+00:00,draftkings,1,1600.0,,flag,182.5
-Cameron Ward,pass_yds,329.5,alternate,Cleveland Browns @ Tennessee Titans,2026-10-25 17:00:00+00:00,draftkings,1,3100.0,,flag,182.5
-Cameron Ward,pass_yds,339.5,alternate,Cleveland Browns @ Tennessee Titans,2026-10-25 17:00:00+00:00,draftkings,1,3700.0,,flag,182.5
-Deshaun Watson,pass_att,29.5,standard,Cleveland Browns @ Tennessee Titans,2026-10-25 17:00:00+00:00,draftkings,1,-117.0,-109.0,flag,29.5
-Deshaun Watson,pass_td,1.5,standard,Cleveland Browns @ Tennessee Titans,2026-10-25 17:00:00+00:00,draftkings,1,156.0,-200.0,flag,1.5
-Deshaun Watson,pass_yds,169.5,alternate,Cleveland Browns @ Tennessee Titans,2026-10-25 17:00:00+00:00,draftkings,1,-339.0,,flag,209.5
-Deshaun Watson,pass_yds,209.5,standard,Cleveland Browns @ Tennessee Titans,2026-10-25 17:00:00+00:00,draftkings,1,-113.0,-111.0,flag,209.5
-Deshaun Watson,pass_yds,219.5,alternate,Cleveland Browns @ Tennessee Titans,2026-10-25 17:00:00+00:00,draftkings,1,113.0,,flag,209.5
-Deshaun Watson,pass_yds,249.5,alternate,Cleveland Browns @ Tennessee Titans,2026-10-25 17:00:00+00:00,draftkings,1,235.0,,flag,209.5
-Deshaun Watson,pass_yds,259.5,alternate,Cleveland Browns @ Tennessee Titans,2026-10-25 17:00:00+00:00,draftkings,1,299.0,,flag,209.5
-Deshaun Watson,pass_yds,269.5,alternate,Cleveland Browns @ Tennessee Titans,2026-10-25 17:00:00+00:00,draftkings,1,383.0,,flag,209.5
-Deshaun Watson,pass_yds,279.5,alternate,Cleveland Browns @ Tennessee Titans,2026-10-25 17:00:00+00:00,draftkings,1,490.0,,flag,209.5
-Deshaun Watson,pass_yds,289.5,alternate,Cleveland Browns @ Tennessee Titans,2026-10-25 17:00:00+00:00,draftkings,1,620.0,,flag,209.5
-Deshaun Watson,pass_yds,299.5,alternate,Cleveland Browns @ Tennessee Titans,2026-10-25 17:00:00+00:00,draftkings,1,800.0,,flag,209.5
-Deshaun Watson,pass_yds,369.5,alternate,Cleveland Browns @ Tennessee Titans,2026-10-25 17:00:00+00:00,draftkings,1,3800.0,,flag,209.5
+Chase Brown,rec,1.5,alternate,Cincinnati Bengals @ Baltimore Ravens,2026-10-25 17:00:00+00:00,draftkings,1,-960.0,,flag,3.5
+Chase Brown,rec,2.5,alternate,Cincinnati Bengals @ Baltimore Ravens,2026-10-25 17:00:00+00:00,draftkings,1,-288.0,,flag,3.5
+Chase Brown,rec,3.5,standard,Cincinnati Bengals @ Baltimore Ravens,2026-10-25 17:00:00+00:00,draftkings,1,-118.0,-108.0,flag,3.5
+Chase Brown,rec,4.5,alternate,Cincinnati Bengals @ Baltimore Ravens,2026-10-25 17:00:00+00:00,draftkings,1,185.0,,flag,3.5
+Chase Brown,rec,6.5,alternate,Cincinnati Bengals @ Baltimore Ravens,2026-10-25 17:00:00+00:00,draftkings,1,770.0,,flag,3.5
+Chase Brown,rec,7.5,alternate,Cincinnati Bengals @ Baltimore Ravens,2026-10-25 17:00:00+00:00,draftkings,1,1460.0,,flag,3.5
+Chase Brown,rec,8.5,alternate,Cincinnati Bengals @ Baltimore Ravens,2026-10-25 17:00:00+00:00,draftkings,1,2500.0,,flag,3.5
+Chase Brown,rec_yds,19.5,alternate,Cincinnati Bengals @ Baltimore Ravens,2026-10-25 17:00:00+00:00,draftkings,1,-128.0,,none,
+Chase Brown,rec_yds,49.5,alternate,Cincinnati Bengals @ Baltimore Ravens,2026-10-25 17:00:00+00:00,draftkings,1,630.0,,none,
+Derrick Henry,rec,1.5,standard,Cincinnati Bengals @ Baltimore Ravens,2026-10-25 17:00:00+00:00,draftkings,1,140.0,-180.0,flag,1.5
+Derrick Henry,rec,2.5,alternate,Cincinnati Bengals @ Baltimore Ravens,2026-10-25 17:00:00+00:00,draftkings,1,443.0,,flag,1.5
+Derrick Henry,rec,3.5,alternate,Cincinnati Bengals @ Baltimore Ravens,2026-10-25 17:00:00+00:00,draftkings,1,1220.0,,flag,1.5
+Derrick Henry,rec,4.5,alternate,Cincinnati Bengals @ Baltimore Ravens,2026-10-25 17:00:00+00:00,draftkings,1,2600.0,,flag,1.5
+Dohnte Meyers,rec,1.5,standard,Cincinnati Bengals @ Baltimore Ravens,2026-10-25 17:00:00+00:00,draftkings,1,-130.0,,flag,1.5
+Dohnte Meyers,rec,2.5,alternate,Cincinnati Bengals @ Baltimore Ravens,2026-10-25 17:00:00+00:00,draftkings,1,193.0,,flag,1.5
+Dohnte Meyers,rec,3.5,alternate,Cincinnati Bengals @ Baltimore Ravens,2026-10-25 17:00:00+00:00,draftkings,1,417.0,,flag,1.5
+Dohnte Meyers,rec,4.5,alternate,Cincinnati Bengals @ Baltimore Ravens,2026-10-25 17:00:00+00:00,draftkings,1,850.0,,flag,1.5
+Dohnte Meyers,rec,5.5,alternate,Cincinnati Bengals @ Baltimore Ravens,2026-10-25 17:00:00+00:00,draftkings,1,1540.0,,flag,1.5
+Dohnte Meyers,rec,6.5,alternate,Cincinnati Bengals @ Baltimore Ravens,2026-10-25 17:00:00+00:00,draftkings,1,2500.0,,flag,1.5
+Ja'Kobi Lane,rec,1.5,alternate,Cincinnati Bengals @ Baltimore Ravens,2026-10-25 17:00:00+00:00,draftkings,1,-214.0,,flag,2.5
+Ja'Kobi Lane,rec,2.5,standard,Cincinnati Bengals @ Baltimore Ravens,2026-10-25 17:00:00+00:00,draftkings,1,129.0,-166.0,flag,2.5
+Ja'Kobi Lane,rec,3.5,alternate,Cincinnati Bengals @ Baltimore Ravens,2026-10-25 17:00:00+00:00,draftkings,1,300.0,,flag,2.5
+Ja'Kobi Lane,rec,4.5,alternate,Cincinnati Bengals @ Baltimore Ravens,2026-10-25 17:00:00+00:00,draftkings,1,630.0,,flag,2.5
+Ja'Kobi Lane,rec,5.5,alternate,Cincinnati Bengals @ Baltimore Ravens,2026-10-25 17:00:00+00:00,draftkings,1,1300.0,,flag,2.5
+Ja'Kobi Lane,rec,6.5,alternate,Cincinnati Bengals @ Baltimore Ravens,2026-10-25 17:00:00+00:00,draftkings,1,2300.0,,flag,2.5
+Ja'Marr Chase,rec,3.5,alternate,Cincinnati Bengals @ Baltimore Ravens,2026-10-25 17:00:00+00:00,draftkings,1,-2500.0,,flag,7.5
+Ja'Marr Chase,rec,4.5,alternate,Cincinnati Bengals @ Baltimore Ravens,2026-10-25 17:00:00+00:00,draftkings,1,-810.0,,flag,7.5
+Ja'Marr Chase,rec,5.5,alternate,Cincinnati Bengals @ Baltimore Ravens,2026-10-25 17:00:00+00:00,draftkings,1,-364.0,,flag,7.5
+Ja'Marr Chase,rec,6.5,alternate,Cincinnati Bengals @ Baltimore Ravens,2026-10-25 17:00:00+00:00,draftkings,1,-184.0,,flag,7.5
+Ja'Marr Chase,rec,7.5,standard,Cincinnati Bengals @ Baltimore Ravens,2026-10-25 17:00:00+00:00,draftkings,1,-101.0,-126.0,flag,7.5
+Ja'Marr Chase,rec,8.5,alternate,Cincinnati Bengals @ Baltimore Ravens,2026-10-25 17:00:00+00:00,draftkings,1,171.0,,flag,7.5
+Ja'Marr Chase,rec,9.5,alternate,Cincinnati Bengals @ Baltimore Ravens,2026-10-25 17:00:00+00:00,draftkings,1,293.0,,flag,7.5
+Ja'Marr Chase,rec,10.5,alternate,Cincinnati Bengals @ Baltimore Ravens,2026-10-25 17:00:00+00:00,draftkings,1,506.0,,flag,7.5
+Ja'Marr Chase,rec,11.5,alternate,Cincinnati Bengals @ Baltimore Ravens,2026-10-25 17:00:00+00:00,draftkings,1,820.0,,flag,7.5
+Ja'Marr Chase,rec,12.5,alternate,Cincinnati Bengals @ Baltimore Ravens,2026-10-25 17:00:00+00:00,draftkings,1,1320.0,,flag,7.5
+Ja'Marr Chase,rec,13.5,alternate,Cincinnati Bengals @ Baltimore Ravens,2026-10-25 17:00:00+00:00,draftkings,1,1980.0,,flag,7.5
+Ja'Marr Chase,rec,14.5,alternate,Cincinnati Bengals @ Baltimore Ravens,2026-10-25 17:00:00+00:00,draftkings,1,2700.0,,flag,7.5
+Ja'Marr Chase,rec_yds,69.5,alternate,Cincinnati Bengals @ Baltimore Ravens,2026-10-25 17:00:00+00:00,draftkings,1,-195.0,,none,
+Josh Cuevas,rec,0.5,standard,Cincinnati Bengals @ Baltimore Ravens,2026-10-25 17:00:00+00:00,draftkings,1,-172.0,134.0,flag,0.5
+Josh Cuevas,rec,1.5,alternate,Cincinnati Bengals @ Baltimore Ravens,2026-10-25 17:00:00+00:00,draftkings,1,234.0,,flag,0.5
+Josh Cuevas,rec,2.5,alternate,Cincinnati Bengals @ Baltimore Ravens,2026-10-25 17:00:00+00:00,draftkings,1,670.0,,flag,0.5
+Josh Cuevas,rec,3.5,alternate,Cincinnati Bengals @ Baltimore Ravens,2026-10-25 17:00:00+00:00,draftkings,1,1660.0,,flag,0.5
+Josh Cuevas,rec,4.5,alternate,Cincinnati Bengals @ Baltimore Ravens,2026-10-25 17:00:00+00:00,draftkings,1,2900.0,,flag,0.5
+Justice Hill,rec,1.5,standard,Cincinnati Bengals @ Baltimore Ravens,2026-10-25 17:00:00+00:00,draftkings,1,-170.0,133.0,flag,1.5
+Justice Hill,rec,2.5,alternate,Cincinnati Bengals @ Baltimore Ravens,2026-10-25 17:00:00+00:00,draftkings,1,170.0,,flag,1.5
+Justice Hill,rec,3.5,alternate,Cincinnati Bengals @ Baltimore Ravens,2026-10-25 17:00:00+00:00,draftkings,1,447.0,,flag,1.5
+Justice Hill,rec,5.5,alternate,Cincinnati Bengals @ Baltimore Ravens,2026-10-25 17:00:00+00:00,draftkings,1,2200.0,,flag,1.5
+Mark Andrews,rec,2.5,alternate,Cincinnati Bengals @ Baltimore Ravens,2026-10-25 17:00:00+00:00,draftkings,1,-303.0,,flag,3.5
+Mark Andrews,rec,3.5,standard,Cincinnati Bengals @ Baltimore Ravens,2026-10-25 17:00:00+00:00,draftkings,1,-122.0,-105.0,flag,3.5
+Mark Andrews,rec,4.5,alternate,Cincinnati Bengals @ Baltimore Ravens,2026-10-25 17:00:00+00:00,draftkings,1,171.0,,flag,3.5
+Mark Andrews,rec,5.5,alternate,Cincinnati Bengals @ Baltimore Ravens,2026-10-25 17:00:00+00:00,draftkings,1,347.0,,flag,3.5
+Mark Andrews,rec,7.5,alternate,Cincinnati Bengals @ Baltimore Ravens,2026-10-25 17:00:00+00:00,draftkings,1,1300.0,,flag,3.5
+Mark Andrews,rec,8.5,alternate,Cincinnati Bengals @ Baltimore Ravens,2026-10-25 17:00:00+00:00,draftkings,1,2200.0,,flag,3.5
+Mike Gesicki,rec,1.5,alternate,Cincinnati Bengals @ Baltimore Ravens,2026-10-25 17:00:00+00:00,draftkings,1,-283.0,,flag,2.5
+Mike Gesicki,rec,2.5,standard,Cincinnati Bengals @ Baltimore Ravens,2026-10-25 17:00:00+00:00,draftkings,1,106.0,-135.0,flag,2.5
+Mike Gesicki,rec,3.5,alternate,Cincinnati Bengals @ Baltimore Ravens,2026-10-25 17:00:00+00:00,draftkings,1,265.0,,flag,2.5
+Mike Gesicki,rec,4.5,alternate,Cincinnati Bengals @ Baltimore Ravens,2026-10-25 17:00:00+00:00,draftkings,1,640.0,,flag,2.5
+Mike Gesicki,rec,5.5,alternate,Cincinnati Bengals @ Baltimore Ravens,2026-10-25 17:00:00+00:00,draftkings,1,1420.0,,flag,2.5
+Mike Gesicki,rec,6.5,alternate,Cincinnati Bengals @ Baltimore Ravens,2026-10-25 17:00:00+00:00,draftkings,1,2700.0,,flag,2.5
+Rashod Bateman,rec,1.5,standard,Cincinnati Bengals @ Baltimore Ravens,2026-10-25 17:00:00+00:00,draftkings,1,-160.0,125.0,flag,1.5
+Rashod Bateman,rec,2.5,alternate,Cincinnati Bengals @ Baltimore Ravens,2026-10-25 17:00:00+00:00,draftkings,1,175.0,,flag,1.5
+Rashod Bateman,rec,4.5,alternate,Cincinnati Bengals @ Baltimore Ravens,2026-10-25 17:00:00+00:00,draftkings,1,1080.0,,flag,1.5
+Rashod Bateman,rec,5.5,alternate,Cincinnati Bengals @ Baltimore Ravens,2026-10-25 17:00:00+00:00,draftkings,1,2300.0,,flag,1.5
+Samaje Perine,rec,1.5,standard,Cincinnati Bengals @ Baltimore Ravens,2026-10-25 17:00:00+00:00,draftkings,1,-115.0,-111.0,flag,1.5
+Samaje Perine,rec,2.5,alternate,Cincinnati Bengals @ Baltimore Ravens,2026-10-25 17:00:00+00:00,draftkings,1,241.0,,flag,1.5
+Samaje Perine,rec,3.5,alternate,Cincinnati Bengals @ Baltimore Ravens,2026-10-25 17:00:00+00:00,draftkings,1,581.0,,flag,1.5
+Samaje Perine,rec,4.5,alternate,Cincinnati Bengals @ Baltimore Ravens,2026-10-25 17:00:00+00:00,draftkings,1,1300.0,,flag,1.5
+Samaje Perine,rec,5.5,alternate,Cincinnati Bengals @ Baltimore Ravens,2026-10-25 17:00:00+00:00,draftkings,1,2400.0,,flag,1.5
+Tee Higgins,rec,2.5,alternate,Cincinnati Bengals @ Baltimore Ravens,2026-10-25 17:00:00+00:00,draftkings,1,-920.0,,flag,4.5
+Tee Higgins,rec,3.5,alternate,Cincinnati Bengals @ Baltimore Ravens,2026-10-25 17:00:00+00:00,draftkings,1,-326.0,,flag,4.5
+Tee Higgins,rec,4.5,standard,Cincinnati Bengals @ Baltimore Ravens,2026-10-25 17:00:00+00:00,draftkings,1,-138.0,108.0,flag,4.5
+Tee Higgins,rec,5.5,alternate,Cincinnati Bengals @ Baltimore Ravens,2026-10-25 17:00:00+00:00,draftkings,1,140.0,,flag,4.5
+Tee Higgins,rec,6.5,alternate,Cincinnati Bengals @ Baltimore Ravens,2026-10-25 17:00:00+00:00,draftkings,1,272.0,,flag,4.5
+Tee Higgins,rec,7.5,alternate,Cincinnati Bengals @ Baltimore Ravens,2026-10-25 17:00:00+00:00,draftkings,1,520.0,,flag,4.5
+Tee Higgins,rec,8.5,alternate,Cincinnati Bengals @ Baltimore Ravens,2026-10-25 17:00:00+00:00,draftkings,1,960.0,,flag,4.5
+Tee Higgins,rec,9.5,alternate,Cincinnati Bengals @ Baltimore Ravens,2026-10-25 17:00:00+00:00,draftkings,1,1680.0,,flag,4.5
+Tee Higgins,rec,10.5,alternate,Cincinnati Bengals @ Baltimore Ravens,2026-10-25 17:00:00+00:00,draftkings,1,2600.0,,flag,4.5
+Tee Higgins,rec_yds,169.5,alternate,Cincinnati Bengals @ Baltimore Ravens,2026-10-25 17:00:00+00:00,draftkings,1,3200.0,,none,
+Zay Flowers,rec,2.5,alternate,Cincinnati Bengals @ Baltimore Ravens,2026-10-25 17:00:00+00:00,draftkings,1,-2200.0,,flag,5.5
+Zay Flowers,rec,3.5,alternate,Cincinnati Bengals @ Baltimore Ravens,2026-10-25 17:00:00+00:00,draftkings,1,-650.0,,flag,5.5
+Zay Flowers,rec,4.5,alternate,Cincinnati Bengals @ Baltimore Ravens,2026-10-25 17:00:00+00:00,draftkings,1,-273.0,,flag,5.5
+Zay Flowers,rec,5.5,standard,Cincinnati Bengals @ Baltimore Ravens,2026-10-25 17:00:00+00:00,draftkings,1,-132.0,104.0,flag,5.5
+Zay Flowers,rec,6.5,alternate,Cincinnati Bengals @ Baltimore Ravens,2026-10-25 17:00:00+00:00,draftkings,1,136.0,,flag,5.5
+Zay Flowers,rec,7.5,alternate,Cincinnati Bengals @ Baltimore Ravens,2026-10-25 17:00:00+00:00,draftkings,1,240.0,,flag,5.5
+Zay Flowers,rec,8.5,alternate,Cincinnati Bengals @ Baltimore Ravens,2026-10-25 17:00:00+00:00,draftkings,1,416.0,,flag,5.5
+Zay Flowers,rec,10.5,alternate,Cincinnati Bengals @ Baltimore Ravens,2026-10-25 17:00:00+00:00,draftkings,1,1200.0,,flag,5.5
+Zay Flowers,rec,11.5,alternate,Cincinnati Bengals @ Baltimore Ravens,2026-10-25 17:00:00+00:00,draftkings,1,1860.0,,flag,5.5
+Zay Flowers,rec,12.5,alternate,Cincinnati Bengals @ Baltimore Ravens,2026-10-25 17:00:00+00:00,draftkings,1,2700.0,,flag,5.5
+Zay Flowers,rec_yds,79.5,alternate,Cincinnati Bengals @ Baltimore Ravens,2026-10-25 17:00:00+00:00,draftkings,1,168.0,,none,
+Zay Flowers,rec_yds,159.5,alternate,Cincinnati Bengals @ Baltimore Ravens,2026-10-25 17:00:00+00:00,draftkings,1,2900.0,,none,
+Cameron Ward,rush_yds,9.5,standard,Cleveland Browns @ Tennessee Titans,2026-10-25 17:00:00+00:00,draftkings,1,-116.0,-108.0,flag,9.5
+Cameron Ward,rush_yds,14.5,alternate,Cleveland Browns @ Tennessee Titans,2026-10-25 17:00:00+00:00,draftkings,1,157.0,,flag,9.5
+Cameron Ward,rush_yds,19.5,alternate,Cleveland Browns @ Tennessee Titans,2026-10-25 17:00:00+00:00,draftkings,1,268.0,,flag,9.5
+Cameron Ward,rush_yds,24.5,alternate,Cleveland Browns @ Tennessee Titans,2026-10-25 17:00:00+00:00,draftkings,1,439.0,,flag,9.5
+Cameron Ward,rush_yds,29.5,alternate,Cleveland Browns @ Tennessee Titans,2026-10-25 17:00:00+00:00,draftkings,1,680.0,,flag,9.5
+Cameron Ward,rush_yds,39.5,alternate,Cleveland Browns @ Tennessee Titans,2026-10-25 17:00:00+00:00,draftkings,1,1420.0,,flag,9.5
+Cameron Ward,rush_yds,49.5,alternate,Cleveland Browns @ Tennessee Titans,2026-10-25 17:00:00+00:00,draftkings,1,2500.0,,flag,9.5
+Deshaun Watson,rush_yds,9.5,alternate,Cleveland Browns @ Tennessee Titans,2026-10-25 17:00:00+00:00,draftkings,1,-840.0,,flag,29.5
+Deshaun Watson,rush_yds,14.5,alternate,Cleveland Browns @ Tennessee Titans,2026-10-25 17:00:00+00:00,draftkings,1,-429.0,,flag,29.5
+Deshaun Watson,rush_yds,19.5,alternate,Cleveland Browns @ Tennessee Titans,2026-10-25 17:00:00+00:00,draftkings,1,-254.0,,flag,29.5
+Deshaun Watson,rush_yds,24.5,alternate,Cleveland Browns @ Tennessee Titans,2026-10-25 17:00:00+00:00,draftkings,1,-162.0,,flag,29.5
+Deshaun Watson,rush_yds,29.5,standard,Cleveland Browns @ Tennessee Titans,2026-10-25 17:00:00+00:00,draftkings,1,-108.0,-116.0,flag,29.5
+Deshaun Watson,rush_yds,39.5,alternate,Cleveland Browns @ Tennessee Titans,2026-10-25 17:00:00+00:00,draftkings,1,191.0,,flag,29.5
+Deshaun Watson,rush_yds,49.5,alternate,Cleveland Browns @ Tennessee Titans,2026-10-25 17:00:00+00:00,draftkings,1,363.0,,flag,29.5
+Deshaun Watson,rush_yds,59.5,alternate,Cleveland Browns @ Tennessee Titans,2026-10-25 17:00:00+00:00,draftkings,1,650.0,,flag,29.5
+Deshaun Watson,rush_yds,69.5,alternate,Cleveland Browns @ Tennessee Titans,2026-10-25 17:00:00+00:00,draftkings,1,1140.0,,flag,29.5
+Deshaun Watson,rush_yds,79.5,alternate,Cleveland Browns @ Tennessee Titans,2026-10-25 17:00:00+00:00,draftkings,1,1860.0,,flag,29.5
+Deshaun Watson,rush_yds,89.5,alternate,Cleveland Browns @ Tennessee Titans,2026-10-25 17:00:00+00:00,draftkings,1,2800.0,,flag,29.5
+Deshaun Watson,rush_yds,99.5,alternate,Cleveland Browns @ Tennessee Titans,2026-10-25 17:00:00+00:00,draftkings,1,4000.0,,flag,29.5
 Quinshon Judkins,car,14.5,standard,Cleveland Browns @ Tennessee Titans,2026-10-25 17:00:00+00:00,draftkings,1,-101.0,-126.0,flag,14.5
-Tony Pollard,car,17.5,standard,Cleveland Browns @ Tennessee Titans,2026-10-25 17:00:00+00:00,draftkings,1,102.0,-130.0,flag,17.5
-Aaron Jones,car,10.5,standard,Indianapolis Colts @ Minnesota Vikings,2026-10-25 17:00:00+00:00,draftkings,1,105.0,-134.0,flag,10.5
-Daniel Jones,pass_att,32.5,standard,Indianapolis Colts @ Minnesota Vikings,2026-10-25 17:00:00+00:00,draftkings,1,-112.0,-114.0,flag,32.5
-Daniel Jones,pass_td,0.5,standard,Indianapolis Colts @ Minnesota Vikings,2026-10-25 17:00:00+00:00,draftkings,1,-231.0,179.0,flag,0.5
-Jonathan Taylor,car,17.5,standard,Indianapolis Colts @ Minnesota Vikings,2026-10-25 17:00:00+00:00,draftkings,1,-109.0,-117.0,flag,17.5
-Jordan Mason,car,12.5,standard,Indianapolis Colts @ Minnesota Vikings,2026-10-25 17:00:00+00:00,draftkings,1,104.0,-133.0,flag,12.5
+Quinshon Judkins,rush_yds,14.5,alternate,Cleveland Browns @ Tennessee Titans,2026-10-25 17:00:00+00:00,draftkings,1,-2600.0,,flag,45.5
+Quinshon Judkins,rush_yds,19.5,alternate,Cleveland Browns @ Tennessee Titans,2026-10-25 17:00:00+00:00,draftkings,1,-1120.0,,flag,45.5
+Quinshon Judkins,rush_yds,24.5,alternate,Cleveland Browns @ Tennessee Titans,2026-10-25 17:00:00+00:00,draftkings,1,-620.0,,flag,45.5
+Quinshon Judkins,rush_yds,29.5,alternate,Cleveland Browns @ Tennessee Titans,2026-10-25 17:00:00+00:00,draftkings,1,-372.0,,flag,45.5
+Quinshon Judkins,rush_yds,39.5,alternate,Cleveland Browns @ Tennessee Titans,2026-10-25 17:00:00+00:00,draftkings,1,-167.0,,flag,45.5
+Quinshon Judkins,rush_yds,45.5,standard,Cleveland Browns @ Tennessee Titans,2026-10-25 17:00:00+00:00,draftkings,1,-113.0,-111.0,flag,45.5
+Quinshon Judkins,rush_yds,49.5,alternate,Cleveland Browns @ Tennessee Titans,2026-10-25 17:00:00+00:00,draftkings,1,112.0,,flag,45.5
+Quinshon Judkins,rush_yds,59.5,alternate,Cleveland Browns @ Tennessee Titans,2026-10-25 17:00:00+00:00,draftkings,1,200.0,,flag,45.5
+Quinshon Judkins,rush_yds,69.5,alternate,Cleveland Browns @ Tennessee Titans,2026-10-25 17:00:00+00:00,draftkings,1,340.0,,flag,45.5
+Quinshon Judkins,rush_yds,79.5,alternate,Cleveland Browns @ Tennessee Titans,2026-10-25 17:00:00+00:00,draftkings,1,555.0,,flag,45.5
+Quinshon Judkins,rush_yds,89.5,alternate,Cleveland Browns @ Tennessee Titans,2026-10-25 17:00:00+00:00,draftkings,1,860.0,,flag,45.5
+Quinshon Judkins,rush_yds,99.5,alternate,Cleveland Browns @ Tennessee Titans,2026-10-25 17:00:00+00:00,draftkings,1,1300.0,,flag,45.5
+Quinshon Judkins,rush_yds,109.5,alternate,Cleveland Browns @ Tennessee Titans,2026-10-25 17:00:00+00:00,draftkings,1,1920.0,,flag,45.5
+Quinshon Judkins,rush_yds,119.5,alternate,Cleveland Browns @ Tennessee Titans,2026-10-25 17:00:00+00:00,draftkings,1,2700.0,,flag,45.5
+Quinshon Judkins,rush_yds,129.5,alternate,Cleveland Browns @ Tennessee Titans,2026-10-25 17:00:00+00:00,draftkings,1,3800.0,,flag,45.5
+Tony Pollard,car,17.5,standard,Cleveland Browns @ Tennessee Titans,2026-10-25 17:00:00+00:00,draftkings,1,-102.0,-125.0,flag,17.5
+Tony Pollard,rush_yds,24.5,alternate,Cleveland Browns @ Tennessee Titans,2026-10-25 17:00:00+00:00,draftkings,1,-2800.0,,flag,67.5
+Tony Pollard,rush_yds,29.5,alternate,Cleveland Browns @ Tennessee Titans,2026-10-25 17:00:00+00:00,draftkings,1,-1480.0,,flag,67.5
+Tony Pollard,rush_yds,39.5,alternate,Cleveland Browns @ Tennessee Titans,2026-10-25 17:00:00+00:00,draftkings,1,-588.0,,flag,67.5
+Tony Pollard,rush_yds,49.5,alternate,Cleveland Browns @ Tennessee Titans,2026-10-25 17:00:00+00:00,draftkings,1,-295.0,,flag,67.5
+Tony Pollard,rush_yds,59.5,alternate,Cleveland Browns @ Tennessee Titans,2026-10-25 17:00:00+00:00,draftkings,1,-165.0,,flag,67.5
+Tony Pollard,rush_yds,67.5,standard,Cleveland Browns @ Tennessee Titans,2026-10-25 17:00:00+00:00,draftkings,1,-111.0,-113.0,flag,67.5
+Tony Pollard,rush_yds,69.5,alternate,Cleveland Browns @ Tennessee Titans,2026-10-25 17:00:00+00:00,draftkings,1,-102.0,,flag,67.5
+Tony Pollard,rush_yds,79.5,alternate,Cleveland Browns @ Tennessee Titans,2026-10-25 17:00:00+00:00,draftkings,1,154.0,,flag,67.5
+Tony Pollard,rush_yds,89.5,alternate,Cleveland Browns @ Tennessee Titans,2026-10-25 17:00:00+00:00,draftkings,1,234.0,,flag,67.5
+Tony Pollard,rush_yds,99.5,alternate,Cleveland Browns @ Tennessee Titans,2026-10-25 17:00:00+00:00,draftkings,1,351.0,,flag,67.5
+Tony Pollard,rush_yds,109.5,alternate,Cleveland Browns @ Tennessee Titans,2026-10-25 17:00:00+00:00,draftkings,1,516.0,,flag,67.5
+Tony Pollard,rush_yds,119.5,alternate,Cleveland Browns @ Tennessee Titans,2026-10-25 17:00:00+00:00,draftkings,1,770.0,,flag,67.5
+Tony Pollard,rush_yds,129.5,alternate,Cleveland Browns @ Tennessee Titans,2026-10-25 17:00:00+00:00,draftkings,1,1120.0,,flag,67.5
+Tony Pollard,rush_yds,139.5,alternate,Cleveland Browns @ Tennessee Titans,2026-10-25 17:00:00+00:00,draftkings,1,1580.0,,flag,67.5
+Tony Pollard,rush_yds,149.5,alternate,Cleveland Browns @ Tennessee Titans,2026-10-25 17:00:00+00:00,draftkings,1,2200.0,,flag,67.5
+Tony Pollard,rush_yds,159.5,alternate,Cleveland Browns @ Tennessee Titans,2026-10-25 17:00:00+00:00,draftkings,1,2900.0,,flag,67.5
+Tony Pollard,rush_yds,169.5,alternate,Cleveland Browns @ Tennessee Titans,2026-10-25 17:00:00+00:00,draftkings,1,3900.0,,flag,67.5
+Tyjae Spears,rush_yds,9.5,standard,Cleveland Browns @ Tennessee Titans,2026-10-25 17:00:00+00:00,draftkings,1,-107.0,-117.0,flag,9.5
+Tyjae Spears,rush_yds,14.5,alternate,Cleveland Browns @ Tennessee Titans,2026-10-25 17:00:00+00:00,draftkings,1,180.0,,flag,9.5
+Tyjae Spears,rush_yds,19.5,alternate,Cleveland Browns @ Tennessee Titans,2026-10-25 17:00:00+00:00,draftkings,1,322.0,,flag,9.5
+Tyjae Spears,rush_yds,24.5,alternate,Cleveland Browns @ Tennessee Titans,2026-10-25 17:00:00+00:00,draftkings,1,539.0,,flag,9.5
+Tyjae Spears,rush_yds,29.5,alternate,Cleveland Browns @ Tennessee Titans,2026-10-25 17:00:00+00:00,draftkings,1,850.0,,flag,9.5
+Tyjae Spears,rush_yds,39.5,alternate,Cleveland Browns @ Tennessee Titans,2026-10-25 17:00:00+00:00,draftkings,1,1740.0,,flag,9.5
+Tyjae Spears,rush_yds,49.5,alternate,Cleveland Browns @ Tennessee Titans,2026-10-25 17:00:00+00:00,draftkings,1,2800.0,,flag,9.5
+Aaron Jones,car,10.5,standard,Indianapolis Colts @ Minnesota Vikings,2026-10-25 17:00:00+00:00,draftkings,1,106.0,-135.0,flag,10.5
+Daniel Jones,pass_att,32.5,standard,Indianapolis Colts @ Minnesota Vikings,2026-10-25 17:00:00+00:00,draftkings,1,-108.0,-118.0,flag,32.5
+Daniel Jones,pass_td,0.5,standard,Indianapolis Colts @ Minnesota Vikings,2026-10-25 17:00:00+00:00,draftkings,1,-219.0,170.0,flag,0.5
+Daniel Jones,pass_yds,149.5,alternate,Indianapolis Colts @ Minnesota Vikings,2026-10-25 17:00:00+00:00,draftkings,1,-346.0,,flag,188.5
+Daniel Jones,pass_yds,159.5,alternate,Indianapolis Colts @ Minnesota Vikings,2026-10-25 17:00:00+00:00,draftkings,1,-254.0,,flag,188.5
+Daniel Jones,pass_yds,169.5,alternate,Indianapolis Colts @ Minnesota Vikings,2026-10-25 17:00:00+00:00,draftkings,1,-189.0,,flag,188.5
+Daniel Jones,pass_yds,179.5,alternate,Indianapolis Colts @ Minnesota Vikings,2026-10-25 17:00:00+00:00,draftkings,1,-142.0,,flag,188.5
+Daniel Jones,pass_yds,188.5,standard,Indianapolis Colts @ Minnesota Vikings,2026-10-25 17:00:00+00:00,draftkings,1,-111.0,-113.0,flag,188.5
+Daniel Jones,pass_yds,189.5,alternate,Indianapolis Colts @ Minnesota Vikings,2026-10-25 17:00:00+00:00,draftkings,1,-108.0,,flag,188.5
+Daniel Jones,pass_yds,199.5,alternate,Indianapolis Colts @ Minnesota Vikings,2026-10-25 17:00:00+00:00,draftkings,1,119.0,,flag,188.5
+Daniel Jones,pass_yds,209.5,alternate,Indianapolis Colts @ Minnesota Vikings,2026-10-25 17:00:00+00:00,draftkings,1,154.0,,flag,188.5
+Daniel Jones,pass_yds,219.5,alternate,Indianapolis Colts @ Minnesota Vikings,2026-10-25 17:00:00+00:00,draftkings,1,199.0,,flag,188.5
+Daniel Jones,pass_yds,229.5,alternate,Indianapolis Colts @ Minnesota Vikings,2026-10-25 17:00:00+00:00,draftkings,1,255.0,,flag,188.5
+Daniel Jones,pass_yds,239.5,alternate,Indianapolis Colts @ Minnesota Vikings,2026-10-25 17:00:00+00:00,draftkings,1,327.0,,flag,188.5
+Daniel Jones,pass_yds,249.5,alternate,Indianapolis Colts @ Minnesota Vikings,2026-10-25 17:00:00+00:00,draftkings,1,418.0,,flag,188.5
+Daniel Jones,pass_yds,259.5,alternate,Indianapolis Colts @ Minnesota Vikings,2026-10-25 17:00:00+00:00,draftkings,1,541.0,,flag,188.5
+Daniel Jones,pass_yds,269.5,alternate,Indianapolis Colts @ Minnesota Vikings,2026-10-25 17:00:00+00:00,draftkings,1,700.0,,flag,188.5
+Daniel Jones,pass_yds,279.5,alternate,Indianapolis Colts @ Minnesota Vikings,2026-10-25 17:00:00+00:00,draftkings,1,900.0,,flag,188.5
+Daniel Jones,pass_yds,289.5,alternate,Indianapolis Colts @ Minnesota Vikings,2026-10-25 17:00:00+00:00,draftkings,1,1140.0,,flag,188.5
+Daniel Jones,pass_yds,299.5,alternate,Indianapolis Colts @ Minnesota Vikings,2026-10-25 17:00:00+00:00,draftkings,1,1440.0,,flag,188.5
+Daniel Jones,pass_yds,309.5,alternate,Indianapolis Colts @ Minnesota Vikings,2026-10-25 17:00:00+00:00,draftkings,1,1820.0,,flag,188.5
+Daniel Jones,pass_yds,319.5,alternate,Indianapolis Colts @ Minnesota Vikings,2026-10-25 17:00:00+00:00,draftkings,1,2300.0,,flag,188.5
+Daniel Jones,pass_yds,329.5,alternate,Indianapolis Colts @ Minnesota Vikings,2026-10-25 17:00:00+00:00,draftkings,1,2900.0,,flag,188.5
+Daniel Jones,pass_yds,339.5,alternate,Indianapolis Colts @ Minnesota Vikings,2026-10-25 17:00:00+00:00,draftkings,1,3500.0,,flag,188.5
+Daniel Jones,pass_yds,349.5,alternate,Indianapolis Colts @ Minnesota Vikings,2026-10-25 17:00:00+00:00,draftkings,1,4000.0,,flag,188.5
+Jonathan Taylor,car,17.5,standard,Indianapolis Colts @ Minnesota Vikings,2026-10-25 17:00:00+00:00,draftkings,1,-112.0,-114.0,flag,17.5
+Jordan Mason,car,12.5,standard,Indianapolis Colts @ Minnesota Vikings,2026-10-25 17:00:00+00:00,draftkings,1,101.0,-128.0,flag,12.5
 Kyler Murray,car,5.5,standard,Indianapolis Colts @ Minnesota Vikings,2026-10-25 17:00:00+00:00,draftkings,1,117.0,-149.0,flag,5.5
-Kyler Murray,pass_att,30.5,standard,Indianapolis Colts @ Minnesota Vikings,2026-10-25 17:00:00+00:00,draftkings,1,-121.0,-105.0,flag,30.5
-Kyler Murray,pass_td,1.5,standard,Indianapolis Colts @ Minnesota Vikings,2026-10-25 17:00:00+00:00,draftkings,1,105.0,-134.0,flag,1.5
+Kyler Murray,pass_att,30.5,standard,Indianapolis Colts @ Minnesota Vikings,2026-10-25 17:00:00+00:00,draftkings,1,-118.0,-108.0,flag,30.5
+Kyler Murray,pass_td,1.5,standard,Indianapolis Colts @ Minnesota Vikings,2026-10-25 17:00:00+00:00,draftkings,1,106.0,-135.0,flag,1.5
+Kyler Murray,pass_yds,149.5,alternate,Indianapolis Colts @ Minnesota Vikings,2026-10-25 17:00:00+00:00,draftkings,1,-740.0,,flag,208.5
+Kyler Murray,pass_yds,159.5,alternate,Indianapolis Colts @ Minnesota Vikings,2026-10-25 17:00:00+00:00,draftkings,1,-508.0,,flag,208.5
+Kyler Murray,pass_yds,169.5,alternate,Indianapolis Colts @ Minnesota Vikings,2026-10-25 17:00:00+00:00,draftkings,1,-353.0,,flag,208.5
+Kyler Murray,pass_yds,179.5,alternate,Indianapolis Colts @ Minnesota Vikings,2026-10-25 17:00:00+00:00,draftkings,1,-255.0,,flag,208.5
+Kyler Murray,pass_yds,189.5,alternate,Indianapolis Colts @ Minnesota Vikings,2026-10-25 17:00:00+00:00,draftkings,1,-193.0,,flag,208.5
+Kyler Murray,pass_yds,199.5,alternate,Indianapolis Colts @ Minnesota Vikings,2026-10-25 17:00:00+00:00,draftkings,1,-145.0,,flag,208.5
+Kyler Murray,pass_yds,208.5,standard,Indianapolis Colts @ Minnesota Vikings,2026-10-25 17:00:00+00:00,draftkings,1,-113.0,-111.0,flag,208.5
+Kyler Murray,pass_yds,209.5,alternate,Indianapolis Colts @ Minnesota Vikings,2026-10-25 17:00:00+00:00,draftkings,1,-110.0,,flag,208.5
+Kyler Murray,pass_yds,219.5,alternate,Indianapolis Colts @ Minnesota Vikings,2026-10-25 17:00:00+00:00,draftkings,1,119.0,,flag,208.5
+Kyler Murray,pass_yds,229.5,alternate,Indianapolis Colts @ Minnesota Vikings,2026-10-25 17:00:00+00:00,draftkings,1,154.0,,flag,208.5
+Kyler Murray,pass_yds,239.5,alternate,Indianapolis Colts @ Minnesota Vikings,2026-10-25 17:00:00+00:00,draftkings,1,202.0,,flag,208.5
+Kyler Murray,pass_yds,249.5,alternate,Indianapolis Colts @ Minnesota Vikings,2026-10-25 17:00:00+00:00,draftkings,1,262.0,,flag,208.5
+Kyler Murray,pass_yds,259.5,alternate,Indianapolis Colts @ Minnesota Vikings,2026-10-25 17:00:00+00:00,draftkings,1,343.0,,flag,208.5
+Kyler Murray,pass_yds,269.5,alternate,Indianapolis Colts @ Minnesota Vikings,2026-10-25 17:00:00+00:00,draftkings,1,440.0,,flag,208.5
+Kyler Murray,pass_yds,279.5,alternate,Indianapolis Colts @ Minnesota Vikings,2026-10-25 17:00:00+00:00,draftkings,1,572.0,,flag,208.5
+Kyler Murray,pass_yds,289.5,alternate,Indianapolis Colts @ Minnesota Vikings,2026-10-25 17:00:00+00:00,draftkings,1,720.0,,flag,208.5
+Kyler Murray,pass_yds,299.5,alternate,Indianapolis Colts @ Minnesota Vikings,2026-10-25 17:00:00+00:00,draftkings,1,940.0,,flag,208.5
+Kyler Murray,pass_yds,309.5,alternate,Indianapolis Colts @ Minnesota Vikings,2026-10-25 17:00:00+00:00,draftkings,1,1240.0,,flag,208.5
+Kyler Murray,pass_yds,319.5,alternate,Indianapolis Colts @ Minnesota Vikings,2026-10-25 17:00:00+00:00,draftkings,1,1580.0,,flag,208.5
+Kyler Murray,pass_yds,329.5,alternate,Indianapolis Colts @ Minnesota Vikings,2026-10-25 17:00:00+00:00,draftkings,1,2000.0,,flag,208.5
+Kyler Murray,pass_yds,339.5,alternate,Indianapolis Colts @ Minnesota Vikings,2026-10-25 17:00:00+00:00,draftkings,1,2500.0,,flag,208.5
+Kyler Murray,pass_yds,349.5,alternate,Indianapolis Colts @ Minnesota Vikings,2026-10-25 17:00:00+00:00,draftkings,1,3200.0,,flag,208.5
+Kyler Murray,pass_yds,359.5,alternate,Indianapolis Colts @ Minnesota Vikings,2026-10-25 17:00:00+00:00,draftkings,1,3800.0,,flag,208.5
 Geno Smith,pass_att,30.5,standard,Miami Dolphins @ New York Jets,2026-10-25 17:00:00+00:00,draftkings,1,-107.0,-119.0,flag,30.5
 Geno Smith,pass_td,1.5,standard,Miami Dolphins @ New York Jets,2026-10-25 17:00:00+00:00,draftkings,1,107.0,-137.0,flag,1.5
-Malik Willis,car,6.5,standard,Miami Dolphins @ New York Jets,2026-10-25 17:00:00+00:00,draftkings,1,-101.0,-127.0,flag,6.5
+Geno Smith,pass_yds,159.5,alternate,Miami Dolphins @ New York Jets,2026-10-25 17:00:00+00:00,draftkings,1,-700.0,,flag,221.5
+Geno Smith,pass_yds,169.5,alternate,Miami Dolphins @ New York Jets,2026-10-25 17:00:00+00:00,draftkings,1,-497.0,,flag,221.5
+Geno Smith,pass_yds,179.5,alternate,Miami Dolphins @ New York Jets,2026-10-25 17:00:00+00:00,draftkings,1,-360.0,,flag,221.5
+Geno Smith,pass_yds,189.5,alternate,Miami Dolphins @ New York Jets,2026-10-25 17:00:00+00:00,draftkings,1,-266.0,,flag,221.5
+Geno Smith,pass_yds,199.5,alternate,Miami Dolphins @ New York Jets,2026-10-25 17:00:00+00:00,draftkings,1,-200.0,,flag,221.5
+Geno Smith,pass_yds,219.5,alternate,Miami Dolphins @ New York Jets,2026-10-25 17:00:00+00:00,draftkings,1,-118.0,,flag,221.5
+Geno Smith,pass_yds,221.5,standard,Miami Dolphins @ New York Jets,2026-10-25 17:00:00+00:00,draftkings,1,-112.0,,flag,221.5
+Geno Smith,pass_yds,229.5,alternate,Miami Dolphins @ New York Jets,2026-10-25 17:00:00+00:00,draftkings,1,109.0,,flag,221.5
+Geno Smith,pass_yds,239.5,alternate,Miami Dolphins @ New York Jets,2026-10-25 17:00:00+00:00,draftkings,1,140.0,,flag,221.5
+Geno Smith,pass_yds,249.5,alternate,Miami Dolphins @ New York Jets,2026-10-25 17:00:00+00:00,draftkings,1,179.0,,flag,221.5
+Geno Smith,pass_yds,259.5,alternate,Miami Dolphins @ New York Jets,2026-10-25 17:00:00+00:00,draftkings,1,228.0,,flag,221.5
+Geno Smith,pass_yds,279.5,alternate,Miami Dolphins @ New York Jets,2026-10-25 17:00:00+00:00,draftkings,1,362.0,,flag,221.5
+Geno Smith,pass_yds,289.5,alternate,Miami Dolphins @ New York Jets,2026-10-25 17:00:00+00:00,draftkings,1,460.0,,flag,221.5
+Geno Smith,pass_yds,319.5,alternate,Miami Dolphins @ New York Jets,2026-10-25 17:00:00+00:00,draftkings,1,930.0,,flag,221.5
+Geno Smith,pass_yds,339.5,alternate,Miami Dolphins @ New York Jets,2026-10-25 17:00:00+00:00,draftkings,1,1500.0,,flag,221.5
+Geno Smith,pass_yds,349.5,alternate,Miami Dolphins @ New York Jets,2026-10-25 17:00:00+00:00,draftkings,1,1920.0,,flag,221.5
+Geno Smith,pass_yds,359.5,alternate,Miami Dolphins @ New York Jets,2026-10-25 17:00:00+00:00,draftkings,1,2300.0,,flag,221.5
+Geno Smith,pass_yds,369.5,alternate,Miami Dolphins @ New York Jets,2026-10-25 17:00:00+00:00,draftkings,1,3000.0,,flag,221.5
+Geno Smith,pass_yds,379.5,alternate,Miami Dolphins @ New York Jets,2026-10-25 17:00:00+00:00,draftkings,1,3600.0,,flag,221.5
+Malik Willis,car,6.5,standard,Miami Dolphins @ New York Jets,2026-10-25 17:00:00+00:00,draftkings,1,-104.0,-122.0,flag,6.5
 Malik Willis,pass_att,27.5,standard,Miami Dolphins @ New York Jets,2026-10-25 17:00:00+00:00,draftkings,1,-107.0,-120.0,flag,27.5
-Malik Willis,pass_td,0.5,standard,Miami Dolphins @ New York Jets,2026-10-25 17:00:00+00:00,draftkings,1,-206.0,160.0,flag,0.5
-Ollie Gordon II,car,13.5,standard,Miami Dolphins @ New York Jets,2026-10-25 17:00:00+00:00,draftkings,1,-126.0,-101.0,flag,13.5
-C.J. Stroud,pass_att,33.5,standard,New York Giants @ Houston Texans,2026-10-25 17:00:00+00:00,draftkings,1,-112.0,-114.0,flag,33.5
-C.J. Stroud,pass_td,1.5,standard,New York Giants @ Houston Texans,2026-10-25 17:00:00+00:00,draftkings,1,-158.0,124.0,flag,1.5
-J.J. McCarthy,car,5.5,standard,New York Giants @ Houston Texans,2026-10-25 17:00:00+00:00,draftkings,1,-103.0,-123.0,flag,5.5
-J.J. McCarthy,pass_att,33.5,standard,New York Giants @ Houston Texans,2026-10-25 17:00:00+00:00,draftkings,1,100.0,-127.0,flag,33.5
-J.J. McCarthy,pass_td,0.5,standard,New York Giants @ Houston Texans,2026-10-25 17:00:00+00:00,draftkings,1,-211.0,164.0,flag,0.5
-Woody Marks,car,16.5,standard,New York Giants @ Houston Texans,2026-10-25 17:00:00+00:00,draftkings,1,-111.0,-115.0,flag,16.5
-Bijan Robinson,car,18.5,standard,San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,draftkings,1,-128.0,101.0,flag,18.5
-Bijan Robinson,rush_yds,39.5,alternate,San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,draftkings,1,-1800.0,,flag,88.5
-Bijan Robinson,rush_yds,49.5,alternate,San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,draftkings,1,-780.0,,flag,88.5
-Bijan Robinson,rush_yds,59.5,alternate,San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,draftkings,1,-418.0,,flag,88.5
-Bijan Robinson,rush_yds,79.5,alternate,San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,draftkings,1,-159.0,,flag,88.5
-Bijan Robinson,rush_yds,88.5,standard,San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,draftkings,1,,-112.0,flag,88.5
-Bijan Robinson,rush_yds,89.5,alternate,San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,draftkings,1,-107.0,,flag,88.5
-Bijan Robinson,rush_yds,99.5,alternate,San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,draftkings,1,136.0,,flag,88.5
-Bijan Robinson,rush_yds,109.5,alternate,San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,draftkings,1,196.0,,flag,88.5
-Bijan Robinson,rush_yds,119.5,alternate,San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,draftkings,1,278.0,,flag,88.5
-Bijan Robinson,rush_yds,149.5,alternate,San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,draftkings,1,740.0,,flag,88.5
-Bijan Robinson,rush_yds,169.5,alternate,San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,draftkings,1,1400.0,,flag,88.5
-Bijan Robinson,rush_yds,179.5,alternate,San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,draftkings,1,1880.0,,flag,88.5
-Bijan Robinson,rush_yds,189.5,alternate,San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,draftkings,1,2500.0,,flag,88.5
+Malik Willis,pass_td,0.5,standard,Miami Dolphins @ New York Jets,2026-10-25 17:00:00+00:00,draftkings,1,-197.0,153.0,flag,0.5
+Malik Willis,pass_yds,159.5,alternate,Miami Dolphins @ New York Jets,2026-10-25 17:00:00+00:00,draftkings,1,-226.0,,flag,184.5
+Malik Willis,pass_yds,184.5,standard,Miami Dolphins @ New York Jets,2026-10-25 17:00:00+00:00,draftkings,1,-111.0,,flag,184.5
+Malik Willis,pass_yds,189.5,alternate,Miami Dolphins @ New York Jets,2026-10-25 17:00:00+00:00,draftkings,1,101.0,,flag,184.5
+Malik Willis,pass_yds,199.5,alternate,Miami Dolphins @ New York Jets,2026-10-25 17:00:00+00:00,draftkings,1,132.0,,flag,184.5
+Malik Willis,pass_yds,209.5,alternate,Miami Dolphins @ New York Jets,2026-10-25 17:00:00+00:00,draftkings,1,170.0,,flag,184.5
+Malik Willis,pass_yds,219.5,alternate,Miami Dolphins @ New York Jets,2026-10-25 17:00:00+00:00,draftkings,1,223.0,,flag,184.5
+Malik Willis,pass_yds,229.5,alternate,Miami Dolphins @ New York Jets,2026-10-25 17:00:00+00:00,draftkings,1,290.0,,flag,184.5
+Malik Willis,pass_yds,239.5,alternate,Miami Dolphins @ New York Jets,2026-10-25 17:00:00+00:00,draftkings,1,371.0,,flag,184.5
+Malik Willis,pass_yds,259.5,alternate,Miami Dolphins @ New York Jets,2026-10-25 17:00:00+00:00,draftkings,1,610.0,,flag,184.5
+Malik Willis,pass_yds,279.5,alternate,Miami Dolphins @ New York Jets,2026-10-25 17:00:00+00:00,draftkings,1,1020.0,,flag,184.5
+Malik Willis,pass_yds,289.5,alternate,Miami Dolphins @ New York Jets,2026-10-25 17:00:00+00:00,draftkings,1,1340.0,,flag,184.5
+Malik Willis,pass_yds,299.5,alternate,Miami Dolphins @ New York Jets,2026-10-25 17:00:00+00:00,draftkings,1,1700.0,,flag,184.5
+Malik Willis,pass_yds,309.5,alternate,Miami Dolphins @ New York Jets,2026-10-25 17:00:00+00:00,draftkings,1,2100.0,,flag,184.5
+Ollie Gordon II,car,13.5,standard,Miami Dolphins @ New York Jets,2026-10-25 17:00:00+00:00,draftkings,1,-134.0,105.0,flag,13.5
+C.J. Stroud,pass_att,33.5,standard,New York Giants @ Houston Texans,2026-10-25 17:00:00+00:00,draftkings,1,-106.0,-120.0,flag,33.5
+C.J. Stroud,pass_td,1.5,standard,New York Giants @ Houston Texans,2026-10-25 17:00:00+00:00,draftkings,1,-167.0,130.0,flag,1.5
+J.J. McCarthy,car,5.5,standard,New York Giants @ Houston Texans,2026-10-25 17:00:00+00:00,draftkings,1,112.0,-143.0,flag,5.5
+J.J. McCarthy,pass_att,32.5,standard,New York Giants @ Houston Texans,2026-10-25 17:00:00+00:00,draftkings,1,-106.0,-120.0,flag,32.5
+J.J. McCarthy,pass_td,0.5,standard,New York Giants @ Houston Texans,2026-10-25 17:00:00+00:00,draftkings,1,-215.0,167.0,flag,0.5
+Woody Marks,car,16.5,standard,New York Giants @ Houston Texans,2026-10-25 17:00:00+00:00,draftkings,1,-114.0,-112.0,flag,16.5
+Austin Hooper,rec,0.5,standard,San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,draftkings,1,-146.0,115.0,flag,0.5
+Austin Hooper,rec,1.5,alternate,San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,draftkings,1,330.0,,flag,0.5
+Austin Hooper,rec,2.5,alternate,San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,draftkings,1,1160.0,,flag,0.5
+Austin Hooper,rec,3.5,alternate,San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,draftkings,1,2800.0,,flag,0.5
+Austin Hooper,rec_yds,2.5,standard,San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,draftkings,1,-113.0,-111.0,flag,2.5
+Austin Hooper,rec_yds,9.5,alternate,San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,draftkings,1,215.0,,flag,2.5
+Austin Hooper,rec_yds,14.5,alternate,San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,draftkings,1,397.0,,flag,2.5
+Austin Hooper,rec_yds,19.5,alternate,San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,draftkings,1,620.0,,flag,2.5
+Austin Hooper,rec_yds,24.5,alternate,San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,draftkings,1,890.0,,flag,2.5
+Austin Hooper,rec_yds,29.5,alternate,San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,draftkings,1,1260.0,,flag,2.5
+Austin Hooper,rec_yds,39.5,alternate,San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,draftkings,1,2300.0,,flag,2.5
+Austin Hooper,rec_yds,49.5,alternate,San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,draftkings,1,3700.0,,flag,2.5
+Bijan Robinson,car,19.5,standard,San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,draftkings,1,-109.0,-117.0,flag,19.5
+Bijan Robinson,rec,1.5,alternate,San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,draftkings,1,-1380.0,,flag,3.5
+Bijan Robinson,rec,2.5,alternate,San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,draftkings,1,-388.0,,flag,3.5
+Bijan Robinson,rec,3.5,standard,San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,draftkings,1,-162.0,126.0,flag,3.5
+Bijan Robinson,rec,4.5,alternate,San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,draftkings,1,122.0,,flag,3.5
+Bijan Robinson,rec,5.5,alternate,San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,draftkings,1,239.0,,flag,3.5
+Bijan Robinson,rec,6.5,alternate,San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,draftkings,1,453.0,,flag,3.5
+Bijan Robinson,rec,7.5,alternate,San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,draftkings,1,810.0,,flag,3.5
+Bijan Robinson,rec,8.5,alternate,San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,draftkings,1,1400.0,,flag,3.5
+Bijan Robinson,rec,9.5,alternate,San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,draftkings,1,2300.0,,flag,3.5
+Bijan Robinson,rec_yds,9.5,alternate,San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,draftkings,1,-591.0,,flag,30.5
+Bijan Robinson,rec_yds,14.5,alternate,San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,draftkings,1,-359.0,,flag,30.5
+Bijan Robinson,rec_yds,19.5,alternate,San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,draftkings,1,-234.0,,flag,30.5
+Bijan Robinson,rec_yds,24.5,alternate,San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,draftkings,1,-165.0,,flag,30.5
+Bijan Robinson,rec_yds,29.5,alternate,San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,draftkings,1,-121.0,,flag,30.5
+Bijan Robinson,rec_yds,30.5,standard,San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,draftkings,1,-114.0,-110.0,flag,30.5
+Bijan Robinson,rec_yds,39.5,alternate,San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,draftkings,1,145.0,,flag,30.5
+Bijan Robinson,rec_yds,49.5,alternate,San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,draftkings,1,238.0,,flag,30.5
+Bijan Robinson,rec_yds,59.5,alternate,San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,draftkings,1,379.0,,flag,30.5
+Bijan Robinson,rec_yds,69.5,alternate,San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,draftkings,1,589.0,,flag,30.5
+Bijan Robinson,rec_yds,79.5,alternate,San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,draftkings,1,880.0,,flag,30.5
+Bijan Robinson,rec_yds,89.5,alternate,San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,draftkings,1,1360.0,,flag,30.5
+Bijan Robinson,rec_yds,99.5,alternate,San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,draftkings,1,1960.0,,flag,30.5
+Bijan Robinson,rec_yds,109.5,alternate,San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,draftkings,1,2800.0,,flag,30.5
+Bijan Robinson,rec_yds,119.5,alternate,San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,draftkings,1,3600.0,,flag,30.5
+Bijan Robinson,rush_yds,39.5,alternate,San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,draftkings,1,-2100.0,,flag,90.5
+Bijan Robinson,rush_yds,49.5,alternate,San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,draftkings,1,-860.0,,flag,90.5
+Bijan Robinson,rush_yds,59.5,alternate,San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,draftkings,1,-463.0,,flag,90.5
+Bijan Robinson,rush_yds,69.5,alternate,San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,draftkings,1,-270.0,,flag,90.5
+Bijan Robinson,rush_yds,79.5,alternate,San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,draftkings,1,-174.0,,flag,90.5
+Bijan Robinson,rush_yds,89.5,alternate,San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,draftkings,1,-117.0,,flag,90.5
+Bijan Robinson,rush_yds,90.5,standard,San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,draftkings,1,-111.0,-113.0,flag,90.5
+Bijan Robinson,rush_yds,99.5,alternate,San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,draftkings,1,127.0,,flag,90.5
+Bijan Robinson,rush_yds,109.5,alternate,San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,draftkings,1,181.0,,flag,90.5
+Bijan Robinson,rush_yds,119.5,alternate,San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,draftkings,1,253.0,,flag,90.5
+Bijan Robinson,rush_yds,129.5,alternate,San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,draftkings,1,353.0,,flag,90.5
+Bijan Robinson,rush_yds,139.5,alternate,San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,draftkings,1,496.0,,flag,90.5
+Bijan Robinson,rush_yds,149.5,alternate,San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,draftkings,1,690.0,,flag,90.5
+Bijan Robinson,rush_yds,159.5,alternate,San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,draftkings,1,980.0,,flag,90.5
+Bijan Robinson,rush_yds,169.5,alternate,San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,draftkings,1,1340.0,,flag,90.5
+Bijan Robinson,rush_yds,179.5,alternate,San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,draftkings,1,1800.0,,flag,90.5
+Bijan Robinson,rush_yds,189.5,alternate,San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,draftkings,1,2400.0,,flag,90.5
+Bijan Robinson,rush_yds,199.5,alternate,San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,draftkings,1,3100.0,,flag,90.5
+Brandin Cooks,rec,1.5,alternate,San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,draftkings,1,-206.0,,flag,2.5
+Brandin Cooks,rec,2.5,standard,San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,draftkings,1,147.0,-189.0,flag,2.5
+Brandin Cooks,rec,3.5,alternate,San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,draftkings,1,371.0,,flag,2.5
+Brandin Cooks,rec,4.5,alternate,San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,draftkings,1,900.0,,flag,2.5
+Brandin Cooks,rec,5.5,alternate,San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,draftkings,1,1920.0,,flag,2.5
+Brandin Cooks,rec_yds,9.5,alternate,San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,draftkings,1,-370.0,,flag,24.5
+Brandin Cooks,rec_yds,14.5,alternate,San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,draftkings,1,-226.0,,flag,24.5
+Brandin Cooks,rec_yds,19.5,alternate,San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,draftkings,1,-153.0,,flag,24.5
+Brandin Cooks,rec_yds,24.5,standard,San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,draftkings,1,-109.0,-115.0,flag,24.5
+Brandin Cooks,rec_yds,29.5,alternate,San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,draftkings,1,126.0,,flag,24.5
+Brandin Cooks,rec_yds,39.5,alternate,San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,draftkings,1,217.0,,flag,24.5
+Brandin Cooks,rec_yds,49.5,alternate,San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,draftkings,1,357.0,,flag,24.5
+Brandin Cooks,rec_yds,59.5,alternate,San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,draftkings,1,566.0,,flag,24.5
+Brandin Cooks,rec_yds,69.5,alternate,San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,draftkings,1,880.0,,flag,24.5
+Brandin Cooks,rec_yds,79.5,alternate,San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,draftkings,1,1360.0,,flag,24.5
+Brandin Cooks,rec_yds,89.5,alternate,San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,draftkings,1,2000.0,,flag,24.5
+Brandin Cooks,rec_yds,99.5,alternate,San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,draftkings,1,2900.0,,flag,24.5
 Brock Purdy,car,4.5,standard,San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,draftkings,1,105.0,-134.0,flag,4.5
-Brock Purdy,pass_att,30.5,standard,San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,draftkings,1,-123.0,-103.0,flag,30.5
-Brock Purdy,pass_td,1.5,standard,San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,draftkings,1,-143.0,112.0,flag,1.5
-Brock Purdy,pass_yds,159.5,alternate,San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,draftkings,1,-1380.0,,flag,242.5
-Brock Purdy,pass_yds,169.5,alternate,San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,draftkings,1,-920.0,,flag,242.5
-Brock Purdy,pass_yds,179.5,alternate,San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,draftkings,1,-640.0,,flag,242.5
-Brock Purdy,pass_yds,189.5,alternate,San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,draftkings,1,-457.0,,flag,242.5
-Brock Purdy,pass_yds,199.5,alternate,San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,draftkings,1,-344.0,,flag,242.5
-Brock Purdy,pass_yds,209.5,alternate,San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,draftkings,1,-258.0,,flag,242.5
-Brock Purdy,pass_yds,219.5,alternate,San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,draftkings,1,-199.0,,flag,242.5
-Brock Purdy,pass_yds,229.5,alternate,San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,draftkings,1,-153.0,,flag,242.5
-Brock Purdy,pass_yds,239.5,alternate,San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,draftkings,1,-120.0,,flag,242.5
-Brock Purdy,pass_yds,242.5,standard,San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,draftkings,1,-112.0,-112.0,flag,242.5
-Brock Purdy,pass_yds,249.5,alternate,San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,draftkings,1,106.0,,flag,242.5
-Brock Purdy,pass_yds,259.5,alternate,San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,draftkings,1,134.0,,flag,242.5
-Brock Purdy,pass_yds,269.5,alternate,San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,draftkings,1,171.0,,flag,242.5
-Brock Purdy,pass_yds,279.5,alternate,San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,draftkings,1,214.0,,flag,242.5
-Brock Purdy,pass_yds,289.5,alternate,San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,draftkings,1,269.0,,flag,242.5
-Brock Purdy,pass_yds,299.5,alternate,San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,draftkings,1,340.0,,flag,242.5
-Brock Purdy,pass_yds,309.5,alternate,San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,draftkings,1,432.0,,flag,242.5
-Brock Purdy,pass_yds,319.5,alternate,San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,draftkings,1,547.0,,flag,242.5
-Brock Purdy,pass_yds,329.5,alternate,San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,draftkings,1,680.0,,flag,242.5
-Brock Purdy,pass_yds,339.5,alternate,San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,draftkings,1,850.0,,flag,242.5
-Brock Purdy,pass_yds,349.5,alternate,San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,draftkings,1,1060.0,,flag,242.5
-Brock Purdy,pass_yds,359.5,alternate,San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,draftkings,1,1320.0,,flag,242.5
-Brock Purdy,pass_yds,369.5,alternate,San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,draftkings,1,1640.0,,flag,242.5
-Brock Purdy,pass_yds,379.5,alternate,San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,draftkings,1,2000.0,,flag,242.5
-Brock Purdy,pass_yds,389.5,alternate,San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,draftkings,1,2500.0,,flag,242.5
-Brock Purdy,pass_yds,399.5,alternate,San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,draftkings,1,3100.0,,flag,242.5
-Brock Purdy,pass_yds,409.5,alternate,San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,draftkings,1,3600.0,,flag,242.5
-Brock Purdy,rush_yds,19.5,standard,San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,draftkings,1,-113.0,,flag,19.5
-Brock Purdy,rush_yds,24.5,alternate,San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,draftkings,1,137.0,,flag,19.5
-Brock Purdy,rush_yds,39.5,alternate,San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,draftkings,1,452.0,,flag,19.5
-Brock Purdy,rush_yds,49.5,alternate,San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,draftkings,1,920.0,,flag,19.5
-Brock Purdy,rush_yds,59.5,alternate,San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,draftkings,1,1800.0,,flag,19.5
-Brock Purdy,rush_yds,69.5,alternate,San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,draftkings,1,3200.0,,flag,19.5
+Brock Purdy,pass_att,30.5,standard,San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,draftkings,1,-127.0,100.0,flag,30.5
+Brock Purdy,pass_td,1.5,standard,San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,draftkings,1,-139.0,109.0,flag,1.5
+Brock Purdy,pass_yds,159.5,alternate,San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,draftkings,1,-1280.0,,flag,240.5
+Brock Purdy,pass_yds,169.5,alternate,San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,draftkings,1,-880.0,,flag,240.5
+Brock Purdy,pass_yds,179.5,alternate,San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,draftkings,1,-620.0,,flag,240.5
+Brock Purdy,pass_yds,189.5,alternate,San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,draftkings,1,-444.0,,flag,240.5
+Brock Purdy,pass_yds,199.5,alternate,San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,draftkings,1,-330.0,,flag,240.5
+Brock Purdy,pass_yds,209.5,alternate,San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,draftkings,1,-248.0,,flag,240.5
+Brock Purdy,pass_yds,219.5,alternate,San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,draftkings,1,-191.0,,flag,240.5
+Brock Purdy,pass_yds,229.5,alternate,San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,draftkings,1,-148.0,,flag,240.5
+Brock Purdy,pass_yds,239.5,alternate,San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,draftkings,1,-116.0,,flag,240.5
+Brock Purdy,pass_yds,240.5,standard,San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,draftkings,1,-113.0,-111.0,flag,240.5
+Brock Purdy,pass_yds,249.5,alternate,San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,draftkings,1,109.0,,flag,240.5
+Brock Purdy,pass_yds,259.5,alternate,San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,draftkings,1,137.0,,flag,240.5
+Brock Purdy,pass_yds,269.5,alternate,San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,draftkings,1,172.0,,flag,240.5
+Brock Purdy,pass_yds,279.5,alternate,San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,draftkings,1,215.0,,flag,240.5
+Brock Purdy,pass_yds,289.5,alternate,San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,draftkings,1,274.0,,flag,240.5
+Brock Purdy,pass_yds,299.5,alternate,San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,draftkings,1,343.0,,flag,240.5
+Brock Purdy,pass_yds,309.5,alternate,San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,draftkings,1,437.0,,flag,240.5
+Brock Purdy,pass_yds,319.5,alternate,San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,draftkings,1,550.0,,flag,240.5
+Brock Purdy,pass_yds,329.5,alternate,San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,draftkings,1,690.0,,flag,240.5
+Brock Purdy,pass_yds,339.5,alternate,San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,draftkings,1,870.0,,flag,240.5
+Brock Purdy,pass_yds,349.5,alternate,San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,draftkings,1,1100.0,,flag,240.5
+Brock Purdy,pass_yds,359.5,alternate,San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,draftkings,1,1400.0,,flag,240.5
+Brock Purdy,pass_yds,369.5,alternate,San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,draftkings,1,1740.0,,flag,240.5
+Brock Purdy,pass_yds,379.5,alternate,San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,draftkings,1,2100.0,,flag,240.5
+Brock Purdy,pass_yds,389.5,alternate,San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,draftkings,1,2500.0,,flag,240.5
+Brock Purdy,pass_yds,399.5,alternate,San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,draftkings,1,3100.0,,flag,240.5
+Brock Purdy,pass_yds,409.5,alternate,San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,draftkings,1,3900.0,,flag,240.5
+Brock Purdy,rush_yds,9.5,alternate,San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,draftkings,1,-377.0,,flag,19.5
+Brock Purdy,rush_yds,14.5,alternate,San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,draftkings,1,-195.0,,flag,19.5
+Brock Purdy,rush_yds,19.5,standard,San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,draftkings,1,-113.0,-111.0,flag,19.5
+Brock Purdy,rush_yds,24.5,alternate,San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,draftkings,1,136.0,,flag,19.5
+Brock Purdy,rush_yds,29.5,alternate,San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,draftkings,1,207.0,,flag,19.5
+Brock Purdy,rush_yds,39.5,alternate,San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,draftkings,1,458.0,,flag,19.5
+Brock Purdy,rush_yds,49.5,alternate,San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,draftkings,1,930.0,,flag,19.5
+Brock Purdy,rush_yds,59.5,alternate,San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,draftkings,1,1760.0,,flag,19.5
+Brock Purdy,rush_yds,69.5,alternate,San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,draftkings,1,3100.0,,flag,19.5
+Christian Kirk,rec,1.5,alternate,San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,draftkings,1,-248.0,,flag,2.5
+Christian Kirk,rec,2.5,standard,San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,draftkings,1,115.0,-147.0,flag,2.5
+Christian Kirk,rec,3.5,alternate,San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,draftkings,1,272.0,,flag,2.5
+Christian Kirk,rec,4.5,alternate,San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,draftkings,1,599.0,,flag,2.5
+Christian Kirk,rec,5.5,alternate,San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,draftkings,1,1240.0,,flag,2.5
+Christian Kirk,rec,6.5,alternate,San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,draftkings,1,2200.0,,flag,2.5
+Christian Kirk,rec_yds,9.5,alternate,San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,draftkings,1,-328.0,,flag,25.5
+Christian Kirk,rec_yds,14.5,alternate,San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,draftkings,1,-222.0,,flag,25.5
+Christian Kirk,rec_yds,19.5,alternate,San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,draftkings,1,-161.0,,flag,25.5
+Christian Kirk,rec_yds,24.5,alternate,San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,draftkings,1,-121.0,,flag,25.5
+Christian Kirk,rec_yds,25.5,standard,San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,draftkings,1,-112.0,-112.0,flag,25.5
+Christian Kirk,rec_yds,29.5,alternate,San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,draftkings,1,107.0,,flag,25.5
+Christian Kirk,rec_yds,39.5,alternate,San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,draftkings,1,174.0,,flag,25.5
+Christian Kirk,rec_yds,49.5,alternate,San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,draftkings,1,270.0,,flag,25.5
+Christian Kirk,rec_yds,59.5,alternate,San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,draftkings,1,406.0,,flag,25.5
+Christian Kirk,rec_yds,69.5,alternate,San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,draftkings,1,598.0,,flag,25.5
+Christian Kirk,rec_yds,79.5,alternate,San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,draftkings,1,870.0,,flag,25.5
+Christian Kirk,rec_yds,89.5,alternate,San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,draftkings,1,1240.0,,flag,25.5
+Christian Kirk,rec_yds,99.5,alternate,San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,draftkings,1,1780.0,,flag,25.5
+Christian Kirk,rec_yds,109.5,alternate,San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,draftkings,1,2400.0,,flag,25.5
+Christian Kirk,rec_yds,119.5,alternate,San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,draftkings,1,3300.0,,flag,25.5
 Christian McCaffrey,car,14.5,standard,San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,draftkings,1,-112.0,-114.0,flag,14.5
-Christian McCaffrey,rec,5.5,standard,San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,draftkings,1,-112.0,,flag,5.5
-Christian McCaffrey,rush_yds,24.5,alternate,San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,draftkings,1,-1480.0,,flag,57.5
-Christian McCaffrey,rush_yds,39.5,alternate,San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,draftkings,1,-349.0,,flag,57.5
-Christian McCaffrey,rush_yds,49.5,alternate,San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,draftkings,1,-177.0,,flag,57.5
-Christian McCaffrey,rush_yds,57.5,standard,San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,draftkings,1,,-111.0,flag,57.5
-Christian McCaffrey,rush_yds,69.5,alternate,San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,draftkings,1,162.0,,flag,57.5
-Christian McCaffrey,rush_yds,79.5,alternate,San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,draftkings,1,262.0,,flag,57.5
-Christian McCaffrey,rush_yds,119.5,alternate,San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,draftkings,1,1320.0,,flag,57.5
-Christian McCaffrey,rush_yds,149.5,alternate,San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,draftkings,1,3800.0,,flag,57.5
-Drake London,rec,5.5,standard,San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,draftkings,1,,116.0,flag,5.5
-Jordan Watkins,rec,5.5,alternate,San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,draftkings,1,1920.0,,none,
-Kaelon Black,rush_yds,14.5,alternate,San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,draftkings,1,-415.0,,flag,27.5
-Kaelon Black,rush_yds,27.5,standard,San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,draftkings,1,,-111.0,flag,27.5
-Kaelon Black,rush_yds,29.5,alternate,San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,draftkings,1,101.0,,flag,27.5
-Kaelon Black,rush_yds,49.5,alternate,San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,draftkings,1,379.0,,flag,27.5
-Kaelon Black,rush_yds,69.5,alternate,San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,draftkings,1,1060.0,,flag,27.5
-Kaelon Black,rush_yds,79.5,alternate,San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,draftkings,1,1720.0,,flag,27.5
-Kaelon Black,rush_yds,89.5,alternate,San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,draftkings,1,2600.0,,flag,27.5
+Christian McCaffrey,rec,1.5,alternate,San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,draftkings,1,-3900.0,,flag,5.5
+Christian McCaffrey,rec,2.5,alternate,San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,draftkings,1,-890.0,,flag,5.5
+Christian McCaffrey,rec,3.5,alternate,San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,draftkings,1,-377.0,,flag,5.5
+Christian McCaffrey,rec,4.5,alternate,San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,draftkings,1,-194.0,,flag,5.5
+Christian McCaffrey,rec,5.5,standard,San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,draftkings,1,-112.0,-113.0,flag,5.5
+Christian McCaffrey,rec,6.5,alternate,San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,draftkings,1,150.0,,flag,5.5
+Christian McCaffrey,rec,7.5,alternate,San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,draftkings,1,243.0,,flag,5.5
+Christian McCaffrey,rec,8.5,alternate,San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,draftkings,1,395.0,,flag,5.5
+Christian McCaffrey,rec,9.5,alternate,San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,draftkings,1,630.0,,flag,5.5
+Christian McCaffrey,rec,10.5,alternate,San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,draftkings,1,1000.0,,flag,5.5
+Christian McCaffrey,rec,11.5,alternate,San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,draftkings,1,1500.0,,flag,5.5
+Christian McCaffrey,rec,12.5,alternate,San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,draftkings,1,2200.0,,flag,5.5
+Christian McCaffrey,rec,13.5,alternate,San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,draftkings,1,2800.0,,flag,5.5
+Christian McCaffrey,rec_yds,9.5,alternate,San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,draftkings,1,-2300.0,,flag,46.5
+Christian McCaffrey,rec_yds,14.5,alternate,San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,draftkings,1,-1000.0,,flag,46.5
+Christian McCaffrey,rec_yds,19.5,alternate,San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,draftkings,1,-597.0,,flag,46.5
+Christian McCaffrey,rec_yds,24.5,alternate,San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,draftkings,1,-402.0,,flag,46.5
+Christian McCaffrey,rec_yds,29.5,alternate,San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,draftkings,1,-281.0,,flag,46.5
+Christian McCaffrey,rec_yds,39.5,alternate,San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,draftkings,1,-160.0,,flag,46.5
+Christian McCaffrey,rec_yds,46.5,standard,San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,draftkings,1,-113.0,-111.0,flag,46.5
+Christian McCaffrey,rec_yds,49.5,alternate,San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,draftkings,1,101.0,,flag,46.5
+Christian McCaffrey,rec_yds,59.5,alternate,San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,draftkings,1,157.0,,flag,46.5
+Christian McCaffrey,rec_yds,69.5,alternate,San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,draftkings,1,232.0,,flag,46.5
+Christian McCaffrey,rec_yds,79.5,alternate,San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,draftkings,1,342.0,,flag,46.5
+Christian McCaffrey,rec_yds,89.5,alternate,San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,draftkings,1,495.0,,flag,46.5
+Christian McCaffrey,rec_yds,99.5,alternate,San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,draftkings,1,720.0,,flag,46.5
+Christian McCaffrey,rec_yds,109.5,alternate,San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,draftkings,1,1020.0,,flag,46.5
+Christian McCaffrey,rec_yds,119.5,alternate,San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,draftkings,1,1440.0,,flag,46.5
+Christian McCaffrey,rec_yds,129.5,alternate,San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,draftkings,1,1960.0,,flag,46.5
+Christian McCaffrey,rec_yds,139.5,alternate,San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,draftkings,1,2600.0,,flag,46.5
+Christian McCaffrey,rec_yds,149.5,alternate,San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,draftkings,1,3600.0,,flag,46.5
+Christian McCaffrey,rush_yds,24.5,alternate,San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,draftkings,1,-1460.0,,flag,56.5
+Christian McCaffrey,rush_yds,29.5,alternate,San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,draftkings,1,-820.0,,flag,56.5
+Christian McCaffrey,rush_yds,39.5,alternate,San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,draftkings,1,-346.0,,flag,56.5
+Christian McCaffrey,rush_yds,49.5,alternate,San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,draftkings,1,-173.0,,flag,56.5
+Christian McCaffrey,rush_yds,56.5,standard,San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,draftkings,1,-115.0,-109.0,flag,56.5
+Christian McCaffrey,rush_yds,59.5,alternate,San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,draftkings,1,102.0,,flag,56.5
+Christian McCaffrey,rush_yds,69.5,alternate,San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,draftkings,1,169.0,,flag,56.5
+Christian McCaffrey,rush_yds,79.5,alternate,San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,draftkings,1,271.0,,flag,56.5
+Christian McCaffrey,rush_yds,89.5,alternate,San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,draftkings,1,417.0,,flag,56.5
+Christian McCaffrey,rush_yds,99.5,alternate,San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,draftkings,1,630.0,,flag,56.5
+Christian McCaffrey,rush_yds,109.5,alternate,San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,draftkings,1,950.0,,flag,56.5
+Christian McCaffrey,rush_yds,119.5,alternate,San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,draftkings,1,1400.0,,flag,56.5
+Christian McCaffrey,rush_yds,129.5,alternate,San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,draftkings,1,2000.0,,flag,56.5
+Christian McCaffrey,rush_yds,139.5,alternate,San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,draftkings,1,2700.0,,flag,56.5
+Christian McCaffrey,rush_yds,149.5,alternate,San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,draftkings,1,3500.0,,flag,56.5
+Drake London,rec,2.5,alternate,San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,draftkings,1,-2900.0,,flag,5.5
+Drake London,rec,3.5,alternate,San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,draftkings,1,-740.0,,flag,5.5
+Drake London,rec,4.5,alternate,San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,draftkings,1,-297.0,,flag,5.5
+Drake London,rec,5.5,standard,San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,draftkings,1,-143.0,112.0,flag,5.5
+Drake London,rec,6.5,alternate,San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,draftkings,1,133.0,,flag,5.5
+Drake London,rec,7.5,alternate,San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,draftkings,1,242.0,,flag,5.5
+Drake London,rec,8.5,alternate,San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,draftkings,1,447.0,,flag,5.5
+Drake London,rec,9.5,alternate,San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,draftkings,1,780.0,,flag,5.5
+Drake London,rec,10.5,alternate,San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,draftkings,1,1340.0,,flag,5.5
+Drake London,rec,11.5,alternate,San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,draftkings,1,2100.0,,flag,5.5
+Drake London,rec,12.5,alternate,San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,draftkings,1,2900.0,,flag,5.5
+Drake London,rec_yds,29.5,alternate,San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,draftkings,1,-2000.0,,flag,82.5
+Drake London,rec_yds,39.5,alternate,San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,draftkings,1,-910.0,,flag,82.5
+Drake London,rec_yds,49.5,alternate,San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,draftkings,1,-490.0,,flag,82.5
+Drake London,rec_yds,59.5,alternate,San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,draftkings,1,-297.0,,flag,82.5
+Drake London,rec_yds,69.5,alternate,San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,draftkings,1,-192.0,,flag,82.5
+Drake London,rec_yds,79.5,alternate,San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,draftkings,1,-127.0,,flag,82.5
+Drake London,rec_yds,82.5,standard,San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,draftkings,1,-113.0,-111.0,flag,82.5
+Drake London,rec_yds,89.5,alternate,San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,draftkings,1,113.0,,flag,82.5
+Drake London,rec_yds,99.5,alternate,San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,draftkings,1,161.0,,flag,82.5
+Drake London,rec_yds,109.5,alternate,San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,draftkings,1,228.0,,flag,82.5
+Drake London,rec_yds,119.5,alternate,San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,draftkings,1,322.0,,flag,82.5
+Drake London,rec_yds,129.5,alternate,San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,draftkings,1,449.0,,flag,82.5
+Drake London,rec_yds,139.5,alternate,San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,draftkings,1,610.0,,flag,82.5
+Drake London,rec_yds,149.5,alternate,San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,draftkings,1,850.0,,flag,82.5
+Drake London,rec_yds,159.5,alternate,San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,draftkings,1,1180.0,,flag,82.5
+Drake London,rec_yds,169.5,alternate,San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,draftkings,1,1600.0,,flag,82.5
+Drake London,rec_yds,179.5,alternate,San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,draftkings,1,2100.0,,flag,82.5
+Drake London,rec_yds,189.5,alternate,San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,draftkings,1,2900.0,,flag,82.5
+Drake London,rec_yds,199.5,alternate,San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,draftkings,1,3700.0,,flag,82.5
+George Kittle,rec,2.5,alternate,San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,draftkings,1,-1720.0,,flag,5.5
+George Kittle,rec,3.5,alternate,San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,draftkings,1,-548.0,,flag,5.5
+George Kittle,rec,4.5,alternate,San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,draftkings,1,-232.0,,flag,5.5
+George Kittle,rec,5.5,standard,San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,draftkings,1,-114.0,-111.0,flag,5.5
+George Kittle,rec,6.5,alternate,San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,draftkings,1,164.0,,flag,5.5
+George Kittle,rec,7.5,alternate,San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,draftkings,1,297.0,,flag,5.5
+George Kittle,rec,8.5,alternate,San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,draftkings,1,534.0,,flag,5.5
+George Kittle,rec,9.5,alternate,San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,draftkings,1,900.0,,flag,5.5
+George Kittle,rec,10.5,alternate,San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,draftkings,1,1540.0,,flag,5.5
+George Kittle,rec,11.5,alternate,San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,draftkings,1,2400.0,,flag,5.5
+George Kittle,rec_yds,19.5,alternate,San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,draftkings,1,-2300.0,,flag,69.5
+George Kittle,rec_yds,24.5,alternate,San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,draftkings,1,-1400.0,,flag,69.5
+George Kittle,rec_yds,29.5,alternate,San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,draftkings,1,-930.0,,flag,69.5
+George Kittle,rec_yds,39.5,alternate,San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,draftkings,1,-482.0,,flag,69.5
+George Kittle,rec_yds,49.5,alternate,San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,draftkings,1,-275.0,,flag,69.5
+George Kittle,rec_yds,59.5,alternate,San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,draftkings,1,-172.0,,flag,69.5
+George Kittle,rec_yds,69.5,standard,San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,draftkings,1,-114.0,-110.0,flag,69.5
+George Kittle,rec_yds,79.5,alternate,San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,draftkings,1,130.0,,flag,69.5
+George Kittle,rec_yds,89.5,alternate,San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,draftkings,1,191.0,,flag,69.5
+George Kittle,rec_yds,99.5,alternate,San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,draftkings,1,269.0,,flag,69.5
+George Kittle,rec_yds,109.5,alternate,San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,draftkings,1,384.0,,flag,69.5
+George Kittle,rec_yds,119.5,alternate,San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,draftkings,1,525.0,,flag,69.5
+George Kittle,rec_yds,129.5,alternate,San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,draftkings,1,750.0,,flag,69.5
+George Kittle,rec_yds,139.5,alternate,San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,draftkings,1,1040.0,,flag,69.5
+George Kittle,rec_yds,149.5,alternate,San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,draftkings,1,1440.0,,flag,69.5
+George Kittle,rec_yds,159.5,alternate,San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,draftkings,1,1980.0,,flag,69.5
+George Kittle,rec_yds,169.5,alternate,San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,draftkings,1,2700.0,,flag,69.5
+George Kittle,rec_yds,179.5,alternate,San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,draftkings,1,3600.0,,flag,69.5
+Jahan Dotson,rec,1.5,alternate,San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,draftkings,1,-202.0,,flag,2.5
+Jahan Dotson,rec,2.5,standard,San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,draftkings,1,149.0,-191.0,flag,2.5
+Jahan Dotson,rec,3.5,alternate,San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,draftkings,1,383.0,,flag,2.5
+Jahan Dotson,rec,4.5,alternate,San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,draftkings,1,940.0,,flag,2.5
+Jahan Dotson,rec,5.5,alternate,San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,draftkings,1,1960.0,,flag,2.5
+Jahan Dotson,rec_yds,9.5,alternate,San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,draftkings,1,-385.0,,flag,27.5
+Jahan Dotson,rec_yds,14.5,alternate,San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,draftkings,1,-257.0,,flag,27.5
+Jahan Dotson,rec_yds,19.5,alternate,San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,draftkings,1,-179.0,,flag,27.5
+Jahan Dotson,rec_yds,24.5,alternate,San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,draftkings,1,-131.0,,flag,27.5
+Jahan Dotson,rec_yds,27.5,standard,San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,draftkings,1,-109.0,-115.0,flag,27.5
+Jahan Dotson,rec_yds,29.5,alternate,San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,draftkings,1,101.0,,flag,27.5
+Jahan Dotson,rec_yds,39.5,alternate,San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,draftkings,1,166.0,,flag,27.5
+Jahan Dotson,rec_yds,49.5,alternate,San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,draftkings,1,260.0,,flag,27.5
+Jahan Dotson,rec_yds,59.5,alternate,San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,draftkings,1,397.0,,flag,27.5
+Jahan Dotson,rec_yds,69.5,alternate,San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,draftkings,1,610.0,,flag,27.5
+Jahan Dotson,rec_yds,79.5,alternate,San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,draftkings,1,920.0,,flag,27.5
+Jahan Dotson,rec_yds,89.5,alternate,San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,draftkings,1,1340.0,,flag,27.5
+Jahan Dotson,rec_yds,99.5,alternate,San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,draftkings,1,1900.0,,flag,27.5
+Jahan Dotson,rec_yds,109.5,alternate,San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,draftkings,1,2800.0,,flag,27.5
+Jahan Dotson,rec_yds,119.5,alternate,San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,draftkings,1,3700.0,,flag,27.5
+Jordan Watkins,rec,1.5,standard,San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,draftkings,1,-132.0,103.0,flag,1.5
+Jordan Watkins,rec,2.5,alternate,San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,draftkings,1,196.0,,flag,1.5
+Jordan Watkins,rec,3.5,alternate,San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,draftkings,1,447.0,,flag,1.5
+Jordan Watkins,rec,4.5,alternate,San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,draftkings,1,990.0,,flag,1.5
+Jordan Watkins,rec,5.5,alternate,San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,draftkings,1,1840.0,,flag,1.5
+Jordan Watkins,rec,6.5,alternate,San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,draftkings,1,2900.0,,flag,1.5
+Jordan Watkins,rec_yds,9.5,alternate,San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,draftkings,1,-300.0,,flag,24.5
+Jordan Watkins,rec_yds,14.5,alternate,San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,draftkings,1,-221.0,,flag,24.5
+Jordan Watkins,rec_yds,19.5,alternate,San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,draftkings,1,-153.0,,flag,24.5
+Jordan Watkins,rec_yds,24.5,standard,San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,draftkings,1,-114.0,-110.0,flag,24.5
+Jordan Watkins,rec_yds,29.5,alternate,San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,draftkings,1,108.0,,flag,24.5
+Jordan Watkins,rec_yds,39.5,alternate,San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,draftkings,1,165.0,,flag,24.5
+Jordan Watkins,rec_yds,49.5,alternate,San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,draftkings,1,251.0,,flag,24.5
+Jordan Watkins,rec_yds,59.5,alternate,San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,draftkings,1,371.0,,flag,24.5
+Jordan Watkins,rec_yds,69.5,alternate,San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,draftkings,1,531.0,,flag,24.5
+Jordan Watkins,rec_yds,79.5,alternate,San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,draftkings,1,760.0,,flag,24.5
+Jordan Watkins,rec_yds,89.5,alternate,San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,draftkings,1,1080.0,,flag,24.5
+Jordan Watkins,rec_yds,99.5,alternate,San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,draftkings,1,1500.0,,flag,24.5
+Jordan Watkins,rec_yds,109.5,alternate,San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,draftkings,1,2100.0,,flag,24.5
+Jordan Watkins,rec_yds,119.5,alternate,San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,draftkings,1,2700.0,,flag,24.5
+Jordan Watkins,rec_yds,129.5,alternate,San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,draftkings,1,3700.0,,flag,24.5
+Kaelon Black,rush_yds,9.5,alternate,San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,draftkings,1,-860.0,,flag,27.5
+Kaelon Black,rush_yds,14.5,alternate,San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,draftkings,1,-402.0,,flag,27.5
+Kaelon Black,rush_yds,19.5,alternate,San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,draftkings,1,-228.0,,flag,27.5
+Kaelon Black,rush_yds,24.5,alternate,San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,draftkings,1,-145.0,,flag,27.5
+Kaelon Black,rush_yds,27.5,standard,San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,draftkings,1,-113.0,-111.0,flag,27.5
+Kaelon Black,rush_yds,29.5,alternate,San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,draftkings,1,104.0,,flag,27.5
+Kaelon Black,rush_yds,39.5,alternate,San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,draftkings,1,206.0,,flag,27.5
+Kaelon Black,rush_yds,49.5,alternate,San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,draftkings,1,381.0,,flag,27.5
+Kaelon Black,rush_yds,59.5,alternate,San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,draftkings,1,650.0,,flag,27.5
+Kaelon Black,rush_yds,69.5,alternate,San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,draftkings,1,1080.0,,flag,27.5
+Kaelon Black,rush_yds,79.5,alternate,San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,draftkings,1,1700.0,,flag,27.5
+Kaelon Black,rush_yds,89.5,alternate,San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,draftkings,1,2500.0,,flag,27.5
 Kaelon Black,rush_yds,99.5,alternate,San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,draftkings,1,3800.0,,flag,27.5
-Khalil Herbert,rush_yds,9.5,alternate,San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,draftkings,1,122.0,,none,
-Khalil Herbert,rush_yds,14.5,alternate,San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,draftkings,1,210.0,,none,
-Michael Penix Jr.,pass_att,31.5,standard,San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,draftkings,1,-106.0,-120.0,flag,31.5
+Khalil Herbert,rush_yds,7.5,standard,San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,draftkings,1,-118.0,-106.0,flag,7.5
+Khalil Herbert,rush_yds,9.5,alternate,San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,draftkings,1,111.0,,flag,7.5
+Khalil Herbert,rush_yds,14.5,alternate,San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,draftkings,1,193.0,,flag,7.5
+Khalil Herbert,rush_yds,19.5,alternate,San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,draftkings,1,320.0,,flag,7.5
+Khalil Herbert,rush_yds,24.5,alternate,San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,draftkings,1,483.0,,flag,7.5
+Khalil Herbert,rush_yds,29.5,alternate,San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,draftkings,1,680.0,,flag,7.5
+Khalil Herbert,rush_yds,39.5,alternate,San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,draftkings,1,1200.0,,flag,7.5
+Khalil Herbert,rush_yds,49.5,alternate,San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,draftkings,1,1880.0,,flag,7.5
+Khalil Herbert,rush_yds,59.5,alternate,San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,draftkings,1,2700.0,,flag,7.5
+Khalil Herbert,rush_yds,69.5,alternate,San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,draftkings,1,3700.0,,flag,7.5
+Kyle Juszczyk,rec,1.5,standard,San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,draftkings,1,120.0,-154.0,flag,1.5
+Kyle Juszczyk,rec,2.5,alternate,San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,draftkings,1,363.0,,flag,1.5
+Kyle Juszczyk,rec,3.5,alternate,San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,draftkings,1,1000.0,,flag,1.5
+Kyle Juszczyk,rec,4.5,alternate,San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,draftkings,1,2200.0,,flag,1.5
+Kyle Juszczyk,rec_yds,9.5,alternate,San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,draftkings,1,-143.0,,flag,11.5
+Kyle Juszczyk,rec_yds,11.5,standard,San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,draftkings,1,-113.0,-111.0,flag,11.5
+Kyle Juszczyk,rec_yds,14.5,alternate,San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,draftkings,1,113.0,,flag,11.5
+Kyle Juszczyk,rec_yds,19.5,alternate,San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,draftkings,1,163.0,,flag,11.5
+Kyle Juszczyk,rec_yds,24.5,alternate,San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,draftkings,1,227.0,,flag,11.5
+Kyle Juszczyk,rec_yds,29.5,alternate,San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,draftkings,1,318.0,,flag,11.5
+Kyle Juszczyk,rec_yds,39.5,alternate,San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,draftkings,1,581.0,,flag,11.5
+Kyle Juszczyk,rec_yds,49.5,alternate,San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,draftkings,1,980.0,,flag,11.5
+Kyle Juszczyk,rec_yds,59.5,alternate,San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,draftkings,1,1560.0,,flag,11.5
+Kyle Juszczyk,rec_yds,69.5,alternate,San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,draftkings,1,2300.0,,flag,11.5
+Kyle Juszczyk,rec_yds,79.5,alternate,San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,draftkings,1,3400.0,,flag,11.5
+Kyle Pitts Sr.,rec,1.5,alternate,San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,draftkings,1,-820.0,,flag,3.5
+Kyle Pitts Sr.,rec,2.5,alternate,San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,draftkings,1,-244.0,,flag,3.5
+Kyle Pitts Sr.,rec,3.5,standard,San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,draftkings,1,-101.0,-127.0,flag,3.5
+Kyle Pitts Sr.,rec,4.5,alternate,San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,draftkings,1,215.0,,flag,3.5
+Kyle Pitts Sr.,rec,5.5,alternate,San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,draftkings,1,455.0,,flag,3.5
+Kyle Pitts Sr.,rec,6.5,alternate,San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,draftkings,1,960.0,,flag,3.5
+Kyle Pitts Sr.,rec,7.5,alternate,San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,draftkings,1,1780.0,,flag,3.5
+Kyle Pitts Sr.,rec,8.5,alternate,San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,draftkings,1,2800.0,,flag,3.5
+Kyle Pitts Sr.,rec_yds,9.5,alternate,San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,draftkings,1,-880.0,,flag,32.5
+Kyle Pitts Sr.,rec_yds,14.5,alternate,San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,draftkings,1,-464.0,,flag,32.5
+Kyle Pitts Sr.,rec_yds,19.5,alternate,San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,draftkings,1,-290.0,,flag,32.5
+Kyle Pitts Sr.,rec_yds,24.5,alternate,San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,draftkings,1,-192.0,,flag,32.5
+Kyle Pitts Sr.,rec_yds,29.5,alternate,San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,draftkings,1,-135.0,,flag,32.5
+Kyle Pitts Sr.,rec_yds,32.5,standard,San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,draftkings,1,-110.0,-114.0,flag,32.5
+Kyle Pitts Sr.,rec_yds,39.5,alternate,San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,draftkings,1,129.0,,flag,32.5
+Kyle Pitts Sr.,rec_yds,49.5,alternate,San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,draftkings,1,240.0,,flag,32.5
+Kyle Pitts Sr.,rec_yds,59.5,alternate,San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,draftkings,1,401.0,,flag,32.5
+Kyle Pitts Sr.,rec_yds,69.5,alternate,San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,draftkings,1,650.0,,flag,32.5
+Kyle Pitts Sr.,rec_yds,79.5,alternate,San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,draftkings,1,1020.0,,flag,32.5
+Kyle Pitts Sr.,rec_yds,89.5,alternate,San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,draftkings,1,1560.0,,flag,32.5
+Kyle Pitts Sr.,rec_yds,99.5,alternate,San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,draftkings,1,2400.0,,flag,32.5
+Kyle Pitts Sr.,rec_yds,109.5,alternate,San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,draftkings,1,3500.0,,flag,32.5
+Michael Penix Jr.,pass_att,31.5,standard,San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,draftkings,1,-103.0,-124.0,flag,31.5
 Michael Penix Jr.,pass_td,1.5,standard,San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,draftkings,1,115.0,-147.0,flag,1.5
-Michael Penix Jr.,pass_yds,149.5,alternate,San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,draftkings,1,-1340.0,,flag,231.5
-Michael Penix Jr.,pass_yds,159.5,alternate,San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,draftkings,1,-920.0,,flag,231.5
-Michael Penix Jr.,pass_yds,169.5,alternate,San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,draftkings,1,-640.0,,flag,231.5
-Michael Penix Jr.,pass_yds,179.5,alternate,San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,draftkings,1,-458.0,,flag,231.5
-Michael Penix Jr.,pass_yds,189.5,alternate,San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,draftkings,1,-337.0,,flag,231.5
-Michael Penix Jr.,pass_yds,199.5,alternate,San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,draftkings,1,-256.0,,flag,231.5
-Michael Penix Jr.,pass_yds,209.5,alternate,San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,draftkings,1,-193.0,,flag,231.5
-Michael Penix Jr.,pass_yds,219.5,alternate,San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,draftkings,1,-149.0,,flag,231.5
-Michael Penix Jr.,pass_yds,229.5,alternate,San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,draftkings,1,-117.0,,flag,231.5
-Michael Penix Jr.,pass_yds,231.5,standard,San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,draftkings,1,-111.0,-113.0,flag,231.5
-Michael Penix Jr.,pass_yds,239.5,alternate,San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,draftkings,1,109.0,,flag,231.5
-Michael Penix Jr.,pass_yds,249.5,alternate,San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,draftkings,1,138.0,,flag,231.5
-Michael Penix Jr.,pass_yds,259.5,alternate,San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,draftkings,1,175.0,,flag,231.5
-Michael Penix Jr.,pass_yds,269.5,alternate,San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,draftkings,1,219.0,,flag,231.5
-Michael Penix Jr.,pass_yds,279.5,alternate,San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,draftkings,1,277.0,,flag,231.5
-Michael Penix Jr.,pass_yds,289.5,alternate,San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,draftkings,1,355.0,,flag,231.5
-Michael Penix Jr.,pass_yds,299.5,alternate,San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,draftkings,1,445.0,,flag,231.5
-Michael Penix Jr.,pass_yds,309.5,alternate,San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,draftkings,1,570.0,,flag,231.5
-Michael Penix Jr.,pass_yds,319.5,alternate,San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,draftkings,1,730.0,,flag,231.5
-Michael Penix Jr.,pass_yds,329.5,alternate,San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,draftkings,1,910.0,,flag,231.5
-Michael Penix Jr.,pass_yds,339.5,alternate,San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,draftkings,1,1140.0,,flag,231.5
-Michael Penix Jr.,pass_yds,349.5,alternate,San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,draftkings,1,1460.0,,flag,231.5
-Michael Penix Jr.,pass_yds,359.5,alternate,San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,draftkings,1,1800.0,,flag,231.5
-Michael Penix Jr.,pass_yds,369.5,alternate,San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,draftkings,1,2200.0,,flag,231.5
-Michael Penix Jr.,pass_yds,379.5,alternate,San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,draftkings,1,2700.0,,flag,231.5
-Michael Penix Jr.,pass_yds,389.5,alternate,San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,draftkings,1,3300.0,,flag,231.5
-Michael Penix Jr.,pass_yds,399.5,alternate,San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,draftkings,1,3900.0,,flag,231.5
-Michael Penix Jr.,rush_yds,2.5,standard,San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,draftkings,1,-104.0,-120.0,flag,2.5
-Michael Penix Jr.,rush_yds,24.5,alternate,San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,draftkings,1,1400.0,,flag,2.5
-Michael Penix Jr.,rush_yds,29.5,alternate,San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,draftkings,1,2100.0,,flag,2.5
-AJ Dillon,car,3.5,standard,Tampa Bay Buccaneers @ Carolina Panthers,2026-10-25 17:00:00+00:00,draftkings,1,-108.0,-118.0,flag,3.5
-Baker Mayfield,pass_att,33.5,standard,Tampa Bay Buccaneers @ Carolina Panthers,2026-10-25 17:00:00+00:00,draftkings,1,-118.0,-108.0,flag,33.5
+Michael Penix Jr.,pass_yds,149.5,alternate,San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,draftkings,1,-1380.0,,flag,230.5
+Michael Penix Jr.,pass_yds,159.5,alternate,San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,draftkings,1,-890.0,,flag,230.5
+Michael Penix Jr.,pass_yds,169.5,alternate,San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,draftkings,1,-640.0,,flag,230.5
+Michael Penix Jr.,pass_yds,179.5,alternate,San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,draftkings,1,-451.0,,flag,230.5
+Michael Penix Jr.,pass_yds,189.5,alternate,San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,draftkings,1,-336.0,,flag,230.5
+Michael Penix Jr.,pass_yds,199.5,alternate,San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,draftkings,1,-252.0,,flag,230.5
+Michael Penix Jr.,pass_yds,209.5,alternate,San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,draftkings,1,-191.0,,flag,230.5
+Michael Penix Jr.,pass_yds,219.5,alternate,San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,draftkings,1,-148.0,,flag,230.5
+Michael Penix Jr.,pass_yds,229.5,alternate,San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,draftkings,1,-115.0,,flag,230.5
+Michael Penix Jr.,pass_yds,230.5,standard,San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,draftkings,1,-113.0,-111.0,flag,230.5
+Michael Penix Jr.,pass_yds,239.5,alternate,San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,draftkings,1,113.0,,flag,230.5
+Michael Penix Jr.,pass_yds,249.5,alternate,San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,draftkings,1,143.0,,flag,230.5
+Michael Penix Jr.,pass_yds,259.5,alternate,San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,draftkings,1,183.0,,flag,230.5
+Michael Penix Jr.,pass_yds,269.5,alternate,San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,draftkings,1,233.0,,flag,230.5
+Michael Penix Jr.,pass_yds,279.5,alternate,San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,draftkings,1,296.0,,flag,230.5
+Michael Penix Jr.,pass_yds,289.5,alternate,San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,draftkings,1,375.0,,flag,230.5
+Michael Penix Jr.,pass_yds,299.5,alternate,San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,draftkings,1,470.0,,flag,230.5
+Michael Penix Jr.,pass_yds,309.5,alternate,San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,draftkings,1,584.0,,flag,230.5
+Michael Penix Jr.,pass_yds,319.5,alternate,San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,draftkings,1,740.0,,flag,230.5
+Michael Penix Jr.,pass_yds,329.5,alternate,San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,draftkings,1,920.0,,flag,230.5
+Michael Penix Jr.,pass_yds,339.5,alternate,San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,draftkings,1,1180.0,,flag,230.5
+Michael Penix Jr.,pass_yds,349.5,alternate,San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,draftkings,1,1480.0,,flag,230.5
+Michael Penix Jr.,pass_yds,359.5,alternate,San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,draftkings,1,1840.0,,flag,230.5
+Michael Penix Jr.,pass_yds,369.5,alternate,San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,draftkings,1,2300.0,,flag,230.5
+Michael Penix Jr.,pass_yds,379.5,alternate,San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,draftkings,1,2900.0,,flag,230.5
+Michael Penix Jr.,pass_yds,389.5,alternate,San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,draftkings,1,3600.0,,flag,230.5
+Michael Penix Jr.,rush_yds,1.5,standard,San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,draftkings,1,-122.0,-103.0,flag,1.5
+Michael Penix Jr.,rush_yds,9.5,alternate,San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,draftkings,1,270.0,,flag,1.5
+Michael Penix Jr.,rush_yds,14.5,alternate,San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,draftkings,1,490.0,,flag,1.5
+Michael Penix Jr.,rush_yds,19.5,alternate,San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,draftkings,1,830.0,,flag,1.5
+Michael Penix Jr.,rush_yds,24.5,alternate,San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,draftkings,1,1360.0,,flag,1.5
+Michael Penix Jr.,rush_yds,29.5,alternate,San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,draftkings,1,2000.0,,flag,1.5
+Michael Penix Jr.,rush_yds,39.5,alternate,San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,draftkings,1,3800.0,,flag,1.5
+Olamide Zaccheaus,rec,1.5,standard,San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,draftkings,1,170.0,-220.0,flag,1.5
+Olamide Zaccheaus,rec,2.5,alternate,San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,draftkings,1,552.0,,flag,1.5
+Olamide Zaccheaus,rec,3.5,alternate,San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,draftkings,1,1520.0,,flag,1.5
+Olamide Zaccheaus,rec_yds,7.5,standard,San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,draftkings,1,-109.0,-115.0,flag,7.5
+Olamide Zaccheaus,rec_yds,9.5,alternate,San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,draftkings,1,123.0,,flag,7.5
+Olamide Zaccheaus,rec_yds,14.5,alternate,San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,draftkings,1,221.0,,flag,7.5
+Olamide Zaccheaus,rec_yds,19.5,alternate,San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,draftkings,1,348.0,,flag,7.5
+Olamide Zaccheaus,rec_yds,24.5,alternate,San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,draftkings,1,508.0,,flag,7.5
+Olamide Zaccheaus,rec_yds,29.5,alternate,San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,draftkings,1,720.0,,flag,7.5
+Olamide Zaccheaus,rec_yds,39.5,alternate,San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,draftkings,1,1460.0,,flag,7.5
+Olamide Zaccheaus,rec_yds,49.5,alternate,San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,draftkings,1,2600.0,,flag,7.5
+Olamide Zaccheaus,rec_yds,59.5,alternate,San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,draftkings,1,4000.0,,flag,7.5
+Zachariah Branch,rec,1.5,standard,San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,draftkings,1,109.0,-139.0,flag,1.5
+Zachariah Branch,rec,2.5,alternate,San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,draftkings,1,268.0,,flag,1.5
+Zachariah Branch,rec,3.5,alternate,San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,draftkings,1,620.0,,flag,1.5
+Zachariah Branch,rec,4.5,alternate,San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,draftkings,1,1240.0,,flag,1.5
+Zachariah Branch,rec,5.5,alternate,San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,draftkings,1,2200.0,,flag,1.5
+Zachariah Branch,rec_yds,9.5,standard,San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,draftkings,1,-107.0,-118.0,flag,9.5
+Zachariah Branch,rec_yds,14.5,alternate,San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,draftkings,1,147.0,,flag,9.5
+Zachariah Branch,rec_yds,19.5,alternate,San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,draftkings,1,212.0,,flag,9.5
+Zachariah Branch,rec_yds,24.5,alternate,San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,draftkings,1,292.0,,flag,9.5
+Zachariah Branch,rec_yds,29.5,alternate,San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,draftkings,1,400.0,,flag,9.5
+Zachariah Branch,rec_yds,39.5,alternate,San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,draftkings,1,710.0,,flag,9.5
+Zachariah Branch,rec_yds,49.5,alternate,San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,draftkings,1,1180.0,,flag,9.5
+Zachariah Branch,rec_yds,59.5,alternate,San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,draftkings,1,1800.0,,flag,9.5
+Zachariah Branch,rec_yds,69.5,alternate,San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,draftkings,1,2700.0,,flag,9.5
+Zachariah Branch,rec_yds,79.5,alternate,San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,draftkings,1,3700.0,,flag,9.5
+AJ Dillon,car,3.5,standard,Tampa Bay Buccaneers @ Carolina Panthers,2026-10-25 17:00:00+00:00,draftkings,1,102.0,-131.0,flag,3.5
+AJ Dillon,rush_yds,11.5,standard,Tampa Bay Buccaneers @ Carolina Panthers,2026-10-25 17:00:00+00:00,draftkings,1,-108.0,,flag,11.5
+AJ Dillon,rush_yds,19.5,alternate,Tampa Bay Buccaneers @ Carolina Panthers,2026-10-25 17:00:00+00:00,draftkings,1,233.0,,flag,11.5
+AJ Dillon,rush_yds,24.5,alternate,Tampa Bay Buccaneers @ Carolina Panthers,2026-10-25 17:00:00+00:00,draftkings,1,367.0,,flag,11.5
+Baker Mayfield,pass_att,33.5,standard,Tampa Bay Buccaneers @ Carolina Panthers,2026-10-25 17:00:00+00:00,draftkings,1,-115.0,-111.0,flag,33.5
 Baker Mayfield,pass_td,1.5,standard,Tampa Bay Buccaneers @ Carolina Panthers,2026-10-25 17:00:00+00:00,draftkings,1,134.0,-172.0,flag,1.5
-Bryce Young,pass_att,35.5,standard,Tampa Bay Buccaneers @ Carolina Panthers,2026-10-25 17:00:00+00:00,draftkings,1,-117.0,-109.0,flag,35.5
-Bryce Young,pass_td,1.5,standard,Tampa Bay Buccaneers @ Carolina Panthers,2026-10-25 17:00:00+00:00,draftkings,1,-133.0,104.0,flag,1.5
-Bucky Irving,car,15.5,standard,Tampa Bay Buccaneers @ Carolina Panthers,2026-10-25 17:00:00+00:00,draftkings,1,-109.0,-117.0,flag,15.5
-Chuba Hubbard,car,17.5,standard,Tampa Bay Buccaneers @ Carolina Panthers,2026-10-25 17:00:00+00:00,draftkings,1,-119.0,-107.0,flag,17.5
-Bo Nix,pass_att,32.5,standard,Denver Broncos @ ARI Cardinals,2026-10-25 20:05:00+00:00,draftkings,1,-118.0,-108.0,flag,32.5
+Baker Mayfield,pass_yds,149.5,alternate,Tampa Bay Buccaneers @ Carolina Panthers,2026-10-25 17:00:00+00:00,draftkings,1,-770.0,,flag,212.5
+Baker Mayfield,pass_yds,159.5,alternate,Tampa Bay Buccaneers @ Carolina Panthers,2026-10-25 17:00:00+00:00,draftkings,1,-548.0,,flag,212.5
+Baker Mayfield,pass_yds,169.5,alternate,Tampa Bay Buccaneers @ Carolina Panthers,2026-10-25 17:00:00+00:00,draftkings,1,-389.0,,flag,212.5
+Baker Mayfield,pass_yds,179.5,alternate,Tampa Bay Buccaneers @ Carolina Panthers,2026-10-25 17:00:00+00:00,draftkings,1,-283.0,,flag,212.5
+Baker Mayfield,pass_yds,189.5,alternate,Tampa Bay Buccaneers @ Carolina Panthers,2026-10-25 17:00:00+00:00,draftkings,1,-210.0,,flag,212.5
+Baker Mayfield,pass_yds,199.5,alternate,Tampa Bay Buccaneers @ Carolina Panthers,2026-10-25 17:00:00+00:00,draftkings,1,-158.0,,flag,212.5
+Baker Mayfield,pass_yds,209.5,alternate,Tampa Bay Buccaneers @ Carolina Panthers,2026-10-25 17:00:00+00:00,draftkings,1,-121.0,,flag,212.5
+Baker Mayfield,pass_yds,212.5,standard,Tampa Bay Buccaneers @ Carolina Panthers,2026-10-25 17:00:00+00:00,draftkings,1,-113.0,-111.0,flag,212.5
+Baker Mayfield,pass_yds,219.5,alternate,Tampa Bay Buccaneers @ Carolina Panthers,2026-10-25 17:00:00+00:00,draftkings,1,106.0,,flag,212.5
+Baker Mayfield,pass_yds,229.5,alternate,Tampa Bay Buccaneers @ Carolina Panthers,2026-10-25 17:00:00+00:00,draftkings,1,136.0,,flag,212.5
+Baker Mayfield,pass_yds,239.5,alternate,Tampa Bay Buccaneers @ Carolina Panthers,2026-10-25 17:00:00+00:00,draftkings,1,175.0,,flag,212.5
+Baker Mayfield,pass_yds,249.5,alternate,Tampa Bay Buccaneers @ Carolina Panthers,2026-10-25 17:00:00+00:00,draftkings,1,228.0,,flag,212.5
+Baker Mayfield,pass_yds,259.5,alternate,Tampa Bay Buccaneers @ Carolina Panthers,2026-10-25 17:00:00+00:00,draftkings,1,291.0,,flag,212.5
+Baker Mayfield,pass_yds,269.5,alternate,Tampa Bay Buccaneers @ Carolina Panthers,2026-10-25 17:00:00+00:00,draftkings,1,374.0,,flag,212.5
+Baker Mayfield,pass_yds,279.5,alternate,Tampa Bay Buccaneers @ Carolina Panthers,2026-10-25 17:00:00+00:00,draftkings,1,488.0,,flag,212.5
+Baker Mayfield,pass_yds,289.5,alternate,Tampa Bay Buccaneers @ Carolina Panthers,2026-10-25 17:00:00+00:00,draftkings,1,620.0,,flag,212.5
+Baker Mayfield,pass_yds,299.5,alternate,Tampa Bay Buccaneers @ Carolina Panthers,2026-10-25 17:00:00+00:00,draftkings,1,820.0,,flag,212.5
+Baker Mayfield,pass_yds,309.5,alternate,Tampa Bay Buccaneers @ Carolina Panthers,2026-10-25 17:00:00+00:00,draftkings,1,1040.0,,flag,212.5
+Baker Mayfield,pass_yds,319.5,alternate,Tampa Bay Buccaneers @ Carolina Panthers,2026-10-25 17:00:00+00:00,draftkings,1,1340.0,,flag,212.5
+Baker Mayfield,pass_yds,329.5,alternate,Tampa Bay Buccaneers @ Carolina Panthers,2026-10-25 17:00:00+00:00,draftkings,1,1720.0,,flag,212.5
+Baker Mayfield,pass_yds,339.5,alternate,Tampa Bay Buccaneers @ Carolina Panthers,2026-10-25 17:00:00+00:00,draftkings,1,2200.0,,flag,212.5
+Baker Mayfield,pass_yds,349.5,alternate,Tampa Bay Buccaneers @ Carolina Panthers,2026-10-25 17:00:00+00:00,draftkings,1,2800.0,,flag,212.5
+Baker Mayfield,pass_yds,359.5,alternate,Tampa Bay Buccaneers @ Carolina Panthers,2026-10-25 17:00:00+00:00,draftkings,1,3300.0,,flag,212.5
+Baker Mayfield,pass_yds,369.5,alternate,Tampa Bay Buccaneers @ Carolina Panthers,2026-10-25 17:00:00+00:00,draftkings,1,4000.0,,flag,212.5
+Baker Mayfield,rush_yds,9.5,alternate,Tampa Bay Buccaneers @ Carolina Panthers,2026-10-25 17:00:00+00:00,draftkings,1,-252.0,,flag,16.5
+Baker Mayfield,rush_yds,16.5,standard,Tampa Bay Buccaneers @ Carolina Panthers,2026-10-25 17:00:00+00:00,draftkings,1,,-111.0,flag,16.5
+Baker Mayfield,rush_yds,19.5,alternate,Tampa Bay Buccaneers @ Carolina Panthers,2026-10-25 17:00:00+00:00,draftkings,1,117.0,,flag,16.5
+Baker Mayfield,rush_yds,24.5,alternate,Tampa Bay Buccaneers @ Carolina Panthers,2026-10-25 17:00:00+00:00,draftkings,1,176.0,,flag,16.5
+Baker Mayfield,rush_yds,29.5,alternate,Tampa Bay Buccaneers @ Carolina Panthers,2026-10-25 17:00:00+00:00,draftkings,1,260.0,,flag,16.5
+Baker Mayfield,rush_yds,49.5,alternate,Tampa Bay Buccaneers @ Carolina Panthers,2026-10-25 17:00:00+00:00,draftkings,1,1040.0,,flag,16.5
+Baker Mayfield,rush_yds,59.5,alternate,Tampa Bay Buccaneers @ Carolina Panthers,2026-10-25 17:00:00+00:00,draftkings,1,1980.0,,flag,16.5
+Baker Mayfield,rush_yds,69.5,alternate,Tampa Bay Buccaneers @ Carolina Panthers,2026-10-25 17:00:00+00:00,draftkings,1,3300.0,,flag,16.5
+Bryce Young,pass_att,35.5,standard,Tampa Bay Buccaneers @ Carolina Panthers,2026-10-25 17:00:00+00:00,draftkings,1,-113.0,-113.0,flag,35.5
+Bryce Young,pass_td,1.5,standard,Tampa Bay Buccaneers @ Carolina Panthers,2026-10-25 17:00:00+00:00,draftkings,1,-142.0,112.0,flag,1.5
+Bryce Young,pass_yds,179.5,alternate,Tampa Bay Buccaneers @ Carolina Panthers,2026-10-25 17:00:00+00:00,draftkings,1,-1140.0,,flag,257.5
+Bryce Young,pass_yds,189.5,alternate,Tampa Bay Buccaneers @ Carolina Panthers,2026-10-25 17:00:00+00:00,draftkings,1,-790.0,,flag,257.5
+Bryce Young,pass_yds,199.5,alternate,Tampa Bay Buccaneers @ Carolina Panthers,2026-10-25 17:00:00+00:00,draftkings,1,-562.0,,flag,257.5
+Bryce Young,pass_yds,209.5,alternate,Tampa Bay Buccaneers @ Carolina Panthers,2026-10-25 17:00:00+00:00,draftkings,1,-410.0,,flag,257.5
+Bryce Young,pass_yds,219.5,alternate,Tampa Bay Buccaneers @ Carolina Panthers,2026-10-25 17:00:00+00:00,draftkings,1,-302.0,,flag,257.5
+Bryce Young,pass_yds,229.5,alternate,Tampa Bay Buccaneers @ Carolina Panthers,2026-10-25 17:00:00+00:00,draftkings,1,-228.0,,flag,257.5
+Bryce Young,pass_yds,239.5,alternate,Tampa Bay Buccaneers @ Carolina Panthers,2026-10-25 17:00:00+00:00,draftkings,1,-173.0,,flag,257.5
+Bryce Young,pass_yds,249.5,alternate,Tampa Bay Buccaneers @ Carolina Panthers,2026-10-25 17:00:00+00:00,draftkings,1,-136.0,,flag,257.5
+Bryce Young,pass_yds,257.5,standard,Tampa Bay Buccaneers @ Carolina Panthers,2026-10-25 17:00:00+00:00,draftkings,1,-111.0,-113.0,flag,257.5
+Bryce Young,pass_yds,259.5,alternate,Tampa Bay Buccaneers @ Carolina Panthers,2026-10-25 17:00:00+00:00,draftkings,1,-106.0,,flag,257.5
+Bryce Young,pass_yds,269.5,alternate,Tampa Bay Buccaneers @ Carolina Panthers,2026-10-25 17:00:00+00:00,draftkings,1,120.0,,flag,257.5
+Bryce Young,pass_yds,279.5,alternate,Tampa Bay Buccaneers @ Carolina Panthers,2026-10-25 17:00:00+00:00,draftkings,1,153.0,,flag,257.5
+Bryce Young,pass_yds,289.5,alternate,Tampa Bay Buccaneers @ Carolina Panthers,2026-10-25 17:00:00+00:00,draftkings,1,196.0,,flag,257.5
+Bryce Young,pass_yds,299.5,alternate,Tampa Bay Buccaneers @ Carolina Panthers,2026-10-25 17:00:00+00:00,draftkings,1,250.0,,flag,257.5
+Bryce Young,pass_yds,309.5,alternate,Tampa Bay Buccaneers @ Carolina Panthers,2026-10-25 17:00:00+00:00,draftkings,1,319.0,,flag,257.5
+Bryce Young,pass_yds,319.5,alternate,Tampa Bay Buccaneers @ Carolina Panthers,2026-10-25 17:00:00+00:00,draftkings,1,404.0,,flag,257.5
+Bryce Young,pass_yds,329.5,alternate,Tampa Bay Buccaneers @ Carolina Panthers,2026-10-25 17:00:00+00:00,draftkings,1,508.0,,flag,257.5
+Bryce Young,pass_yds,339.5,alternate,Tampa Bay Buccaneers @ Carolina Panthers,2026-10-25 17:00:00+00:00,draftkings,1,640.0,,flag,257.5
+Bryce Young,pass_yds,349.5,alternate,Tampa Bay Buccaneers @ Carolina Panthers,2026-10-25 17:00:00+00:00,draftkings,1,810.0,,flag,257.5
+Bryce Young,pass_yds,359.5,alternate,Tampa Bay Buccaneers @ Carolina Panthers,2026-10-25 17:00:00+00:00,draftkings,1,1040.0,,flag,257.5
+Bryce Young,pass_yds,369.5,alternate,Tampa Bay Buccaneers @ Carolina Panthers,2026-10-25 17:00:00+00:00,draftkings,1,1320.0,,flag,257.5
+Bryce Young,pass_yds,379.5,alternate,Tampa Bay Buccaneers @ Carolina Panthers,2026-10-25 17:00:00+00:00,draftkings,1,1640.0,,flag,257.5
+Bryce Young,pass_yds,389.5,alternate,Tampa Bay Buccaneers @ Carolina Panthers,2026-10-25 17:00:00+00:00,draftkings,1,2000.0,,flag,257.5
+Bryce Young,pass_yds,399.5,alternate,Tampa Bay Buccaneers @ Carolina Panthers,2026-10-25 17:00:00+00:00,draftkings,1,2500.0,,flag,257.5
+Bryce Young,pass_yds,409.5,alternate,Tampa Bay Buccaneers @ Carolina Panthers,2026-10-25 17:00:00+00:00,draftkings,1,3100.0,,flag,257.5
+Bryce Young,pass_yds,419.5,alternate,Tampa Bay Buccaneers @ Carolina Panthers,2026-10-25 17:00:00+00:00,draftkings,1,3800.0,,flag,257.5
+Bryce Young,rush_yds,9.5,alternate,Tampa Bay Buccaneers @ Carolina Panthers,2026-10-25 17:00:00+00:00,draftkings,1,-144.0,,flag,11.5
+Bryce Young,rush_yds,11.5,standard,Tampa Bay Buccaneers @ Carolina Panthers,2026-10-25 17:00:00+00:00,draftkings,1,-107.0,,flag,11.5
+Bryce Young,rush_yds,14.5,alternate,Tampa Bay Buccaneers @ Carolina Panthers,2026-10-25 17:00:00+00:00,draftkings,1,129.0,,flag,11.5
+Bryce Young,rush_yds,24.5,alternate,Tampa Bay Buccaneers @ Carolina Panthers,2026-10-25 17:00:00+00:00,draftkings,1,358.0,,flag,11.5
+Bryce Young,rush_yds,29.5,alternate,Tampa Bay Buccaneers @ Carolina Panthers,2026-10-25 17:00:00+00:00,draftkings,1,565.0,,flag,11.5
+Bryce Young,rush_yds,49.5,alternate,Tampa Bay Buccaneers @ Carolina Panthers,2026-10-25 17:00:00+00:00,draftkings,1,2500.0,,flag,11.5
+Bucky Irving,car,15.5,standard,Tampa Bay Buccaneers @ Carolina Panthers,2026-10-25 17:00:00+00:00,draftkings,1,-102.0,-125.0,flag,15.5
+Bucky Irving,rush_yds,29.5,alternate,Tampa Bay Buccaneers @ Carolina Panthers,2026-10-25 17:00:00+00:00,draftkings,1,-1340.0,,flag,64.5
+Bucky Irving,rush_yds,59.5,alternate,Tampa Bay Buccaneers @ Carolina Panthers,2026-10-25 17:00:00+00:00,draftkings,1,-145.0,,flag,64.5
+Bucky Irving,rush_yds,64.5,standard,Tampa Bay Buccaneers @ Carolina Panthers,2026-10-25 17:00:00+00:00,draftkings,1,-112.0,-112.0,flag,64.5
+Bucky Irving,rush_yds,89.5,alternate,Tampa Bay Buccaneers @ Carolina Panthers,2026-10-25 17:00:00+00:00,draftkings,1,270.0,,flag,64.5
+Bucky Irving,rush_yds,99.5,alternate,Tampa Bay Buccaneers @ Carolina Panthers,2026-10-25 17:00:00+00:00,draftkings,1,410.0,,flag,64.5
+Bucky Irving,rush_yds,149.5,alternate,Tampa Bay Buccaneers @ Carolina Panthers,2026-10-25 17:00:00+00:00,draftkings,1,2400.0,,flag,64.5
+Bucky Irving,rush_yds,159.5,alternate,Tampa Bay Buccaneers @ Carolina Panthers,2026-10-25 17:00:00+00:00,draftkings,1,3400.0,,flag,64.5
+Chuba Hubbard,car,17.5,standard,Tampa Bay Buccaneers @ Carolina Panthers,2026-10-25 17:00:00+00:00,draftkings,1,-122.0,-104.0,flag,17.5
+Chuba Hubbard,rush_yds,39.5,alternate,Tampa Bay Buccaneers @ Carolina Panthers,2026-10-25 17:00:00+00:00,draftkings,1,-800.0,,flag,69.5
+Chuba Hubbard,rush_yds,49.5,alternate,Tampa Bay Buccaneers @ Carolina Panthers,2026-10-25 17:00:00+00:00,draftkings,1,-359.0,,flag,69.5
+Chuba Hubbard,rush_yds,69.5,standard,Tampa Bay Buccaneers @ Carolina Panthers,2026-10-25 17:00:00+00:00,draftkings,1,-111.0,-113.0,flag,69.5
+Chuba Hubbard,rush_yds,79.5,alternate,Tampa Bay Buccaneers @ Carolina Panthers,2026-10-25 17:00:00+00:00,draftkings,1,147.0,,flag,69.5
+Chuba Hubbard,rush_yds,99.5,alternate,Tampa Bay Buccaneers @ Carolina Panthers,2026-10-25 17:00:00+00:00,draftkings,1,351.0,,flag,69.5
+Chuba Hubbard,rush_yds,109.5,alternate,Tampa Bay Buccaneers @ Carolina Panthers,2026-10-25 17:00:00+00:00,draftkings,1,519.0,,flag,69.5
+Chuba Hubbard,rush_yds,119.5,alternate,Tampa Bay Buccaneers @ Carolina Panthers,2026-10-25 17:00:00+00:00,draftkings,1,780.0,,flag,69.5
+Chuba Hubbard,rush_yds,139.5,alternate,Tampa Bay Buccaneers @ Carolina Panthers,2026-10-25 17:00:00+00:00,draftkings,1,1720.0,,flag,69.5
+Kenneth Gainwell,rush_yds,9.5,alternate,Tampa Bay Buccaneers @ Carolina Panthers,2026-10-25 17:00:00+00:00,draftkings,1,-150.0,,none,
+Kenneth Gainwell,rush_yds,14.5,alternate,Tampa Bay Buccaneers @ Carolina Panthers,2026-10-25 17:00:00+00:00,draftkings,1,133.0,,none,
+Kenneth Gainwell,rush_yds,29.5,alternate,Tampa Bay Buccaneers @ Carolina Panthers,2026-10-25 17:00:00+00:00,draftkings,1,564.0,,none,
+Kenneth Gainwell,rush_yds,39.5,alternate,Tampa Bay Buccaneers @ Carolina Panthers,2026-10-25 17:00:00+00:00,draftkings,1,1140.0,,none,
+Sean Tucker,rush_yds,7.5,standard,Tampa Bay Buccaneers @ Carolina Panthers,2026-10-25 17:00:00+00:00,draftkings,1,-118.0,,flag,7.5
+Sean Tucker,rush_yds,9.5,alternate,Tampa Bay Buccaneers @ Carolina Panthers,2026-10-25 17:00:00+00:00,draftkings,1,116.0,,flag,7.5
+Sean Tucker,rush_yds,14.5,alternate,Tampa Bay Buccaneers @ Carolina Panthers,2026-10-25 17:00:00+00:00,draftkings,1,207.0,,flag,7.5
+Sean Tucker,rush_yds,24.5,alternate,Tampa Bay Buccaneers @ Carolina Panthers,2026-10-25 17:00:00+00:00,draftkings,1,543.0,,flag,7.5
+Sean Tucker,rush_yds,29.5,alternate,Tampa Bay Buccaneers @ Carolina Panthers,2026-10-25 17:00:00+00:00,draftkings,1,790.0,,flag,7.5
+Sean Tucker,rush_yds,39.5,alternate,Tampa Bay Buccaneers @ Carolina Panthers,2026-10-25 17:00:00+00:00,draftkings,1,1440.0,,flag,7.5
+Bo Nix,pass_att,32.5,standard,Denver Broncos @ ARI Cardinals,2026-10-25 20:05:00+00:00,draftkings,1,-113.0,-113.0,flag,32.5
 Bo Nix,pass_td,1.5,standard,Denver Broncos @ ARI Cardinals,2026-10-25 20:05:00+00:00,draftkings,1,105.0,-134.0,flag,1.5
-J.K. Dobbins,car,13.5,standard,Denver Broncos @ ARI Cardinals,2026-10-25 20:05:00+00:00,draftkings,1,-108.0,-118.0,flag,13.5
-Jacoby Brissett,pass_att,37.5,standard,Denver Broncos @ ARI Cardinals,2026-10-25 20:05:00+00:00,draftkings,1,-122.0,-105.0,flag,37.5
-Jacoby Brissett,pass_td,1.5,standard,Denver Broncos @ ARI Cardinals,2026-10-25 20:05:00+00:00,draftkings,1,142.0,-182.0,flag,1.5
-Tyler Allgeier,car,9.5,standard,Denver Broncos @ ARI Cardinals,2026-10-25 20:05:00+00:00,draftkings,1,100.0,-127.0,flag,9.5
-Zonovan Knight,car,10.5,standard,Denver Broncos @ ARI Cardinals,2026-10-25 20:05:00+00:00,draftkings,1,-106.0,-120.0,flag,10.5
-Jahmyr Gibbs,car,20.5,standard,Green Bay Packers @ Detroit Lions,2026-10-25 20:25:00+00:00,draftkings,1,-105.0,-122.0,flag,20.5
-Jared Goff,pass_att,36.5,standard,Green Bay Packers @ Detroit Lions,2026-10-25 20:25:00+00:00,draftkings,1,-114.0,-112.0,flag,36.5
-Jared Goff,pass_td,2.5,standard,Green Bay Packers @ Detroit Lions,2026-10-25 20:25:00+00:00,draftkings,1,127.0,-163.0,flag,2.5
-Jordan Love,car,1.5,standard,Green Bay Packers @ Detroit Lions,2026-10-25 20:25:00+00:00,draftkings,1,-168.0,131.0,flag,1.5
-Jordan Love,pass_att,38.5,standard,Green Bay Packers @ Detroit Lions,2026-10-25 20:25:00+00:00,draftkings,1,-102.0,-125.0,flag,38.5
-Jordan Love,pass_td,1.5,standard,Green Bay Packers @ Detroit Lions,2026-10-25 20:25:00+00:00,draftkings,1,-210.0,163.0,flag,1.5
-Josh Jacobs,car,12.5,standard,Green Bay Packers @ Detroit Lions,2026-10-25 20:25:00+00:00,draftkings,1,-127.0,100.0,flag,12.5
-Ashton Jeanty,car,14.5,standard,Los Angeles Rams @ Las Vegas Raiders,2026-10-25 20:25:00+00:00,draftkings,1,-121.0,-105.0,flag,14.5
-Blake Corum,car,8.5,standard,Los Angeles Rams @ Las Vegas Raiders,2026-10-25 20:25:00+00:00,draftkings,1,-101.0,-126.0,flag,8.5
-Kirk Cousins,pass_att,34.5,standard,Los Angeles Rams @ Las Vegas Raiders,2026-10-25 20:25:00+00:00,draftkings,1,-105.0,-122.0,flag,34.5
-Kirk Cousins,pass_td,1.5,standard,Los Angeles Rams @ Las Vegas Raiders,2026-10-25 20:25:00+00:00,draftkings,1,-101.0,-126.0,flag,1.5
-Kyren Williams,car,14.5,standard,Los Angeles Rams @ Las Vegas Raiders,2026-10-25 20:25:00+00:00,draftkings,1,-123.0,-103.0,flag,14.5
-Matthew Stafford,pass_att,35.5,standard,Los Angeles Rams @ Las Vegas Raiders,2026-10-25 20:25:00+00:00,draftkings,1,-115.0,-111.0,flag,35.5
-Matthew Stafford,pass_td,1.5,standard,Los Angeles Rams @ Las Vegas Raiders,2026-10-25 20:25:00+00:00,draftkings,1,-148.0,116.0,flag,1.5
+J.K. Dobbins,car,13.5,standard,Denver Broncos @ ARI Cardinals,2026-10-25 20:05:00+00:00,draftkings,1,-110.0,-116.0,flag,13.5
+Jacoby Brissett,pass_att,37.5,standard,Denver Broncos @ ARI Cardinals,2026-10-25 20:05:00+00:00,draftkings,1,-102.0,-125.0,flag,37.5
+Jacoby Brissett,pass_td,1.5,standard,Denver Broncos @ ARI Cardinals,2026-10-25 20:05:00+00:00,draftkings,1,146.0,-188.0,flag,1.5
+Tyler Allgeier,car,8.5,standard,Denver Broncos @ ARI Cardinals,2026-10-25 20:05:00+00:00,draftkings,1,-138.0,108.0,flag,8.5
+Zonovan Knight,car,10.5,standard,Denver Broncos @ ARI Cardinals,2026-10-25 20:05:00+00:00,draftkings,1,-122.0,-105.0,flag,10.5
+Ashton Jeanty,car,14.5,standard,Los Angeles Rams @ Las Vegas Raiders,2026-10-25 20:25:00+00:00,draftkings,1,-113.0,-112.0,flag,14.5
+Blake Corum,car,8.5,standard,Los Angeles Rams @ Las Vegas Raiders,2026-10-25 20:25:00+00:00,draftkings,1,-106.0,-120.0,flag,8.5
+Kyren Williams,car,15.5,standard,Los Angeles Rams @ Las Vegas Raiders,2026-10-25 20:25:00+00:00,draftkings,1,-102.0,-125.0,flag,15.5
 Emanuel Wilson,car,14.5,standard,Kansas City Chiefs @ Seattle Seahawks,2026-10-26 00:20:00+00:00,draftkings,1,-122.0,-105.0,flag,14.5
-Kenneth Walker III,car,18.5,standard,Kansas City Chiefs @ Seattle Seahawks,2026-10-26 00:20:00+00:00,draftkings,1,-122.0,-104.0,flag,18.5
+Kenneth Walker III,car,18.5,standard,Kansas City Chiefs @ Seattle Seahawks,2026-10-26 00:20:00+00:00,draftkings,1,-126.0,-101.0,flag,18.5
 Patrick Mahomes,car,3.5,standard,Kansas City Chiefs @ Seattle Seahawks,2026-10-26 00:20:00+00:00,draftkings,1,108.0,-138.0,flag,3.5
 Patrick Mahomes,pass_att,32.5,standard,Kansas City Chiefs @ Seattle Seahawks,2026-10-26 00:20:00+00:00,draftkings,1,100.0,-127.0,flag,32.5
 Patrick Mahomes,pass_td,1.5,standard,Kansas City Chiefs @ Seattle Seahawks,2026-10-26 00:20:00+00:00,draftkings,1,160.0,-206.0,flag,1.5
@@ -625,6 +765,6 @@ Sam Darnold,pass_td,1.5,standard,Kansas City Chiefs @ Seattle Seahawks,2026-10-2
 Dak Prescott,pass_att,37.5,standard,Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,draftkings,1,-109.0,-116.0,flag,37.5
 Dak Prescott,pass_td,1.5,standard,Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,draftkings,1,-138.0,108.0,flag,1.5
 Javonte Williams,car,16.5,standard,Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,draftkings,1,-110.0,-115.0,flag,16.5
-Saquon Barkley,car,17.5,standard,Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,draftkings,1,100.0,-127.0,flag,17.5
+Saquon Barkley,car,17.5,standard,Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,draftkings,1,-101.0,-126.0,flag,17.5
 Tanner McKee,pass_att,34.5,standard,Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,draftkings,1,-101.0,-127.0,flag,34.5
 Tanner McKee,pass_td,1.5,standard,Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,draftkings,1,160.0,-207.0,flag,1.5
