@@ -1,857 +1,716 @@
 game,start,player,stat,book,line,over_odds,under_odds,is_main
-Indianapolis Colts @ Minnesota Vikings,2026-10-25 17:00:00+00:00,Aaron Jones,car,draftkings,10.5,106.0,-135.0,True
-Indianapolis Colts @ Minnesota Vikings,2026-10-25 17:00:00+00:00,Daniel Jones,pass_att,draftkings,32.5,-108.0,-118.0,True
-Indianapolis Colts @ Minnesota Vikings,2026-10-25 17:00:00+00:00,Daniel Jones,pass_td,draftkings,0.5,-219.0,170.0,True
-Indianapolis Colts @ Minnesota Vikings,2026-10-25 17:00:00+00:00,Daniel Jones,pass_td,fanduel,0.5,-215.0,162.0,True
-Indianapolis Colts @ Minnesota Vikings,2026-10-25 17:00:00+00:00,Daniel Jones,pass_td,fanduel,1.5,270.0,,False
-Indianapolis Colts @ Minnesota Vikings,2026-10-25 17:00:00+00:00,Daniel Jones,pass_td,fanduel,2.5,1000.0,,False
-Indianapolis Colts @ Minnesota Vikings,2026-10-25 17:00:00+00:00,Daniel Jones,pass_yds,draftkings,149.5,-346.0,,False
-Indianapolis Colts @ Minnesota Vikings,2026-10-25 17:00:00+00:00,Daniel Jones,pass_yds,draftkings,159.5,-254.0,,False
-Indianapolis Colts @ Minnesota Vikings,2026-10-25 17:00:00+00:00,Daniel Jones,pass_yds,draftkings,169.5,-189.0,,False
-Indianapolis Colts @ Minnesota Vikings,2026-10-25 17:00:00+00:00,Daniel Jones,pass_yds,draftkings,179.5,-142.0,,False
-Indianapolis Colts @ Minnesota Vikings,2026-10-25 17:00:00+00:00,Daniel Jones,pass_yds,draftkings,188.5,-111.0,-113.0,True
-Indianapolis Colts @ Minnesota Vikings,2026-10-25 17:00:00+00:00,Daniel Jones,pass_yds,draftkings,189.5,-108.0,,False
-Indianapolis Colts @ Minnesota Vikings,2026-10-25 17:00:00+00:00,Daniel Jones,pass_yds,draftkings,199.5,119.0,,False
-Indianapolis Colts @ Minnesota Vikings,2026-10-25 17:00:00+00:00,Daniel Jones,pass_yds,draftkings,209.5,154.0,,False
-Indianapolis Colts @ Minnesota Vikings,2026-10-25 17:00:00+00:00,Daniel Jones,pass_yds,draftkings,219.5,199.0,,False
-Indianapolis Colts @ Minnesota Vikings,2026-10-25 17:00:00+00:00,Daniel Jones,pass_yds,draftkings,229.5,255.0,,False
-Indianapolis Colts @ Minnesota Vikings,2026-10-25 17:00:00+00:00,Daniel Jones,pass_yds,draftkings,239.5,327.0,,False
-Indianapolis Colts @ Minnesota Vikings,2026-10-25 17:00:00+00:00,Daniel Jones,pass_yds,draftkings,249.5,418.0,,False
-Indianapolis Colts @ Minnesota Vikings,2026-10-25 17:00:00+00:00,Daniel Jones,pass_yds,draftkings,259.5,541.0,,False
-Indianapolis Colts @ Minnesota Vikings,2026-10-25 17:00:00+00:00,Daniel Jones,pass_yds,draftkings,269.5,700.0,,False
-Indianapolis Colts @ Minnesota Vikings,2026-10-25 17:00:00+00:00,Daniel Jones,pass_yds,draftkings,279.5,900.0,,False
-Indianapolis Colts @ Minnesota Vikings,2026-10-25 17:00:00+00:00,Daniel Jones,pass_yds,draftkings,289.5,1140.0,,False
-Indianapolis Colts @ Minnesota Vikings,2026-10-25 17:00:00+00:00,Daniel Jones,pass_yds,draftkings,299.5,1440.0,,False
-Indianapolis Colts @ Minnesota Vikings,2026-10-25 17:00:00+00:00,Daniel Jones,pass_yds,draftkings,309.5,1820.0,,False
-Indianapolis Colts @ Minnesota Vikings,2026-10-25 17:00:00+00:00,Daniel Jones,pass_yds,draftkings,319.5,2300.0,,False
-Indianapolis Colts @ Minnesota Vikings,2026-10-25 17:00:00+00:00,Daniel Jones,pass_yds,draftkings,329.5,2900.0,,False
-Indianapolis Colts @ Minnesota Vikings,2026-10-25 17:00:00+00:00,Daniel Jones,pass_yds,draftkings,339.5,3500.0,,False
-Indianapolis Colts @ Minnesota Vikings,2026-10-25 17:00:00+00:00,Daniel Jones,pass_yds,draftkings,349.5,4000.0,,False
-Indianapolis Colts @ Minnesota Vikings,2026-10-25 17:00:00+00:00,Jonathan Taylor,car,draftkings,17.5,-112.0,-114.0,True
-Indianapolis Colts @ Minnesota Vikings,2026-10-25 17:00:00+00:00,Jordan Mason,car,draftkings,12.5,101.0,-128.0,True
-Indianapolis Colts @ Minnesota Vikings,2026-10-25 17:00:00+00:00,Kyler Murray,car,draftkings,5.5,117.0,-149.0,True
-Indianapolis Colts @ Minnesota Vikings,2026-10-25 17:00:00+00:00,Kyler Murray,pass_att,draftkings,30.5,-118.0,-108.0,True
-Indianapolis Colts @ Minnesota Vikings,2026-10-25 17:00:00+00:00,Kyler Murray,pass_td,fanduel,0.5,-650.0,,False
-Indianapolis Colts @ Minnesota Vikings,2026-10-25 17:00:00+00:00,Kyler Murray,pass_td,draftkings,1.5,106.0,-135.0,True
-Indianapolis Colts @ Minnesota Vikings,2026-10-25 17:00:00+00:00,Kyler Murray,pass_td,fanduel,1.5,-106.0,-122.0,True
-Indianapolis Colts @ Minnesota Vikings,2026-10-25 17:00:00+00:00,Kyler Murray,pass_td,fanduel,2.5,360.0,,False
-Indianapolis Colts @ Minnesota Vikings,2026-10-25 17:00:00+00:00,Kyler Murray,pass_td,fanduel,3.5,1200.0,,False
-Indianapolis Colts @ Minnesota Vikings,2026-10-25 17:00:00+00:00,Kyler Murray,pass_yds,draftkings,149.5,-740.0,,False
-Indianapolis Colts @ Minnesota Vikings,2026-10-25 17:00:00+00:00,Kyler Murray,pass_yds,draftkings,159.5,-508.0,,False
-Indianapolis Colts @ Minnesota Vikings,2026-10-25 17:00:00+00:00,Kyler Murray,pass_yds,draftkings,169.5,-353.0,,False
-Indianapolis Colts @ Minnesota Vikings,2026-10-25 17:00:00+00:00,Kyler Murray,pass_yds,draftkings,179.5,-255.0,,False
-Indianapolis Colts @ Minnesota Vikings,2026-10-25 17:00:00+00:00,Kyler Murray,pass_yds,draftkings,189.5,-193.0,,False
-Indianapolis Colts @ Minnesota Vikings,2026-10-25 17:00:00+00:00,Kyler Murray,pass_yds,draftkings,199.5,-145.0,,False
-Indianapolis Colts @ Minnesota Vikings,2026-10-25 17:00:00+00:00,Kyler Murray,pass_yds,draftkings,208.5,-113.0,-111.0,True
-Indianapolis Colts @ Minnesota Vikings,2026-10-25 17:00:00+00:00,Kyler Murray,pass_yds,draftkings,209.5,-110.0,,False
-Indianapolis Colts @ Minnesota Vikings,2026-10-25 17:00:00+00:00,Kyler Murray,pass_yds,draftkings,219.5,119.0,,False
-Indianapolis Colts @ Minnesota Vikings,2026-10-25 17:00:00+00:00,Kyler Murray,pass_yds,draftkings,229.5,154.0,,False
-Indianapolis Colts @ Minnesota Vikings,2026-10-25 17:00:00+00:00,Kyler Murray,pass_yds,draftkings,239.5,202.0,,False
-Indianapolis Colts @ Minnesota Vikings,2026-10-25 17:00:00+00:00,Kyler Murray,pass_yds,draftkings,249.5,262.0,,False
-Indianapolis Colts @ Minnesota Vikings,2026-10-25 17:00:00+00:00,Kyler Murray,pass_yds,draftkings,259.5,343.0,,False
-Indianapolis Colts @ Minnesota Vikings,2026-10-25 17:00:00+00:00,Kyler Murray,pass_yds,draftkings,269.5,440.0,,False
-Indianapolis Colts @ Minnesota Vikings,2026-10-25 17:00:00+00:00,Kyler Murray,pass_yds,draftkings,279.5,572.0,,False
-Indianapolis Colts @ Minnesota Vikings,2026-10-25 17:00:00+00:00,Kyler Murray,pass_yds,draftkings,289.5,720.0,,False
-Indianapolis Colts @ Minnesota Vikings,2026-10-25 17:00:00+00:00,Kyler Murray,pass_yds,draftkings,299.5,940.0,,False
-Indianapolis Colts @ Minnesota Vikings,2026-10-25 17:00:00+00:00,Kyler Murray,pass_yds,draftkings,309.5,1240.0,,False
-Indianapolis Colts @ Minnesota Vikings,2026-10-25 17:00:00+00:00,Kyler Murray,pass_yds,draftkings,319.5,1580.0,,False
-Indianapolis Colts @ Minnesota Vikings,2026-10-25 17:00:00+00:00,Kyler Murray,pass_yds,draftkings,329.5,2000.0,,False
-Indianapolis Colts @ Minnesota Vikings,2026-10-25 17:00:00+00:00,Kyler Murray,pass_yds,draftkings,339.5,2500.0,,False
-Indianapolis Colts @ Minnesota Vikings,2026-10-25 17:00:00+00:00,Kyler Murray,pass_yds,draftkings,349.5,3200.0,,False
-Indianapolis Colts @ Minnesota Vikings,2026-10-25 17:00:00+00:00,Kyler Murray,pass_yds,draftkings,359.5,3800.0,,False
-Miami Dolphins @ New York Jets,2026-10-25 17:00:00+00:00,Geno Smith,pass_att,draftkings,30.5,-107.0,-119.0,True
-Miami Dolphins @ New York Jets,2026-10-25 17:00:00+00:00,Geno Smith,pass_td,fanduel,0.5,-580.0,,False
-Miami Dolphins @ New York Jets,2026-10-25 17:00:00+00:00,Geno Smith,pass_td,draftkings,1.5,107.0,-137.0,True
-Miami Dolphins @ New York Jets,2026-10-25 17:00:00+00:00,Geno Smith,pass_td,fanduel,1.5,106.0,-138.0,True
-Miami Dolphins @ New York Jets,2026-10-25 17:00:00+00:00,Geno Smith,pass_td,fanduel,2.5,390.0,,False
-Miami Dolphins @ New York Jets,2026-10-25 17:00:00+00:00,Geno Smith,pass_td,fanduel,3.5,1260.0,,False
-Miami Dolphins @ New York Jets,2026-10-25 17:00:00+00:00,Geno Smith,pass_yds,draftkings,159.5,-700.0,,False
-Miami Dolphins @ New York Jets,2026-10-25 17:00:00+00:00,Geno Smith,pass_yds,draftkings,169.5,-497.0,,False
-Miami Dolphins @ New York Jets,2026-10-25 17:00:00+00:00,Geno Smith,pass_yds,draftkings,179.5,-360.0,,False
-Miami Dolphins @ New York Jets,2026-10-25 17:00:00+00:00,Geno Smith,pass_yds,draftkings,189.5,-266.0,,False
-Miami Dolphins @ New York Jets,2026-10-25 17:00:00+00:00,Geno Smith,pass_yds,draftkings,199.5,-200.0,,False
-Miami Dolphins @ New York Jets,2026-10-25 17:00:00+00:00,Geno Smith,pass_yds,draftkings,219.5,-118.0,,False
-Miami Dolphins @ New York Jets,2026-10-25 17:00:00+00:00,Geno Smith,pass_yds,draftkings,221.5,-112.0,,True
-Miami Dolphins @ New York Jets,2026-10-25 17:00:00+00:00,Geno Smith,pass_yds,draftkings,229.5,109.0,,False
-Miami Dolphins @ New York Jets,2026-10-25 17:00:00+00:00,Geno Smith,pass_yds,draftkings,239.5,140.0,,False
-Miami Dolphins @ New York Jets,2026-10-25 17:00:00+00:00,Geno Smith,pass_yds,draftkings,249.5,179.0,,False
-Miami Dolphins @ New York Jets,2026-10-25 17:00:00+00:00,Geno Smith,pass_yds,draftkings,259.5,228.0,,False
-Miami Dolphins @ New York Jets,2026-10-25 17:00:00+00:00,Geno Smith,pass_yds,draftkings,279.5,362.0,,False
-Miami Dolphins @ New York Jets,2026-10-25 17:00:00+00:00,Geno Smith,pass_yds,draftkings,289.5,460.0,,False
-Miami Dolphins @ New York Jets,2026-10-25 17:00:00+00:00,Geno Smith,pass_yds,draftkings,319.5,930.0,,False
-Miami Dolphins @ New York Jets,2026-10-25 17:00:00+00:00,Geno Smith,pass_yds,draftkings,339.5,1500.0,,False
-Miami Dolphins @ New York Jets,2026-10-25 17:00:00+00:00,Geno Smith,pass_yds,draftkings,349.5,1920.0,,False
-Miami Dolphins @ New York Jets,2026-10-25 17:00:00+00:00,Geno Smith,pass_yds,draftkings,359.5,2300.0,,False
-Miami Dolphins @ New York Jets,2026-10-25 17:00:00+00:00,Geno Smith,pass_yds,draftkings,369.5,3000.0,,False
-Miami Dolphins @ New York Jets,2026-10-25 17:00:00+00:00,Geno Smith,pass_yds,draftkings,379.5,3600.0,,False
-Miami Dolphins @ New York Jets,2026-10-25 17:00:00+00:00,Malik Willis,car,draftkings,6.5,-104.0,-122.0,True
-Miami Dolphins @ New York Jets,2026-10-25 17:00:00+00:00,Malik Willis,pass_att,draftkings,27.5,-107.0,-120.0,True
-Miami Dolphins @ New York Jets,2026-10-25 17:00:00+00:00,Malik Willis,pass_td,draftkings,0.5,-197.0,153.0,True
-Miami Dolphins @ New York Jets,2026-10-25 17:00:00+00:00,Malik Willis,pass_td,fanduel,0.5,-210.0,158.0,True
-Miami Dolphins @ New York Jets,2026-10-25 17:00:00+00:00,Malik Willis,pass_td,fanduel,1.5,280.0,,False
-Miami Dolphins @ New York Jets,2026-10-25 17:00:00+00:00,Malik Willis,pass_td,fanduel,2.5,1200.0,,False
-Miami Dolphins @ New York Jets,2026-10-25 17:00:00+00:00,Malik Willis,pass_yds,draftkings,159.5,-226.0,,False
-Miami Dolphins @ New York Jets,2026-10-25 17:00:00+00:00,Malik Willis,pass_yds,draftkings,184.5,-111.0,,True
-Miami Dolphins @ New York Jets,2026-10-25 17:00:00+00:00,Malik Willis,pass_yds,draftkings,189.5,101.0,,False
-Miami Dolphins @ New York Jets,2026-10-25 17:00:00+00:00,Malik Willis,pass_yds,draftkings,199.5,132.0,,False
-Miami Dolphins @ New York Jets,2026-10-25 17:00:00+00:00,Malik Willis,pass_yds,draftkings,209.5,170.0,,False
-Miami Dolphins @ New York Jets,2026-10-25 17:00:00+00:00,Malik Willis,pass_yds,draftkings,219.5,223.0,,False
-Miami Dolphins @ New York Jets,2026-10-25 17:00:00+00:00,Malik Willis,pass_yds,draftkings,229.5,290.0,,False
-Miami Dolphins @ New York Jets,2026-10-25 17:00:00+00:00,Malik Willis,pass_yds,draftkings,239.5,371.0,,False
-Miami Dolphins @ New York Jets,2026-10-25 17:00:00+00:00,Malik Willis,pass_yds,draftkings,259.5,610.0,,False
-Miami Dolphins @ New York Jets,2026-10-25 17:00:00+00:00,Malik Willis,pass_yds,draftkings,279.5,1020.0,,False
-Miami Dolphins @ New York Jets,2026-10-25 17:00:00+00:00,Malik Willis,pass_yds,draftkings,289.5,1340.0,,False
-Miami Dolphins @ New York Jets,2026-10-25 17:00:00+00:00,Malik Willis,pass_yds,draftkings,299.5,1700.0,,False
-Miami Dolphins @ New York Jets,2026-10-25 17:00:00+00:00,Malik Willis,pass_yds,draftkings,309.5,2100.0,,False
-Miami Dolphins @ New York Jets,2026-10-25 17:00:00+00:00,Ollie Gordon II,car,draftkings,13.5,-134.0,105.0,True
-New York Giants @ Houston Texans,2026-10-25 17:00:00+00:00,C.J. Stroud,pass_att,draftkings,33.5,-106.0,-120.0,True
-New York Giants @ Houston Texans,2026-10-25 17:00:00+00:00,C.J. Stroud,pass_td,fanduel,0.5,-1200.0,,False
-New York Giants @ Houston Texans,2026-10-25 17:00:00+00:00,C.J. Stroud,pass_td,draftkings,1.5,-167.0,130.0,True
-New York Giants @ Houston Texans,2026-10-25 17:00:00+00:00,C.J. Stroud,pass_td,fanduel,1.5,-182.0,136.0,True
-New York Giants @ Houston Texans,2026-10-25 17:00:00+00:00,C.J. Stroud,pass_td,fanduel,2.5,205.0,,False
-New York Giants @ Houston Texans,2026-10-25 17:00:00+00:00,C.J. Stroud,pass_td,fanduel,3.5,640.0,,False
-New York Giants @ Houston Texans,2026-10-25 17:00:00+00:00,J.J McCarthy,pass_td,fanduel,0.5,-220.0,162.0,True
-New York Giants @ Houston Texans,2026-10-25 17:00:00+00:00,J.J McCarthy,pass_td,fanduel,1.5,250.0,,False
-New York Giants @ Houston Texans,2026-10-25 17:00:00+00:00,J.J McCarthy,pass_td,fanduel,2.5,920.0,,False
-New York Giants @ Houston Texans,2026-10-25 17:00:00+00:00,J.J. McCarthy,car,draftkings,5.5,112.0,-143.0,True
-New York Giants @ Houston Texans,2026-10-25 17:00:00+00:00,J.J. McCarthy,pass_att,draftkings,32.5,-106.0,-120.0,True
-New York Giants @ Houston Texans,2026-10-25 17:00:00+00:00,J.J. McCarthy,pass_td,draftkings,0.5,-215.0,167.0,True
-New York Giants @ Houston Texans,2026-10-25 17:00:00+00:00,Woody Marks,car,draftkings,16.5,-114.0,-112.0,True
-San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,Austin Hooper,rec,draftkings,0.5,-146.0,115.0,True
-San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,Austin Hooper,rec,draftkings,1.5,330.0,,False
-San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,Austin Hooper,rec,draftkings,2.5,1160.0,,False
-San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,Austin Hooper,rec,draftkings,3.5,2800.0,,False
-San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,Austin Hooper,rec_yds,draftkings,2.5,-113.0,-111.0,True
-San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,Austin Hooper,rec_yds,draftkings,9.5,215.0,,False
-San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,Austin Hooper,rec_yds,draftkings,14.5,397.0,,False
-San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,Austin Hooper,rec_yds,draftkings,19.5,620.0,,False
-San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,Austin Hooper,rec_yds,draftkings,24.5,890.0,,False
-San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,Austin Hooper,rec_yds,draftkings,29.5,1260.0,,False
-San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,Austin Hooper,rec_yds,draftkings,39.5,2300.0,,False
-San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,Austin Hooper,rec_yds,draftkings,49.5,3700.0,,False
-San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,Bijan Robinson,car,draftkings,19.5,-109.0,-117.0,True
-San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,Bijan Robinson,rec,draftkings,1.5,-1380.0,,False
-San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,Bijan Robinson,rec,draftkings,2.5,-388.0,,False
-San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,Bijan Robinson,rec,draftkings,3.5,-162.0,126.0,True
-San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,Bijan Robinson,rec,draftkings,4.5,122.0,,False
-San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,Bijan Robinson,rec,draftkings,5.5,239.0,,False
-San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,Bijan Robinson,rec,draftkings,6.5,453.0,,False
-San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,Bijan Robinson,rec,draftkings,7.5,810.0,,False
-San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,Bijan Robinson,rec,draftkings,8.5,1400.0,,False
-San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,Bijan Robinson,rec,draftkings,9.5,2300.0,,False
-San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,Bijan Robinson,rec_yds,draftkings,9.5,-591.0,,False
-San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,Bijan Robinson,rec_yds,draftkings,14.5,-359.0,,False
-San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,Bijan Robinson,rec_yds,draftkings,19.5,-234.0,,False
-San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,Bijan Robinson,rec_yds,draftkings,24.5,-165.0,,False
-San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,Bijan Robinson,rec_yds,draftkings,29.5,-121.0,,False
-San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,Bijan Robinson,rec_yds,draftkings,30.5,-114.0,-110.0,True
-San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,Bijan Robinson,rec_yds,draftkings,39.5,145.0,,False
-San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,Bijan Robinson,rec_yds,draftkings,49.5,238.0,,False
-San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,Bijan Robinson,rec_yds,draftkings,59.5,379.0,,False
-San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,Bijan Robinson,rec_yds,draftkings,69.5,589.0,,False
-San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,Bijan Robinson,rec_yds,draftkings,79.5,880.0,,False
-San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,Bijan Robinson,rec_yds,draftkings,89.5,1360.0,,False
-San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,Bijan Robinson,rec_yds,draftkings,99.5,1960.0,,False
-San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,Bijan Robinson,rec_yds,draftkings,109.5,2800.0,,False
-San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,Bijan Robinson,rec_yds,draftkings,119.5,3600.0,,False
-San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,Bijan Robinson,rush_yds,draftkings,39.5,-2100.0,,False
-San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,Bijan Robinson,rush_yds,draftkings,49.5,-860.0,,False
-San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,Bijan Robinson,rush_yds,draftkings,59.5,-463.0,,False
-San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,Bijan Robinson,rush_yds,draftkings,69.5,-270.0,,False
-San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,Bijan Robinson,rush_yds,draftkings,79.5,-174.0,,False
-San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,Bijan Robinson,rush_yds,draftkings,89.5,-117.0,,False
-San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,Bijan Robinson,rush_yds,draftkings,90.5,-111.0,-113.0,True
-San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,Bijan Robinson,rush_yds,draftkings,99.5,127.0,,False
-San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,Bijan Robinson,rush_yds,draftkings,109.5,181.0,,False
-San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,Bijan Robinson,rush_yds,draftkings,119.5,253.0,,False
-San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,Bijan Robinson,rush_yds,draftkings,129.5,353.0,,False
-San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,Bijan Robinson,rush_yds,draftkings,139.5,496.0,,False
-San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,Bijan Robinson,rush_yds,draftkings,149.5,690.0,,False
-San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,Bijan Robinson,rush_yds,draftkings,159.5,980.0,,False
-San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,Bijan Robinson,rush_yds,draftkings,169.5,1340.0,,False
-San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,Bijan Robinson,rush_yds,draftkings,179.5,1800.0,,False
-San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,Bijan Robinson,rush_yds,draftkings,189.5,2400.0,,False
-San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,Bijan Robinson,rush_yds,draftkings,199.5,3100.0,,False
-San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,Brandin Cooks,rec,draftkings,1.5,-206.0,,False
-San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,Brandin Cooks,rec,draftkings,2.5,147.0,-189.0,True
-San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,Brandin Cooks,rec,draftkings,3.5,371.0,,False
-San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,Brandin Cooks,rec,draftkings,4.5,900.0,,False
-San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,Brandin Cooks,rec,draftkings,5.5,1920.0,,False
-San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,Brandin Cooks,rec_yds,draftkings,9.5,-370.0,,False
-San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,Brandin Cooks,rec_yds,draftkings,14.5,-226.0,,False
-San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,Brandin Cooks,rec_yds,draftkings,19.5,-153.0,,False
-San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,Brandin Cooks,rec_yds,draftkings,24.5,-109.0,-115.0,True
-San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,Brandin Cooks,rec_yds,draftkings,29.5,126.0,,False
-San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,Brandin Cooks,rec_yds,draftkings,39.5,217.0,,False
-San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,Brandin Cooks,rec_yds,draftkings,49.5,357.0,,False
-San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,Brandin Cooks,rec_yds,draftkings,59.5,566.0,,False
-San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,Brandin Cooks,rec_yds,draftkings,69.5,880.0,,False
-San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,Brandin Cooks,rec_yds,draftkings,79.5,1360.0,,False
-San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,Brandin Cooks,rec_yds,draftkings,89.5,2000.0,,False
-San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,Brandin Cooks,rec_yds,draftkings,99.5,2900.0,,False
-San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,Brock Purdy,car,draftkings,4.5,105.0,-134.0,True
-San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,Brock Purdy,pass_att,draftkings,30.5,-127.0,100.0,True
-San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,Brock Purdy,pass_td,fanduel,0.5,-850.0,,False
-San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,Brock Purdy,pass_td,draftkings,1.5,-139.0,109.0,True
-San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,Brock Purdy,pass_td,fanduel,1.5,-144.0,110.0,True
-San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,Brock Purdy,pass_td,fanduel,2.5,265.0,,False
-San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,Brock Purdy,pass_td,fanduel,3.5,850.0,,False
-San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,Brock Purdy,pass_yds,draftkings,159.5,-1280.0,,False
-San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,Brock Purdy,pass_yds,draftkings,169.5,-880.0,,False
-San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,Brock Purdy,pass_yds,draftkings,179.5,-620.0,,False
-San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,Brock Purdy,pass_yds,draftkings,189.5,-444.0,,False
-San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,Brock Purdy,pass_yds,draftkings,199.5,-330.0,,False
-San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,Brock Purdy,pass_yds,draftkings,209.5,-248.0,,False
-San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,Brock Purdy,pass_yds,draftkings,219.5,-191.0,,False
-San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,Brock Purdy,pass_yds,draftkings,229.5,-148.0,,False
-San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,Brock Purdy,pass_yds,draftkings,239.5,-116.0,,False
-San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,Brock Purdy,pass_yds,draftkings,240.5,-113.0,-111.0,True
-San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,Brock Purdy,pass_yds,draftkings,249.5,109.0,,False
-San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,Brock Purdy,pass_yds,draftkings,259.5,137.0,,False
-San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,Brock Purdy,pass_yds,draftkings,269.5,172.0,,False
-San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,Brock Purdy,pass_yds,draftkings,279.5,215.0,,False
-San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,Brock Purdy,pass_yds,draftkings,289.5,274.0,,False
-San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,Brock Purdy,pass_yds,draftkings,299.5,343.0,,False
-San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,Brock Purdy,pass_yds,draftkings,309.5,437.0,,False
-San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,Brock Purdy,pass_yds,draftkings,319.5,550.0,,False
-San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,Brock Purdy,pass_yds,draftkings,329.5,690.0,,False
-San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,Brock Purdy,pass_yds,draftkings,339.5,870.0,,False
-San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,Brock Purdy,pass_yds,draftkings,349.5,1100.0,,False
-San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,Brock Purdy,pass_yds,draftkings,359.5,1400.0,,False
-San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,Brock Purdy,pass_yds,draftkings,369.5,1740.0,,False
-San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,Brock Purdy,pass_yds,draftkings,379.5,2100.0,,False
-San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,Brock Purdy,pass_yds,draftkings,389.5,2500.0,,False
-San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,Brock Purdy,pass_yds,draftkings,399.5,3100.0,,False
-San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,Brock Purdy,pass_yds,draftkings,409.5,3900.0,,False
-San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,Brock Purdy,rush_yds,draftkings,9.5,-377.0,,False
-San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,Brock Purdy,rush_yds,draftkings,14.5,-195.0,,False
-San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,Brock Purdy,rush_yds,draftkings,19.5,-113.0,-111.0,True
-San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,Brock Purdy,rush_yds,draftkings,24.5,136.0,,False
-San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,Brock Purdy,rush_yds,draftkings,29.5,207.0,,False
-San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,Brock Purdy,rush_yds,draftkings,39.5,458.0,,False
-San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,Brock Purdy,rush_yds,draftkings,49.5,930.0,,False
-San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,Brock Purdy,rush_yds,draftkings,59.5,1760.0,,False
-San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,Brock Purdy,rush_yds,draftkings,69.5,3100.0,,False
-San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,Christian Kirk,rec,draftkings,1.5,-248.0,,False
-San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,Christian Kirk,rec,draftkings,2.5,115.0,-147.0,True
-San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,Christian Kirk,rec,draftkings,3.5,272.0,,False
-San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,Christian Kirk,rec,draftkings,4.5,599.0,,False
-San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,Christian Kirk,rec,draftkings,5.5,1240.0,,False
-San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,Christian Kirk,rec,draftkings,6.5,2200.0,,False
-San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,Christian Kirk,rec_yds,draftkings,9.5,-328.0,,False
-San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,Christian Kirk,rec_yds,draftkings,14.5,-222.0,,False
-San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,Christian Kirk,rec_yds,draftkings,19.5,-161.0,,False
-San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,Christian Kirk,rec_yds,draftkings,24.5,-121.0,,False
-San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,Christian Kirk,rec_yds,draftkings,25.5,-112.0,-112.0,True
-San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,Christian Kirk,rec_yds,draftkings,29.5,107.0,,False
-San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,Christian Kirk,rec_yds,draftkings,39.5,174.0,,False
-San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,Christian Kirk,rec_yds,draftkings,49.5,270.0,,False
-San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,Christian Kirk,rec_yds,draftkings,59.5,406.0,,False
-San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,Christian Kirk,rec_yds,draftkings,69.5,598.0,,False
-San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,Christian Kirk,rec_yds,draftkings,79.5,870.0,,False
-San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,Christian Kirk,rec_yds,draftkings,89.5,1240.0,,False
-San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,Christian Kirk,rec_yds,draftkings,99.5,1780.0,,False
-San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,Christian Kirk,rec_yds,draftkings,109.5,2400.0,,False
-San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,Christian Kirk,rec_yds,draftkings,119.5,3300.0,,False
-San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,Christian McCaffrey,car,draftkings,14.5,-112.0,-114.0,True
-San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,Christian McCaffrey,rec,draftkings,1.5,-3900.0,,False
-San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,Christian McCaffrey,rec,draftkings,2.5,-890.0,,False
-San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,Christian McCaffrey,rec,draftkings,3.5,-377.0,,False
-San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,Christian McCaffrey,rec,draftkings,4.5,-194.0,,False
-San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,Christian McCaffrey,rec,draftkings,5.5,-112.0,-113.0,True
-San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,Christian McCaffrey,rec,draftkings,6.5,150.0,,False
-San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,Christian McCaffrey,rec,draftkings,7.5,243.0,,False
-San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,Christian McCaffrey,rec,draftkings,8.5,395.0,,False
-San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,Christian McCaffrey,rec,draftkings,9.5,630.0,,False
-San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,Christian McCaffrey,rec,draftkings,10.5,1000.0,,False
-San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,Christian McCaffrey,rec,draftkings,11.5,1500.0,,False
-San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,Christian McCaffrey,rec,draftkings,12.5,2200.0,,False
-San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,Christian McCaffrey,rec,draftkings,13.5,2800.0,,False
-San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,Christian McCaffrey,rec_yds,draftkings,9.5,-2300.0,,False
-San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,Christian McCaffrey,rec_yds,draftkings,14.5,-1000.0,,False
-San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,Christian McCaffrey,rec_yds,draftkings,19.5,-597.0,,False
-San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,Christian McCaffrey,rec_yds,draftkings,24.5,-402.0,,False
-San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,Christian McCaffrey,rec_yds,draftkings,29.5,-281.0,,False
-San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,Christian McCaffrey,rec_yds,draftkings,39.5,-160.0,,False
-San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,Christian McCaffrey,rec_yds,draftkings,46.5,-113.0,-111.0,True
-San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,Christian McCaffrey,rec_yds,draftkings,49.5,101.0,,False
-San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,Christian McCaffrey,rec_yds,draftkings,59.5,157.0,,False
-San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,Christian McCaffrey,rec_yds,draftkings,69.5,232.0,,False
-San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,Christian McCaffrey,rec_yds,draftkings,79.5,342.0,,False
-San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,Christian McCaffrey,rec_yds,draftkings,89.5,495.0,,False
-San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,Christian McCaffrey,rec_yds,draftkings,99.5,720.0,,False
-San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,Christian McCaffrey,rec_yds,draftkings,109.5,1020.0,,False
-San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,Christian McCaffrey,rec_yds,draftkings,119.5,1440.0,,False
-San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,Christian McCaffrey,rec_yds,draftkings,129.5,1960.0,,False
-San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,Christian McCaffrey,rec_yds,draftkings,139.5,2600.0,,False
-San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,Christian McCaffrey,rec_yds,draftkings,149.5,3600.0,,False
-San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,Christian McCaffrey,rush_yds,draftkings,24.5,-1460.0,,False
-San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,Christian McCaffrey,rush_yds,draftkings,29.5,-820.0,,False
-San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,Christian McCaffrey,rush_yds,draftkings,39.5,-346.0,,False
-San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,Christian McCaffrey,rush_yds,draftkings,49.5,-173.0,,False
-San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,Christian McCaffrey,rush_yds,draftkings,56.5,-115.0,-109.0,True
-San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,Christian McCaffrey,rush_yds,draftkings,59.5,102.0,,False
-San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,Christian McCaffrey,rush_yds,draftkings,69.5,169.0,,False
-San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,Christian McCaffrey,rush_yds,draftkings,79.5,271.0,,False
-San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,Christian McCaffrey,rush_yds,draftkings,89.5,417.0,,False
-San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,Christian McCaffrey,rush_yds,draftkings,99.5,630.0,,False
-San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,Christian McCaffrey,rush_yds,draftkings,109.5,950.0,,False
-San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,Christian McCaffrey,rush_yds,draftkings,119.5,1400.0,,False
-San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,Christian McCaffrey,rush_yds,draftkings,129.5,2000.0,,False
-San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,Christian McCaffrey,rush_yds,draftkings,139.5,2700.0,,False
-San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,Christian McCaffrey,rush_yds,draftkings,149.5,3500.0,,False
-San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,Drake London,rec,draftkings,2.5,-2900.0,,False
-San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,Drake London,rec,draftkings,3.5,-740.0,,False
-San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,Drake London,rec,draftkings,4.5,-297.0,,False
-San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,Drake London,rec,draftkings,5.5,-143.0,112.0,True
-San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,Drake London,rec,draftkings,6.5,133.0,,False
-San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,Drake London,rec,draftkings,7.5,242.0,,False
-San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,Drake London,rec,draftkings,8.5,447.0,,False
-San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,Drake London,rec,draftkings,9.5,780.0,,False
-San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,Drake London,rec,draftkings,10.5,1340.0,,False
-San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,Drake London,rec,draftkings,11.5,2100.0,,False
-San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,Drake London,rec,draftkings,12.5,2900.0,,False
-San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,Drake London,rec_yds,draftkings,29.5,-2000.0,,False
-San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,Drake London,rec_yds,draftkings,39.5,-910.0,,False
-San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,Drake London,rec_yds,draftkings,49.5,-490.0,,False
-San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,Drake London,rec_yds,draftkings,59.5,-297.0,,False
-San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,Drake London,rec_yds,draftkings,69.5,-192.0,,False
-San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,Drake London,rec_yds,draftkings,79.5,-127.0,,False
-San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,Drake London,rec_yds,draftkings,82.5,-113.0,-111.0,True
-San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,Drake London,rec_yds,draftkings,89.5,113.0,,False
-San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,Drake London,rec_yds,draftkings,99.5,161.0,,False
-San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,Drake London,rec_yds,draftkings,109.5,228.0,,False
-San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,Drake London,rec_yds,draftkings,119.5,322.0,,False
-San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,Drake London,rec_yds,draftkings,129.5,449.0,,False
-San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,Drake London,rec_yds,draftkings,139.5,610.0,,False
-San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,Drake London,rec_yds,draftkings,149.5,850.0,,False
-San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,Drake London,rec_yds,draftkings,159.5,1180.0,,False
-San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,Drake London,rec_yds,draftkings,169.5,1600.0,,False
-San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,Drake London,rec_yds,draftkings,179.5,2100.0,,False
-San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,Drake London,rec_yds,draftkings,189.5,2900.0,,False
-San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,Drake London,rec_yds,draftkings,199.5,3700.0,,False
-San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,George Kittle,rec,draftkings,2.5,-1720.0,,False
-San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,George Kittle,rec,draftkings,3.5,-548.0,,False
-San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,George Kittle,rec,draftkings,4.5,-232.0,,False
-San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,George Kittle,rec,draftkings,5.5,-114.0,-111.0,True
-San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,George Kittle,rec,draftkings,6.5,164.0,,False
-San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,George Kittle,rec,draftkings,7.5,297.0,,False
-San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,George Kittle,rec,draftkings,8.5,534.0,,False
-San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,George Kittle,rec,draftkings,9.5,900.0,,False
-San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,George Kittle,rec,draftkings,10.5,1540.0,,False
-San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,George Kittle,rec,draftkings,11.5,2400.0,,False
-San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,George Kittle,rec_yds,draftkings,19.5,-2300.0,,False
-San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,George Kittle,rec_yds,draftkings,24.5,-1400.0,,False
-San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,George Kittle,rec_yds,draftkings,29.5,-930.0,,False
-San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,George Kittle,rec_yds,draftkings,39.5,-482.0,,False
-San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,George Kittle,rec_yds,draftkings,49.5,-275.0,,False
-San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,George Kittle,rec_yds,draftkings,59.5,-172.0,,False
-San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,George Kittle,rec_yds,draftkings,69.5,-114.0,-110.0,True
-San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,George Kittle,rec_yds,draftkings,79.5,130.0,,False
-San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,George Kittle,rec_yds,draftkings,89.5,191.0,,False
-San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,George Kittle,rec_yds,draftkings,99.5,269.0,,False
-San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,George Kittle,rec_yds,draftkings,109.5,384.0,,False
-San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,George Kittle,rec_yds,draftkings,119.5,525.0,,False
-San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,George Kittle,rec_yds,draftkings,129.5,750.0,,False
-San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,George Kittle,rec_yds,draftkings,139.5,1040.0,,False
-San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,George Kittle,rec_yds,draftkings,149.5,1440.0,,False
-San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,George Kittle,rec_yds,draftkings,159.5,1980.0,,False
-San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,George Kittle,rec_yds,draftkings,169.5,2700.0,,False
-San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,George Kittle,rec_yds,draftkings,179.5,3600.0,,False
-San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,Jahan Dotson,rec,draftkings,1.5,-202.0,,False
-San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,Jahan Dotson,rec,draftkings,2.5,149.0,-191.0,True
-San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,Jahan Dotson,rec,draftkings,3.5,383.0,,False
-San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,Jahan Dotson,rec,draftkings,4.5,940.0,,False
-San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,Jahan Dotson,rec,draftkings,5.5,1960.0,,False
-San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,Jahan Dotson,rec_yds,draftkings,9.5,-385.0,,False
-San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,Jahan Dotson,rec_yds,draftkings,14.5,-257.0,,False
-San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,Jahan Dotson,rec_yds,draftkings,19.5,-179.0,,False
-San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,Jahan Dotson,rec_yds,draftkings,24.5,-131.0,,False
-San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,Jahan Dotson,rec_yds,draftkings,27.5,-109.0,-115.0,True
-San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,Jahan Dotson,rec_yds,draftkings,29.5,101.0,,False
-San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,Jahan Dotson,rec_yds,draftkings,39.5,166.0,,False
-San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,Jahan Dotson,rec_yds,draftkings,49.5,260.0,,False
-San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,Jahan Dotson,rec_yds,draftkings,59.5,397.0,,False
-San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,Jahan Dotson,rec_yds,draftkings,69.5,610.0,,False
-San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,Jahan Dotson,rec_yds,draftkings,79.5,920.0,,False
-San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,Jahan Dotson,rec_yds,draftkings,89.5,1340.0,,False
-San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,Jahan Dotson,rec_yds,draftkings,99.5,1900.0,,False
-San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,Jahan Dotson,rec_yds,draftkings,109.5,2800.0,,False
-San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,Jahan Dotson,rec_yds,draftkings,119.5,3700.0,,False
-San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,Jordan Watkins,rec,draftkings,1.5,-132.0,103.0,True
-San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,Jordan Watkins,rec,draftkings,2.5,196.0,,False
-San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,Jordan Watkins,rec,draftkings,3.5,447.0,,False
-San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,Jordan Watkins,rec,draftkings,4.5,990.0,,False
-San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,Jordan Watkins,rec,draftkings,5.5,1840.0,,False
-San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,Jordan Watkins,rec,draftkings,6.5,2900.0,,False
-San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,Jordan Watkins,rec_yds,draftkings,9.5,-300.0,,False
-San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,Jordan Watkins,rec_yds,draftkings,14.5,-221.0,,False
-San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,Jordan Watkins,rec_yds,draftkings,19.5,-153.0,,False
-San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,Jordan Watkins,rec_yds,draftkings,24.5,-114.0,-110.0,True
-San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,Jordan Watkins,rec_yds,draftkings,29.5,108.0,,False
-San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,Jordan Watkins,rec_yds,draftkings,39.5,165.0,,False
-San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,Jordan Watkins,rec_yds,draftkings,49.5,251.0,,False
-San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,Jordan Watkins,rec_yds,draftkings,59.5,371.0,,False
-San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,Jordan Watkins,rec_yds,draftkings,69.5,531.0,,False
-San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,Jordan Watkins,rec_yds,draftkings,79.5,760.0,,False
-San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,Jordan Watkins,rec_yds,draftkings,89.5,1080.0,,False
-San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,Jordan Watkins,rec_yds,draftkings,99.5,1500.0,,False
-San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,Jordan Watkins,rec_yds,draftkings,109.5,2100.0,,False
-San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,Jordan Watkins,rec_yds,draftkings,119.5,2700.0,,False
-San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,Jordan Watkins,rec_yds,draftkings,129.5,3700.0,,False
-San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,Kaelon Black,rush_yds,draftkings,9.5,-860.0,,False
-San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,Kaelon Black,rush_yds,draftkings,14.5,-402.0,,False
-San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,Kaelon Black,rush_yds,draftkings,19.5,-228.0,,False
-San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,Kaelon Black,rush_yds,draftkings,24.5,-145.0,,False
-San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,Kaelon Black,rush_yds,draftkings,27.5,-113.0,-111.0,True
-San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,Kaelon Black,rush_yds,draftkings,29.5,104.0,,False
-San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,Kaelon Black,rush_yds,draftkings,39.5,206.0,,False
-San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,Kaelon Black,rush_yds,draftkings,49.5,381.0,,False
-San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,Kaelon Black,rush_yds,draftkings,59.5,650.0,,False
-San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,Kaelon Black,rush_yds,draftkings,69.5,1080.0,,False
-San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,Kaelon Black,rush_yds,draftkings,79.5,1700.0,,False
-San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,Kaelon Black,rush_yds,draftkings,89.5,2500.0,,False
-San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,Kaelon Black,rush_yds,draftkings,99.5,3800.0,,False
-San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,Khalil Herbert,rush_yds,draftkings,7.5,-118.0,-106.0,True
-San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,Khalil Herbert,rush_yds,draftkings,9.5,111.0,,False
-San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,Khalil Herbert,rush_yds,draftkings,14.5,193.0,,False
-San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,Khalil Herbert,rush_yds,draftkings,19.5,320.0,,False
-San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,Khalil Herbert,rush_yds,draftkings,24.5,483.0,,False
-San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,Khalil Herbert,rush_yds,draftkings,29.5,680.0,,False
-San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,Khalil Herbert,rush_yds,draftkings,39.5,1200.0,,False
-San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,Khalil Herbert,rush_yds,draftkings,49.5,1880.0,,False
-San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,Khalil Herbert,rush_yds,draftkings,59.5,2700.0,,False
-San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,Khalil Herbert,rush_yds,draftkings,69.5,3700.0,,False
-San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,Kyle Juszczyk,rec,draftkings,1.5,120.0,-154.0,True
-San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,Kyle Juszczyk,rec,draftkings,2.5,363.0,,False
-San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,Kyle Juszczyk,rec,draftkings,3.5,1000.0,,False
-San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,Kyle Juszczyk,rec,draftkings,4.5,2200.0,,False
-San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,Kyle Juszczyk,rec_yds,draftkings,9.5,-143.0,,False
-San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,Kyle Juszczyk,rec_yds,draftkings,11.5,-113.0,-111.0,True
-San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,Kyle Juszczyk,rec_yds,draftkings,14.5,113.0,,False
-San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,Kyle Juszczyk,rec_yds,draftkings,19.5,163.0,,False
-San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,Kyle Juszczyk,rec_yds,draftkings,24.5,227.0,,False
-San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,Kyle Juszczyk,rec_yds,draftkings,29.5,318.0,,False
-San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,Kyle Juszczyk,rec_yds,draftkings,39.5,581.0,,False
-San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,Kyle Juszczyk,rec_yds,draftkings,49.5,980.0,,False
-San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,Kyle Juszczyk,rec_yds,draftkings,59.5,1560.0,,False
-San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,Kyle Juszczyk,rec_yds,draftkings,69.5,2300.0,,False
-San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,Kyle Juszczyk,rec_yds,draftkings,79.5,3400.0,,False
-San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,Kyle Pitts Sr.,rec,draftkings,1.5,-820.0,,False
-San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,Kyle Pitts Sr.,rec,draftkings,2.5,-244.0,,False
-San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,Kyle Pitts Sr.,rec,draftkings,3.5,-101.0,-127.0,True
-San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,Kyle Pitts Sr.,rec,draftkings,4.5,215.0,,False
-San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,Kyle Pitts Sr.,rec,draftkings,5.5,455.0,,False
-San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,Kyle Pitts Sr.,rec,draftkings,6.5,960.0,,False
-San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,Kyle Pitts Sr.,rec,draftkings,7.5,1780.0,,False
-San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,Kyle Pitts Sr.,rec,draftkings,8.5,2800.0,,False
-San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,Kyle Pitts Sr.,rec_yds,draftkings,9.5,-880.0,,False
-San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,Kyle Pitts Sr.,rec_yds,draftkings,14.5,-464.0,,False
-San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,Kyle Pitts Sr.,rec_yds,draftkings,19.5,-290.0,,False
-San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,Kyle Pitts Sr.,rec_yds,draftkings,24.5,-192.0,,False
-San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,Kyle Pitts Sr.,rec_yds,draftkings,29.5,-135.0,,False
-San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,Kyle Pitts Sr.,rec_yds,draftkings,32.5,-110.0,-114.0,True
-San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,Kyle Pitts Sr.,rec_yds,draftkings,39.5,129.0,,False
-San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,Kyle Pitts Sr.,rec_yds,draftkings,49.5,240.0,,False
-San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,Kyle Pitts Sr.,rec_yds,draftkings,59.5,401.0,,False
-San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,Kyle Pitts Sr.,rec_yds,draftkings,69.5,650.0,,False
-San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,Kyle Pitts Sr.,rec_yds,draftkings,79.5,1020.0,,False
-San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,Kyle Pitts Sr.,rec_yds,draftkings,89.5,1560.0,,False
-San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,Kyle Pitts Sr.,rec_yds,draftkings,99.5,2400.0,,False
-San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,Kyle Pitts Sr.,rec_yds,draftkings,109.5,3500.0,,False
-San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,Michael Penix Jr.,pass_att,draftkings,31.5,-103.0,-124.0,True
-San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,Michael Penix Jr.,pass_td,fanduel,0.5,-490.0,,False
-San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,Michael Penix Jr.,pass_td,draftkings,1.5,115.0,-147.0,True
-San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,Michael Penix Jr.,pass_td,fanduel,1.5,120.0,-156.0,True
-San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,Michael Penix Jr.,pass_td,fanduel,2.5,430.0,,False
-San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,Michael Penix Jr.,pass_td,fanduel,3.5,1400.0,,False
-San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,Michael Penix Jr.,pass_yds,draftkings,149.5,-1380.0,,False
-San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,Michael Penix Jr.,pass_yds,draftkings,159.5,-890.0,,False
-San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,Michael Penix Jr.,pass_yds,draftkings,169.5,-640.0,,False
-San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,Michael Penix Jr.,pass_yds,draftkings,179.5,-451.0,,False
-San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,Michael Penix Jr.,pass_yds,draftkings,189.5,-336.0,,False
-San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,Michael Penix Jr.,pass_yds,draftkings,199.5,-252.0,,False
-San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,Michael Penix Jr.,pass_yds,draftkings,209.5,-191.0,,False
-San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,Michael Penix Jr.,pass_yds,draftkings,219.5,-148.0,,False
-San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,Michael Penix Jr.,pass_yds,draftkings,229.5,-115.0,,False
-San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,Michael Penix Jr.,pass_yds,draftkings,230.5,-113.0,-111.0,True
-San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,Michael Penix Jr.,pass_yds,draftkings,239.5,113.0,,False
-San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,Michael Penix Jr.,pass_yds,draftkings,249.5,143.0,,False
-San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,Michael Penix Jr.,pass_yds,draftkings,259.5,183.0,,False
-San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,Michael Penix Jr.,pass_yds,draftkings,269.5,233.0,,False
-San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,Michael Penix Jr.,pass_yds,draftkings,279.5,296.0,,False
-San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,Michael Penix Jr.,pass_yds,draftkings,289.5,375.0,,False
-San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,Michael Penix Jr.,pass_yds,draftkings,299.5,470.0,,False
-San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,Michael Penix Jr.,pass_yds,draftkings,309.5,584.0,,False
-San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,Michael Penix Jr.,pass_yds,draftkings,319.5,740.0,,False
-San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,Michael Penix Jr.,pass_yds,draftkings,329.5,920.0,,False
-San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,Michael Penix Jr.,pass_yds,draftkings,339.5,1180.0,,False
-San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,Michael Penix Jr.,pass_yds,draftkings,349.5,1480.0,,False
-San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,Michael Penix Jr.,pass_yds,draftkings,359.5,1840.0,,False
-San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,Michael Penix Jr.,pass_yds,draftkings,369.5,2300.0,,False
-San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,Michael Penix Jr.,pass_yds,draftkings,379.5,2900.0,,False
-San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,Michael Penix Jr.,pass_yds,draftkings,389.5,3600.0,,False
-San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,Michael Penix Jr.,rush_yds,draftkings,1.5,-122.0,-103.0,True
-San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,Michael Penix Jr.,rush_yds,draftkings,9.5,270.0,,False
-San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,Michael Penix Jr.,rush_yds,draftkings,14.5,490.0,,False
-San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,Michael Penix Jr.,rush_yds,draftkings,19.5,830.0,,False
-San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,Michael Penix Jr.,rush_yds,draftkings,24.5,1360.0,,False
-San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,Michael Penix Jr.,rush_yds,draftkings,29.5,2000.0,,False
-San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,Michael Penix Jr.,rush_yds,draftkings,39.5,3800.0,,False
-San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,Olamide Zaccheaus,rec,draftkings,1.5,170.0,-220.0,True
-San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,Olamide Zaccheaus,rec,draftkings,2.5,552.0,,False
-San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,Olamide Zaccheaus,rec,draftkings,3.5,1520.0,,False
-San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,Olamide Zaccheaus,rec_yds,draftkings,7.5,-109.0,-115.0,True
-San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,Olamide Zaccheaus,rec_yds,draftkings,9.5,123.0,,False
-San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,Olamide Zaccheaus,rec_yds,draftkings,14.5,221.0,,False
-San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,Olamide Zaccheaus,rec_yds,draftkings,19.5,348.0,,False
-San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,Olamide Zaccheaus,rec_yds,draftkings,24.5,508.0,,False
-San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,Olamide Zaccheaus,rec_yds,draftkings,29.5,720.0,,False
-San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,Olamide Zaccheaus,rec_yds,draftkings,39.5,1460.0,,False
-San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,Olamide Zaccheaus,rec_yds,draftkings,49.5,2600.0,,False
-San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,Olamide Zaccheaus,rec_yds,draftkings,59.5,4000.0,,False
-San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,Zachariah Branch,rec,draftkings,1.5,109.0,-139.0,True
-San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,Zachariah Branch,rec,draftkings,2.5,268.0,,False
-San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,Zachariah Branch,rec,draftkings,3.5,620.0,,False
-San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,Zachariah Branch,rec,draftkings,4.5,1240.0,,False
-San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,Zachariah Branch,rec,draftkings,5.5,2200.0,,False
-San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,Zachariah Branch,rec_yds,draftkings,9.5,-107.0,-118.0,True
-San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,Zachariah Branch,rec_yds,draftkings,14.5,147.0,,False
-San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,Zachariah Branch,rec_yds,draftkings,19.5,212.0,,False
-San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,Zachariah Branch,rec_yds,draftkings,24.5,292.0,,False
-San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,Zachariah Branch,rec_yds,draftkings,29.5,400.0,,False
-San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,Zachariah Branch,rec_yds,draftkings,39.5,710.0,,False
-San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,Zachariah Branch,rec_yds,draftkings,49.5,1180.0,,False
-San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,Zachariah Branch,rec_yds,draftkings,59.5,1800.0,,False
-San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,Zachariah Branch,rec_yds,draftkings,69.5,2700.0,,False
-San Francisco 49ers @ Atlanta Falcons,2026-10-25 17:00:00+00:00,Zachariah Branch,rec_yds,draftkings,79.5,3700.0,,False
-Tampa Bay Buccaneers @ Carolina Panthers,2026-10-25 17:00:00+00:00,AJ Dillon,car,draftkings,3.5,102.0,-131.0,True
-Tampa Bay Buccaneers @ Carolina Panthers,2026-10-25 17:00:00+00:00,AJ Dillon,rush_yds,draftkings,11.5,-108.0,,True
-Tampa Bay Buccaneers @ Carolina Panthers,2026-10-25 17:00:00+00:00,AJ Dillon,rush_yds,draftkings,19.5,233.0,,False
-Tampa Bay Buccaneers @ Carolina Panthers,2026-10-25 17:00:00+00:00,AJ Dillon,rush_yds,draftkings,24.5,367.0,,False
-Tampa Bay Buccaneers @ Carolina Panthers,2026-10-25 17:00:00+00:00,Baker Mayfield,pass_att,draftkings,33.5,-115.0,-111.0,True
-Tampa Bay Buccaneers @ Carolina Panthers,2026-10-25 17:00:00+00:00,Baker Mayfield,pass_td,fanduel,0.5,-400.0,,False
-Tampa Bay Buccaneers @ Carolina Panthers,2026-10-25 17:00:00+00:00,Baker Mayfield,pass_td,draftkings,1.5,134.0,-172.0,True
-Tampa Bay Buccaneers @ Carolina Panthers,2026-10-25 17:00:00+00:00,Baker Mayfield,pass_td,fanduel,1.5,150.0,-198.0,True
-Tampa Bay Buccaneers @ Carolina Panthers,2026-10-25 17:00:00+00:00,Baker Mayfield,pass_td,fanduel,2.5,580.0,,False
-Tampa Bay Buccaneers @ Carolina Panthers,2026-10-25 17:00:00+00:00,Baker Mayfield,pass_yds,draftkings,149.5,-770.0,,False
-Tampa Bay Buccaneers @ Carolina Panthers,2026-10-25 17:00:00+00:00,Baker Mayfield,pass_yds,draftkings,159.5,-548.0,,False
-Tampa Bay Buccaneers @ Carolina Panthers,2026-10-25 17:00:00+00:00,Baker Mayfield,pass_yds,draftkings,169.5,-389.0,,False
-Tampa Bay Buccaneers @ Carolina Panthers,2026-10-25 17:00:00+00:00,Baker Mayfield,pass_yds,draftkings,179.5,-283.0,,False
-Tampa Bay Buccaneers @ Carolina Panthers,2026-10-25 17:00:00+00:00,Baker Mayfield,pass_yds,draftkings,189.5,-210.0,,False
-Tampa Bay Buccaneers @ Carolina Panthers,2026-10-25 17:00:00+00:00,Baker Mayfield,pass_yds,draftkings,199.5,-158.0,,False
-Tampa Bay Buccaneers @ Carolina Panthers,2026-10-25 17:00:00+00:00,Baker Mayfield,pass_yds,draftkings,209.5,-121.0,,False
-Tampa Bay Buccaneers @ Carolina Panthers,2026-10-25 17:00:00+00:00,Baker Mayfield,pass_yds,draftkings,212.5,-113.0,-111.0,True
-Tampa Bay Buccaneers @ Carolina Panthers,2026-10-25 17:00:00+00:00,Baker Mayfield,pass_yds,draftkings,219.5,106.0,,False
-Tampa Bay Buccaneers @ Carolina Panthers,2026-10-25 17:00:00+00:00,Baker Mayfield,pass_yds,draftkings,229.5,136.0,,False
-Tampa Bay Buccaneers @ Carolina Panthers,2026-10-25 17:00:00+00:00,Baker Mayfield,pass_yds,draftkings,239.5,175.0,,False
-Tampa Bay Buccaneers @ Carolina Panthers,2026-10-25 17:00:00+00:00,Baker Mayfield,pass_yds,draftkings,249.5,228.0,,False
-Tampa Bay Buccaneers @ Carolina Panthers,2026-10-25 17:00:00+00:00,Baker Mayfield,pass_yds,draftkings,259.5,291.0,,False
-Tampa Bay Buccaneers @ Carolina Panthers,2026-10-25 17:00:00+00:00,Baker Mayfield,pass_yds,draftkings,269.5,374.0,,False
-Tampa Bay Buccaneers @ Carolina Panthers,2026-10-25 17:00:00+00:00,Baker Mayfield,pass_yds,draftkings,279.5,488.0,,False
-Tampa Bay Buccaneers @ Carolina Panthers,2026-10-25 17:00:00+00:00,Baker Mayfield,pass_yds,draftkings,289.5,620.0,,False
-Tampa Bay Buccaneers @ Carolina Panthers,2026-10-25 17:00:00+00:00,Baker Mayfield,pass_yds,draftkings,299.5,820.0,,False
-Tampa Bay Buccaneers @ Carolina Panthers,2026-10-25 17:00:00+00:00,Baker Mayfield,pass_yds,draftkings,309.5,1040.0,,False
-Tampa Bay Buccaneers @ Carolina Panthers,2026-10-25 17:00:00+00:00,Baker Mayfield,pass_yds,draftkings,319.5,1340.0,,False
-Tampa Bay Buccaneers @ Carolina Panthers,2026-10-25 17:00:00+00:00,Baker Mayfield,pass_yds,draftkings,329.5,1720.0,,False
-Tampa Bay Buccaneers @ Carolina Panthers,2026-10-25 17:00:00+00:00,Baker Mayfield,pass_yds,draftkings,339.5,2200.0,,False
-Tampa Bay Buccaneers @ Carolina Panthers,2026-10-25 17:00:00+00:00,Baker Mayfield,pass_yds,draftkings,349.5,2800.0,,False
-Tampa Bay Buccaneers @ Carolina Panthers,2026-10-25 17:00:00+00:00,Baker Mayfield,pass_yds,draftkings,359.5,3300.0,,False
-Tampa Bay Buccaneers @ Carolina Panthers,2026-10-25 17:00:00+00:00,Baker Mayfield,pass_yds,draftkings,369.5,4000.0,,False
-Tampa Bay Buccaneers @ Carolina Panthers,2026-10-25 17:00:00+00:00,Baker Mayfield,rush_yds,draftkings,9.5,-252.0,,False
-Tampa Bay Buccaneers @ Carolina Panthers,2026-10-25 17:00:00+00:00,Baker Mayfield,rush_yds,draftkings,16.5,,-111.0,True
-Tampa Bay Buccaneers @ Carolina Panthers,2026-10-25 17:00:00+00:00,Baker Mayfield,rush_yds,draftkings,19.5,117.0,,False
-Tampa Bay Buccaneers @ Carolina Panthers,2026-10-25 17:00:00+00:00,Baker Mayfield,rush_yds,draftkings,24.5,176.0,,False
-Tampa Bay Buccaneers @ Carolina Panthers,2026-10-25 17:00:00+00:00,Baker Mayfield,rush_yds,draftkings,29.5,260.0,,False
-Tampa Bay Buccaneers @ Carolina Panthers,2026-10-25 17:00:00+00:00,Baker Mayfield,rush_yds,draftkings,49.5,1040.0,,False
-Tampa Bay Buccaneers @ Carolina Panthers,2026-10-25 17:00:00+00:00,Baker Mayfield,rush_yds,draftkings,59.5,1980.0,,False
-Tampa Bay Buccaneers @ Carolina Panthers,2026-10-25 17:00:00+00:00,Baker Mayfield,rush_yds,draftkings,69.5,3300.0,,False
-Tampa Bay Buccaneers @ Carolina Panthers,2026-10-25 17:00:00+00:00,Bryce Young,pass_att,draftkings,35.5,-113.0,-113.0,True
-Tampa Bay Buccaneers @ Carolina Panthers,2026-10-25 17:00:00+00:00,Bryce Young,pass_td,fanduel,0.5,-900.0,,False
-Tampa Bay Buccaneers @ Carolina Panthers,2026-10-25 17:00:00+00:00,Bryce Young,pass_td,draftkings,1.5,-142.0,112.0,True
-Tampa Bay Buccaneers @ Carolina Panthers,2026-10-25 17:00:00+00:00,Bryce Young,pass_td,fanduel,1.5,-146.0,112.0,True
-Tampa Bay Buccaneers @ Carolina Panthers,2026-10-25 17:00:00+00:00,Bryce Young,pass_td,fanduel,2.5,270.0,,False
-Tampa Bay Buccaneers @ Carolina Panthers,2026-10-25 17:00:00+00:00,Bryce Young,pass_td,fanduel,3.5,880.0,,False
-Tampa Bay Buccaneers @ Carolina Panthers,2026-10-25 17:00:00+00:00,Bryce Young,pass_yds,draftkings,179.5,-1140.0,,False
-Tampa Bay Buccaneers @ Carolina Panthers,2026-10-25 17:00:00+00:00,Bryce Young,pass_yds,draftkings,189.5,-790.0,,False
-Tampa Bay Buccaneers @ Carolina Panthers,2026-10-25 17:00:00+00:00,Bryce Young,pass_yds,draftkings,199.5,-562.0,,False
-Tampa Bay Buccaneers @ Carolina Panthers,2026-10-25 17:00:00+00:00,Bryce Young,pass_yds,draftkings,209.5,-410.0,,False
-Tampa Bay Buccaneers @ Carolina Panthers,2026-10-25 17:00:00+00:00,Bryce Young,pass_yds,draftkings,219.5,-302.0,,False
-Tampa Bay Buccaneers @ Carolina Panthers,2026-10-25 17:00:00+00:00,Bryce Young,pass_yds,draftkings,229.5,-228.0,,False
-Tampa Bay Buccaneers @ Carolina Panthers,2026-10-25 17:00:00+00:00,Bryce Young,pass_yds,draftkings,239.5,-173.0,,False
-Tampa Bay Buccaneers @ Carolina Panthers,2026-10-25 17:00:00+00:00,Bryce Young,pass_yds,draftkings,249.5,-136.0,,False
-Tampa Bay Buccaneers @ Carolina Panthers,2026-10-25 17:00:00+00:00,Bryce Young,pass_yds,draftkings,257.5,-111.0,-113.0,True
-Tampa Bay Buccaneers @ Carolina Panthers,2026-10-25 17:00:00+00:00,Bryce Young,pass_yds,draftkings,259.5,-106.0,,False
-Tampa Bay Buccaneers @ Carolina Panthers,2026-10-25 17:00:00+00:00,Bryce Young,pass_yds,draftkings,269.5,120.0,,False
-Tampa Bay Buccaneers @ Carolina Panthers,2026-10-25 17:00:00+00:00,Bryce Young,pass_yds,draftkings,279.5,153.0,,False
-Tampa Bay Buccaneers @ Carolina Panthers,2026-10-25 17:00:00+00:00,Bryce Young,pass_yds,draftkings,289.5,196.0,,False
-Tampa Bay Buccaneers @ Carolina Panthers,2026-10-25 17:00:00+00:00,Bryce Young,pass_yds,draftkings,299.5,250.0,,False
-Tampa Bay Buccaneers @ Carolina Panthers,2026-10-25 17:00:00+00:00,Bryce Young,pass_yds,draftkings,309.5,319.0,,False
-Tampa Bay Buccaneers @ Carolina Panthers,2026-10-25 17:00:00+00:00,Bryce Young,pass_yds,draftkings,319.5,404.0,,False
-Tampa Bay Buccaneers @ Carolina Panthers,2026-10-25 17:00:00+00:00,Bryce Young,pass_yds,draftkings,329.5,508.0,,False
-Tampa Bay Buccaneers @ Carolina Panthers,2026-10-25 17:00:00+00:00,Bryce Young,pass_yds,draftkings,339.5,640.0,,False
-Tampa Bay Buccaneers @ Carolina Panthers,2026-10-25 17:00:00+00:00,Bryce Young,pass_yds,draftkings,349.5,810.0,,False
-Tampa Bay Buccaneers @ Carolina Panthers,2026-10-25 17:00:00+00:00,Bryce Young,pass_yds,draftkings,359.5,1040.0,,False
-Tampa Bay Buccaneers @ Carolina Panthers,2026-10-25 17:00:00+00:00,Bryce Young,pass_yds,draftkings,369.5,1320.0,,False
-Tampa Bay Buccaneers @ Carolina Panthers,2026-10-25 17:00:00+00:00,Bryce Young,pass_yds,draftkings,379.5,1640.0,,False
-Tampa Bay Buccaneers @ Carolina Panthers,2026-10-25 17:00:00+00:00,Bryce Young,pass_yds,draftkings,389.5,2000.0,,False
-Tampa Bay Buccaneers @ Carolina Panthers,2026-10-25 17:00:00+00:00,Bryce Young,pass_yds,draftkings,399.5,2500.0,,False
-Tampa Bay Buccaneers @ Carolina Panthers,2026-10-25 17:00:00+00:00,Bryce Young,pass_yds,draftkings,409.5,3100.0,,False
-Tampa Bay Buccaneers @ Carolina Panthers,2026-10-25 17:00:00+00:00,Bryce Young,pass_yds,draftkings,419.5,3800.0,,False
-Tampa Bay Buccaneers @ Carolina Panthers,2026-10-25 17:00:00+00:00,Bryce Young,rush_yds,draftkings,9.5,-144.0,,False
-Tampa Bay Buccaneers @ Carolina Panthers,2026-10-25 17:00:00+00:00,Bryce Young,rush_yds,draftkings,11.5,-107.0,,True
-Tampa Bay Buccaneers @ Carolina Panthers,2026-10-25 17:00:00+00:00,Bryce Young,rush_yds,draftkings,14.5,129.0,,False
-Tampa Bay Buccaneers @ Carolina Panthers,2026-10-25 17:00:00+00:00,Bryce Young,rush_yds,draftkings,24.5,358.0,,False
-Tampa Bay Buccaneers @ Carolina Panthers,2026-10-25 17:00:00+00:00,Bryce Young,rush_yds,draftkings,29.5,565.0,,False
-Tampa Bay Buccaneers @ Carolina Panthers,2026-10-25 17:00:00+00:00,Bryce Young,rush_yds,draftkings,49.5,2500.0,,False
-Tampa Bay Buccaneers @ Carolina Panthers,2026-10-25 17:00:00+00:00,Bucky Irving,car,draftkings,15.5,-102.0,-125.0,True
-Tampa Bay Buccaneers @ Carolina Panthers,2026-10-25 17:00:00+00:00,Bucky Irving,rush_yds,draftkings,29.5,-1340.0,,False
-Tampa Bay Buccaneers @ Carolina Panthers,2026-10-25 17:00:00+00:00,Bucky Irving,rush_yds,draftkings,59.5,-145.0,,False
-Tampa Bay Buccaneers @ Carolina Panthers,2026-10-25 17:00:00+00:00,Bucky Irving,rush_yds,draftkings,64.5,-112.0,-112.0,True
-Tampa Bay Buccaneers @ Carolina Panthers,2026-10-25 17:00:00+00:00,Bucky Irving,rush_yds,draftkings,89.5,270.0,,False
-Tampa Bay Buccaneers @ Carolina Panthers,2026-10-25 17:00:00+00:00,Bucky Irving,rush_yds,draftkings,99.5,410.0,,False
-Tampa Bay Buccaneers @ Carolina Panthers,2026-10-25 17:00:00+00:00,Bucky Irving,rush_yds,draftkings,149.5,2400.0,,False
-Tampa Bay Buccaneers @ Carolina Panthers,2026-10-25 17:00:00+00:00,Bucky Irving,rush_yds,draftkings,159.5,3400.0,,False
-Tampa Bay Buccaneers @ Carolina Panthers,2026-10-25 17:00:00+00:00,Chuba Hubbard,car,draftkings,17.5,-122.0,-104.0,True
-Tampa Bay Buccaneers @ Carolina Panthers,2026-10-25 17:00:00+00:00,Chuba Hubbard,rush_yds,draftkings,39.5,-800.0,,False
-Tampa Bay Buccaneers @ Carolina Panthers,2026-10-25 17:00:00+00:00,Chuba Hubbard,rush_yds,draftkings,49.5,-359.0,,False
-Tampa Bay Buccaneers @ Carolina Panthers,2026-10-25 17:00:00+00:00,Chuba Hubbard,rush_yds,draftkings,69.5,-111.0,-113.0,True
-Tampa Bay Buccaneers @ Carolina Panthers,2026-10-25 17:00:00+00:00,Chuba Hubbard,rush_yds,draftkings,79.5,147.0,,False
-Tampa Bay Buccaneers @ Carolina Panthers,2026-10-25 17:00:00+00:00,Chuba Hubbard,rush_yds,draftkings,99.5,351.0,,False
-Tampa Bay Buccaneers @ Carolina Panthers,2026-10-25 17:00:00+00:00,Chuba Hubbard,rush_yds,draftkings,109.5,519.0,,False
-Tampa Bay Buccaneers @ Carolina Panthers,2026-10-25 17:00:00+00:00,Chuba Hubbard,rush_yds,draftkings,119.5,780.0,,False
-Tampa Bay Buccaneers @ Carolina Panthers,2026-10-25 17:00:00+00:00,Chuba Hubbard,rush_yds,draftkings,139.5,1720.0,,False
-Tampa Bay Buccaneers @ Carolina Panthers,2026-10-25 17:00:00+00:00,Kenneth Gainwell,rush_yds,draftkings,9.5,-150.0,,False
-Tampa Bay Buccaneers @ Carolina Panthers,2026-10-25 17:00:00+00:00,Kenneth Gainwell,rush_yds,draftkings,14.5,133.0,,False
-Tampa Bay Buccaneers @ Carolina Panthers,2026-10-25 17:00:00+00:00,Kenneth Gainwell,rush_yds,draftkings,29.5,564.0,,False
-Tampa Bay Buccaneers @ Carolina Panthers,2026-10-25 17:00:00+00:00,Kenneth Gainwell,rush_yds,draftkings,39.5,1140.0,,False
-Tampa Bay Buccaneers @ Carolina Panthers,2026-10-25 17:00:00+00:00,Sean Tucker,rush_yds,draftkings,7.5,-118.0,,True
-Tampa Bay Buccaneers @ Carolina Panthers,2026-10-25 17:00:00+00:00,Sean Tucker,rush_yds,draftkings,9.5,116.0,,False
-Tampa Bay Buccaneers @ Carolina Panthers,2026-10-25 17:00:00+00:00,Sean Tucker,rush_yds,draftkings,14.5,207.0,,False
-Tampa Bay Buccaneers @ Carolina Panthers,2026-10-25 17:00:00+00:00,Sean Tucker,rush_yds,draftkings,24.5,543.0,,False
-Tampa Bay Buccaneers @ Carolina Panthers,2026-10-25 17:00:00+00:00,Sean Tucker,rush_yds,draftkings,29.5,790.0,,False
-Tampa Bay Buccaneers @ Carolina Panthers,2026-10-25 17:00:00+00:00,Sean Tucker,rush_yds,draftkings,39.5,1440.0,,False
-Cincinnati Bengals @ Baltimore Ravens,2026-10-25 17:01:00+00:00,Chase Brown,rec,draftkings,1.5,-960.0,,False
-Cincinnati Bengals @ Baltimore Ravens,2026-10-25 17:01:00+00:00,Chase Brown,rec,draftkings,2.5,-288.0,,False
-Cincinnati Bengals @ Baltimore Ravens,2026-10-25 17:01:00+00:00,Chase Brown,rec,draftkings,3.5,-118.0,-108.0,True
-Cincinnati Bengals @ Baltimore Ravens,2026-10-25 17:01:00+00:00,Chase Brown,rec,draftkings,4.5,185.0,,False
-Cincinnati Bengals @ Baltimore Ravens,2026-10-25 17:01:00+00:00,Chase Brown,rec,draftkings,6.5,770.0,,False
-Cincinnati Bengals @ Baltimore Ravens,2026-10-25 17:01:00+00:00,Chase Brown,rec,draftkings,7.5,1460.0,,False
-Cincinnati Bengals @ Baltimore Ravens,2026-10-25 17:01:00+00:00,Chase Brown,rec,draftkings,8.5,2500.0,,False
-Cincinnati Bengals @ Baltimore Ravens,2026-10-25 17:01:00+00:00,Chase Brown,rec_yds,draftkings,19.5,-128.0,,False
-Cincinnati Bengals @ Baltimore Ravens,2026-10-25 17:01:00+00:00,Chase Brown,rec_yds,draftkings,49.5,630.0,,False
-Cincinnati Bengals @ Baltimore Ravens,2026-10-25 17:01:00+00:00,Derrick Henry,rec,draftkings,1.5,140.0,-180.0,True
-Cincinnati Bengals @ Baltimore Ravens,2026-10-25 17:01:00+00:00,Derrick Henry,rec,draftkings,2.5,443.0,,False
-Cincinnati Bengals @ Baltimore Ravens,2026-10-25 17:01:00+00:00,Derrick Henry,rec,draftkings,3.5,1220.0,,False
-Cincinnati Bengals @ Baltimore Ravens,2026-10-25 17:01:00+00:00,Derrick Henry,rec,draftkings,4.5,2600.0,,False
-Cincinnati Bengals @ Baltimore Ravens,2026-10-25 17:01:00+00:00,Dohnte Meyers,rec,draftkings,1.5,-130.0,,True
-Cincinnati Bengals @ Baltimore Ravens,2026-10-25 17:01:00+00:00,Dohnte Meyers,rec,draftkings,2.5,193.0,,False
-Cincinnati Bengals @ Baltimore Ravens,2026-10-25 17:01:00+00:00,Dohnte Meyers,rec,draftkings,3.5,417.0,,False
-Cincinnati Bengals @ Baltimore Ravens,2026-10-25 17:01:00+00:00,Dohnte Meyers,rec,draftkings,4.5,850.0,,False
-Cincinnati Bengals @ Baltimore Ravens,2026-10-25 17:01:00+00:00,Dohnte Meyers,rec,draftkings,5.5,1540.0,,False
-Cincinnati Bengals @ Baltimore Ravens,2026-10-25 17:01:00+00:00,Dohnte Meyers,rec,draftkings,6.5,2500.0,,False
-Cincinnati Bengals @ Baltimore Ravens,2026-10-25 17:01:00+00:00,Ja'Kobi Lane,rec,draftkings,1.5,-214.0,,False
-Cincinnati Bengals @ Baltimore Ravens,2026-10-25 17:01:00+00:00,Ja'Kobi Lane,rec,draftkings,2.5,129.0,-166.0,True
-Cincinnati Bengals @ Baltimore Ravens,2026-10-25 17:01:00+00:00,Ja'Kobi Lane,rec,draftkings,3.5,300.0,,False
-Cincinnati Bengals @ Baltimore Ravens,2026-10-25 17:01:00+00:00,Ja'Kobi Lane,rec,draftkings,4.5,630.0,,False
-Cincinnati Bengals @ Baltimore Ravens,2026-10-25 17:01:00+00:00,Ja'Kobi Lane,rec,draftkings,5.5,1300.0,,False
-Cincinnati Bengals @ Baltimore Ravens,2026-10-25 17:01:00+00:00,Ja'Kobi Lane,rec,draftkings,6.5,2300.0,,False
-Cincinnati Bengals @ Baltimore Ravens,2026-10-25 17:01:00+00:00,Ja'Marr Chase,rec,draftkings,3.5,-2500.0,,False
-Cincinnati Bengals @ Baltimore Ravens,2026-10-25 17:01:00+00:00,Ja'Marr Chase,rec,draftkings,4.5,-810.0,,False
-Cincinnati Bengals @ Baltimore Ravens,2026-10-25 17:01:00+00:00,Ja'Marr Chase,rec,draftkings,5.5,-364.0,,False
-Cincinnati Bengals @ Baltimore Ravens,2026-10-25 17:01:00+00:00,Ja'Marr Chase,rec,draftkings,6.5,-184.0,,False
-Cincinnati Bengals @ Baltimore Ravens,2026-10-25 17:01:00+00:00,Ja'Marr Chase,rec,draftkings,7.5,-101.0,-126.0,True
-Cincinnati Bengals @ Baltimore Ravens,2026-10-25 17:01:00+00:00,Ja'Marr Chase,rec,draftkings,8.5,171.0,,False
-Cincinnati Bengals @ Baltimore Ravens,2026-10-25 17:01:00+00:00,Ja'Marr Chase,rec,draftkings,9.5,293.0,,False
-Cincinnati Bengals @ Baltimore Ravens,2026-10-25 17:01:00+00:00,Ja'Marr Chase,rec,draftkings,10.5,506.0,,False
-Cincinnati Bengals @ Baltimore Ravens,2026-10-25 17:01:00+00:00,Ja'Marr Chase,rec,draftkings,11.5,820.0,,False
-Cincinnati Bengals @ Baltimore Ravens,2026-10-25 17:01:00+00:00,Ja'Marr Chase,rec,draftkings,12.5,1320.0,,False
-Cincinnati Bengals @ Baltimore Ravens,2026-10-25 17:01:00+00:00,Ja'Marr Chase,rec,draftkings,13.5,1980.0,,False
-Cincinnati Bengals @ Baltimore Ravens,2026-10-25 17:01:00+00:00,Ja'Marr Chase,rec,draftkings,14.5,2700.0,,False
-Cincinnati Bengals @ Baltimore Ravens,2026-10-25 17:01:00+00:00,Ja'Marr Chase,rec_yds,draftkings,69.5,-195.0,,False
-Cincinnati Bengals @ Baltimore Ravens,2026-10-25 17:01:00+00:00,Joe Burrow,pass_td,fanduel,0.5,-1200.0,,False
-Cincinnati Bengals @ Baltimore Ravens,2026-10-25 17:01:00+00:00,Joe Burrow,pass_td,fanduel,1.5,-182.0,136.0,True
-Cincinnati Bengals @ Baltimore Ravens,2026-10-25 17:01:00+00:00,Joe Burrow,pass_td,fanduel,2.5,220.0,,False
-Cincinnati Bengals @ Baltimore Ravens,2026-10-25 17:01:00+00:00,Joe Burrow,pass_td,fanduel,3.5,750.0,,False
-Cincinnati Bengals @ Baltimore Ravens,2026-10-25 17:01:00+00:00,Josh Cuevas,rec,draftkings,0.5,-172.0,134.0,True
-Cincinnati Bengals @ Baltimore Ravens,2026-10-25 17:01:00+00:00,Josh Cuevas,rec,draftkings,1.5,234.0,,False
-Cincinnati Bengals @ Baltimore Ravens,2026-10-25 17:01:00+00:00,Josh Cuevas,rec,draftkings,2.5,670.0,,False
-Cincinnati Bengals @ Baltimore Ravens,2026-10-25 17:01:00+00:00,Josh Cuevas,rec,draftkings,3.5,1660.0,,False
-Cincinnati Bengals @ Baltimore Ravens,2026-10-25 17:01:00+00:00,Josh Cuevas,rec,draftkings,4.5,2900.0,,False
-Cincinnati Bengals @ Baltimore Ravens,2026-10-25 17:01:00+00:00,Justice Hill,rec,draftkings,1.5,-170.0,133.0,True
-Cincinnati Bengals @ Baltimore Ravens,2026-10-25 17:01:00+00:00,Justice Hill,rec,draftkings,2.5,170.0,,False
-Cincinnati Bengals @ Baltimore Ravens,2026-10-25 17:01:00+00:00,Justice Hill,rec,draftkings,3.5,447.0,,False
-Cincinnati Bengals @ Baltimore Ravens,2026-10-25 17:01:00+00:00,Justice Hill,rec,draftkings,5.5,2200.0,,False
-Cincinnati Bengals @ Baltimore Ravens,2026-10-25 17:01:00+00:00,Mark Andrews,rec,draftkings,2.5,-303.0,,False
-Cincinnati Bengals @ Baltimore Ravens,2026-10-25 17:01:00+00:00,Mark Andrews,rec,draftkings,3.5,-122.0,-105.0,True
-Cincinnati Bengals @ Baltimore Ravens,2026-10-25 17:01:00+00:00,Mark Andrews,rec,draftkings,4.5,171.0,,False
-Cincinnati Bengals @ Baltimore Ravens,2026-10-25 17:01:00+00:00,Mark Andrews,rec,draftkings,5.5,347.0,,False
-Cincinnati Bengals @ Baltimore Ravens,2026-10-25 17:01:00+00:00,Mark Andrews,rec,draftkings,7.5,1300.0,,False
-Cincinnati Bengals @ Baltimore Ravens,2026-10-25 17:01:00+00:00,Mark Andrews,rec,draftkings,8.5,2200.0,,False
-Cincinnati Bengals @ Baltimore Ravens,2026-10-25 17:01:00+00:00,Mike Gesicki,rec,draftkings,1.5,-283.0,,False
-Cincinnati Bengals @ Baltimore Ravens,2026-10-25 17:01:00+00:00,Mike Gesicki,rec,draftkings,2.5,106.0,-135.0,True
-Cincinnati Bengals @ Baltimore Ravens,2026-10-25 17:01:00+00:00,Mike Gesicki,rec,draftkings,3.5,265.0,,False
-Cincinnati Bengals @ Baltimore Ravens,2026-10-25 17:01:00+00:00,Mike Gesicki,rec,draftkings,4.5,640.0,,False
-Cincinnati Bengals @ Baltimore Ravens,2026-10-25 17:01:00+00:00,Mike Gesicki,rec,draftkings,5.5,1420.0,,False
-Cincinnati Bengals @ Baltimore Ravens,2026-10-25 17:01:00+00:00,Mike Gesicki,rec,draftkings,6.5,2700.0,,False
-Cincinnati Bengals @ Baltimore Ravens,2026-10-25 17:01:00+00:00,Rashod Bateman,rec,draftkings,1.5,-160.0,125.0,True
-Cincinnati Bengals @ Baltimore Ravens,2026-10-25 17:01:00+00:00,Rashod Bateman,rec,draftkings,2.5,175.0,,False
-Cincinnati Bengals @ Baltimore Ravens,2026-10-25 17:01:00+00:00,Rashod Bateman,rec,draftkings,4.5,1080.0,,False
-Cincinnati Bengals @ Baltimore Ravens,2026-10-25 17:01:00+00:00,Rashod Bateman,rec,draftkings,5.5,2300.0,,False
-Cincinnati Bengals @ Baltimore Ravens,2026-10-25 17:01:00+00:00,Samaje Perine,rec,draftkings,1.5,-115.0,-111.0,True
-Cincinnati Bengals @ Baltimore Ravens,2026-10-25 17:01:00+00:00,Samaje Perine,rec,draftkings,2.5,241.0,,False
-Cincinnati Bengals @ Baltimore Ravens,2026-10-25 17:01:00+00:00,Samaje Perine,rec,draftkings,3.5,581.0,,False
-Cincinnati Bengals @ Baltimore Ravens,2026-10-25 17:01:00+00:00,Samaje Perine,rec,draftkings,4.5,1300.0,,False
-Cincinnati Bengals @ Baltimore Ravens,2026-10-25 17:01:00+00:00,Samaje Perine,rec,draftkings,5.5,2400.0,,False
-Cincinnati Bengals @ Baltimore Ravens,2026-10-25 17:01:00+00:00,Tee Higgins,rec,draftkings,2.5,-920.0,,False
-Cincinnati Bengals @ Baltimore Ravens,2026-10-25 17:01:00+00:00,Tee Higgins,rec,draftkings,3.5,-326.0,,False
-Cincinnati Bengals @ Baltimore Ravens,2026-10-25 17:01:00+00:00,Tee Higgins,rec,draftkings,4.5,-138.0,108.0,True
-Cincinnati Bengals @ Baltimore Ravens,2026-10-25 17:01:00+00:00,Tee Higgins,rec,draftkings,5.5,140.0,,False
-Cincinnati Bengals @ Baltimore Ravens,2026-10-25 17:01:00+00:00,Tee Higgins,rec,draftkings,6.5,272.0,,False
-Cincinnati Bengals @ Baltimore Ravens,2026-10-25 17:01:00+00:00,Tee Higgins,rec,draftkings,7.5,520.0,,False
-Cincinnati Bengals @ Baltimore Ravens,2026-10-25 17:01:00+00:00,Tee Higgins,rec,draftkings,8.5,960.0,,False
-Cincinnati Bengals @ Baltimore Ravens,2026-10-25 17:01:00+00:00,Tee Higgins,rec,draftkings,9.5,1680.0,,False
-Cincinnati Bengals @ Baltimore Ravens,2026-10-25 17:01:00+00:00,Tee Higgins,rec,draftkings,10.5,2600.0,,False
-Cincinnati Bengals @ Baltimore Ravens,2026-10-25 17:01:00+00:00,Tee Higgins,rec_yds,draftkings,169.5,3200.0,,False
-Cincinnati Bengals @ Baltimore Ravens,2026-10-25 17:01:00+00:00,Tyler Huntley,pass_td,fanduel,0.5,-350.0,,False
-Cincinnati Bengals @ Baltimore Ravens,2026-10-25 17:01:00+00:00,Tyler Huntley,pass_td,fanduel,1.5,164.0,-220.0,True
-Cincinnati Bengals @ Baltimore Ravens,2026-10-25 17:01:00+00:00,Tyler Huntley,pass_td,fanduel,2.5,640.0,,False
-Cincinnati Bengals @ Baltimore Ravens,2026-10-25 17:01:00+00:00,Zay Flowers,rec,draftkings,2.5,-2200.0,,False
-Cincinnati Bengals @ Baltimore Ravens,2026-10-25 17:01:00+00:00,Zay Flowers,rec,draftkings,3.5,-650.0,,False
-Cincinnati Bengals @ Baltimore Ravens,2026-10-25 17:01:00+00:00,Zay Flowers,rec,draftkings,4.5,-273.0,,False
-Cincinnati Bengals @ Baltimore Ravens,2026-10-25 17:01:00+00:00,Zay Flowers,rec,draftkings,5.5,-132.0,104.0,True
-Cincinnati Bengals @ Baltimore Ravens,2026-10-25 17:01:00+00:00,Zay Flowers,rec,draftkings,6.5,136.0,,False
-Cincinnati Bengals @ Baltimore Ravens,2026-10-25 17:01:00+00:00,Zay Flowers,rec,draftkings,7.5,240.0,,False
-Cincinnati Bengals @ Baltimore Ravens,2026-10-25 17:01:00+00:00,Zay Flowers,rec,draftkings,8.5,416.0,,False
-Cincinnati Bengals @ Baltimore Ravens,2026-10-25 17:01:00+00:00,Zay Flowers,rec,draftkings,10.5,1200.0,,False
-Cincinnati Bengals @ Baltimore Ravens,2026-10-25 17:01:00+00:00,Zay Flowers,rec,draftkings,11.5,1860.0,,False
-Cincinnati Bengals @ Baltimore Ravens,2026-10-25 17:01:00+00:00,Zay Flowers,rec,draftkings,12.5,2700.0,,False
-Cincinnati Bengals @ Baltimore Ravens,2026-10-25 17:01:00+00:00,Zay Flowers,rec_yds,draftkings,79.5,168.0,,False
-Cincinnati Bengals @ Baltimore Ravens,2026-10-25 17:01:00+00:00,Zay Flowers,rec_yds,draftkings,159.5,2900.0,,False
-Cleveland Browns @ Tennessee Titans,2026-10-25 17:01:00+00:00,Cam Ward,pass_td,fanduel,0.5,-210.0,158.0,True
-Cleveland Browns @ Tennessee Titans,2026-10-25 17:01:00+00:00,Cam Ward,pass_td,fanduel,1.5,270.0,,False
-Cleveland Browns @ Tennessee Titans,2026-10-25 17:01:00+00:00,Cam Ward,pass_td,fanduel,2.5,1000.0,,False
-Cleveland Browns @ Tennessee Titans,2026-10-25 17:01:00+00:00,Cameron Ward,rush_yds,draftkings,9.5,-116.0,-108.0,True
-Cleveland Browns @ Tennessee Titans,2026-10-25 17:01:00+00:00,Cameron Ward,rush_yds,draftkings,14.5,157.0,,False
-Cleveland Browns @ Tennessee Titans,2026-10-25 17:01:00+00:00,Cameron Ward,rush_yds,draftkings,19.5,268.0,,False
-Cleveland Browns @ Tennessee Titans,2026-10-25 17:01:00+00:00,Cameron Ward,rush_yds,draftkings,24.5,439.0,,False
-Cleveland Browns @ Tennessee Titans,2026-10-25 17:01:00+00:00,Cameron Ward,rush_yds,draftkings,29.5,680.0,,False
-Cleveland Browns @ Tennessee Titans,2026-10-25 17:01:00+00:00,Cameron Ward,rush_yds,draftkings,39.5,1420.0,,False
-Cleveland Browns @ Tennessee Titans,2026-10-25 17:01:00+00:00,Cameron Ward,rush_yds,draftkings,49.5,2500.0,,False
-Cleveland Browns @ Tennessee Titans,2026-10-25 17:01:00+00:00,Deshaun Watson,pass_td,fanduel,0.5,-390.0,,False
-Cleveland Browns @ Tennessee Titans,2026-10-25 17:01:00+00:00,Deshaun Watson,pass_td,fanduel,1.5,158.0,-215.0,True
-Cleveland Browns @ Tennessee Titans,2026-10-25 17:01:00+00:00,Deshaun Watson,pass_td,fanduel,2.5,630.0,,False
-Cleveland Browns @ Tennessee Titans,2026-10-25 17:01:00+00:00,Deshaun Watson,rush_yds,draftkings,9.5,-840.0,,False
-Cleveland Browns @ Tennessee Titans,2026-10-25 17:01:00+00:00,Deshaun Watson,rush_yds,draftkings,14.5,-429.0,,False
-Cleveland Browns @ Tennessee Titans,2026-10-25 17:01:00+00:00,Deshaun Watson,rush_yds,draftkings,19.5,-254.0,,False
-Cleveland Browns @ Tennessee Titans,2026-10-25 17:01:00+00:00,Deshaun Watson,rush_yds,draftkings,24.5,-162.0,,False
-Cleveland Browns @ Tennessee Titans,2026-10-25 17:01:00+00:00,Deshaun Watson,rush_yds,draftkings,29.5,-108.0,-116.0,True
-Cleveland Browns @ Tennessee Titans,2026-10-25 17:01:00+00:00,Deshaun Watson,rush_yds,draftkings,39.5,191.0,,False
-Cleveland Browns @ Tennessee Titans,2026-10-25 17:01:00+00:00,Deshaun Watson,rush_yds,draftkings,49.5,363.0,,False
-Cleveland Browns @ Tennessee Titans,2026-10-25 17:01:00+00:00,Deshaun Watson,rush_yds,draftkings,59.5,650.0,,False
-Cleveland Browns @ Tennessee Titans,2026-10-25 17:01:00+00:00,Deshaun Watson,rush_yds,draftkings,69.5,1140.0,,False
-Cleveland Browns @ Tennessee Titans,2026-10-25 17:01:00+00:00,Deshaun Watson,rush_yds,draftkings,79.5,1860.0,,False
-Cleveland Browns @ Tennessee Titans,2026-10-25 17:01:00+00:00,Deshaun Watson,rush_yds,draftkings,89.5,2800.0,,False
-Cleveland Browns @ Tennessee Titans,2026-10-25 17:01:00+00:00,Deshaun Watson,rush_yds,draftkings,99.5,4000.0,,False
-Cleveland Browns @ Tennessee Titans,2026-10-25 17:01:00+00:00,Quinshon Judkins,car,draftkings,14.5,-101.0,-126.0,True
-Cleveland Browns @ Tennessee Titans,2026-10-25 17:01:00+00:00,Quinshon Judkins,rush_yds,draftkings,14.5,-2600.0,,False
-Cleveland Browns @ Tennessee Titans,2026-10-25 17:01:00+00:00,Quinshon Judkins,rush_yds,draftkings,19.5,-1120.0,,False
-Cleveland Browns @ Tennessee Titans,2026-10-25 17:01:00+00:00,Quinshon Judkins,rush_yds,draftkings,24.5,-620.0,,False
-Cleveland Browns @ Tennessee Titans,2026-10-25 17:01:00+00:00,Quinshon Judkins,rush_yds,draftkings,29.5,-372.0,,False
-Cleveland Browns @ Tennessee Titans,2026-10-25 17:01:00+00:00,Quinshon Judkins,rush_yds,draftkings,39.5,-167.0,,False
-Cleveland Browns @ Tennessee Titans,2026-10-25 17:01:00+00:00,Quinshon Judkins,rush_yds,draftkings,45.5,-113.0,-111.0,True
-Cleveland Browns @ Tennessee Titans,2026-10-25 17:01:00+00:00,Quinshon Judkins,rush_yds,draftkings,49.5,112.0,,False
-Cleveland Browns @ Tennessee Titans,2026-10-25 17:01:00+00:00,Quinshon Judkins,rush_yds,draftkings,59.5,200.0,,False
-Cleveland Browns @ Tennessee Titans,2026-10-25 17:01:00+00:00,Quinshon Judkins,rush_yds,draftkings,69.5,340.0,,False
-Cleveland Browns @ Tennessee Titans,2026-10-25 17:01:00+00:00,Quinshon Judkins,rush_yds,draftkings,79.5,555.0,,False
-Cleveland Browns @ Tennessee Titans,2026-10-25 17:01:00+00:00,Quinshon Judkins,rush_yds,draftkings,89.5,860.0,,False
-Cleveland Browns @ Tennessee Titans,2026-10-25 17:01:00+00:00,Quinshon Judkins,rush_yds,draftkings,99.5,1300.0,,False
-Cleveland Browns @ Tennessee Titans,2026-10-25 17:01:00+00:00,Quinshon Judkins,rush_yds,draftkings,109.5,1920.0,,False
-Cleveland Browns @ Tennessee Titans,2026-10-25 17:01:00+00:00,Quinshon Judkins,rush_yds,draftkings,119.5,2700.0,,False
-Cleveland Browns @ Tennessee Titans,2026-10-25 17:01:00+00:00,Quinshon Judkins,rush_yds,draftkings,129.5,3800.0,,False
-Cleveland Browns @ Tennessee Titans,2026-10-25 17:01:00+00:00,Tony Pollard,car,draftkings,17.5,-102.0,-125.0,True
-Cleveland Browns @ Tennessee Titans,2026-10-25 17:01:00+00:00,Tony Pollard,rush_yds,draftkings,24.5,-2800.0,,False
-Cleveland Browns @ Tennessee Titans,2026-10-25 17:01:00+00:00,Tony Pollard,rush_yds,draftkings,29.5,-1480.0,,False
-Cleveland Browns @ Tennessee Titans,2026-10-25 17:01:00+00:00,Tony Pollard,rush_yds,draftkings,39.5,-588.0,,False
-Cleveland Browns @ Tennessee Titans,2026-10-25 17:01:00+00:00,Tony Pollard,rush_yds,draftkings,49.5,-295.0,,False
-Cleveland Browns @ Tennessee Titans,2026-10-25 17:01:00+00:00,Tony Pollard,rush_yds,draftkings,59.5,-165.0,,False
-Cleveland Browns @ Tennessee Titans,2026-10-25 17:01:00+00:00,Tony Pollard,rush_yds,draftkings,67.5,-111.0,-113.0,True
-Cleveland Browns @ Tennessee Titans,2026-10-25 17:01:00+00:00,Tony Pollard,rush_yds,draftkings,69.5,-102.0,,False
-Cleveland Browns @ Tennessee Titans,2026-10-25 17:01:00+00:00,Tony Pollard,rush_yds,draftkings,79.5,154.0,,False
-Cleveland Browns @ Tennessee Titans,2026-10-25 17:01:00+00:00,Tony Pollard,rush_yds,draftkings,89.5,234.0,,False
-Cleveland Browns @ Tennessee Titans,2026-10-25 17:01:00+00:00,Tony Pollard,rush_yds,draftkings,99.5,351.0,,False
-Cleveland Browns @ Tennessee Titans,2026-10-25 17:01:00+00:00,Tony Pollard,rush_yds,draftkings,109.5,516.0,,False
-Cleveland Browns @ Tennessee Titans,2026-10-25 17:01:00+00:00,Tony Pollard,rush_yds,draftkings,119.5,770.0,,False
-Cleveland Browns @ Tennessee Titans,2026-10-25 17:01:00+00:00,Tony Pollard,rush_yds,draftkings,129.5,1120.0,,False
-Cleveland Browns @ Tennessee Titans,2026-10-25 17:01:00+00:00,Tony Pollard,rush_yds,draftkings,139.5,1580.0,,False
-Cleveland Browns @ Tennessee Titans,2026-10-25 17:01:00+00:00,Tony Pollard,rush_yds,draftkings,149.5,2200.0,,False
-Cleveland Browns @ Tennessee Titans,2026-10-25 17:01:00+00:00,Tony Pollard,rush_yds,draftkings,159.5,2900.0,,False
-Cleveland Browns @ Tennessee Titans,2026-10-25 17:01:00+00:00,Tony Pollard,rush_yds,draftkings,169.5,3900.0,,False
-Cleveland Browns @ Tennessee Titans,2026-10-25 17:01:00+00:00,Tyjae Spears,rush_yds,draftkings,9.5,-107.0,-117.0,True
-Cleveland Browns @ Tennessee Titans,2026-10-25 17:01:00+00:00,Tyjae Spears,rush_yds,draftkings,14.5,180.0,,False
-Cleveland Browns @ Tennessee Titans,2026-10-25 17:01:00+00:00,Tyjae Spears,rush_yds,draftkings,19.5,322.0,,False
-Cleveland Browns @ Tennessee Titans,2026-10-25 17:01:00+00:00,Tyjae Spears,rush_yds,draftkings,24.5,539.0,,False
-Cleveland Browns @ Tennessee Titans,2026-10-25 17:01:00+00:00,Tyjae Spears,rush_yds,draftkings,29.5,850.0,,False
-Cleveland Browns @ Tennessee Titans,2026-10-25 17:01:00+00:00,Tyjae Spears,rush_yds,draftkings,39.5,1740.0,,False
-Cleveland Browns @ Tennessee Titans,2026-10-25 17:01:00+00:00,Tyjae Spears,rush_yds,draftkings,49.5,2800.0,,False
-Denver Broncos @ ARI Cardinals,2026-10-25 20:05:00+00:00,Bo Nix,pass_att,draftkings,32.5,-113.0,-113.0,True
-Denver Broncos @ ARI Cardinals,2026-10-25 20:05:00+00:00,Bo Nix,pass_td,fanduel,0.5,-580.0,,False
-Denver Broncos @ ARI Cardinals,2026-10-25 20:05:00+00:00,Bo Nix,pass_td,draftkings,1.5,105.0,-134.0,True
-Denver Broncos @ ARI Cardinals,2026-10-25 20:05:00+00:00,Bo Nix,pass_td,fanduel,1.5,100.0,-130.0,True
-Denver Broncos @ ARI Cardinals,2026-10-25 20:05:00+00:00,Bo Nix,pass_td,fanduel,2.5,390.0,,False
-Denver Broncos @ ARI Cardinals,2026-10-25 20:05:00+00:00,Bo Nix,pass_td,fanduel,3.5,1200.0,,False
-Denver Broncos @ ARI Cardinals,2026-10-25 20:05:00+00:00,J.K. Dobbins,car,draftkings,13.5,-110.0,-116.0,True
-Denver Broncos @ ARI Cardinals,2026-10-25 20:05:00+00:00,Jacoby Brissett,pass_att,draftkings,37.5,-102.0,-125.0,True
-Denver Broncos @ ARI Cardinals,2026-10-25 20:05:00+00:00,Jacoby Brissett,pass_td,fanduel,0.5,-450.0,,False
-Denver Broncos @ ARI Cardinals,2026-10-25 20:05:00+00:00,Jacoby Brissett,pass_td,draftkings,1.5,146.0,-188.0,True
-Denver Broncos @ ARI Cardinals,2026-10-25 20:05:00+00:00,Jacoby Brissett,pass_td,fanduel,1.5,128.0,-168.0,True
-Denver Broncos @ ARI Cardinals,2026-10-25 20:05:00+00:00,Jacoby Brissett,pass_td,fanduel,2.5,520.0,,False
-Denver Broncos @ ARI Cardinals,2026-10-25 20:05:00+00:00,Tyler Allgeier,car,draftkings,8.5,-138.0,108.0,True
-Denver Broncos @ ARI Cardinals,2026-10-25 20:05:00+00:00,Zonovan Knight,car,draftkings,10.5,-122.0,-105.0,True
-Green Bay Packers @ Detroit Lions,2026-10-25 20:26:00+00:00,Jared Goff,pass_td,fanduel,1.5,-275.0,,False
-Green Bay Packers @ Detroit Lions,2026-10-25 20:26:00+00:00,Jared Goff,pass_td,fanduel,2.5,144.0,-192.0,True
-Green Bay Packers @ Detroit Lions,2026-10-25 20:26:00+00:00,Jared Goff,pass_td,fanduel,3.5,470.0,,False
-Green Bay Packers @ Detroit Lions,2026-10-25 20:26:00+00:00,Jared Goff,pass_td,fanduel,4.5,1280.0,,False
-Green Bay Packers @ Detroit Lions,2026-10-25 20:26:00+00:00,Jordan Love,pass_td,fanduel,0.5,-1450.0,,False
-Green Bay Packers @ Detroit Lions,2026-10-25 20:26:00+00:00,Jordan Love,pass_td,fanduel,1.5,-210.0,158.0,True
-Green Bay Packers @ Detroit Lions,2026-10-25 20:26:00+00:00,Jordan Love,pass_td,fanduel,2.5,182.0,,False
-Green Bay Packers @ Detroit Lions,2026-10-25 20:26:00+00:00,Jordan Love,pass_td,fanduel,3.5,630.0,,False
-Green Bay Packers @ Detroit Lions,2026-10-25 20:26:00+00:00,Jordan Love,pass_td,fanduel,4.5,1500.0,,False
-Los Angeles Rams @ Las Vegas Raiders,2026-10-25 20:26:00+00:00,Ashton Jeanty,car,draftkings,14.5,-113.0,-112.0,True
-Los Angeles Rams @ Las Vegas Raiders,2026-10-25 20:26:00+00:00,Blake Corum,car,draftkings,8.5,-106.0,-120.0,True
-Los Angeles Rams @ Las Vegas Raiders,2026-10-25 20:26:00+00:00,Kirk Cousins,pass_td,fanduel,0.5,-650.0,,False
-Los Angeles Rams @ Las Vegas Raiders,2026-10-25 20:26:00+00:00,Kirk Cousins,pass_td,fanduel,1.5,-106.0,-122.0,True
-Los Angeles Rams @ Las Vegas Raiders,2026-10-25 20:26:00+00:00,Kirk Cousins,pass_td,fanduel,2.5,360.0,,False
-Los Angeles Rams @ Las Vegas Raiders,2026-10-25 20:26:00+00:00,Kirk Cousins,pass_td,fanduel,3.5,1200.0,,False
-Los Angeles Rams @ Las Vegas Raiders,2026-10-25 20:26:00+00:00,Kyren Williams,car,draftkings,15.5,-102.0,-125.0,True
-Los Angeles Rams @ Las Vegas Raiders,2026-10-25 20:26:00+00:00,Matthew Stafford,pass_td,fanduel,0.5,-1000.0,,False
-Los Angeles Rams @ Las Vegas Raiders,2026-10-25 20:26:00+00:00,Matthew Stafford,pass_td,fanduel,1.5,-154.0,116.0,True
-Los Angeles Rams @ Las Vegas Raiders,2026-10-25 20:26:00+00:00,Matthew Stafford,pass_td,fanduel,2.5,240.0,,False
-Los Angeles Rams @ Las Vegas Raiders,2026-10-25 20:26:00+00:00,Matthew Stafford,pass_td,fanduel,3.5,800.0,,False
-Kansas City Chiefs @ Seattle Seahawks,2026-10-26 00:20:00+00:00,Emanuel Wilson,car,draftkings,14.5,-122.0,-105.0,True
-Kansas City Chiefs @ Seattle Seahawks,2026-10-26 00:20:00+00:00,Kenneth Walker III,car,draftkings,18.5,-126.0,-101.0,True
-Kansas City Chiefs @ Seattle Seahawks,2026-10-26 00:20:00+00:00,Patrick Mahomes,car,draftkings,3.5,108.0,-138.0,True
-Kansas City Chiefs @ Seattle Seahawks,2026-10-26 00:20:00+00:00,Patrick Mahomes,pass_att,draftkings,32.5,100.0,-127.0,True
-Kansas City Chiefs @ Seattle Seahawks,2026-10-26 00:20:00+00:00,Patrick Mahomes,pass_td,fanduel,0.5,-360.0,,False
-Kansas City Chiefs @ Seattle Seahawks,2026-10-26 00:20:00+00:00,Patrick Mahomes,pass_td,draftkings,1.5,160.0,-206.0,True
-Kansas City Chiefs @ Seattle Seahawks,2026-10-26 00:20:00+00:00,Patrick Mahomes,pass_td,fanduel,1.5,162.0,-215.0,True
-Kansas City Chiefs @ Seattle Seahawks,2026-10-26 00:20:00+00:00,Patrick Mahomes,pass_td,fanduel,2.5,630.0,,False
-Kansas City Chiefs @ Seattle Seahawks,2026-10-26 00:20:00+00:00,Sam Darnold,pass_att,draftkings,31.5,-119.0,-107.0,True
-Kansas City Chiefs @ Seattle Seahawks,2026-10-26 00:20:00+00:00,Sam Darnold,pass_td,fanduel,0.5,-490.0,,False
-Kansas City Chiefs @ Seattle Seahawks,2026-10-26 00:20:00+00:00,Sam Darnold,pass_td,draftkings,1.5,121.0,-154.0,True
-Kansas City Chiefs @ Seattle Seahawks,2026-10-26 00:20:00+00:00,Sam Darnold,pass_td,fanduel,1.5,118.0,-154.0,True
-Kansas City Chiefs @ Seattle Seahawks,2026-10-26 00:20:00+00:00,Sam Darnold,pass_td,fanduel,2.5,470.0,,False
-Kansas City Chiefs @ Seattle Seahawks,2026-10-26 00:20:00+00:00,Sam Darnold,pass_td,fanduel,3.5,1400.0,,False
-Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,Dak Prescott,pass_att,draftkings,37.5,-109.0,-116.0,True
-Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,Dak Prescott,pass_td,fanduel,0.5,-900.0,,False
-Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,Dak Prescott,pass_td,draftkings,1.5,-138.0,108.0,True
-Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,Dak Prescott,pass_td,fanduel,1.5,-138.0,104.0,True
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,Brevyn Spann-Ford,rec,fanduel,0.5,-440.0,,False
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,Brevyn Spann-Ford,rec,draftkings,1.5,118.0,-151.0,True
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,Brevyn Spann-Ford,rec,fanduel,1.5,-102.0,-130.0,True
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,Brevyn Spann-Ford,rec,draftkings,2.5,297.0,,False
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,Brevyn Spann-Ford,rec,fanduel,2.5,235.0,,False
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,Brevyn Spann-Ford,rec,draftkings,3.5,680.0,,False
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,Brevyn Spann-Ford,rec,fanduel,3.5,490.0,,False
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,Brevyn Spann-Ford,rec,draftkings,4.5,1380.0,,False
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,Brevyn Spann-Ford,rec,fanduel,4.5,880.0,,False
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,Brevyn Spann-Ford,rec,draftkings,5.5,2400.0,,False
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,Brevyn Spann-Ford,rec_yds,draftkings,9.5,-152.0,,False
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,Brevyn Spann-Ford,rec_yds,draftkings,13.5,-112.0,-112.0,True
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,Brevyn Spann-Ford,rec_yds,draftkings,14.5,-105.0,,False
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,Brevyn Spann-Ford,rec_yds,draftkings,19.5,132.0,,False
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,Brevyn Spann-Ford,rec_yds,draftkings,24.5,176.0,,False
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,Brevyn Spann-Ford,rec_yds,draftkings,29.5,229.0,,False
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,Brevyn Spann-Ford,rec_yds,draftkings,39.5,379.0,,False
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,Brevyn Spann-Ford,rec_yds,draftkings,49.5,592.0,,False
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,Brevyn Spann-Ford,rec_yds,draftkings,59.5,910.0,,False
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,Brevyn Spann-Ford,rec_yds,draftkings,69.5,1360.0,,False
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,Brevyn Spann-Ford,rec_yds,draftkings,79.5,1940.0,,False
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,Brevyn Spann-Ford,rec_yds,draftkings,89.5,2800.0,,False
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,Brevyn Spann-Ford,rec_yds,draftkings,99.5,3900.0,,False
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,CeeDee Lamb,rec,draftkings,3.5,-1340.0,,False
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,CeeDee Lamb,rec,draftkings,4.5,-507.0,,False
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,CeeDee Lamb,rec,fanduel,4.5,-580.0,,False
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,CeeDee Lamb,rec,draftkings,5.5,-248.0,,False
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,CeeDee Lamb,rec,fanduel,5.5,-260.0,,False
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,CeeDee Lamb,rec,draftkings,6.5,-133.0,104.0,True
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,CeeDee Lamb,rec,fanduel,6.5,-136.0,102.0,True
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,CeeDee Lamb,rec,draftkings,7.5,133.0,,False
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,CeeDee Lamb,rec,fanduel,7.5,136.0,,False
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,CeeDee Lamb,rec,draftkings,8.5,225.0,,False
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,CeeDee Lamb,rec,fanduel,8.5,225.0,,False
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,CeeDee Lamb,rec,draftkings,9.5,373.0,,False
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,CeeDee Lamb,rec,fanduel,9.5,370.0,,False
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,CeeDee Lamb,rec,draftkings,10.5,620.0,,False
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,CeeDee Lamb,rec,fanduel,10.5,630.0,,False
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,CeeDee Lamb,rec,draftkings,11.5,1020.0,,False
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,CeeDee Lamb,rec,fanduel,11.5,920.0,,False
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,CeeDee Lamb,rec,draftkings,12.5,1600.0,,False
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,CeeDee Lamb,rec,fanduel,12.5,1280.0,,False
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,CeeDee Lamb,rec,draftkings,13.5,2300.0,,False
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,CeeDee Lamb,rec_yds,draftkings,24.5,-2900.0,,False
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,CeeDee Lamb,rec_yds,draftkings,29.5,-1780.0,,False
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,CeeDee Lamb,rec_yds,draftkings,39.5,-820.0,,False
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,CeeDee Lamb,rec_yds,fanduel,39.5,-1000.0,,False
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,CeeDee Lamb,rec_yds,draftkings,49.5,-445.0,,False
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,CeeDee Lamb,rec_yds,draftkings,59.5,-270.0,,False
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,CeeDee Lamb,rec_yds,draftkings,69.5,-172.0,,False
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,CeeDee Lamb,rec_yds,draftkings,79.5,-114.0,,False
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,CeeDee Lamb,rec_yds,draftkings,80.5,-110.0,-114.0,True
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,CeeDee Lamb,rec_yds,draftkings,89.5,129.0,,False
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,CeeDee Lamb,rec_yds,draftkings,99.5,186.0,,False
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,CeeDee Lamb,rec_yds,draftkings,109.5,260.0,,False
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,CeeDee Lamb,rec_yds,draftkings,119.5,370.0,,False
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,CeeDee Lamb,rec_yds,draftkings,129.5,528.0,,False
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,CeeDee Lamb,rec_yds,draftkings,139.5,730.0,,False
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,CeeDee Lamb,rec_yds,draftkings,149.5,1020.0,,False
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,CeeDee Lamb,rec_yds,draftkings,159.5,1380.0,,False
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,CeeDee Lamb,rec_yds,draftkings,169.5,1860.0,,False
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,CeeDee Lamb,rec_yds,draftkings,179.5,2500.0,,False
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,CeeDee Lamb,rec_yds,draftkings,189.5,3400.0,,False
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,Dak Prescott,pass_att,draftkings,35.5,-123.0,-103.0,True
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,Dak Prescott,pass_td,fanduel,0.5,-850.0,,False
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,Dak Prescott,pass_td,draftkings,1.5,-134.0,105.0,True
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,Dak Prescott,pass_td,fanduel,1.5,-135.0,104.0,True
 Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,Dak Prescott,pass_td,fanduel,2.5,280.0,,False
 Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,Dak Prescott,pass_td,fanduel,3.5,880.0,,False
-Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,Javonte Williams,car,draftkings,16.5,-110.0,-115.0,True
-Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,Saquon Barkley,car,draftkings,17.5,-101.0,-126.0,True
-Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,Tanner McKee,pass_att,draftkings,34.5,-101.0,-127.0,True
-Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,Tanner McKee,pass_td,fanduel,0.5,-350.0,,False
-Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,Tanner McKee,pass_td,draftkings,1.5,160.0,-207.0,True
-Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,Tanner McKee,pass_td,fanduel,1.5,162.0,-220.0,True
-Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,Tanner McKee,pass_td,fanduel,2.5,640.0,,False
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,Dak Prescott,pass_yds,fanduel,174.5,-1450.0,,False
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,Dak Prescott,pass_yds,draftkings,179.5,-1380.0,,False
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,Dak Prescott,pass_yds,draftkings,189.5,-930.0,,False
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,Dak Prescott,pass_yds,draftkings,199.5,-670.0,,False
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,Dak Prescott,pass_yds,fanduel,199.5,-600.0,,False
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,Dak Prescott,pass_yds,draftkings,209.5,-487.0,,False
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,Dak Prescott,pass_yds,draftkings,219.5,-364.0,,False
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,Dak Prescott,pass_yds,fanduel,224.5,-300.0,,False
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,Dak Prescott,pass_yds,draftkings,229.5,-272.0,,False
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,Dak Prescott,pass_yds,draftkings,239.5,-208.0,,False
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,Dak Prescott,pass_yds,draftkings,249.5,-161.0,,False
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,Dak Prescott,pass_yds,fanduel,249.5,-162.0,,False
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,Dak Prescott,pass_yds,draftkings,259.5,-125.0,,False
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,Dak Prescott,pass_yds,draftkings,263.5,-113.0,-111.0,True
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,Dak Prescott,pass_yds,fanduel,263.5,-113.0,-113.0,True
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,Dak Prescott,pass_yds,draftkings,269.5,101.0,,False
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,Dak Prescott,pass_yds,fanduel,274.5,114.0,,False
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,Dak Prescott,pass_yds,draftkings,279.5,129.0,,False
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,Dak Prescott,pass_yds,draftkings,289.5,163.0,,False
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,Dak Prescott,pass_yds,draftkings,299.5,207.0,,False
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,Dak Prescott,pass_yds,fanduel,299.5,198.0,,False
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,Dak Prescott,pass_yds,draftkings,309.5,263.0,,False
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,Dak Prescott,pass_yds,draftkings,319.5,330.0,,False
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,Dak Prescott,pass_yds,fanduel,324.5,350.0,,False
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,Dak Prescott,pass_yds,draftkings,329.5,408.0,,False
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,Dak Prescott,pass_yds,draftkings,339.5,509.0,,False
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,Dak Prescott,pass_yds,draftkings,349.5,620.0,,False
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,Dak Prescott,pass_yds,fanduel,349.5,630.0,,False
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,Dak Prescott,pass_yds,draftkings,359.5,780.0,,False
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,Dak Prescott,pass_yds,draftkings,369.5,950.0,,False
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,Dak Prescott,pass_yds,fanduel,374.5,920.0,,False
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,Dak Prescott,pass_yds,draftkings,379.5,1160.0,,False
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,Dak Prescott,pass_yds,draftkings,389.5,1440.0,,False
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,Dak Prescott,pass_yds,draftkings,399.5,1740.0,,False
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,Dak Prescott,pass_yds,fanduel,399.5,1500.0,,False
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,Dak Prescott,pass_yds,draftkings,409.5,2000.0,,False
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,Dak Prescott,pass_yds,draftkings,419.5,2500.0,,False
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,Dak Prescott,pass_yds,draftkings,429.5,3000.0,,False
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,Dak Prescott,rush_yds,fanduel,4.5,-270.0,,False
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,Dak Prescott,rush_yds,draftkings,9.5,-120.0,,False
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,Dak Prescott,rush_yds,fanduel,9.5,-114.0,-113.0,True
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,Dak Prescott,rush_yds,draftkings,10.5,-105.0,-119.0,True
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,Dak Prescott,rush_yds,draftkings,14.5,156.0,,False
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,Dak Prescott,rush_yds,fanduel,14.5,172.0,,False
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,Dak Prescott,rush_yds,draftkings,19.5,271.0,,False
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,Dak Prescott,rush_yds,fanduel,19.5,290.0,,False
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,Dak Prescott,rush_yds,draftkings,24.5,447.0,,False
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,Dak Prescott,rush_yds,fanduel,24.5,470.0,,False
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,Dak Prescott,rush_yds,draftkings,29.5,700.0,,False
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,Dak Prescott,rush_yds,fanduel,29.5,700.0,,False
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,Dak Prescott,rush_yds,draftkings,39.5,1700.0,,False
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,Dak Prescott,rush_yds,draftkings,49.5,3400.0,,False
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,Dallas Goedert,rec,draftkings,2.5,-1180.0,,False
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,Dallas Goedert,rec,fanduel,2.5,-1100.0,,False
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,Dallas Goedert,rec,draftkings,3.5,-404.0,,False
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,Dallas Goedert,rec,fanduel,3.5,-400.0,,False
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,Dallas Goedert,rec,draftkings,4.5,-180.0,,False
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,Dallas Goedert,rec,fanduel,4.5,-188.0,,False
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,Dallas Goedert,rec,draftkings,5.5,111.0,-141.0,True
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,Dallas Goedert,rec,fanduel,5.5,102.0,-136.0,True
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,Dallas Goedert,rec,draftkings,6.5,209.0,,False
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,Dallas Goedert,rec,fanduel,6.5,194.0,,False
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,Dallas Goedert,rec,draftkings,7.5,368.0,,False
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,Dallas Goedert,rec,fanduel,7.5,320.0,,False
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,Dallas Goedert,rec,draftkings,8.5,660.0,,False
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,Dallas Goedert,rec,fanduel,8.5,550.0,,False
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,Dallas Goedert,rec,draftkings,9.5,1160.0,,False
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,Dallas Goedert,rec,fanduel,9.5,850.0,,False
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,Dallas Goedert,rec,draftkings,10.5,1840.0,,False
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,Dallas Goedert,rec,fanduel,10.5,1260.0,,False
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,Dallas Goedert,rec,draftkings,11.5,2800.0,,False
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,Dallas Goedert,rec_yds,draftkings,14.5,-1640.0,,False
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,Dallas Goedert,rec_yds,draftkings,19.5,-910.0,,False
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,Dallas Goedert,rec_yds,draftkings,24.5,-565.0,,False
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,Dallas Goedert,rec_yds,draftkings,29.5,-373.0,,False
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,Dallas Goedert,rec_yds,draftkings,39.5,-192.0,,False
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,Dallas Goedert,rec_yds,draftkings,48.5,-115.0,-109.0,True
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,Dallas Goedert,rec_yds,draftkings,49.5,-109.0,,False
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,Dallas Goedert,rec_yds,draftkings,59.5,150.0,,False
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,Dallas Goedert,rec_yds,draftkings,69.5,239.0,,False
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,Dallas Goedert,rec_yds,draftkings,79.5,368.0,,False
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,Dallas Goedert,rec_yds,draftkings,89.5,563.0,,False
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,Dallas Goedert,rec_yds,draftkings,99.5,850.0,,False
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,Dallas Goedert,rec_yds,draftkings,109.5,1280.0,,False
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,Dallas Goedert,rec_yds,draftkings,119.5,1880.0,,False
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,Dallas Goedert,rec_yds,draftkings,129.5,2600.0,,False
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,Dallas Goedert,rec_yds,draftkings,139.5,3700.0,,False
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,Dameon Pierce,car,draftkings,5.5,-106.0,-121.0,True
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,Dameon Pierce,rec_yds,draftkings,1.5,-108.0,-116.0,True
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,Dameon Pierce,rec_yds,draftkings,9.5,247.0,,False
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,Dameon Pierce,rec_yds,draftkings,14.5,469.0,,False
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,Dameon Pierce,rec_yds,draftkings,19.5,750.0,,False
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,Dameon Pierce,rec_yds,draftkings,24.5,1160.0,,False
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,Dameon Pierce,rec_yds,draftkings,29.5,1740.0,,False
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,Dameon Pierce,rec_yds,draftkings,39.5,3100.0,,False
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,Dameon Pierce,rush_yds,fanduel,4.5,-500.0,,False
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,Dameon Pierce,rush_yds,draftkings,9.5,-298.0,,False
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,Dameon Pierce,rush_yds,fanduel,9.5,-250.0,,False
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,Dameon Pierce,rush_yds,draftkings,14.5,-170.0,,False
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,Dameon Pierce,rush_yds,fanduel,14.5,-158.0,,False
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,Dameon Pierce,rush_yds,fanduel,18.5,-113.0,-113.0,True
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,Dameon Pierce,rush_yds,draftkings,19.5,-109.0,-116.0,True
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,Dameon Pierce,rush_yds,fanduel,19.5,-106.0,,False
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,Dameon Pierce,rush_yds,draftkings,24.5,135.0,,False
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,Dameon Pierce,rush_yds,fanduel,24.5,128.0,,False
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,Dameon Pierce,rush_yds,draftkings,29.5,196.0,,False
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,Dameon Pierce,rush_yds,fanduel,29.5,164.0,,False
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,Dameon Pierce,rush_yds,draftkings,39.5,356.0,,False
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,Dameon Pierce,rush_yds,fanduel,39.5,250.0,,False
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,Dameon Pierce,rush_yds,draftkings,49.5,610.0,,False
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,Dameon Pierce,rush_yds,fanduel,49.5,360.0,,False
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,Dameon Pierce,rush_yds,draftkings,59.5,960.0,,False
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,Dameon Pierce,rush_yds,fanduel,59.5,490.0,,False
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,Dameon Pierce,rush_yds,draftkings,69.5,1440.0,,False
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,Dameon Pierce,rush_yds,fanduel,69.5,640.0,,False
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,Dameon Pierce,rush_yds,draftkings,79.5,2000.0,,False
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,Dameon Pierce,rush_yds,fanduel,79.5,850.0,,False
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,Dameon Pierce,rush_yds,draftkings,89.5,2800.0,,False
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,Dameon Pierce,rush_yds,draftkings,99.5,3900.0,,False
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,Darius Cooper,rec,draftkings,1.5,-660.0,,False
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,Darius Cooper,rec,fanduel,1.5,-750.0,,False
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,Darius Cooper,rec,draftkings,2.5,-206.0,,False
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,Darius Cooper,rec,fanduel,2.5,-235.0,,False
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,Darius Cooper,rec,draftkings,3.5,120.0,-154.0,True
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,Darius Cooper,rec,fanduel,3.5,108.0,-144.0,True
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,Darius Cooper,rec,draftkings,4.5,256.0,,False
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,Darius Cooper,rec,fanduel,4.5,230.0,,False
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,Darius Cooper,rec,draftkings,5.5,557.0,,False
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,Darius Cooper,rec,fanduel,5.5,470.0,,False
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,Darius Cooper,rec,draftkings,6.5,1120.0,,False
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,Darius Cooper,rec,fanduel,6.5,880.0,,False
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,Darius Cooper,rec,draftkings,7.5,1980.0,,False
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,Darius Cooper,rec,fanduel,7.5,1400.0,,False
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,Darius Cooper,rec_yds,draftkings,9.5,-1060.0,,False
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,Darius Cooper,rec_yds,draftkings,14.5,-610.0,,False
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,Darius Cooper,rec_yds,draftkings,19.5,-383.0,,False
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,Darius Cooper,rec_yds,draftkings,24.5,-265.0,,False
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,Darius Cooper,rec_yds,draftkings,29.5,-191.0,,False
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,Darius Cooper,rec_yds,draftkings,38.5,-114.0,-110.0,True
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,Darius Cooper,rec_yds,draftkings,39.5,-107.0,,False
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,Darius Cooper,rec_yds,draftkings,49.5,152.0,,False
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,Darius Cooper,rec_yds,draftkings,59.5,241.0,,False
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,Darius Cooper,rec_yds,draftkings,69.5,369.0,,False
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,Darius Cooper,rec_yds,draftkings,79.5,556.0,,False
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,Darius Cooper,rec_yds,draftkings,89.5,820.0,,False
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,Darius Cooper,rec_yds,draftkings,99.5,1240.0,,False
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,Darius Cooper,rec_yds,draftkings,109.5,1780.0,,False
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,Darius Cooper,rec_yds,draftkings,119.5,2500.0,,False
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,Darius Cooper,rec_yds,draftkings,129.5,3500.0,,False
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,Eli Stowers,rec,draftkings,0.5,-198.0,154.0,True
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,Eli Stowers,rec,fanduel,0.5,-174.0,132.0,True
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,Eli Stowers,rec,draftkings,1.5,207.0,,False
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,Eli Stowers,rec,fanduel,1.5,210.0,,False
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,Eli Stowers,rec,draftkings,2.5,620.0,,False
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,Eli Stowers,rec,fanduel,2.5,520.0,,False
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,Eli Stowers,rec,draftkings,3.5,1700.0,,False
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,Eli Stowers,rec,fanduel,3.5,920.0,,False
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,Eli Stowers,rec_yds,draftkings,5.5,-114.0,-110.0,True
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,Eli Stowers,rec_yds,draftkings,9.5,133.0,,False
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,Eli Stowers,rec_yds,draftkings,14.5,217.0,,False
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,Eli Stowers,rec_yds,draftkings,19.5,317.0,,False
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,Eli Stowers,rec_yds,draftkings,24.5,451.0,,False
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,Eli Stowers,rec_yds,draftkings,29.5,630.0,,False
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,Eli Stowers,rec_yds,draftkings,39.5,1160.0,,False
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,Eli Stowers,rec_yds,draftkings,49.5,1980.0,,False
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,Eli Stowers,rec_yds,draftkings,59.5,3000.0,,False
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,Eli Stowers,rec_yds,draftkings,69.5,4000.0,,False
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,Elijah Moore,rec,fanduel,0.5,-420.0,,False
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,Elijah Moore,rec,draftkings,1.5,-115.0,-110.0,True
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,Elijah Moore,rec,fanduel,1.5,-102.0,-130.0,True
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,Elijah Moore,rec,draftkings,2.5,244.0,,False
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,Elijah Moore,rec,fanduel,2.5,255.0,,False
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,Elijah Moore,rec,draftkings,3.5,650.0,,False
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,Elijah Moore,rec,fanduel,3.5,580.0,,False
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,Elijah Moore,rec,draftkings,4.5,1500.0,,False
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,Elijah Moore,rec,draftkings,5.5,2800.0,,False
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,Elijah Moore,rec_yds,draftkings,9.5,-118.0,-106.0,True
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,Elijah Moore,rec_yds,draftkings,14.5,142.0,,False
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,Elijah Moore,rec_yds,draftkings,19.5,217.0,,False
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,Elijah Moore,rec_yds,draftkings,24.5,321.0,,False
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,Elijah Moore,rec_yds,draftkings,29.5,464.0,,False
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,Elijah Moore,rec_yds,draftkings,39.5,900.0,,False
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,Elijah Moore,rec_yds,draftkings,49.5,1620.0,,False
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,Elijah Moore,rec_yds,draftkings,59.5,2600.0,,False
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,Elijah Moore,rec_yds,draftkings,69.5,3900.0,,False
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,George Pickens,rec,draftkings,2.5,-840.0,,False
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,George Pickens,rec,fanduel,2.5,-1100.0,,False
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,George Pickens,rec,draftkings,3.5,-301.0,,False
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,George Pickens,rec,fanduel,3.5,-340.0,,False
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,George Pickens,rec,draftkings,4.5,-138.0,108.0,True
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,George Pickens,rec,fanduel,4.5,-154.0,116.0,True
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,George Pickens,rec,draftkings,5.5,145.0,,False
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,George Pickens,rec,fanduel,5.5,134.0,,False
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,George Pickens,rec,draftkings,6.5,279.0,,False
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,George Pickens,rec,fanduel,6.5,240.0,,False
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,George Pickens,rec,draftkings,7.5,518.0,,False
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,George Pickens,rec,fanduel,7.5,430.0,,False
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,George Pickens,rec,draftkings,8.5,950.0,,False
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,George Pickens,rec,fanduel,8.5,800.0,,False
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,George Pickens,rec,draftkings,9.5,1680.0,,False
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,George Pickens,rec,fanduel,9.5,1260.0,,False
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,George Pickens,rec,draftkings,10.5,2500.0,,False
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,George Pickens,rec_yds,draftkings,14.5,-3000.0,,False
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,George Pickens,rec_yds,draftkings,19.5,-1580.0,,False
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,George Pickens,rec_yds,draftkings,24.5,-970.0,,False
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,George Pickens,rec_yds,draftkings,29.5,-680.0,,False
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,George Pickens,rec_yds,draftkings,39.5,-364.0,,False
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,George Pickens,rec_yds,draftkings,49.5,-214.0,,False
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,George Pickens,rec_yds,draftkings,59.5,-135.0,,False
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,George Pickens,rec_yds,draftkings,64.5,-110.0,-114.0,True
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,George Pickens,rec_yds,draftkings,69.5,113.0,,False
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,George Pickens,rec_yds,draftkings,79.5,164.0,,False
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,George Pickens,rec_yds,draftkings,89.5,241.0,,False
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,George Pickens,rec_yds,draftkings,99.5,348.0,,False
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,George Pickens,rec_yds,draftkings,109.5,504.0,,False
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,George Pickens,rec_yds,draftkings,119.5,710.0,,False
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,George Pickens,rec_yds,draftkings,129.5,1000.0,,False
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,George Pickens,rec_yds,draftkings,139.5,1420.0,,False
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,George Pickens,rec_yds,draftkings,149.5,1980.0,,False
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,George Pickens,rec_yds,draftkings,159.5,2600.0,,False
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,George Pickens,rec_yds,draftkings,169.5,3500.0,,False
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,Jake Ferguson,rec,draftkings,1.5,-316.0,,False
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,Jake Ferguson,rec,fanduel,1.5,-350.0,,False
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,Jake Ferguson,rec,draftkings,2.5,-107.0,-119.0,True
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,Jake Ferguson,rec,fanduel,2.5,-118.0,-108.0,True
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,Jake Ferguson,rec,draftkings,3.5,233.0,,False
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,Jake Ferguson,rec,fanduel,3.5,198.0,,False
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,Jake Ferguson,rec,draftkings,4.5,539.0,,False
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,Jake Ferguson,rec,fanduel,4.5,410.0,,False
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,Jake Ferguson,rec,draftkings,5.5,1180.0,,False
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,Jake Ferguson,rec,fanduel,5.5,880.0,,False
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,Jake Ferguson,rec,draftkings,6.5,2200.0,,False
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,Jake Ferguson,rec_yds,draftkings,9.5,-284.0,,False
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,Jake Ferguson,rec_yds,draftkings,14.5,-157.0,,False
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,Jake Ferguson,rec_yds,draftkings,18.5,-107.0,-117.0,True
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,Jake Ferguson,rec_yds,draftkings,19.5,102.0,,False
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,Jake Ferguson,rec_yds,draftkings,24.5,152.0,,False
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,Jake Ferguson,rec_yds,draftkings,29.5,219.0,,False
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,Jake Ferguson,rec_yds,draftkings,39.5,427.0,,False
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,Jake Ferguson,rec_yds,draftkings,49.5,770.0,,False
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,Jake Ferguson,rec_yds,draftkings,59.5,1320.0,,False
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,Jake Ferguson,rec_yds,draftkings,69.5,2000.0,,False
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,Jake Ferguson,rec_yds,draftkings,79.5,3200.0,,False
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,Javonte Williams,car,draftkings,16.5,-120.0,-106.0,True
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,Javonte Williams,rec,draftkings,1.5,-237.0,,False
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,Javonte Williams,rec,fanduel,1.5,-290.0,,False
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,Javonte Williams,rec,draftkings,2.5,116.0,-149.0,True
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,Javonte Williams,rec,fanduel,2.5,102.0,-136.0,True
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,Javonte Williams,rec,draftkings,3.5,252.0,,False
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,Javonte Williams,rec,fanduel,3.5,235.0,,False
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,Javonte Williams,rec,draftkings,4.5,526.0,,False
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,Javonte Williams,rec,fanduel,4.5,520.0,,False
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,Javonte Williams,rec,draftkings,5.5,1000.0,,False
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,Javonte Williams,rec,fanduel,5.5,920.0,,False
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,Javonte Williams,rec,draftkings,6.5,1780.0,,False
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,Javonte Williams,rec,draftkings,7.5,2700.0,,False
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,Javonte Williams,rec_yds,draftkings,9.5,-158.0,,False
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,Javonte Williams,rec_yds,draftkings,12.5,-111.0,-113.0,True
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,Javonte Williams,rec_yds,draftkings,14.5,112.0,,False
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,Javonte Williams,rec_yds,draftkings,19.5,174.0,,False
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,Javonte Williams,rec_yds,draftkings,24.5,255.0,,False
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,Javonte Williams,rec_yds,draftkings,29.5,364.0,,False
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,Javonte Williams,rec_yds,draftkings,39.5,680.0,,False
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,Javonte Williams,rec_yds,draftkings,49.5,1160.0,,False
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,Javonte Williams,rec_yds,draftkings,59.5,1860.0,,False
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,Javonte Williams,rec_yds,draftkings,69.5,2800.0,,False
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,Javonte Williams,rec_yds,draftkings,79.5,3900.0,,False
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,Javonte Williams,rush_yds,draftkings,24.5,-2800.0,,False
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,Javonte Williams,rush_yds,draftkings,29.5,-1380.0,,False
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,Javonte Williams,rush_yds,fanduel,29.5,-1400.0,,False
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,Javonte Williams,rush_yds,draftkings,39.5,-527.0,,False
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,Javonte Williams,rush_yds,fanduel,39.5,-500.0,,False
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,Javonte Williams,rush_yds,draftkings,49.5,-258.0,,False
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,Javonte Williams,rush_yds,fanduel,49.5,-270.0,,False
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,Javonte Williams,rush_yds,draftkings,59.5,-143.0,,False
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,Javonte Williams,rush_yds,fanduel,59.5,-158.0,,False
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,Javonte Williams,rush_yds,draftkings,64.5,-113.0,-111.0,True
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,Javonte Williams,rush_yds,fanduel,65.5,-113.0,-113.0,True
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,Javonte Williams,rush_yds,draftkings,69.5,117.0,,False
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,Javonte Williams,rush_yds,fanduel,69.5,104.0,,False
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,Javonte Williams,rush_yds,draftkings,79.5,185.0,,False
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,Javonte Williams,rush_yds,fanduel,79.5,162.0,,False
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,Javonte Williams,rush_yds,draftkings,89.5,287.0,,False
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,Javonte Williams,rush_yds,fanduel,89.5,225.0,,False
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,Javonte Williams,rush_yds,draftkings,99.5,435.0,,False
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,Javonte Williams,rush_yds,fanduel,99.5,320.0,,False
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,Javonte Williams,rush_yds,draftkings,109.5,650.0,,False
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,Javonte Williams,rush_yds,fanduel,109.5,490.0,,False
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,Javonte Williams,rush_yds,draftkings,119.5,970.0,,False
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,Javonte Williams,rush_yds,fanduel,124.5,750.0,,False
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,Javonte Williams,rush_yds,draftkings,129.5,1420.0,,False
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,Javonte Williams,rush_yds,draftkings,139.5,2000.0,,False
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,Javonte Williams,rush_yds,draftkings,149.5,2800.0,,False
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,Javonte Williams,rush_yds,fanduel,149.5,1500.0,,False
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,Javonte Williams,rush_yds,draftkings,159.5,3900.0,,False
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,Makai Lemon,rec,draftkings,1.5,-1240.0,,False
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,Makai Lemon,rec,fanduel,1.5,-1800.0,,False
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,Makai Lemon,rec,draftkings,2.5,-381.0,,False
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,Makai Lemon,rec,fanduel,2.5,-440.0,,False
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,Makai Lemon,rec,draftkings,3.5,-167.0,,False
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,Makai Lemon,rec,fanduel,3.5,-182.0,140.0,True
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,Makai Lemon,rec,draftkings,4.5,123.0,-157.0,True
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,Makai Lemon,rec,fanduel,4.5,118.0,,False
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,Makai Lemon,rec,draftkings,5.5,229.0,,False
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,Makai Lemon,rec,fanduel,5.5,225.0,,False
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,Makai Lemon,rec,draftkings,6.5,421.0,,False
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,Makai Lemon,rec,fanduel,6.5,400.0,,False
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,Makai Lemon,rec,draftkings,7.5,750.0,,False
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,Makai Lemon,rec,fanduel,7.5,680.0,,False
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,Makai Lemon,rec,draftkings,8.5,1260.0,,False
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,Makai Lemon,rec,fanduel,8.5,1100.0,,False
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,Makai Lemon,rec,draftkings,9.5,2000.0,,False
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,Makai Lemon,rec,fanduel,9.5,1700.0,,False
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,Makai Lemon,rec,draftkings,10.5,2900.0,,False
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,Makai Lemon,rec_yds,draftkings,9.5,-1220.0,,False
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,Makai Lemon,rec_yds,draftkings,14.5,-670.0,,False
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,Makai Lemon,rec_yds,draftkings,19.5,-420.0,,False
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,Makai Lemon,rec_yds,draftkings,24.5,-285.0,,False
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,Makai Lemon,rec_yds,draftkings,29.5,-201.0,,False
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,Makai Lemon,rec_yds,draftkings,39.5,-112.0,-112.0,True
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,Makai Lemon,rec_yds,draftkings,49.5,149.0,,False
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,Makai Lemon,rec_yds,draftkings,59.5,236.0,,False
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,Makai Lemon,rec_yds,draftkings,69.5,368.0,,False
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,Makai Lemon,rec_yds,draftkings,79.5,571.0,,False
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,Makai Lemon,rec_yds,draftkings,89.5,890.0,,False
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,Makai Lemon,rec_yds,draftkings,99.5,1380.0,,False
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,Makai Lemon,rec_yds,draftkings,109.5,1960.0,,False
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,Makai Lemon,rec_yds,draftkings,119.5,2900.0,,False
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,Makai Lemon,rec_yds,draftkings,129.5,3800.0,,False
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,Marquise Brown,rec,fanduel,0.5,-310.0,,False
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,Marquise Brown,rec,draftkings,1.5,147.0,-189.0,True
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,Marquise Brown,rec,fanduel,1.5,148.0,-200.0,True
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,Marquise Brown,rec,draftkings,2.5,407.0,,False
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,Marquise Brown,rec,fanduel,2.5,450.0,,False
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,Marquise Brown,rec,draftkings,3.5,980.0,,False
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,Marquise Brown,rec,draftkings,4.5,2100.0,,False
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,Marquise Brown,rec_yds,draftkings,9.5,-126.0,,False
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,Marquise Brown,rec_yds,draftkings,11.5,-109.0,-115.0,True
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,Marquise Brown,rec_yds,draftkings,14.5,113.0,,False
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,Marquise Brown,rec_yds,draftkings,19.5,162.0,,False
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,Marquise Brown,rec_yds,draftkings,24.5,223.0,,False
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,Marquise Brown,rec_yds,draftkings,29.5,291.0,,False
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,Marquise Brown,rec_yds,draftkings,39.5,473.0,,False
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,Marquise Brown,rec_yds,draftkings,49.5,770.0,,False
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,Marquise Brown,rec_yds,draftkings,59.5,1180.0,,False
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,Marquise Brown,rec_yds,draftkings,69.5,1780.0,,False
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,Marquise Brown,rec_yds,draftkings,79.5,2600.0,,False
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,Marquise Brown,rec_yds,draftkings,89.5,3600.0,,False
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,Ryan Flournoy,rec,draftkings,1.5,-640.0,,False
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,Ryan Flournoy,rec,fanduel,1.5,-850.0,,False
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,Ryan Flournoy,rec,draftkings,2.5,-225.0,,False
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,Ryan Flournoy,rec,fanduel,2.5,-250.0,,False
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,Ryan Flournoy,rec,draftkings,3.5,-103.0,-123.0,True
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,Ryan Flournoy,rec,fanduel,3.5,-102.0,-130.0,True
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,Ryan Flournoy,rec,draftkings,4.5,193.0,,False
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,Ryan Flournoy,rec,fanduel,4.5,205.0,,False
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,Ryan Flournoy,rec,draftkings,5.5,370.0,,False
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,Ryan Flournoy,rec,fanduel,5.5,400.0,,False
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,Ryan Flournoy,rec,draftkings,6.5,680.0,,False
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,Ryan Flournoy,rec,fanduel,6.5,750.0,,False
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,Ryan Flournoy,rec,draftkings,7.5,1180.0,,False
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,Ryan Flournoy,rec,fanduel,7.5,1280.0,,False
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,Ryan Flournoy,rec,draftkings,8.5,1900.0,,False
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,Ryan Flournoy,rec,draftkings,9.5,2700.0,,False
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,Ryan Flournoy,rec_yds,draftkings,9.5,-790.0,,False
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,Ryan Flournoy,rec_yds,draftkings,14.5,-461.0,,False
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,Ryan Flournoy,rec_yds,draftkings,19.5,-299.0,,False
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,Ryan Flournoy,rec_yds,draftkings,24.5,-215.0,,False
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,Ryan Flournoy,rec_yds,draftkings,29.5,-156.0,,False
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,Ryan Flournoy,rec_yds,draftkings,35.5,-115.0,-109.0,True
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,Ryan Flournoy,rec_yds,draftkings,39.5,110.0,,False
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,Ryan Flournoy,rec_yds,draftkings,49.5,176.0,,False
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,Ryan Flournoy,rec_yds,draftkings,59.5,275.0,,False
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,Ryan Flournoy,rec_yds,draftkings,69.5,432.0,,False
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,Ryan Flournoy,rec_yds,draftkings,79.5,650.0,,False
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,Ryan Flournoy,rec_yds,draftkings,89.5,960.0,,False
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,Ryan Flournoy,rec_yds,draftkings,99.5,1400.0,,False
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,Ryan Flournoy,rec_yds,draftkings,109.5,1980.0,,False
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,Ryan Flournoy,rec_yds,draftkings,119.5,2800.0,,False
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,Ryan Flournoy,rec_yds,draftkings,129.5,3800.0,,False
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,Saquon Barkley,car,draftkings,15.5,-112.0,-114.0,True
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,Saquon Barkley,rec,fanduel,0.5,-1450.0,,False
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,Saquon Barkley,rec,draftkings,1.5,-309.0,,False
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,Saquon Barkley,rec,fanduel,1.5,-280.0,,False
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,Saquon Barkley,rec,draftkings,2.5,-102.0,-125.0,True
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,Saquon Barkley,rec,fanduel,2.5,100.0,-122.0,True
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,Saquon Barkley,rec,draftkings,3.5,239.0,,False
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,Saquon Barkley,rec,fanduel,3.5,230.0,,False
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,Saquon Barkley,rec,draftkings,4.5,548.0,,False
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,Saquon Barkley,rec,fanduel,4.5,470.0,,False
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,Saquon Barkley,rec,draftkings,5.5,1120.0,,False
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,Saquon Barkley,rec,fanduel,5.5,880.0,,False
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,Saquon Barkley,rec,draftkings,6.5,2100.0,,False
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,Saquon Barkley,rec_yds,draftkings,9.5,-168.0,,False
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,Saquon Barkley,rec_yds,draftkings,13.5,-107.0,-117.0,True
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,Saquon Barkley,rec_yds,draftkings,14.5,102.0,,False
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,Saquon Barkley,rec_yds,draftkings,19.5,158.0,,False
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,Saquon Barkley,rec_yds,draftkings,24.5,231.0,,False
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,Saquon Barkley,rec_yds,draftkings,29.5,327.0,,False
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,Saquon Barkley,rec_yds,draftkings,39.5,620.0,,False
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,Saquon Barkley,rec_yds,draftkings,49.5,1120.0,,False
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,Saquon Barkley,rec_yds,draftkings,59.5,1840.0,,False
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,Saquon Barkley,rec_yds,draftkings,69.5,2800.0,,False
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,Saquon Barkley,rec_yds,draftkings,79.5,3900.0,,False
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,Saquon Barkley,rush_yds,draftkings,24.5,-2300.0,,False
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,Saquon Barkley,rush_yds,draftkings,29.5,-1240.0,,False
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,Saquon Barkley,rush_yds,fanduel,29.5,-1200.0,,False
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,Saquon Barkley,rush_yds,draftkings,39.5,-511.0,,False
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,Saquon Barkley,rush_yds,fanduel,39.5,-470.0,,False
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,Saquon Barkley,rush_yds,draftkings,49.5,-264.0,,False
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,Saquon Barkley,rush_yds,fanduel,49.5,-250.0,,False
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,Saquon Barkley,rush_yds,draftkings,59.5,-153.0,,False
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,Saquon Barkley,rush_yds,fanduel,59.5,-146.0,,False
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,Saquon Barkley,rush_yds,fanduel,64.5,-113.0,-113.0,True
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,Saquon Barkley,rush_yds,draftkings,65.5,-114.0,-110.0,True
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,Saquon Barkley,rush_yds,draftkings,69.5,104.0,,False
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,Saquon Barkley,rush_yds,fanduel,69.5,110.0,,False
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,Saquon Barkley,rush_yds,draftkings,79.5,161.0,,False
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,Saquon Barkley,rush_yds,fanduel,79.5,168.0,,False
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,Saquon Barkley,rush_yds,draftkings,89.5,242.0,,False
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,Saquon Barkley,rush_yds,fanduel,89.5,240.0,,False
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,Saquon Barkley,rush_yds,draftkings,99.5,353.0,,False
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,Saquon Barkley,rush_yds,fanduel,99.5,350.0,,False
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,Saquon Barkley,rush_yds,draftkings,109.5,511.0,,False
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,Saquon Barkley,rush_yds,fanduel,109.5,490.0,,False
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,Saquon Barkley,rush_yds,draftkings,119.5,730.0,,False
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,Saquon Barkley,rush_yds,fanduel,124.5,750.0,,False
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,Saquon Barkley,rush_yds,draftkings,129.5,1060.0,,False
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,Saquon Barkley,rush_yds,draftkings,139.5,1540.0,,False
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,Saquon Barkley,rush_yds,draftkings,149.5,2100.0,,False
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,Saquon Barkley,rush_yds,fanduel,149.5,1400.0,,False
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,Saquon Barkley,rush_yds,draftkings,159.5,2800.0,,False
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,Saquon Barkley,rush_yds,draftkings,169.5,3800.0,,False
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,Tanner McKee,pass_att,draftkings,34.5,-102.0,-125.0,True
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,Tanner McKee,pass_td,fanduel,0.5,-390.0,,False
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,Tanner McKee,pass_td,draftkings,1.5,172.0,-222.0,True
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,Tanner McKee,pass_td,fanduel,1.5,148.0,-196.0,True
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,Tanner McKee,pass_td,fanduel,2.5,580.0,,False
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,Tanner McKee,pass_yds,fanduel,124.5,-900.0,,False
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,Tanner McKee,pass_yds,draftkings,149.5,-487.0,,False
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,Tanner McKee,pass_yds,fanduel,149.5,-420.0,,False
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,Tanner McKee,pass_yds,draftkings,159.5,-355.0,,False
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,Tanner McKee,pass_yds,draftkings,169.5,-265.0,,False
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,Tanner McKee,pass_yds,fanduel,174.5,-225.0,,False
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,Tanner McKee,pass_yds,draftkings,179.5,-201.0,,False
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,Tanner McKee,pass_yds,draftkings,189.5,-158.0,,False
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,Tanner McKee,pass_yds,draftkings,199.5,-123.0,,False
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,Tanner McKee,pass_yds,fanduel,199.5,-120.0,,False
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,Tanner McKee,pass_yds,fanduel,201.5,-113.0,-113.0,True
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,Tanner McKee,pass_yds,draftkings,203.5,-111.0,-113.0,True
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,Tanner McKee,pass_yds,draftkings,209.5,104.0,,False
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,Tanner McKee,pass_yds,draftkings,219.5,131.0,,False
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,Tanner McKee,pass_yds,fanduel,224.5,148.0,,False
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,Tanner McKee,pass_yds,draftkings,229.5,165.0,,False
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,Tanner McKee,pass_yds,draftkings,239.5,207.0,,False
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,Tanner McKee,pass_yds,draftkings,249.5,261.0,,False
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,Tanner McKee,pass_yds,fanduel,249.5,260.0,,False
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,Tanner McKee,pass_yds,draftkings,259.5,326.0,,False
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,Tanner McKee,pass_yds,draftkings,269.5,413.0,,False
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,Tanner McKee,pass_yds,fanduel,274.5,430.0,,False
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,Tanner McKee,pass_yds,draftkings,279.5,524.0,,False
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,Tanner McKee,pass_yds,draftkings,289.5,660.0,,False
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,Tanner McKee,pass_yds,draftkings,299.5,840.0,,False
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,Tanner McKee,pass_yds,fanduel,299.5,750.0,,False
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,Tanner McKee,pass_yds,draftkings,309.5,1040.0,,False
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,Tanner McKee,pass_yds,draftkings,319.5,1280.0,,False
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,Tanner McKee,pass_yds,fanduel,324.5,1200.0,,False
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,Tanner McKee,pass_yds,draftkings,329.5,1600.0,,False
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,Tanner McKee,pass_yds,draftkings,339.5,2000.0,,False
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,Tanner McKee,pass_yds,draftkings,349.5,2400.0,,False
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,Tanner McKee,pass_yds,draftkings,359.5,3100.0,,False
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,Tanner McKee,pass_yds,draftkings,369.5,3700.0,,False
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,Tanner McKee,rush_yds,draftkings,3.5,-116.0,-108.0,True
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,Tanner McKee,rush_yds,fanduel,4.5,-113.0,-113.0,True
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,Tanner McKee,rush_yds,draftkings,9.5,191.0,,False
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,Tanner McKee,rush_yds,fanduel,9.5,194.0,,False
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,Tanner McKee,rush_yds,draftkings,14.5,323.0,,False
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,Tanner McKee,rush_yds,fanduel,14.5,370.0,,False
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,Tanner McKee,rush_yds,draftkings,19.5,534.0,,False
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,Tanner McKee,rush_yds,fanduel,19.5,630.0,,False
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,Tanner McKee,rush_yds,draftkings,24.5,860.0,,False
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,Tanner McKee,rush_yds,fanduel,24.5,920.0,,False
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,Tanner McKee,rush_yds,draftkings,29.5,1380.0,,False
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,Tanner McKee,rush_yds,draftkings,39.5,2900.0,,False
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,Tyler Goodson,rush_yds,fanduel,4.5,-420.0,,False
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,Tyler Goodson,rush_yds,draftkings,9.5,-167.0,,False
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,Tyler Goodson,rush_yds,fanduel,9.5,-168.0,,False
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,Tyler Goodson,rush_yds,fanduel,12.5,-113.0,-113.0,True
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,Tyler Goodson,rush_yds,draftkings,13.5,-111.0,-113.0,True
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,Tyler Goodson,rush_yds,draftkings,14.5,-101.0,,False
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,Tyler Goodson,rush_yds,fanduel,14.5,110.0,,False
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,Tyler Goodson,rush_yds,draftkings,19.5,148.0,,False
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,Tyler Goodson,rush_yds,fanduel,19.5,178.0,,False
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,Tyler Goodson,rush_yds,draftkings,24.5,214.0,,False
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,Tyler Goodson,rush_yds,fanduel,24.5,270.0,,False
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,Tyler Goodson,rush_yds,draftkings,29.5,297.0,,False
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,Tyler Goodson,rush_yds,fanduel,29.5,390.0,,False
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,Tyler Goodson,rush_yds,draftkings,39.5,525.0,,False
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,Tyler Goodson,rush_yds,fanduel,39.5,680.0,,False
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,Tyler Goodson,rush_yds,draftkings,49.5,880.0,,False
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,Tyler Goodson,rush_yds,draftkings,59.5,1360.0,,False
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,Tyler Goodson,rush_yds,draftkings,69.5,2000.0,,False
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,Tyler Goodson,rush_yds,draftkings,79.5,2800.0,,False
+Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,Tyler Goodson,rush_yds,draftkings,89.5,3800.0,,False
+Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,Bryce Young,pass_att,draftkings,35.5,-119.0,-107.0,True
+Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,Bryce Young,pass_td,fanduel,0.5,-600.0,,False
+Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,Bryce Young,pass_td,draftkings,1.5,-101.0,-126.0,True
+Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,Bryce Young,pass_td,fanduel,1.5,-104.0,-128.0,True
+Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,Bryce Young,pass_td,fanduel,2.5,370.0,,False
+Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,Bryce Young,pass_td,fanduel,3.5,1200.0,,False
+Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,Bryce Young,pass_yds,draftkings,169.5,-1400.0,,False
+Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,Bryce Young,pass_yds,fanduel,174.5,-1000.0,,False
+Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,Bryce Young,pass_yds,draftkings,179.5,-940.0,,False
+Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,Bryce Young,pass_yds,draftkings,189.5,-660.0,,False
+Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,Bryce Young,pass_yds,draftkings,199.5,-467.0,,False
+Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,Bryce Young,pass_yds,fanduel,199.5,-450.0,,False
+Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,Bryce Young,pass_yds,draftkings,209.5,-348.0,,False
+Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,Bryce Young,pass_yds,draftkings,219.5,-259.0,,False
+Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,Bryce Young,pass_yds,fanduel,224.5,-240.0,,False
+Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,Bryce Young,pass_yds,draftkings,229.5,-202.0,,False
+Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,Bryce Young,pass_yds,draftkings,239.5,-155.0,,False
+Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,Bryce Young,pass_yds,draftkings,249.5,-120.0,,False
+Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,Bryce Young,pass_yds,fanduel,249.5,-128.0,,False
+Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,Bryce Young,pass_yds,fanduel,250.5,-114.0,-114.0,True
+Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,Bryce Young,pass_yds,draftkings,252.5,-111.0,-113.0,True
+Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,Bryce Young,pass_yds,draftkings,259.5,107.0,,False
+Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,Bryce Young,pass_yds,draftkings,269.5,137.0,,False
+Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,Bryce Young,pass_yds,fanduel,274.5,146.0,,False
+Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,Bryce Young,pass_yds,draftkings,279.5,175.0,,False
+Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,Bryce Young,pass_yds,draftkings,289.5,224.0,,False
+Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,Bryce Young,pass_yds,draftkings,299.5,286.0,,False
+Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,Bryce Young,pass_yds,fanduel,299.5,250.0,,False
+Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,Bryce Young,pass_yds,draftkings,309.5,365.0,,False
+Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,Bryce Young,pass_yds,draftkings,319.5,467.0,,False
+Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,Bryce Young,pass_yds,fanduel,324.5,430.0,,False
+Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,Bryce Young,pass_yds,draftkings,329.5,600.0,,False
+Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,Bryce Young,pass_yds,draftkings,339.5,760.0,,False
+Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,Bryce Young,pass_yds,draftkings,349.5,980.0,,False
+Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,Bryce Young,pass_yds,fanduel,349.5,750.0,,False
+Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,Bryce Young,pass_yds,draftkings,359.5,1260.0,,False
+Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,Bryce Young,pass_yds,draftkings,369.5,1600.0,,False
+Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,Bryce Young,pass_yds,fanduel,374.5,1200.0,,False
+Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,Bryce Young,pass_yds,draftkings,379.5,2000.0,,False
+Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,Bryce Young,pass_yds,draftkings,389.5,2500.0,,False
+Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,Bryce Young,pass_yds,draftkings,399.5,3100.0,,False
+Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,Bryce Young,pass_yds,draftkings,409.5,3800.0,,False
+Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,Bryce Young,rush_yds,draftkings,9.5,-132.0,,False
+Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,Bryce Young,rush_yds,draftkings,10.5,-116.0,-108.0,True
+Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,Bryce Young,rush_yds,draftkings,14.5,136.0,,False
+Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,Bryce Young,rush_yds,draftkings,19.5,222.0,,False
+Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,Bryce Young,rush_yds,draftkings,24.5,351.0,,False
+Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,Bryce Young,rush_yds,draftkings,29.5,538.0,,False
+Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,Bryce Young,rush_yds,draftkings,39.5,1240.0,,False
+Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,Bryce Young,rush_yds,draftkings,49.5,2400.0,,False
+Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,Chuba Hubbard,car,draftkings,15.5,-117.0,-109.0,True
+Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,Chuba Hubbard,rush_yds,draftkings,29.5,-2000.0,,False
+Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,Chuba Hubbard,rush_yds,draftkings,39.5,-700.0,,False
+Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,Chuba Hubbard,rush_yds,draftkings,49.5,-337.0,,False
+Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,Chuba Hubbard,rush_yds,draftkings,59.5,-188.0,,False
+Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,Chuba Hubbard,rush_yds,draftkings,69.5,-114.0,-110.0,True
+Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,Chuba Hubbard,rush_yds,draftkings,79.5,141.0,,False
+Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,Chuba Hubbard,rush_yds,draftkings,89.5,215.0,,False
+Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,Chuba Hubbard,rush_yds,draftkings,99.5,324.0,,False
+Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,Chuba Hubbard,rush_yds,draftkings,109.5,464.0,,False
+Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,Chuba Hubbard,rush_yds,draftkings,119.5,670.0,,False
+Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,Chuba Hubbard,rush_yds,draftkings,129.5,980.0,,False
+Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,Chuba Hubbard,rush_yds,draftkings,139.5,1440.0,,False
+Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,Chuba Hubbard,rush_yds,draftkings,149.5,2000.0,,False
+Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,Chuba Hubbard,rush_yds,draftkings,159.5,2800.0,,False
+Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,Chuba Hubbard,rush_yds,draftkings,169.5,3700.0,,False
+Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,Jordan Love,pass_att,draftkings,35.5,-109.0,-117.0,True
+Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,Jordan Love,pass_td,fanduel,0.5,-1100.0,,False
+Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,Jordan Love,pass_td,draftkings,1.5,-149.0,116.0,True
+Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,Jordan Love,pass_td,fanduel,1.5,-166.0,124.0,True
+Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,Jordan Love,pass_td,fanduel,2.5,235.0,,False
+Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,Jordan Love,pass_td,fanduel,3.5,750.0,,False
+Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,Jordan Love,pass_yds,fanduel,174.5,-1200.0,,False
+Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,Jordan Love,pass_yds,draftkings,179.5,-1360.0,,False
+Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,Jordan Love,pass_yds,draftkings,189.5,-930.0,,False
+Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,Jordan Love,pass_yds,draftkings,199.5,-650.0,,False
+Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,Jordan Love,pass_yds,fanduel,199.5,-500.0,,False
+Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,Jordan Love,pass_yds,draftkings,209.5,-462.0,,False
+Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,Jordan Love,pass_yds,draftkings,219.5,-339.0,,False
+Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,Jordan Love,pass_yds,fanduel,224.5,-270.0,,False
+Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,Jordan Love,pass_yds,draftkings,229.5,-254.0,,False
+Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,Jordan Love,pass_yds,draftkings,239.5,-191.0,,False
+Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,Jordan Love,pass_yds,draftkings,249.5,-148.0,,False
+Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,Jordan Love,pass_yds,fanduel,249.5,-146.0,,False
+Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,Jordan Love,pass_yds,fanduel,258.5,-114.0,-114.0,True
+Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,Jordan Love,pass_yds,draftkings,259.5,-111.0,-113.0,True
+Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,Jordan Love,pass_yds,draftkings,269.5,116.0,,False
+Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,Jordan Love,pass_yds,fanduel,274.5,128.0,,False
+Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,Jordan Love,pass_yds,draftkings,279.5,149.0,,False
+Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,Jordan Love,pass_yds,draftkings,289.5,193.0,,False
+Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,Jordan Love,pass_yds,draftkings,299.5,245.0,,False
+Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,Jordan Love,pass_yds,fanduel,299.5,225.0,,False
+Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,Jordan Love,pass_yds,draftkings,309.5,320.0,,False
+Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,Jordan Love,pass_yds,draftkings,319.5,411.0,,False
+Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,Jordan Love,pass_yds,fanduel,324.5,390.0,,False
+Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,Jordan Love,pass_yds,draftkings,329.5,525.0,,False
+Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,Jordan Love,pass_yds,draftkings,339.5,680.0,,False
+Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,Jordan Love,pass_yds,draftkings,349.5,860.0,,False
+Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,Jordan Love,pass_yds,fanduel,349.5,640.0,,False
+Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,Jordan Love,pass_yds,draftkings,359.5,1080.0,,False
+Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,Jordan Love,pass_yds,draftkings,369.5,1360.0,,False
+Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,Jordan Love,pass_yds,fanduel,374.5,1100.0,,False
+Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,Jordan Love,pass_yds,draftkings,379.5,1780.0,,False
+Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,Jordan Love,pass_yds,draftkings,389.5,2300.0,,False
+Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,Jordan Love,pass_yds,draftkings,399.5,2900.0,,False
+Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,Jordan Love,pass_yds,fanduel,399.5,1500.0,,False
+Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,Jordan Love,pass_yds,draftkings,409.5,3500.0,,False
+Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,Jordan Love,rush_yds,draftkings,4.5,-120.0,-105.0,True
+Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,Jordan Love,rush_yds,draftkings,9.5,162.0,,False
+Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,Jordan Love,rush_yds,draftkings,14.5,280.0,,False
+Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,Jordan Love,rush_yds,draftkings,19.5,440.0,,False
+Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,Jordan Love,rush_yds,draftkings,24.5,680.0,,False
+Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,Jordan Love,rush_yds,draftkings,29.5,1060.0,,False
+Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,Jordan Love,rush_yds,draftkings,39.5,2100.0,,False
+Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,Jordan Love,rush_yds,draftkings,49.5,3700.0,,False
+Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,Josh Jacobs,car,draftkings,14.5,-112.0,-114.0,True
+Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,Josh Jacobs,rush_yds,draftkings,19.5,-2700.0,,False
+Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,Josh Jacobs,rush_yds,draftkings,24.5,-1320.0,,False
+Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,Josh Jacobs,rush_yds,draftkings,29.5,-750.0,,False
+Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,Josh Jacobs,rush_yds,draftkings,39.5,-320.0,,False
+Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,Josh Jacobs,rush_yds,draftkings,49.5,-164.0,,False
+Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,Josh Jacobs,rush_yds,draftkings,55.5,-114.0,-110.0,True
+Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,Josh Jacobs,rush_yds,draftkings,59.5,108.0,,False
+Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,Josh Jacobs,rush_yds,draftkings,69.5,180.0,,False
+Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,Josh Jacobs,rush_yds,draftkings,79.5,290.0,,False
+Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,Josh Jacobs,rush_yds,draftkings,89.5,451.0,,False
+Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,Josh Jacobs,rush_yds,draftkings,99.5,700.0,,False
+Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,Josh Jacobs,rush_yds,draftkings,109.5,1040.0,,False
+Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,Josh Jacobs,rush_yds,draftkings,129.5,2200.0,,False
+Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,Josh Jacobs,rush_yds,draftkings,139.5,3100.0,,False
+Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,MarShawn Lloyd,car,draftkings,5.5,-131.0,102.0,True
+Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,MarShawn Lloyd,rush_yds,draftkings,9.5,-352.0,,False
+Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,MarShawn Lloyd,rush_yds,draftkings,14.5,-174.0,,False
+Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,MarShawn Lloyd,rush_yds,draftkings,18.5,-108.0,-116.0,True
+Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,MarShawn Lloyd,rush_yds,draftkings,19.5,101.0,,False
+Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,MarShawn Lloyd,rush_yds,draftkings,24.5,164.0,,False
+Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,MarShawn Lloyd,rush_yds,draftkings,29.5,246.0,,False
+Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,MarShawn Lloyd,rush_yds,draftkings,39.5,510.0,,False
+Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,MarShawn Lloyd,rush_yds,draftkings,49.5,910.0,,False
+Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,MarShawn Lloyd,rush_yds,draftkings,59.5,1440.0,,False
+Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,MarShawn Lloyd,rush_yds,draftkings,69.5,2200.0,,False
+Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,MarShawn Lloyd,rush_yds,draftkings,79.5,3200.0,,False
