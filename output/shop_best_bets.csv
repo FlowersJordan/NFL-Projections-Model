@@ -1,2 +1,7 @@
 game,player,pos,team,stat,pick,ours,p_play,best_book,best_line,best_odds,model_p_pct,ev_pct,z,other_book,other_line,other_odds,other_ev_pct,shop_gain_pts
-Dallas Cowboys @ Philadelphia Eagles,Saquon Barkley,RB,PHI,car,UNDER,9.44,0.84,draftkings,17.5,-126.0,93.5,67.8,1.52,,,,,
+Carolina Panthers @ Green Bay Packers,Josh Jacobs,RB,GB,car,UNDER,11.59,1.0,draftkings,14.5,-114.0,70.9,33.0,0.55,,,,,
+Carolina Panthers @ Green Bay Packers,MarShawn Lloyd,RB,GB,car,OVER,7.8,1.0,draftkings,5.5,-131.0,66.8,17.8,0.43,,,,,
+Carolina Panthers @ Green Bay Packers,Chuba Hubbard,RB,CAR,car,UNDER,14.12,1.0,draftkings,15.5,-109.0,60.3,15.6,0.26,,,,,
+Dallas Cowboys @ Philadelphia Eagles,Javonte Williams,RB,DAL,car,UNDER,15.38,1.0,draftkings,16.5,-106.0,58.4,13.4,0.21,,,,,
+Dallas Cowboys @ Philadelphia Eagles,Dak Prescott,QB,DAL,pass_att,OVER,36.61,1.0,draftkings,35.5,-123.0,54.4,-1.4,0.11,,,,,
+Dallas Cowboys @ Philadelphia Eagles,Dak Prescott,QB,DAL,pass_td,UNDER,2.22,1.0,draftkings,1.5,105.0,25.7,-47.3,0.65,fanduel,1.5,104.0,-47.5,0.3

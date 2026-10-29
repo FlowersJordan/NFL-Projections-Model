@@ -1,522 +1,676 @@
 player,stat,line,line_type,game,start,books,n_books,over_odds,under_odds,main_basis,main_draftkings
-Brevyn Spann-Ford,rec,1.5,standard,Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,draftkings,1,118.0,-151.0,flag,1.5
-Brevyn Spann-Ford,rec,2.5,alternate,Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,draftkings,1,297.0,,flag,1.5
-Brevyn Spann-Ford,rec,3.5,alternate,Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,draftkings,1,680.0,,flag,1.5
-Brevyn Spann-Ford,rec,4.5,alternate,Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,draftkings,1,1380.0,,flag,1.5
-Brevyn Spann-Ford,rec,5.5,alternate,Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,draftkings,1,2400.0,,flag,1.5
-Brevyn Spann-Ford,rec_yds,9.5,alternate,Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,draftkings,1,-152.0,,flag,13.5
-Brevyn Spann-Ford,rec_yds,13.5,standard,Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,draftkings,1,-112.0,-112.0,flag,13.5
-Brevyn Spann-Ford,rec_yds,14.5,alternate,Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,draftkings,1,-105.0,,flag,13.5
-Brevyn Spann-Ford,rec_yds,19.5,alternate,Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,draftkings,1,132.0,,flag,13.5
-Brevyn Spann-Ford,rec_yds,24.5,alternate,Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,draftkings,1,176.0,,flag,13.5
-Brevyn Spann-Ford,rec_yds,29.5,alternate,Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,draftkings,1,229.0,,flag,13.5
-Brevyn Spann-Ford,rec_yds,39.5,alternate,Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,draftkings,1,379.0,,flag,13.5
-Brevyn Spann-Ford,rec_yds,49.5,alternate,Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,draftkings,1,592.0,,flag,13.5
-Brevyn Spann-Ford,rec_yds,59.5,alternate,Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,draftkings,1,910.0,,flag,13.5
-Brevyn Spann-Ford,rec_yds,69.5,alternate,Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,draftkings,1,1360.0,,flag,13.5
-Brevyn Spann-Ford,rec_yds,79.5,alternate,Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,draftkings,1,1940.0,,flag,13.5
-Brevyn Spann-Ford,rec_yds,89.5,alternate,Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,draftkings,1,2800.0,,flag,13.5
-Brevyn Spann-Ford,rec_yds,99.5,alternate,Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,draftkings,1,3900.0,,flag,13.5
-CeeDee Lamb,rec,3.5,alternate,Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,draftkings,1,-1340.0,,flag,6.5
-CeeDee Lamb,rec,4.5,alternate,Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,draftkings,1,-507.0,,flag,6.5
-CeeDee Lamb,rec,5.5,alternate,Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,draftkings,1,-248.0,,flag,6.5
-CeeDee Lamb,rec,6.5,standard,Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,draftkings,1,-133.0,104.0,flag,6.5
-CeeDee Lamb,rec,7.5,alternate,Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,draftkings,1,133.0,,flag,6.5
-CeeDee Lamb,rec,8.5,alternate,Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,draftkings,1,225.0,,flag,6.5
-CeeDee Lamb,rec,9.5,alternate,Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,draftkings,1,373.0,,flag,6.5
-CeeDee Lamb,rec,10.5,alternate,Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,draftkings,1,620.0,,flag,6.5
-CeeDee Lamb,rec,11.5,alternate,Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,draftkings,1,1020.0,,flag,6.5
-CeeDee Lamb,rec,12.5,alternate,Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,draftkings,1,1600.0,,flag,6.5
-CeeDee Lamb,rec,13.5,alternate,Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,draftkings,1,2300.0,,flag,6.5
-CeeDee Lamb,rec_yds,24.5,alternate,Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,draftkings,1,-2900.0,,flag,80.5
-CeeDee Lamb,rec_yds,29.5,alternate,Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,draftkings,1,-1780.0,,flag,80.5
-CeeDee Lamb,rec_yds,39.5,alternate,Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,draftkings,1,-820.0,,flag,80.5
-CeeDee Lamb,rec_yds,49.5,alternate,Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,draftkings,1,-445.0,,flag,80.5
-CeeDee Lamb,rec_yds,59.5,alternate,Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,draftkings,1,-270.0,,flag,80.5
-CeeDee Lamb,rec_yds,69.5,alternate,Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,draftkings,1,-172.0,,flag,80.5
-CeeDee Lamb,rec_yds,79.5,alternate,Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,draftkings,1,-114.0,,flag,80.5
-CeeDee Lamb,rec_yds,80.5,standard,Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,draftkings,1,-110.0,-114.0,flag,80.5
-CeeDee Lamb,rec_yds,89.5,alternate,Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,draftkings,1,129.0,,flag,80.5
-CeeDee Lamb,rec_yds,99.5,alternate,Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,draftkings,1,186.0,,flag,80.5
-CeeDee Lamb,rec_yds,109.5,alternate,Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,draftkings,1,260.0,,flag,80.5
-CeeDee Lamb,rec_yds,119.5,alternate,Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,draftkings,1,370.0,,flag,80.5
-CeeDee Lamb,rec_yds,129.5,alternate,Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,draftkings,1,528.0,,flag,80.5
-CeeDee Lamb,rec_yds,139.5,alternate,Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,draftkings,1,730.0,,flag,80.5
-CeeDee Lamb,rec_yds,149.5,alternate,Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,draftkings,1,1020.0,,flag,80.5
-CeeDee Lamb,rec_yds,159.5,alternate,Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,draftkings,1,1380.0,,flag,80.5
-CeeDee Lamb,rec_yds,169.5,alternate,Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,draftkings,1,1860.0,,flag,80.5
-CeeDee Lamb,rec_yds,179.5,alternate,Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,draftkings,1,2500.0,,flag,80.5
-CeeDee Lamb,rec_yds,189.5,alternate,Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,draftkings,1,3400.0,,flag,80.5
-Dak Prescott,pass_att,35.5,standard,Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,draftkings,1,-123.0,-103.0,flag,35.5
-Dak Prescott,pass_td,1.5,standard,Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,draftkings,1,-134.0,105.0,flag,1.5
-Dak Prescott,pass_yds,179.5,alternate,Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,draftkings,1,-1380.0,,flag,263.5
-Dak Prescott,pass_yds,189.5,alternate,Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,draftkings,1,-930.0,,flag,263.5
-Dak Prescott,pass_yds,199.5,alternate,Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,draftkings,1,-670.0,,flag,263.5
-Dak Prescott,pass_yds,209.5,alternate,Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,draftkings,1,-487.0,,flag,263.5
-Dak Prescott,pass_yds,219.5,alternate,Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,draftkings,1,-364.0,,flag,263.5
-Dak Prescott,pass_yds,229.5,alternate,Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,draftkings,1,-272.0,,flag,263.5
-Dak Prescott,pass_yds,239.5,alternate,Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,draftkings,1,-208.0,,flag,263.5
-Dak Prescott,pass_yds,249.5,alternate,Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,draftkings,1,-161.0,,flag,263.5
-Dak Prescott,pass_yds,259.5,alternate,Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,draftkings,1,-125.0,,flag,263.5
-Dak Prescott,pass_yds,263.5,standard,Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,draftkings,1,-113.0,-111.0,flag,263.5
-Dak Prescott,pass_yds,269.5,alternate,Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,draftkings,1,101.0,,flag,263.5
-Dak Prescott,pass_yds,279.5,alternate,Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,draftkings,1,129.0,,flag,263.5
-Dak Prescott,pass_yds,289.5,alternate,Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,draftkings,1,163.0,,flag,263.5
-Dak Prescott,pass_yds,299.5,alternate,Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,draftkings,1,207.0,,flag,263.5
-Dak Prescott,pass_yds,309.5,alternate,Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,draftkings,1,263.0,,flag,263.5
-Dak Prescott,pass_yds,319.5,alternate,Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,draftkings,1,330.0,,flag,263.5
-Dak Prescott,pass_yds,329.5,alternate,Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,draftkings,1,408.0,,flag,263.5
-Dak Prescott,pass_yds,339.5,alternate,Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,draftkings,1,509.0,,flag,263.5
-Dak Prescott,pass_yds,349.5,alternate,Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,draftkings,1,620.0,,flag,263.5
-Dak Prescott,pass_yds,359.5,alternate,Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,draftkings,1,780.0,,flag,263.5
-Dak Prescott,pass_yds,369.5,alternate,Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,draftkings,1,950.0,,flag,263.5
-Dak Prescott,pass_yds,379.5,alternate,Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,draftkings,1,1160.0,,flag,263.5
-Dak Prescott,pass_yds,389.5,alternate,Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,draftkings,1,1440.0,,flag,263.5
-Dak Prescott,pass_yds,399.5,alternate,Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,draftkings,1,1740.0,,flag,263.5
-Dak Prescott,pass_yds,409.5,alternate,Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,draftkings,1,2000.0,,flag,263.5
-Dak Prescott,pass_yds,419.5,alternate,Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,draftkings,1,2500.0,,flag,263.5
-Dak Prescott,pass_yds,429.5,alternate,Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,draftkings,1,3000.0,,flag,263.5
-Dak Prescott,rush_yds,9.5,alternate,Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,draftkings,1,-120.0,,flag,10.5
-Dak Prescott,rush_yds,10.5,standard,Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,draftkings,1,-105.0,-119.0,flag,10.5
-Dak Prescott,rush_yds,14.5,alternate,Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,draftkings,1,156.0,,flag,10.5
-Dak Prescott,rush_yds,19.5,alternate,Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,draftkings,1,271.0,,flag,10.5
-Dak Prescott,rush_yds,24.5,alternate,Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,draftkings,1,447.0,,flag,10.5
-Dak Prescott,rush_yds,29.5,alternate,Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,draftkings,1,700.0,,flag,10.5
-Dak Prescott,rush_yds,39.5,alternate,Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,draftkings,1,1700.0,,flag,10.5
-Dak Prescott,rush_yds,49.5,alternate,Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,draftkings,1,3400.0,,flag,10.5
-Dallas Goedert,rec,2.5,alternate,Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,draftkings,1,-1180.0,,flag,5.5
-Dallas Goedert,rec,3.5,alternate,Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,draftkings,1,-404.0,,flag,5.5
-Dallas Goedert,rec,4.5,alternate,Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,draftkings,1,-180.0,,flag,5.5
-Dallas Goedert,rec,5.5,standard,Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,draftkings,1,111.0,-141.0,flag,5.5
-Dallas Goedert,rec,6.5,alternate,Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,draftkings,1,209.0,,flag,5.5
-Dallas Goedert,rec,7.5,alternate,Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,draftkings,1,368.0,,flag,5.5
-Dallas Goedert,rec,8.5,alternate,Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,draftkings,1,660.0,,flag,5.5
-Dallas Goedert,rec,9.5,alternate,Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,draftkings,1,1160.0,,flag,5.5
-Dallas Goedert,rec,10.5,alternate,Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,draftkings,1,1840.0,,flag,5.5
-Dallas Goedert,rec,11.5,alternate,Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,draftkings,1,2800.0,,flag,5.5
-Dallas Goedert,rec_yds,14.5,alternate,Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,draftkings,1,-1640.0,,flag,48.5
-Dallas Goedert,rec_yds,19.5,alternate,Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,draftkings,1,-910.0,,flag,48.5
-Dallas Goedert,rec_yds,24.5,alternate,Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,draftkings,1,-565.0,,flag,48.5
-Dallas Goedert,rec_yds,29.5,alternate,Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,draftkings,1,-373.0,,flag,48.5
-Dallas Goedert,rec_yds,39.5,alternate,Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,draftkings,1,-192.0,,flag,48.5
-Dallas Goedert,rec_yds,48.5,standard,Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,draftkings,1,-115.0,-109.0,flag,48.5
-Dallas Goedert,rec_yds,49.5,alternate,Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,draftkings,1,-109.0,,flag,48.5
-Dallas Goedert,rec_yds,59.5,alternate,Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,draftkings,1,150.0,,flag,48.5
-Dallas Goedert,rec_yds,69.5,alternate,Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,draftkings,1,239.0,,flag,48.5
-Dallas Goedert,rec_yds,79.5,alternate,Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,draftkings,1,368.0,,flag,48.5
-Dallas Goedert,rec_yds,89.5,alternate,Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,draftkings,1,563.0,,flag,48.5
-Dallas Goedert,rec_yds,99.5,alternate,Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,draftkings,1,850.0,,flag,48.5
-Dallas Goedert,rec_yds,109.5,alternate,Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,draftkings,1,1280.0,,flag,48.5
-Dallas Goedert,rec_yds,119.5,alternate,Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,draftkings,1,1880.0,,flag,48.5
-Dallas Goedert,rec_yds,129.5,alternate,Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,draftkings,1,2600.0,,flag,48.5
-Dallas Goedert,rec_yds,139.5,alternate,Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,draftkings,1,3700.0,,flag,48.5
-Dameon Pierce,car,5.5,standard,Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,draftkings,1,-106.0,-121.0,flag,5.5
-Dameon Pierce,rec_yds,1.5,standard,Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,draftkings,1,-108.0,-116.0,flag,1.5
-Dameon Pierce,rec_yds,9.5,alternate,Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,draftkings,1,247.0,,flag,1.5
-Dameon Pierce,rec_yds,14.5,alternate,Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,draftkings,1,469.0,,flag,1.5
-Dameon Pierce,rec_yds,19.5,alternate,Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,draftkings,1,750.0,,flag,1.5
-Dameon Pierce,rec_yds,24.5,alternate,Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,draftkings,1,1160.0,,flag,1.5
-Dameon Pierce,rec_yds,29.5,alternate,Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,draftkings,1,1740.0,,flag,1.5
-Dameon Pierce,rec_yds,39.5,alternate,Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,draftkings,1,3100.0,,flag,1.5
-Dameon Pierce,rush_yds,9.5,alternate,Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,draftkings,1,-298.0,,flag,19.5
-Dameon Pierce,rush_yds,14.5,alternate,Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,draftkings,1,-170.0,,flag,19.5
-Dameon Pierce,rush_yds,19.5,standard,Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,draftkings,1,-109.0,-116.0,flag,19.5
-Dameon Pierce,rush_yds,24.5,alternate,Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,draftkings,1,135.0,,flag,19.5
-Dameon Pierce,rush_yds,29.5,alternate,Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,draftkings,1,196.0,,flag,19.5
-Dameon Pierce,rush_yds,39.5,alternate,Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,draftkings,1,356.0,,flag,19.5
-Dameon Pierce,rush_yds,49.5,alternate,Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,draftkings,1,610.0,,flag,19.5
-Dameon Pierce,rush_yds,59.5,alternate,Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,draftkings,1,960.0,,flag,19.5
-Dameon Pierce,rush_yds,69.5,alternate,Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,draftkings,1,1440.0,,flag,19.5
-Dameon Pierce,rush_yds,79.5,alternate,Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,draftkings,1,2000.0,,flag,19.5
-Dameon Pierce,rush_yds,89.5,alternate,Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,draftkings,1,2800.0,,flag,19.5
-Dameon Pierce,rush_yds,99.5,alternate,Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,draftkings,1,3900.0,,flag,19.5
-Darius Cooper,rec,1.5,alternate,Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,draftkings,1,-660.0,,flag,3.5
-Darius Cooper,rec,2.5,alternate,Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,draftkings,1,-206.0,,flag,3.5
-Darius Cooper,rec,3.5,standard,Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,draftkings,1,120.0,-154.0,flag,3.5
-Darius Cooper,rec,4.5,alternate,Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,draftkings,1,256.0,,flag,3.5
-Darius Cooper,rec,5.5,alternate,Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,draftkings,1,557.0,,flag,3.5
-Darius Cooper,rec,6.5,alternate,Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,draftkings,1,1120.0,,flag,3.5
-Darius Cooper,rec,7.5,alternate,Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,draftkings,1,1980.0,,flag,3.5
-Darius Cooper,rec_yds,9.5,alternate,Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,draftkings,1,-1060.0,,flag,38.5
-Darius Cooper,rec_yds,14.5,alternate,Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,draftkings,1,-610.0,,flag,38.5
-Darius Cooper,rec_yds,19.5,alternate,Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,draftkings,1,-383.0,,flag,38.5
-Darius Cooper,rec_yds,24.5,alternate,Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,draftkings,1,-265.0,,flag,38.5
-Darius Cooper,rec_yds,29.5,alternate,Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,draftkings,1,-191.0,,flag,38.5
-Darius Cooper,rec_yds,38.5,standard,Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,draftkings,1,-114.0,-110.0,flag,38.5
-Darius Cooper,rec_yds,39.5,alternate,Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,draftkings,1,-107.0,,flag,38.5
-Darius Cooper,rec_yds,49.5,alternate,Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,draftkings,1,152.0,,flag,38.5
-Darius Cooper,rec_yds,59.5,alternate,Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,draftkings,1,241.0,,flag,38.5
-Darius Cooper,rec_yds,69.5,alternate,Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,draftkings,1,369.0,,flag,38.5
-Darius Cooper,rec_yds,79.5,alternate,Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,draftkings,1,556.0,,flag,38.5
-Darius Cooper,rec_yds,89.5,alternate,Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,draftkings,1,820.0,,flag,38.5
-Darius Cooper,rec_yds,99.5,alternate,Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,draftkings,1,1240.0,,flag,38.5
-Darius Cooper,rec_yds,109.5,alternate,Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,draftkings,1,1780.0,,flag,38.5
-Darius Cooper,rec_yds,119.5,alternate,Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,draftkings,1,2500.0,,flag,38.5
-Darius Cooper,rec_yds,129.5,alternate,Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,draftkings,1,3500.0,,flag,38.5
-Eli Stowers,rec,0.5,standard,Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,draftkings,1,-198.0,154.0,flag,0.5
-Eli Stowers,rec,1.5,alternate,Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,draftkings,1,207.0,,flag,0.5
-Eli Stowers,rec,2.5,alternate,Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,draftkings,1,620.0,,flag,0.5
-Eli Stowers,rec,3.5,alternate,Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,draftkings,1,1700.0,,flag,0.5
-Eli Stowers,rec_yds,5.5,standard,Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,draftkings,1,-114.0,-110.0,flag,5.5
-Eli Stowers,rec_yds,9.5,alternate,Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,draftkings,1,133.0,,flag,5.5
-Eli Stowers,rec_yds,14.5,alternate,Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,draftkings,1,217.0,,flag,5.5
-Eli Stowers,rec_yds,19.5,alternate,Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,draftkings,1,317.0,,flag,5.5
-Eli Stowers,rec_yds,24.5,alternate,Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,draftkings,1,451.0,,flag,5.5
-Eli Stowers,rec_yds,29.5,alternate,Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,draftkings,1,630.0,,flag,5.5
-Eli Stowers,rec_yds,39.5,alternate,Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,draftkings,1,1160.0,,flag,5.5
-Eli Stowers,rec_yds,49.5,alternate,Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,draftkings,1,1980.0,,flag,5.5
-Eli Stowers,rec_yds,59.5,alternate,Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,draftkings,1,3000.0,,flag,5.5
-Eli Stowers,rec_yds,69.5,alternate,Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,draftkings,1,4000.0,,flag,5.5
-Elijah Moore,rec,1.5,standard,Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,draftkings,1,-115.0,-110.0,flag,1.5
-Elijah Moore,rec,2.5,alternate,Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,draftkings,1,244.0,,flag,1.5
-Elijah Moore,rec,3.5,alternate,Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,draftkings,1,650.0,,flag,1.5
-Elijah Moore,rec,4.5,alternate,Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,draftkings,1,1500.0,,flag,1.5
-Elijah Moore,rec,5.5,alternate,Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,draftkings,1,2800.0,,flag,1.5
-Elijah Moore,rec_yds,9.5,standard,Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,draftkings,1,-118.0,-106.0,flag,9.5
-Elijah Moore,rec_yds,14.5,alternate,Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,draftkings,1,142.0,,flag,9.5
-Elijah Moore,rec_yds,19.5,alternate,Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,draftkings,1,217.0,,flag,9.5
-Elijah Moore,rec_yds,24.5,alternate,Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,draftkings,1,321.0,,flag,9.5
-Elijah Moore,rec_yds,29.5,alternate,Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,draftkings,1,464.0,,flag,9.5
-Elijah Moore,rec_yds,39.5,alternate,Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,draftkings,1,900.0,,flag,9.5
-Elijah Moore,rec_yds,49.5,alternate,Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,draftkings,1,1620.0,,flag,9.5
-Elijah Moore,rec_yds,59.5,alternate,Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,draftkings,1,2600.0,,flag,9.5
-Elijah Moore,rec_yds,69.5,alternate,Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,draftkings,1,3900.0,,flag,9.5
-George Pickens,rec,2.5,alternate,Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,draftkings,1,-840.0,,flag,4.5
-George Pickens,rec,3.5,alternate,Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,draftkings,1,-301.0,,flag,4.5
-George Pickens,rec,4.5,standard,Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,draftkings,1,-138.0,108.0,flag,4.5
-George Pickens,rec,5.5,alternate,Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,draftkings,1,145.0,,flag,4.5
-George Pickens,rec,6.5,alternate,Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,draftkings,1,279.0,,flag,4.5
-George Pickens,rec,7.5,alternate,Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,draftkings,1,518.0,,flag,4.5
-George Pickens,rec,8.5,alternate,Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,draftkings,1,950.0,,flag,4.5
-George Pickens,rec,9.5,alternate,Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,draftkings,1,1680.0,,flag,4.5
-George Pickens,rec,10.5,alternate,Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,draftkings,1,2500.0,,flag,4.5
-George Pickens,rec_yds,14.5,alternate,Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,draftkings,1,-3000.0,,flag,64.5
-George Pickens,rec_yds,19.5,alternate,Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,draftkings,1,-1580.0,,flag,64.5
-George Pickens,rec_yds,24.5,alternate,Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,draftkings,1,-970.0,,flag,64.5
-George Pickens,rec_yds,29.5,alternate,Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,draftkings,1,-680.0,,flag,64.5
-George Pickens,rec_yds,39.5,alternate,Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,draftkings,1,-364.0,,flag,64.5
-George Pickens,rec_yds,49.5,alternate,Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,draftkings,1,-214.0,,flag,64.5
-George Pickens,rec_yds,59.5,alternate,Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,draftkings,1,-135.0,,flag,64.5
-George Pickens,rec_yds,64.5,standard,Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,draftkings,1,-110.0,-114.0,flag,64.5
-George Pickens,rec_yds,69.5,alternate,Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,draftkings,1,113.0,,flag,64.5
-George Pickens,rec_yds,79.5,alternate,Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,draftkings,1,164.0,,flag,64.5
-George Pickens,rec_yds,89.5,alternate,Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,draftkings,1,241.0,,flag,64.5
-George Pickens,rec_yds,99.5,alternate,Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,draftkings,1,348.0,,flag,64.5
-George Pickens,rec_yds,109.5,alternate,Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,draftkings,1,504.0,,flag,64.5
-George Pickens,rec_yds,119.5,alternate,Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,draftkings,1,710.0,,flag,64.5
-George Pickens,rec_yds,129.5,alternate,Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,draftkings,1,1000.0,,flag,64.5
-George Pickens,rec_yds,139.5,alternate,Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,draftkings,1,1420.0,,flag,64.5
-George Pickens,rec_yds,149.5,alternate,Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,draftkings,1,1980.0,,flag,64.5
-George Pickens,rec_yds,159.5,alternate,Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,draftkings,1,2600.0,,flag,64.5
-George Pickens,rec_yds,169.5,alternate,Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,draftkings,1,3500.0,,flag,64.5
-Jake Ferguson,rec,1.5,alternate,Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,draftkings,1,-316.0,,flag,2.5
-Jake Ferguson,rec,2.5,standard,Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,draftkings,1,-107.0,-119.0,flag,2.5
-Jake Ferguson,rec,3.5,alternate,Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,draftkings,1,233.0,,flag,2.5
-Jake Ferguson,rec,4.5,alternate,Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,draftkings,1,539.0,,flag,2.5
-Jake Ferguson,rec,5.5,alternate,Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,draftkings,1,1180.0,,flag,2.5
-Jake Ferguson,rec,6.5,alternate,Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,draftkings,1,2200.0,,flag,2.5
-Jake Ferguson,rec_yds,9.5,alternate,Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,draftkings,1,-284.0,,flag,18.5
-Jake Ferguson,rec_yds,14.5,alternate,Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,draftkings,1,-157.0,,flag,18.5
-Jake Ferguson,rec_yds,18.5,standard,Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,draftkings,1,-107.0,-117.0,flag,18.5
-Jake Ferguson,rec_yds,19.5,alternate,Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,draftkings,1,102.0,,flag,18.5
-Jake Ferguson,rec_yds,24.5,alternate,Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,draftkings,1,152.0,,flag,18.5
-Jake Ferguson,rec_yds,29.5,alternate,Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,draftkings,1,219.0,,flag,18.5
-Jake Ferguson,rec_yds,39.5,alternate,Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,draftkings,1,427.0,,flag,18.5
-Jake Ferguson,rec_yds,49.5,alternate,Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,draftkings,1,770.0,,flag,18.5
-Jake Ferguson,rec_yds,59.5,alternate,Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,draftkings,1,1320.0,,flag,18.5
-Jake Ferguson,rec_yds,69.5,alternate,Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,draftkings,1,2000.0,,flag,18.5
-Jake Ferguson,rec_yds,79.5,alternate,Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,draftkings,1,3200.0,,flag,18.5
-Javonte Williams,car,16.5,standard,Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,draftkings,1,-120.0,-106.0,flag,16.5
-Javonte Williams,rec,1.5,alternate,Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,draftkings,1,-237.0,,flag,2.5
-Javonte Williams,rec,2.5,standard,Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,draftkings,1,116.0,-149.0,flag,2.5
-Javonte Williams,rec,3.5,alternate,Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,draftkings,1,252.0,,flag,2.5
-Javonte Williams,rec,4.5,alternate,Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,draftkings,1,526.0,,flag,2.5
-Javonte Williams,rec,5.5,alternate,Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,draftkings,1,1000.0,,flag,2.5
-Javonte Williams,rec,6.5,alternate,Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,draftkings,1,1780.0,,flag,2.5
-Javonte Williams,rec,7.5,alternate,Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,draftkings,1,2700.0,,flag,2.5
-Javonte Williams,rec_yds,9.5,alternate,Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,draftkings,1,-158.0,,flag,12.5
-Javonte Williams,rec_yds,12.5,standard,Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,draftkings,1,-111.0,-113.0,flag,12.5
-Javonte Williams,rec_yds,14.5,alternate,Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,draftkings,1,112.0,,flag,12.5
-Javonte Williams,rec_yds,19.5,alternate,Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,draftkings,1,174.0,,flag,12.5
-Javonte Williams,rec_yds,24.5,alternate,Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,draftkings,1,255.0,,flag,12.5
-Javonte Williams,rec_yds,29.5,alternate,Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,draftkings,1,364.0,,flag,12.5
-Javonte Williams,rec_yds,39.5,alternate,Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,draftkings,1,680.0,,flag,12.5
-Javonte Williams,rec_yds,49.5,alternate,Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,draftkings,1,1160.0,,flag,12.5
-Javonte Williams,rec_yds,59.5,alternate,Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,draftkings,1,1860.0,,flag,12.5
-Javonte Williams,rec_yds,69.5,alternate,Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,draftkings,1,2800.0,,flag,12.5
-Javonte Williams,rec_yds,79.5,alternate,Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,draftkings,1,3900.0,,flag,12.5
-Javonte Williams,rush_yds,24.5,alternate,Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,draftkings,1,-2800.0,,flag,64.5
-Javonte Williams,rush_yds,29.5,alternate,Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,draftkings,1,-1380.0,,flag,64.5
-Javonte Williams,rush_yds,39.5,alternate,Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,draftkings,1,-527.0,,flag,64.5
-Javonte Williams,rush_yds,49.5,alternate,Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,draftkings,1,-258.0,,flag,64.5
-Javonte Williams,rush_yds,59.5,alternate,Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,draftkings,1,-143.0,,flag,64.5
-Javonte Williams,rush_yds,64.5,standard,Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,draftkings,1,-113.0,-111.0,flag,64.5
-Javonte Williams,rush_yds,69.5,alternate,Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,draftkings,1,117.0,,flag,64.5
-Javonte Williams,rush_yds,79.5,alternate,Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,draftkings,1,185.0,,flag,64.5
-Javonte Williams,rush_yds,89.5,alternate,Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,draftkings,1,287.0,,flag,64.5
-Javonte Williams,rush_yds,99.5,alternate,Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,draftkings,1,435.0,,flag,64.5
-Javonte Williams,rush_yds,109.5,alternate,Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,draftkings,1,650.0,,flag,64.5
-Javonte Williams,rush_yds,119.5,alternate,Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,draftkings,1,970.0,,flag,64.5
-Javonte Williams,rush_yds,129.5,alternate,Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,draftkings,1,1420.0,,flag,64.5
-Javonte Williams,rush_yds,139.5,alternate,Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,draftkings,1,2000.0,,flag,64.5
-Javonte Williams,rush_yds,149.5,alternate,Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,draftkings,1,2800.0,,flag,64.5
-Javonte Williams,rush_yds,159.5,alternate,Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,draftkings,1,3900.0,,flag,64.5
-Makai Lemon,rec,1.5,alternate,Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,draftkings,1,-1240.0,,flag,4.5
-Makai Lemon,rec,2.5,alternate,Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,draftkings,1,-381.0,,flag,4.5
-Makai Lemon,rec,3.5,alternate,Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,draftkings,1,-167.0,,flag,4.5
-Makai Lemon,rec,4.5,standard,Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,draftkings,1,123.0,-157.0,flag,4.5
-Makai Lemon,rec,5.5,alternate,Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,draftkings,1,229.0,,flag,4.5
-Makai Lemon,rec,6.5,alternate,Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,draftkings,1,421.0,,flag,4.5
-Makai Lemon,rec,7.5,alternate,Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,draftkings,1,750.0,,flag,4.5
-Makai Lemon,rec,8.5,alternate,Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,draftkings,1,1260.0,,flag,4.5
-Makai Lemon,rec,9.5,alternate,Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,draftkings,1,2000.0,,flag,4.5
-Makai Lemon,rec,10.5,alternate,Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,draftkings,1,2900.0,,flag,4.5
-Makai Lemon,rec_yds,9.5,alternate,Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,draftkings,1,-1220.0,,flag,39.5
-Makai Lemon,rec_yds,14.5,alternate,Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,draftkings,1,-670.0,,flag,39.5
-Makai Lemon,rec_yds,19.5,alternate,Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,draftkings,1,-420.0,,flag,39.5
-Makai Lemon,rec_yds,24.5,alternate,Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,draftkings,1,-285.0,,flag,39.5
-Makai Lemon,rec_yds,29.5,alternate,Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,draftkings,1,-201.0,,flag,39.5
-Makai Lemon,rec_yds,39.5,standard,Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,draftkings,1,-112.0,-112.0,flag,39.5
-Makai Lemon,rec_yds,49.5,alternate,Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,draftkings,1,149.0,,flag,39.5
-Makai Lemon,rec_yds,59.5,alternate,Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,draftkings,1,236.0,,flag,39.5
-Makai Lemon,rec_yds,69.5,alternate,Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,draftkings,1,368.0,,flag,39.5
-Makai Lemon,rec_yds,79.5,alternate,Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,draftkings,1,571.0,,flag,39.5
-Makai Lemon,rec_yds,89.5,alternate,Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,draftkings,1,890.0,,flag,39.5
-Makai Lemon,rec_yds,99.5,alternate,Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,draftkings,1,1380.0,,flag,39.5
-Makai Lemon,rec_yds,109.5,alternate,Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,draftkings,1,1960.0,,flag,39.5
-Makai Lemon,rec_yds,119.5,alternate,Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,draftkings,1,2900.0,,flag,39.5
-Makai Lemon,rec_yds,129.5,alternate,Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,draftkings,1,3800.0,,flag,39.5
-Marquise Brown,rec,1.5,standard,Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,draftkings,1,147.0,-189.0,flag,1.5
-Marquise Brown,rec,2.5,alternate,Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,draftkings,1,407.0,,flag,1.5
-Marquise Brown,rec,3.5,alternate,Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,draftkings,1,980.0,,flag,1.5
-Marquise Brown,rec,4.5,alternate,Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,draftkings,1,2100.0,,flag,1.5
-Marquise Brown,rec_yds,9.5,alternate,Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,draftkings,1,-126.0,,flag,11.5
-Marquise Brown,rec_yds,11.5,standard,Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,draftkings,1,-109.0,-115.0,flag,11.5
-Marquise Brown,rec_yds,14.5,alternate,Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,draftkings,1,113.0,,flag,11.5
-Marquise Brown,rec_yds,19.5,alternate,Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,draftkings,1,162.0,,flag,11.5
-Marquise Brown,rec_yds,24.5,alternate,Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,draftkings,1,223.0,,flag,11.5
-Marquise Brown,rec_yds,29.5,alternate,Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,draftkings,1,291.0,,flag,11.5
-Marquise Brown,rec_yds,39.5,alternate,Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,draftkings,1,473.0,,flag,11.5
-Marquise Brown,rec_yds,49.5,alternate,Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,draftkings,1,770.0,,flag,11.5
-Marquise Brown,rec_yds,59.5,alternate,Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,draftkings,1,1180.0,,flag,11.5
-Marquise Brown,rec_yds,69.5,alternate,Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,draftkings,1,1780.0,,flag,11.5
-Marquise Brown,rec_yds,79.5,alternate,Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,draftkings,1,2600.0,,flag,11.5
-Marquise Brown,rec_yds,89.5,alternate,Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,draftkings,1,3600.0,,flag,11.5
-Ryan Flournoy,rec,1.5,alternate,Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,draftkings,1,-640.0,,flag,3.5
-Ryan Flournoy,rec,2.5,alternate,Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,draftkings,1,-225.0,,flag,3.5
-Ryan Flournoy,rec,3.5,standard,Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,draftkings,1,-103.0,-123.0,flag,3.5
-Ryan Flournoy,rec,4.5,alternate,Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,draftkings,1,193.0,,flag,3.5
-Ryan Flournoy,rec,5.5,alternate,Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,draftkings,1,370.0,,flag,3.5
-Ryan Flournoy,rec,6.5,alternate,Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,draftkings,1,680.0,,flag,3.5
-Ryan Flournoy,rec,7.5,alternate,Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,draftkings,1,1180.0,,flag,3.5
-Ryan Flournoy,rec,8.5,alternate,Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,draftkings,1,1900.0,,flag,3.5
-Ryan Flournoy,rec,9.5,alternate,Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,draftkings,1,2700.0,,flag,3.5
-Ryan Flournoy,rec_yds,9.5,alternate,Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,draftkings,1,-790.0,,flag,35.5
-Ryan Flournoy,rec_yds,14.5,alternate,Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,draftkings,1,-461.0,,flag,35.5
-Ryan Flournoy,rec_yds,19.5,alternate,Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,draftkings,1,-299.0,,flag,35.5
-Ryan Flournoy,rec_yds,24.5,alternate,Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,draftkings,1,-215.0,,flag,35.5
-Ryan Flournoy,rec_yds,29.5,alternate,Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,draftkings,1,-156.0,,flag,35.5
-Ryan Flournoy,rec_yds,35.5,standard,Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,draftkings,1,-115.0,-109.0,flag,35.5
-Ryan Flournoy,rec_yds,39.5,alternate,Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,draftkings,1,110.0,,flag,35.5
-Ryan Flournoy,rec_yds,49.5,alternate,Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,draftkings,1,176.0,,flag,35.5
-Ryan Flournoy,rec_yds,59.5,alternate,Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,draftkings,1,275.0,,flag,35.5
-Ryan Flournoy,rec_yds,69.5,alternate,Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,draftkings,1,432.0,,flag,35.5
-Ryan Flournoy,rec_yds,79.5,alternate,Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,draftkings,1,650.0,,flag,35.5
-Ryan Flournoy,rec_yds,89.5,alternate,Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,draftkings,1,960.0,,flag,35.5
-Ryan Flournoy,rec_yds,99.5,alternate,Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,draftkings,1,1400.0,,flag,35.5
-Ryan Flournoy,rec_yds,109.5,alternate,Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,draftkings,1,1980.0,,flag,35.5
-Ryan Flournoy,rec_yds,119.5,alternate,Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,draftkings,1,2800.0,,flag,35.5
-Ryan Flournoy,rec_yds,129.5,alternate,Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,draftkings,1,3800.0,,flag,35.5
-Saquon Barkley,car,15.5,standard,Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,draftkings,1,-112.0,-114.0,flag,15.5
-Saquon Barkley,rec,1.5,alternate,Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,draftkings,1,-309.0,,flag,2.5
-Saquon Barkley,rec,2.5,standard,Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,draftkings,1,-102.0,-125.0,flag,2.5
-Saquon Barkley,rec,3.5,alternate,Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,draftkings,1,239.0,,flag,2.5
-Saquon Barkley,rec,4.5,alternate,Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,draftkings,1,548.0,,flag,2.5
-Saquon Barkley,rec,5.5,alternate,Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,draftkings,1,1120.0,,flag,2.5
-Saquon Barkley,rec,6.5,alternate,Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,draftkings,1,2100.0,,flag,2.5
-Saquon Barkley,rec_yds,9.5,alternate,Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,draftkings,1,-168.0,,flag,13.5
-Saquon Barkley,rec_yds,13.5,standard,Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,draftkings,1,-107.0,-117.0,flag,13.5
-Saquon Barkley,rec_yds,14.5,alternate,Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,draftkings,1,102.0,,flag,13.5
-Saquon Barkley,rec_yds,19.5,alternate,Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,draftkings,1,158.0,,flag,13.5
-Saquon Barkley,rec_yds,24.5,alternate,Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,draftkings,1,231.0,,flag,13.5
-Saquon Barkley,rec_yds,29.5,alternate,Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,draftkings,1,327.0,,flag,13.5
-Saquon Barkley,rec_yds,39.5,alternate,Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,draftkings,1,620.0,,flag,13.5
-Saquon Barkley,rec_yds,49.5,alternate,Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,draftkings,1,1120.0,,flag,13.5
-Saquon Barkley,rec_yds,59.5,alternate,Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,draftkings,1,1840.0,,flag,13.5
-Saquon Barkley,rec_yds,69.5,alternate,Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,draftkings,1,2800.0,,flag,13.5
-Saquon Barkley,rec_yds,79.5,alternate,Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,draftkings,1,3900.0,,flag,13.5
-Saquon Barkley,rush_yds,24.5,alternate,Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,draftkings,1,-2300.0,,flag,65.5
-Saquon Barkley,rush_yds,29.5,alternate,Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,draftkings,1,-1240.0,,flag,65.5
-Saquon Barkley,rush_yds,39.5,alternate,Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,draftkings,1,-511.0,,flag,65.5
-Saquon Barkley,rush_yds,49.5,alternate,Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,draftkings,1,-264.0,,flag,65.5
-Saquon Barkley,rush_yds,59.5,alternate,Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,draftkings,1,-153.0,,flag,65.5
-Saquon Barkley,rush_yds,65.5,standard,Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,draftkings,1,-114.0,-110.0,flag,65.5
-Saquon Barkley,rush_yds,69.5,alternate,Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,draftkings,1,104.0,,flag,65.5
-Saquon Barkley,rush_yds,79.5,alternate,Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,draftkings,1,161.0,,flag,65.5
-Saquon Barkley,rush_yds,89.5,alternate,Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,draftkings,1,242.0,,flag,65.5
-Saquon Barkley,rush_yds,99.5,alternate,Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,draftkings,1,353.0,,flag,65.5
-Saquon Barkley,rush_yds,109.5,alternate,Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,draftkings,1,511.0,,flag,65.5
-Saquon Barkley,rush_yds,119.5,alternate,Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,draftkings,1,730.0,,flag,65.5
-Saquon Barkley,rush_yds,129.5,alternate,Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,draftkings,1,1060.0,,flag,65.5
-Saquon Barkley,rush_yds,139.5,alternate,Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,draftkings,1,1540.0,,flag,65.5
-Saquon Barkley,rush_yds,149.5,alternate,Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,draftkings,1,2100.0,,flag,65.5
-Saquon Barkley,rush_yds,159.5,alternate,Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,draftkings,1,2800.0,,flag,65.5
-Saquon Barkley,rush_yds,169.5,alternate,Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,draftkings,1,3800.0,,flag,65.5
-Tanner McKee,pass_att,34.5,standard,Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,draftkings,1,-102.0,-125.0,flag,34.5
-Tanner McKee,pass_td,1.5,standard,Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,draftkings,1,172.0,-222.0,flag,1.5
-Tanner McKee,pass_yds,149.5,alternate,Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,draftkings,1,-487.0,,flag,203.5
-Tanner McKee,pass_yds,159.5,alternate,Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,draftkings,1,-355.0,,flag,203.5
-Tanner McKee,pass_yds,169.5,alternate,Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,draftkings,1,-265.0,,flag,203.5
-Tanner McKee,pass_yds,179.5,alternate,Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,draftkings,1,-201.0,,flag,203.5
-Tanner McKee,pass_yds,189.5,alternate,Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,draftkings,1,-158.0,,flag,203.5
-Tanner McKee,pass_yds,199.5,alternate,Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,draftkings,1,-123.0,,flag,203.5
-Tanner McKee,pass_yds,203.5,standard,Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,draftkings,1,-111.0,-113.0,flag,203.5
-Tanner McKee,pass_yds,209.5,alternate,Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,draftkings,1,104.0,,flag,203.5
-Tanner McKee,pass_yds,219.5,alternate,Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,draftkings,1,131.0,,flag,203.5
-Tanner McKee,pass_yds,229.5,alternate,Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,draftkings,1,165.0,,flag,203.5
-Tanner McKee,pass_yds,239.5,alternate,Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,draftkings,1,207.0,,flag,203.5
-Tanner McKee,pass_yds,249.5,alternate,Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,draftkings,1,261.0,,flag,203.5
-Tanner McKee,pass_yds,259.5,alternate,Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,draftkings,1,326.0,,flag,203.5
-Tanner McKee,pass_yds,269.5,alternate,Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,draftkings,1,413.0,,flag,203.5
-Tanner McKee,pass_yds,279.5,alternate,Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,draftkings,1,524.0,,flag,203.5
-Tanner McKee,pass_yds,289.5,alternate,Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,draftkings,1,660.0,,flag,203.5
-Tanner McKee,pass_yds,299.5,alternate,Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,draftkings,1,840.0,,flag,203.5
-Tanner McKee,pass_yds,309.5,alternate,Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,draftkings,1,1040.0,,flag,203.5
-Tanner McKee,pass_yds,319.5,alternate,Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,draftkings,1,1280.0,,flag,203.5
-Tanner McKee,pass_yds,329.5,alternate,Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,draftkings,1,1600.0,,flag,203.5
-Tanner McKee,pass_yds,339.5,alternate,Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,draftkings,1,2000.0,,flag,203.5
-Tanner McKee,pass_yds,349.5,alternate,Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,draftkings,1,2400.0,,flag,203.5
-Tanner McKee,pass_yds,359.5,alternate,Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,draftkings,1,3100.0,,flag,203.5
-Tanner McKee,pass_yds,369.5,alternate,Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,draftkings,1,3700.0,,flag,203.5
-Tanner McKee,rush_yds,3.5,standard,Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,draftkings,1,-116.0,-108.0,flag,3.5
-Tanner McKee,rush_yds,9.5,alternate,Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,draftkings,1,191.0,,flag,3.5
-Tanner McKee,rush_yds,14.5,alternate,Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,draftkings,1,323.0,,flag,3.5
-Tanner McKee,rush_yds,19.5,alternate,Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,draftkings,1,534.0,,flag,3.5
-Tanner McKee,rush_yds,24.5,alternate,Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,draftkings,1,860.0,,flag,3.5
-Tanner McKee,rush_yds,29.5,alternate,Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,draftkings,1,1380.0,,flag,3.5
-Tanner McKee,rush_yds,39.5,alternate,Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,draftkings,1,2900.0,,flag,3.5
-Tyler Goodson,rush_yds,9.5,alternate,Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,draftkings,1,-167.0,,flag,13.5
-Tyler Goodson,rush_yds,13.5,standard,Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,draftkings,1,-111.0,-113.0,flag,13.5
-Tyler Goodson,rush_yds,14.5,alternate,Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,draftkings,1,-101.0,,flag,13.5
-Tyler Goodson,rush_yds,19.5,alternate,Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,draftkings,1,148.0,,flag,13.5
-Tyler Goodson,rush_yds,24.5,alternate,Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,draftkings,1,214.0,,flag,13.5
-Tyler Goodson,rush_yds,29.5,alternate,Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,draftkings,1,297.0,,flag,13.5
-Tyler Goodson,rush_yds,39.5,alternate,Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,draftkings,1,525.0,,flag,13.5
-Tyler Goodson,rush_yds,49.5,alternate,Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,draftkings,1,880.0,,flag,13.5
-Tyler Goodson,rush_yds,59.5,alternate,Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,draftkings,1,1360.0,,flag,13.5
-Tyler Goodson,rush_yds,69.5,alternate,Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,draftkings,1,2000.0,,flag,13.5
-Tyler Goodson,rush_yds,79.5,alternate,Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,draftkings,1,2800.0,,flag,13.5
-Tyler Goodson,rush_yds,89.5,alternate,Dallas Cowboys @ Philadelphia Eagles,2026-10-27 00:15:00+00:00,draftkings,1,3800.0,,flag,13.5
-Bryce Young,pass_att,35.5,standard,Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,draftkings,1,-119.0,-107.0,flag,35.5
-Bryce Young,pass_td,1.5,standard,Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,draftkings,1,-101.0,-126.0,flag,1.5
-Bryce Young,pass_yds,169.5,alternate,Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,draftkings,1,-1400.0,,flag,252.5
-Bryce Young,pass_yds,179.5,alternate,Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,draftkings,1,-940.0,,flag,252.5
-Bryce Young,pass_yds,189.5,alternate,Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,draftkings,1,-660.0,,flag,252.5
-Bryce Young,pass_yds,199.5,alternate,Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,draftkings,1,-467.0,,flag,252.5
-Bryce Young,pass_yds,209.5,alternate,Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,draftkings,1,-348.0,,flag,252.5
-Bryce Young,pass_yds,219.5,alternate,Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,draftkings,1,-259.0,,flag,252.5
-Bryce Young,pass_yds,229.5,alternate,Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,draftkings,1,-202.0,,flag,252.5
-Bryce Young,pass_yds,239.5,alternate,Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,draftkings,1,-155.0,,flag,252.5
-Bryce Young,pass_yds,249.5,alternate,Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,draftkings,1,-120.0,,flag,252.5
-Bryce Young,pass_yds,252.5,standard,Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,draftkings,1,-111.0,-113.0,flag,252.5
-Bryce Young,pass_yds,259.5,alternate,Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,draftkings,1,107.0,,flag,252.5
-Bryce Young,pass_yds,269.5,alternate,Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,draftkings,1,137.0,,flag,252.5
-Bryce Young,pass_yds,279.5,alternate,Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,draftkings,1,175.0,,flag,252.5
-Bryce Young,pass_yds,289.5,alternate,Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,draftkings,1,224.0,,flag,252.5
-Bryce Young,pass_yds,299.5,alternate,Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,draftkings,1,286.0,,flag,252.5
-Bryce Young,pass_yds,309.5,alternate,Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,draftkings,1,365.0,,flag,252.5
-Bryce Young,pass_yds,319.5,alternate,Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,draftkings,1,467.0,,flag,252.5
-Bryce Young,pass_yds,329.5,alternate,Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,draftkings,1,600.0,,flag,252.5
-Bryce Young,pass_yds,339.5,alternate,Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,draftkings,1,760.0,,flag,252.5
-Bryce Young,pass_yds,349.5,alternate,Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,draftkings,1,980.0,,flag,252.5
-Bryce Young,pass_yds,359.5,alternate,Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,draftkings,1,1260.0,,flag,252.5
-Bryce Young,pass_yds,369.5,alternate,Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,draftkings,1,1600.0,,flag,252.5
-Bryce Young,pass_yds,379.5,alternate,Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,draftkings,1,2000.0,,flag,252.5
-Bryce Young,pass_yds,389.5,alternate,Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,draftkings,1,2500.0,,flag,252.5
-Bryce Young,pass_yds,399.5,alternate,Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,draftkings,1,3100.0,,flag,252.5
-Bryce Young,pass_yds,409.5,alternate,Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,draftkings,1,3800.0,,flag,252.5
-Bryce Young,rush_yds,9.5,alternate,Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,draftkings,1,-132.0,,flag,10.5
-Bryce Young,rush_yds,10.5,standard,Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,draftkings,1,-116.0,-108.0,flag,10.5
-Bryce Young,rush_yds,14.5,alternate,Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,draftkings,1,136.0,,flag,10.5
-Bryce Young,rush_yds,19.5,alternate,Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,draftkings,1,222.0,,flag,10.5
-Bryce Young,rush_yds,24.5,alternate,Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,draftkings,1,351.0,,flag,10.5
-Bryce Young,rush_yds,29.5,alternate,Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,draftkings,1,538.0,,flag,10.5
-Bryce Young,rush_yds,39.5,alternate,Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,draftkings,1,1240.0,,flag,10.5
-Bryce Young,rush_yds,49.5,alternate,Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,draftkings,1,2400.0,,flag,10.5
-Chuba Hubbard,car,15.5,standard,Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,draftkings,1,-117.0,-109.0,flag,15.5
-Chuba Hubbard,rush_yds,29.5,alternate,Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,draftkings,1,-2000.0,,flag,69.5
-Chuba Hubbard,rush_yds,39.5,alternate,Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,draftkings,1,-700.0,,flag,69.5
-Chuba Hubbard,rush_yds,49.5,alternate,Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,draftkings,1,-337.0,,flag,69.5
-Chuba Hubbard,rush_yds,59.5,alternate,Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,draftkings,1,-188.0,,flag,69.5
-Chuba Hubbard,rush_yds,69.5,standard,Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,draftkings,1,-114.0,-110.0,flag,69.5
-Chuba Hubbard,rush_yds,79.5,alternate,Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,draftkings,1,141.0,,flag,69.5
-Chuba Hubbard,rush_yds,89.5,alternate,Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,draftkings,1,215.0,,flag,69.5
-Chuba Hubbard,rush_yds,99.5,alternate,Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,draftkings,1,324.0,,flag,69.5
-Chuba Hubbard,rush_yds,109.5,alternate,Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,draftkings,1,464.0,,flag,69.5
-Chuba Hubbard,rush_yds,119.5,alternate,Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,draftkings,1,670.0,,flag,69.5
-Chuba Hubbard,rush_yds,129.5,alternate,Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,draftkings,1,980.0,,flag,69.5
-Chuba Hubbard,rush_yds,139.5,alternate,Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,draftkings,1,1440.0,,flag,69.5
-Chuba Hubbard,rush_yds,149.5,alternate,Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,draftkings,1,2000.0,,flag,69.5
-Chuba Hubbard,rush_yds,159.5,alternate,Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,draftkings,1,2800.0,,flag,69.5
-Chuba Hubbard,rush_yds,169.5,alternate,Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,draftkings,1,3700.0,,flag,69.5
-Jordan Love,pass_att,35.5,standard,Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,draftkings,1,-109.0,-117.0,flag,35.5
-Jordan Love,pass_td,1.5,standard,Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,draftkings,1,-149.0,116.0,flag,1.5
-Jordan Love,pass_yds,179.5,alternate,Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,draftkings,1,-1360.0,,flag,259.5
-Jordan Love,pass_yds,189.5,alternate,Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,draftkings,1,-930.0,,flag,259.5
-Jordan Love,pass_yds,199.5,alternate,Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,draftkings,1,-650.0,,flag,259.5
-Jordan Love,pass_yds,209.5,alternate,Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,draftkings,1,-462.0,,flag,259.5
-Jordan Love,pass_yds,219.5,alternate,Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,draftkings,1,-339.0,,flag,259.5
-Jordan Love,pass_yds,229.5,alternate,Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,draftkings,1,-254.0,,flag,259.5
-Jordan Love,pass_yds,239.5,alternate,Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,draftkings,1,-191.0,,flag,259.5
-Jordan Love,pass_yds,249.5,alternate,Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,draftkings,1,-148.0,,flag,259.5
-Jordan Love,pass_yds,259.5,standard,Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,draftkings,1,-111.0,-113.0,flag,259.5
-Jordan Love,pass_yds,269.5,alternate,Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,draftkings,1,116.0,,flag,259.5
-Jordan Love,pass_yds,279.5,alternate,Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,draftkings,1,149.0,,flag,259.5
-Jordan Love,pass_yds,289.5,alternate,Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,draftkings,1,193.0,,flag,259.5
-Jordan Love,pass_yds,299.5,alternate,Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,draftkings,1,245.0,,flag,259.5
-Jordan Love,pass_yds,309.5,alternate,Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,draftkings,1,320.0,,flag,259.5
-Jordan Love,pass_yds,319.5,alternate,Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,draftkings,1,411.0,,flag,259.5
-Jordan Love,pass_yds,329.5,alternate,Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,draftkings,1,525.0,,flag,259.5
-Jordan Love,pass_yds,339.5,alternate,Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,draftkings,1,680.0,,flag,259.5
-Jordan Love,pass_yds,349.5,alternate,Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,draftkings,1,860.0,,flag,259.5
-Jordan Love,pass_yds,359.5,alternate,Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,draftkings,1,1080.0,,flag,259.5
-Jordan Love,pass_yds,369.5,alternate,Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,draftkings,1,1360.0,,flag,259.5
-Jordan Love,pass_yds,379.5,alternate,Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,draftkings,1,1780.0,,flag,259.5
-Jordan Love,pass_yds,389.5,alternate,Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,draftkings,1,2300.0,,flag,259.5
-Jordan Love,pass_yds,399.5,alternate,Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,draftkings,1,2900.0,,flag,259.5
-Jordan Love,pass_yds,409.5,alternate,Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,draftkings,1,3500.0,,flag,259.5
-Jordan Love,rush_yds,4.5,standard,Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,draftkings,1,-120.0,-105.0,flag,4.5
-Jordan Love,rush_yds,9.5,alternate,Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,draftkings,1,162.0,,flag,4.5
-Jordan Love,rush_yds,14.5,alternate,Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,draftkings,1,280.0,,flag,4.5
-Jordan Love,rush_yds,19.5,alternate,Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,draftkings,1,440.0,,flag,4.5
-Jordan Love,rush_yds,24.5,alternate,Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,draftkings,1,680.0,,flag,4.5
-Jordan Love,rush_yds,29.5,alternate,Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,draftkings,1,1060.0,,flag,4.5
-Jordan Love,rush_yds,39.5,alternate,Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,draftkings,1,2100.0,,flag,4.5
-Jordan Love,rush_yds,49.5,alternate,Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,draftkings,1,3700.0,,flag,4.5
-Josh Jacobs,car,14.5,standard,Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,draftkings,1,-112.0,-114.0,flag,14.5
-Josh Jacobs,rush_yds,19.5,alternate,Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,draftkings,1,-2700.0,,flag,55.5
-Josh Jacobs,rush_yds,24.5,alternate,Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,draftkings,1,-1320.0,,flag,55.5
-Josh Jacobs,rush_yds,29.5,alternate,Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,draftkings,1,-750.0,,flag,55.5
-Josh Jacobs,rush_yds,39.5,alternate,Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,draftkings,1,-320.0,,flag,55.5
-Josh Jacobs,rush_yds,49.5,alternate,Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,draftkings,1,-164.0,,flag,55.5
-Josh Jacobs,rush_yds,55.5,standard,Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,draftkings,1,-114.0,-110.0,flag,55.5
-Josh Jacobs,rush_yds,59.5,alternate,Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,draftkings,1,108.0,,flag,55.5
-Josh Jacobs,rush_yds,69.5,alternate,Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,draftkings,1,180.0,,flag,55.5
-Josh Jacobs,rush_yds,79.5,alternate,Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,draftkings,1,290.0,,flag,55.5
-Josh Jacobs,rush_yds,89.5,alternate,Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,draftkings,1,451.0,,flag,55.5
-Josh Jacobs,rush_yds,99.5,alternate,Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,draftkings,1,700.0,,flag,55.5
-Josh Jacobs,rush_yds,109.5,alternate,Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,draftkings,1,1040.0,,flag,55.5
-Josh Jacobs,rush_yds,129.5,alternate,Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,draftkings,1,2200.0,,flag,55.5
-Josh Jacobs,rush_yds,139.5,alternate,Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,draftkings,1,3100.0,,flag,55.5
-MarShawn Lloyd,car,5.5,standard,Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,draftkings,1,-131.0,102.0,flag,5.5
-MarShawn Lloyd,rush_yds,9.5,alternate,Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,draftkings,1,-352.0,,flag,18.5
-MarShawn Lloyd,rush_yds,14.5,alternate,Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,draftkings,1,-174.0,,flag,18.5
-MarShawn Lloyd,rush_yds,18.5,standard,Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,draftkings,1,-108.0,-116.0,flag,18.5
-MarShawn Lloyd,rush_yds,19.5,alternate,Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,draftkings,1,101.0,,flag,18.5
-MarShawn Lloyd,rush_yds,24.5,alternate,Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,draftkings,1,164.0,,flag,18.5
-MarShawn Lloyd,rush_yds,29.5,alternate,Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,draftkings,1,246.0,,flag,18.5
-MarShawn Lloyd,rush_yds,39.5,alternate,Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,draftkings,1,510.0,,flag,18.5
-MarShawn Lloyd,rush_yds,49.5,alternate,Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,draftkings,1,910.0,,flag,18.5
-MarShawn Lloyd,rush_yds,59.5,alternate,Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,draftkings,1,1440.0,,flag,18.5
-MarShawn Lloyd,rush_yds,69.5,alternate,Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,draftkings,1,2200.0,,flag,18.5
-MarShawn Lloyd,rush_yds,79.5,alternate,Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,draftkings,1,3200.0,,flag,18.5
+Bo Melton,rec,0.5,standard,Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,draftkings,1,-127.0,100.0,flag,0.5
+Bo Melton,rec,1.5,alternate,Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,draftkings,1,380.0,,flag,0.5
+Bo Melton,rec,2.5,alternate,Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,draftkings,1,1320.0,,flag,0.5
+Bo Melton,rec_yds,2.5,standard,Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,draftkings,1,,-109.0,flag,2.5
+Bo Melton,rec_yds,9.5,alternate,Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,draftkings,1,136.0,,flag,2.5
+Bo Melton,rec_yds,14.5,alternate,Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,draftkings,1,211.0,,flag,2.5
+Bo Melton,rec_yds,19.5,alternate,Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,draftkings,1,310.0,,flag,2.5
+Bo Melton,rec_yds,24.5,alternate,Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,draftkings,1,436.0,,flag,2.5
+Bo Melton,rec_yds,29.5,alternate,Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,draftkings,1,574.0,,flag,2.5
+Bo Melton,rec_yds,39.5,alternate,Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,draftkings,1,970.0,,flag,2.5
+Bo Melton,rec_yds,49.5,alternate,Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,draftkings,1,1560.0,,flag,2.5
+Bo Melton,rec_yds,59.5,alternate,Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,draftkings,1,2400.0,,flag,2.5
+Bo Melton,rec_yds,69.5,alternate,Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,draftkings,1,3400.0,,flag,2.5
+Bryce Young,pass_att,36.5,standard,Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,draftkings,1,100.0,-127.0,flag,36.5
+Bryce Young,pass_td,1.5,standard,Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,draftkings,1,100.0,-128.0,flag,1.5
+Bryce Young,pass_yds,169.5,alternate,Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,draftkings,1,-1320.0,,flag,253.5
+Bryce Young,pass_yds,179.5,alternate,Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,draftkings,1,-870.0,,flag,253.5
+Bryce Young,pass_yds,189.5,alternate,Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,draftkings,1,-620.0,,flag,253.5
+Bryce Young,pass_yds,199.5,alternate,Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,draftkings,1,-449.0,,flag,253.5
+Bryce Young,pass_yds,209.5,alternate,Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,draftkings,1,-339.0,,flag,253.5
+Bryce Young,pass_yds,219.5,alternate,Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,draftkings,1,-259.0,,flag,253.5
+Bryce Young,pass_yds,229.5,alternate,Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,draftkings,1,-199.0,,flag,253.5
+Bryce Young,pass_yds,239.5,alternate,Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,draftkings,1,-155.0,,flag,253.5
+Bryce Young,pass_yds,249.5,alternate,Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,draftkings,1,-122.0,,flag,253.5
+Bryce Young,pass_yds,253.5,standard,Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,draftkings,1,-111.0,-113.0,flag,253.5
+Bryce Young,pass_yds,259.5,alternate,Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,draftkings,1,104.0,,flag,253.5
+Bryce Young,pass_yds,269.5,alternate,Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,draftkings,1,131.0,,flag,253.5
+Bryce Young,pass_yds,279.5,alternate,Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,draftkings,1,163.0,,flag,253.5
+Bryce Young,pass_yds,289.5,alternate,Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,draftkings,1,206.0,,flag,253.5
+Bryce Young,pass_yds,299.5,alternate,Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,draftkings,1,255.0,,flag,253.5
+Bryce Young,pass_yds,309.5,alternate,Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,draftkings,1,321.0,,flag,253.5
+Bryce Young,pass_yds,319.5,alternate,Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,draftkings,1,402.0,,flag,253.5
+Bryce Young,pass_yds,329.5,alternate,Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,draftkings,1,502.0,,flag,253.5
+Bryce Young,pass_yds,339.5,alternate,Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,draftkings,1,630.0,,flag,253.5
+Bryce Young,pass_yds,349.5,alternate,Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,draftkings,1,790.0,,flag,253.5
+Bryce Young,pass_yds,359.5,alternate,Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,draftkings,1,970.0,,flag,253.5
+Bryce Young,pass_yds,369.5,alternate,Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,draftkings,1,1200.0,,flag,253.5
+Bryce Young,pass_yds,379.5,alternate,Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,draftkings,1,1460.0,,flag,253.5
+Bryce Young,pass_yds,389.5,alternate,Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,draftkings,1,1760.0,,flag,253.5
+Bryce Young,pass_yds,399.5,alternate,Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,draftkings,1,2100.0,,flag,253.5
+Bryce Young,pass_yds,409.5,alternate,Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,draftkings,1,2400.0,,flag,253.5
+Bryce Young,pass_yds,419.5,alternate,Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,draftkings,1,2800.0,,flag,253.5
+Bryce Young,rush_yds,9.5,standard,Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,draftkings,1,-108.0,-116.0,flag,9.5
+Bryce Young,rush_yds,14.5,alternate,Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,draftkings,1,164.0,,flag,9.5
+Bryce Young,rush_yds,19.5,alternate,Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,draftkings,1,267.0,,flag,9.5
+Bryce Young,rush_yds,24.5,alternate,Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,draftkings,1,426.0,,flag,9.5
+Bryce Young,rush_yds,29.5,alternate,Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,draftkings,1,650.0,,flag,9.5
+Bryce Young,rush_yds,39.5,alternate,Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,draftkings,1,1420.0,,flag,9.5
+Bryce Young,rush_yds,49.5,alternate,Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,draftkings,1,2700.0,,flag,9.5
+Brycen Tremayne,rec,0.5,standard,Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,draftkings,1,-127.0,-101.0,flag,0.5
+Brycen Tremayne,rec,1.5,alternate,Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,draftkings,1,370.0,,flag,0.5
+Brycen Tremayne,rec,2.5,alternate,Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,draftkings,1,1320.0,,flag,0.5
+Brycen Tremayne,rec_yds,5.5,standard,Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,draftkings,1,-111.0,-113.0,flag,5.5
+Brycen Tremayne,rec_yds,9.5,alternate,Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,draftkings,1,110.0,,flag,5.5
+Brycen Tremayne,rec_yds,14.5,alternate,Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,draftkings,1,152.0,,flag,5.5
+Brycen Tremayne,rec_yds,24.5,alternate,Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,draftkings,1,351.0,,flag,5.5
+Brycen Tremayne,rec_yds,39.5,alternate,Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,draftkings,1,830.0,,flag,5.5
+Brycen Tremayne,rec_yds,59.5,alternate,Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,draftkings,1,2300.0,,flag,5.5
+Brycen Tremayne,rec_yds,69.5,alternate,Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,draftkings,1,3700.0,,flag,5.5
+Christian Watson,rec,2.5,alternate,Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,draftkings,1,-850.0,,flag,4.5
+Christian Watson,rec,3.5,alternate,Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,draftkings,1,-298.0,,flag,4.5
+Christian Watson,rec,4.5,standard,Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,draftkings,1,-136.0,107.0,flag,4.5
+Christian Watson,rec,5.5,alternate,Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,draftkings,1,141.0,,flag,4.5
+Christian Watson,rec,6.5,alternate,Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,draftkings,1,257.0,,flag,4.5
+Christian Watson,rec,7.5,alternate,Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,draftkings,1,471.0,,flag,4.5
+Christian Watson,rec,8.5,alternate,Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,draftkings,1,830.0,,flag,4.5
+Christian Watson,rec,9.5,alternate,Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,draftkings,1,1380.0,,flag,4.5
+Christian Watson,rec,10.5,alternate,Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,draftkings,1,2200.0,,flag,4.5
+Christian Watson,rec_yds,19.5,alternate,Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,draftkings,1,-1960.0,,flag,71.5
+Christian Watson,rec_yds,29.5,alternate,Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,draftkings,1,-860.0,,flag,71.5
+Christian Watson,rec_yds,39.5,alternate,Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,draftkings,1,-448.0,,flag,71.5
+Christian Watson,rec_yds,49.5,alternate,Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,draftkings,1,-269.0,,flag,71.5
+Christian Watson,rec_yds,59.5,alternate,Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,draftkings,1,-174.0,,flag,71.5
+Christian Watson,rec_yds,69.5,alternate,Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,draftkings,1,-120.0,,flag,71.5
+Christian Watson,rec_yds,71.5,standard,Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,draftkings,1,-111.0,,flag,71.5
+Christian Watson,rec_yds,79.5,alternate,Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,draftkings,1,121.0,,flag,71.5
+Christian Watson,rec_yds,89.5,alternate,Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,draftkings,1,171.0,,flag,71.5
+Christian Watson,rec_yds,99.5,alternate,Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,draftkings,1,236.0,,flag,71.5
+Christian Watson,rec_yds,109.5,alternate,Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,draftkings,1,328.0,,flag,71.5
+Christian Watson,rec_yds,119.5,alternate,Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,draftkings,1,448.0,,flag,71.5
+Christian Watson,rec_yds,129.5,alternate,Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,draftkings,1,610.0,,flag,71.5
+Christian Watson,rec_yds,139.5,alternate,Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,draftkings,1,830.0,,flag,71.5
+Christian Watson,rec_yds,149.5,alternate,Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,draftkings,1,1120.0,,flag,71.5
+Christian Watson,rec_yds,159.5,alternate,Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,draftkings,1,1520.0,,flag,71.5
+Christian Watson,rec_yds,169.5,alternate,Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,draftkings,1,2000.0,,flag,71.5
+Christian Watson,rec_yds,179.5,alternate,Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,draftkings,1,2600.0,,flag,71.5
+Christian Watson,rec_yds,189.5,alternate,Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,draftkings,1,3300.0,,flag,71.5
+Chuba Hubbard,car,16.5,standard,Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,draftkings,1,-108.0,-118.0,flag,16.5
+Chuba Hubbard,rec,1.5,alternate,Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,draftkings,1,-331.0,,flag,2.5
+Chuba Hubbard,rec,2.5,standard,Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,draftkings,1,-116.0,-110.0,flag,2.5
+Chuba Hubbard,rec,3.5,alternate,Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,draftkings,1,197.0,,flag,2.5
+Chuba Hubbard,rec,4.5,alternate,Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,draftkings,1,423.0,,flag,2.5
+Chuba Hubbard,rec,5.5,alternate,Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,draftkings,1,850.0,,flag,2.5
+Chuba Hubbard,rec,6.5,alternate,Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,draftkings,1,1580.0,,flag,2.5
+Chuba Hubbard,rec,7.5,alternate,Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,draftkings,1,2500.0,,flag,2.5
+Chuba Hubbard,rec_yds,9.5,alternate,Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,draftkings,1,-249.0,,flag,16.5
+Chuba Hubbard,rec_yds,14.5,alternate,Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,draftkings,1,-139.0,,flag,16.5
+Chuba Hubbard,rec_yds,16.5,standard,Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,draftkings,1,-112.0,-112.0,flag,16.5
+Chuba Hubbard,rec_yds,19.5,alternate,Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,draftkings,1,113.0,,flag,16.5
+Chuba Hubbard,rec_yds,24.5,alternate,Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,draftkings,1,168.0,,flag,16.5
+Chuba Hubbard,rec_yds,29.5,alternate,Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,draftkings,1,243.0,,flag,16.5
+Chuba Hubbard,rec_yds,39.5,alternate,Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,draftkings,1,473.0,,flag,16.5
+Chuba Hubbard,rec_yds,49.5,alternate,Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,draftkings,1,800.0,,flag,16.5
+Chuba Hubbard,rec_yds,69.5,alternate,Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,draftkings,1,1960.0,,flag,16.5
+Chuba Hubbard,rec_yds,79.5,alternate,Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,draftkings,1,2900.0,,flag,16.5
+Chuba Hubbard,rush_yds,24.5,alternate,Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,draftkings,1,-2900.0,,flag,67.5
+Chuba Hubbard,rush_yds,29.5,alternate,Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,draftkings,1,-1480.0,,flag,67.5
+Chuba Hubbard,rush_yds,39.5,alternate,Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,draftkings,1,-599.0,,flag,67.5
+Chuba Hubbard,rush_yds,49.5,alternate,Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,draftkings,1,-293.0,,flag,67.5
+Chuba Hubbard,rush_yds,59.5,alternate,Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,draftkings,1,-168.0,,flag,67.5
+Chuba Hubbard,rush_yds,67.5,standard,Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,draftkings,1,-114.0,-110.0,flag,67.5
+Chuba Hubbard,rush_yds,69.5,alternate,Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,draftkings,1,-104.0,,flag,67.5
+Chuba Hubbard,rush_yds,79.5,alternate,Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,draftkings,1,150.0,,flag,67.5
+Chuba Hubbard,rush_yds,89.5,alternate,Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,draftkings,1,229.0,,flag,67.5
+Chuba Hubbard,rush_yds,99.5,alternate,Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,draftkings,1,340.0,,flag,67.5
+Chuba Hubbard,rush_yds,109.5,alternate,Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,draftkings,1,496.0,,flag,67.5
+Chuba Hubbard,rush_yds,119.5,alternate,Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,draftkings,1,700.0,,flag,67.5
+Chuba Hubbard,rush_yds,129.5,alternate,Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,draftkings,1,1000.0,,flag,67.5
+Chuba Hubbard,rush_yds,139.5,alternate,Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,draftkings,1,1420.0,,flag,67.5
+Chuba Hubbard,rush_yds,149.5,alternate,Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,draftkings,1,2000.0,,flag,67.5
+Chuba Hubbard,rush_yds,159.5,alternate,Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,draftkings,1,2700.0,,flag,67.5
+Chuba Hubbard,rush_yds,169.5,alternate,Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,draftkings,1,3700.0,,flag,67.5
+Darren Waller,rec,1.5,alternate,Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,draftkings,1,-224.0,,flag,2.5
+Darren Waller,rec,2.5,standard,Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,draftkings,1,134.0,-171.0,flag,2.5
+Darren Waller,rec,3.5,alternate,Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,draftkings,1,348.0,,flag,2.5
+Darren Waller,rec,4.5,alternate,Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,draftkings,1,820.0,,flag,2.5
+Darren Waller,rec,5.5,alternate,Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,draftkings,1,1780.0,,flag,2.5
+Darren Waller,rec_yds,14.5,alternate,Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,draftkings,1,-197.0,,flag,21.5
+Darren Waller,rec_yds,19.5,alternate,Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,draftkings,1,-126.0,,flag,21.5
+Darren Waller,rec_yds,21.5,standard,Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,draftkings,1,-109.0,-115.0,flag,21.5
+Darren Waller,rec_yds,24.5,alternate,Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,draftkings,1,115.0,,flag,21.5
+Darren Waller,rec_yds,29.5,alternate,Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,draftkings,1,157.0,,flag,21.5
+Darren Waller,rec_yds,49.5,alternate,Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,draftkings,1,491.0,,flag,21.5
+Darren Waller,rec_yds,59.5,alternate,Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,draftkings,1,800.0,,flag,21.5
+Darren Waller,rec_yds,69.5,alternate,Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,draftkings,1,1300.0,,flag,21.5
+Darren Waller,rec_yds,79.5,alternate,Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,draftkings,1,1980.0,,flag,21.5
+Darren Waller,rec_yds,89.5,alternate,Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,draftkings,1,2800.0,,flag,21.5
+Jalen Coker,rec,2.5,alternate,Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,draftkings,1,-950.0,,flag,4.5
+Jalen Coker,rec,3.5,alternate,Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,draftkings,1,-345.0,,flag,4.5
+Jalen Coker,rec,4.5,standard,Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,draftkings,1,-154.0,121.0,flag,4.5
+Jalen Coker,rec,5.5,alternate,Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,draftkings,1,132.0,,flag,4.5
+Jalen Coker,rec,6.5,alternate,Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,draftkings,1,255.0,,flag,4.5
+Jalen Coker,rec,7.5,alternate,Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,draftkings,1,482.0,,flag,4.5
+Jalen Coker,rec,8.5,alternate,Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,draftkings,1,870.0,,flag,4.5
+Jalen Coker,rec,9.5,alternate,Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,draftkings,1,1520.0,,flag,4.5
+Jalen Coker,rec,10.5,alternate,Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,draftkings,1,2300.0,,flag,4.5
+Jalen Coker,rec_yds,14.5,alternate,Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,draftkings,1,-2900.0,,flag,61.5
+Jalen Coker,rec_yds,19.5,alternate,Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,draftkings,1,-1560.0,,flag,61.5
+Jalen Coker,rec_yds,24.5,alternate,Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,draftkings,1,-960.0,,flag,61.5
+Jalen Coker,rec_yds,39.5,alternate,Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,draftkings,1,-331.0,,flag,61.5
+Jalen Coker,rec_yds,49.5,alternate,Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,draftkings,1,-194.0,,flag,61.5
+Jalen Coker,rec_yds,59.5,alternate,Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,draftkings,1,-121.0,,flag,61.5
+Jalen Coker,rec_yds,61.5,standard,Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,draftkings,1,-113.0,-111.0,flag,61.5
+Jalen Coker,rec_yds,69.5,alternate,Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,draftkings,1,128.0,,flag,61.5
+Jalen Coker,rec_yds,99.5,alternate,Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,draftkings,1,405.0,,flag,61.5
+Jalen Coker,rec_yds,109.5,alternate,Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,draftkings,1,582.0,,flag,61.5
+Jalen Coker,rec_yds,119.5,alternate,Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,draftkings,1,820.0,,flag,61.5
+Jalen Coker,rec_yds,129.5,alternate,Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,draftkings,1,1180.0,,flag,61.5
+Jalen Coker,rec_yds,139.5,alternate,Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,draftkings,1,1640.0,,flag,61.5
+Jalen Coker,rec_yds,159.5,alternate,Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,draftkings,1,3100.0,,flag,61.5
+John Metchie III,rec,1.5,standard,Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,draftkings,1,-150.0,117.0,flag,1.5
+John Metchie III,rec,2.5,alternate,Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,draftkings,1,170.0,,flag,1.5
+John Metchie III,rec,3.5,alternate,Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,draftkings,1,374.0,,flag,1.5
+John Metchie III,rec,4.5,alternate,Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,draftkings,1,780.0,,flag,1.5
+John Metchie III,rec,5.5,alternate,Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,draftkings,1,1500.0,,flag,1.5
+John Metchie III,rec,6.5,alternate,Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,draftkings,1,2400.0,,flag,1.5
+John Metchie III,rec_yds,9.5,alternate,Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,draftkings,1,-212.0,,flag,16.5
+John Metchie III,rec_yds,14.5,alternate,Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,draftkings,1,-130.0,,flag,16.5
+John Metchie III,rec_yds,16.5,standard,Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,draftkings,1,-109.0,-116.0,flag,16.5
+John Metchie III,rec_yds,19.5,alternate,Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,draftkings,1,112.0,,flag,16.5
+John Metchie III,rec_yds,24.5,alternate,Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,draftkings,1,154.0,,flag,16.5
+John Metchie III,rec_yds,29.5,alternate,Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,draftkings,1,207.0,,flag,16.5
+John Metchie III,rec_yds,39.5,alternate,Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,draftkings,1,367.0,,flag,16.5
+John Metchie III,rec_yds,49.5,alternate,Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,draftkings,1,610.0,,flag,16.5
+John Metchie III,rec_yds,59.5,alternate,Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,draftkings,1,990.0,,flag,16.5
+John Metchie III,rec_yds,69.5,alternate,Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,draftkings,1,1520.0,,flag,16.5
+John Metchie III,rec_yds,89.5,alternate,Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,draftkings,1,3400.0,,flag,16.5
+Jonnu Smith,rec,0.5,standard,Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,draftkings,1,-122.0,-105.0,flag,0.5
+Jonnu Smith,rec,1.5,alternate,Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,draftkings,1,366.0,,flag,0.5
+Jonnu Smith,rec,2.5,alternate,Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,draftkings,1,1240.0,,flag,0.5
+Jonnu Smith,rec_yds,2.5,standard,Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,draftkings,1,-113.0,-111.0,flag,2.5
+Jonnu Smith,rec_yds,9.5,alternate,Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,draftkings,1,166.0,,flag,2.5
+Jonnu Smith,rec_yds,14.5,alternate,Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,draftkings,1,289.0,,flag,2.5
+Jonnu Smith,rec_yds,19.5,alternate,Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,draftkings,1,418.0,,flag,2.5
+Jonnu Smith,rec_yds,24.5,alternate,Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,draftkings,1,582.0,,flag,2.5
+Jonnu Smith,rec_yds,29.5,alternate,Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,draftkings,1,800.0,,flag,2.5
+Jonnu Smith,rec_yds,39.5,alternate,Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,draftkings,1,1480.0,,flag,2.5
+Jonnu Smith,rec_yds,49.5,alternate,Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,draftkings,1,2400.0,,flag,2.5
+Jonnu Smith,rec_yds,59.5,alternate,Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,draftkings,1,3300.0,,flag,2.5
+Jordan Love,pass_att,34.5,standard,Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,draftkings,1,-120.0,-106.0,flag,34.5
+Jordan Love,pass_td,1.5,standard,Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,draftkings,1,-154.0,121.0,flag,1.5
+Jordan Love,pass_yds,179.5,alternate,Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,draftkings,1,-1360.0,,flag,262.5
+Jordan Love,pass_yds,189.5,alternate,Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,draftkings,1,-890.0,,flag,262.5
+Jordan Love,pass_yds,199.5,alternate,Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,draftkings,1,-620.0,,flag,262.5
+Jordan Love,pass_yds,209.5,alternate,Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,draftkings,1,-452.0,,flag,262.5
+Jordan Love,pass_yds,219.5,alternate,Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,draftkings,1,-343.0,,flag,262.5
+Jordan Love,pass_yds,229.5,alternate,Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,draftkings,1,-260.0,,flag,262.5
+Jordan Love,pass_yds,239.5,alternate,Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,draftkings,1,-198.0,,flag,262.5
+Jordan Love,pass_yds,249.5,alternate,Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,draftkings,1,-155.0,,flag,262.5
+Jordan Love,pass_yds,259.5,alternate,Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,draftkings,1,-120.0,,flag,262.5
+Jordan Love,pass_yds,262.5,standard,Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,draftkings,1,-111.0,-113.0,flag,262.5
+Jordan Love,pass_yds,269.5,alternate,Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,draftkings,1,107.0,,flag,262.5
+Jordan Love,pass_yds,279.5,alternate,Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,draftkings,1,136.0,,flag,262.5
+Jordan Love,pass_yds,289.5,alternate,Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,draftkings,1,170.0,,flag,262.5
+Jordan Love,pass_yds,299.5,alternate,Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,draftkings,1,213.0,,flag,262.5
+Jordan Love,pass_yds,309.5,alternate,Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,draftkings,1,267.0,,flag,262.5
+Jordan Love,pass_yds,319.5,alternate,Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,draftkings,1,338.0,,flag,262.5
+Jordan Love,pass_yds,329.5,alternate,Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,draftkings,1,421.0,,flag,262.5
+Jordan Love,pass_yds,339.5,alternate,Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,draftkings,1,525.0,,flag,262.5
+Jordan Love,pass_yds,349.5,alternate,Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,draftkings,1,650.0,,flag,262.5
+Jordan Love,pass_yds,359.5,alternate,Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,draftkings,1,800.0,,flag,262.5
+Jordan Love,pass_yds,369.5,alternate,Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,draftkings,1,1000.0,,flag,262.5
+Jordan Love,pass_yds,379.5,alternate,Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,draftkings,1,1260.0,,flag,262.5
+Jordan Love,pass_yds,389.5,alternate,Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,draftkings,1,1520.0,,flag,262.5
+Jordan Love,pass_yds,399.5,alternate,Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,draftkings,1,1800.0,,flag,262.5
+Jordan Love,pass_yds,409.5,alternate,Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,draftkings,1,2100.0,,flag,262.5
+Jordan Love,pass_yds,419.5,alternate,Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,draftkings,1,2400.0,,flag,262.5
+Jordan Love,pass_yds,429.5,alternate,Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,draftkings,1,2800.0,,flag,262.5
+Jordan Love,rush_yds,4.5,standard,Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,draftkings,1,-113.0,-111.0,flag,4.5
+Jordan Love,rush_yds,9.5,alternate,Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,draftkings,1,172.0,,flag,4.5
+Jordan Love,rush_yds,14.5,alternate,Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,draftkings,1,291.0,,flag,4.5
+Jordan Love,rush_yds,19.5,alternate,Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,draftkings,1,465.0,,flag,4.5
+Jordan Love,rush_yds,24.5,alternate,Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,draftkings,1,750.0,,flag,4.5
+Jordan Love,rush_yds,29.5,alternate,Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,draftkings,1,1160.0,,flag,4.5
+Jordan Love,rush_yds,39.5,alternate,Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,draftkings,1,2600.0,,flag,4.5
+Josh Jacobs,car,14.5,standard,Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,draftkings,1,-123.0,-104.0,flag,14.5
+Josh Jacobs,rec,1.5,alternate,Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,draftkings,1,-417.0,,flag,2.5
+Josh Jacobs,rec,2.5,standard,Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,draftkings,1,-134.0,105.0,flag,2.5
+Josh Jacobs,rec,3.5,alternate,Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,draftkings,1,178.0,,flag,2.5
+Josh Jacobs,rec,4.5,alternate,Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,draftkings,1,399.0,,flag,2.5
+Josh Jacobs,rec,5.5,alternate,Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,draftkings,1,860.0,,flag,2.5
+Josh Jacobs,rec,6.5,alternate,Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,draftkings,1,1720.0,,flag,2.5
+Josh Jacobs,rec,7.5,alternate,Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,draftkings,1,2900.0,,flag,2.5
+Josh Jacobs,rec_yds,9.5,alternate,Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,draftkings,1,-297.0,,flag,18.5
+Josh Jacobs,rec_yds,14.5,alternate,Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,draftkings,1,-163.0,,flag,18.5
+Josh Jacobs,rec_yds,18.5,standard,Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,draftkings,1,-107.0,-117.0,flag,18.5
+Josh Jacobs,rec_yds,19.5,alternate,Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,draftkings,1,101.0,,flag,18.5
+Josh Jacobs,rec_yds,24.5,alternate,Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,draftkings,1,150.0,,flag,18.5
+Josh Jacobs,rec_yds,39.5,alternate,Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,draftkings,1,420.0,,flag,18.5
+Josh Jacobs,rec_yds,49.5,alternate,Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,draftkings,1,730.0,,flag,18.5
+Josh Jacobs,rec_yds,59.5,alternate,Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,draftkings,1,1160.0,,flag,18.5
+Josh Jacobs,rec_yds,79.5,alternate,Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,draftkings,1,2600.0,,flag,18.5
+Josh Jacobs,rec_yds,89.5,alternate,Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,draftkings,1,3800.0,,flag,18.5
+Josh Jacobs,rush_yds,24.5,alternate,Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,draftkings,1,-1540.0,,flag,58.5
+Josh Jacobs,rush_yds,29.5,alternate,Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,draftkings,1,-860.0,,flag,58.5
+Josh Jacobs,rush_yds,39.5,alternate,Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,draftkings,1,-365.0,,flag,58.5
+Josh Jacobs,rush_yds,49.5,alternate,Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,draftkings,1,-189.0,,flag,58.5
+Josh Jacobs,rush_yds,58.5,standard,Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,draftkings,1,-115.0,-109.0,flag,58.5
+Josh Jacobs,rush_yds,59.5,alternate,Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,draftkings,1,-109.0,,flag,58.5
+Josh Jacobs,rush_yds,69.5,alternate,Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,draftkings,1,150.0,,flag,58.5
+Josh Jacobs,rush_yds,79.5,alternate,Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,draftkings,1,236.0,,flag,58.5
+Josh Jacobs,rush_yds,89.5,alternate,Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,draftkings,1,359.0,,flag,58.5
+Josh Jacobs,rush_yds,99.5,alternate,Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,draftkings,1,542.0,,flag,58.5
+Josh Jacobs,rush_yds,109.5,alternate,Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,draftkings,1,810.0,,flag,58.5
+Josh Jacobs,rush_yds,119.5,alternate,Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,draftkings,1,1160.0,,flag,58.5
+Josh Jacobs,rush_yds,129.5,alternate,Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,draftkings,1,1720.0,,flag,58.5
+Josh Jacobs,rush_yds,139.5,alternate,Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,draftkings,1,2500.0,,flag,58.5
+Josh Jacobs,rush_yds,149.5,alternate,Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,draftkings,1,3500.0,,flag,58.5
+MarShawn Lloyd,car,5.5,standard,Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,draftkings,1,120.0,-153.0,flag,5.5
+MarShawn Lloyd,rec,1.5,standard,Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,draftkings,1,174.0,-225.0,flag,1.5
+MarShawn Lloyd,rec,2.5,alternate,Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,draftkings,1,533.0,,flag,1.5
+MarShawn Lloyd,rec,3.5,alternate,Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,draftkings,1,1400.0,,flag,1.5
+MarShawn Lloyd,rec,4.5,alternate,Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,draftkings,1,2800.0,,flag,1.5
+MarShawn Lloyd,rec_yds,5.5,standard,Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,draftkings,1,-111.0,-113.0,flag,5.5
+MarShawn Lloyd,rec_yds,9.5,alternate,Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,draftkings,1,170.0,,flag,5.5
+MarShawn Lloyd,rec_yds,19.5,alternate,Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,draftkings,1,456.0,,flag,5.5
+MarShawn Lloyd,rec_yds,24.5,alternate,Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,draftkings,1,670.0,,flag,5.5
+MarShawn Lloyd,rec_yds,29.5,alternate,Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,draftkings,1,970.0,,flag,5.5
+MarShawn Lloyd,rec_yds,39.5,alternate,Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,draftkings,1,1860.0,,flag,5.5
+MarShawn Lloyd,rec_yds,49.5,alternate,Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,draftkings,1,2900.0,,flag,5.5
+MarShawn Lloyd,rush_yds,9.5,alternate,Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,draftkings,1,-310.0,,flag,17.5
+MarShawn Lloyd,rush_yds,14.5,alternate,Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,draftkings,1,-159.0,,flag,17.5
+MarShawn Lloyd,rush_yds,17.5,standard,Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,draftkings,1,-113.0,-111.0,flag,17.5
+MarShawn Lloyd,rush_yds,19.5,alternate,Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,draftkings,1,109.0,,flag,17.5
+MarShawn Lloyd,rush_yds,24.5,alternate,Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,draftkings,1,171.0,,flag,17.5
+MarShawn Lloyd,rush_yds,29.5,alternate,Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,draftkings,1,258.0,,flag,17.5
+MarShawn Lloyd,rush_yds,39.5,alternate,Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,draftkings,1,512.0,,flag,17.5
+MarShawn Lloyd,rush_yds,49.5,alternate,Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,draftkings,1,910.0,,flag,17.5
+MarShawn Lloyd,rush_yds,59.5,alternate,Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,draftkings,1,1480.0,,flag,17.5
+MarShawn Lloyd,rush_yds,69.5,alternate,Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,draftkings,1,2300.0,,flag,17.5
+MarShawn Lloyd,rush_yds,79.5,alternate,Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,draftkings,1,3300.0,,flag,17.5
+Matthew Golden,rec,1.5,alternate,Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,draftkings,1,-2500.0,,flag,4.5
+Matthew Golden,rec,2.5,alternate,Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,draftkings,1,-650.0,,flag,4.5
+Matthew Golden,rec,3.5,alternate,Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,draftkings,1,-269.0,,flag,4.5
+Matthew Golden,rec,4.5,standard,Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,draftkings,1,-129.0,101.0,flag,4.5
+Matthew Golden,rec,5.5,alternate,Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,draftkings,1,144.0,,flag,4.5
+Matthew Golden,rec,6.5,alternate,Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,draftkings,1,262.0,,flag,4.5
+Matthew Golden,rec,7.5,alternate,Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,draftkings,1,472.0,,flag,4.5
+Matthew Golden,rec,8.5,alternate,Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,draftkings,1,820.0,,flag,4.5
+Matthew Golden,rec,9.5,alternate,Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,draftkings,1,1380.0,,flag,4.5
+Matthew Golden,rec,10.5,alternate,Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,draftkings,1,2100.0,,flag,4.5
+Matthew Golden,rec_yds,9.5,alternate,Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,draftkings,1,-3500.0,,flag,58.5
+Matthew Golden,rec_yds,14.5,alternate,Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,draftkings,1,-1660.0,,flag,58.5
+Matthew Golden,rec_yds,19.5,alternate,Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,draftkings,1,-1020.0,,flag,58.5
+Matthew Golden,rec_yds,24.5,alternate,Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,draftkings,1,-680.0,,flag,58.5
+Matthew Golden,rec_yds,39.5,alternate,Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,draftkings,1,-271.0,,flag,58.5
+Matthew Golden,rec_yds,49.5,alternate,Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,draftkings,1,-165.0,,flag,58.5
+Matthew Golden,rec_yds,58.5,standard,Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,draftkings,1,-111.0,-113.0,flag,58.5
+Matthew Golden,rec_yds,59.5,alternate,Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,draftkings,1,-106.0,,flag,58.5
+Matthew Golden,rec_yds,69.5,alternate,Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,draftkings,1,140.0,,flag,58.5
+Matthew Golden,rec_yds,89.5,alternate,Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,draftkings,1,290.0,,flag,58.5
+Matthew Golden,rec_yds,99.5,alternate,Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,draftkings,1,410.0,,flag,58.5
+Matthew Golden,rec_yds,109.5,alternate,Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,draftkings,1,568.0,,flag,58.5
+Matthew Golden,rec_yds,119.5,alternate,Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,draftkings,1,780.0,,flag,58.5
+Matthew Golden,rec_yds,129.5,alternate,Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,draftkings,1,1100.0,,flag,58.5
+Matthew Golden,rec_yds,139.5,alternate,Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,draftkings,1,1480.0,,flag,58.5
+Matthew Golden,rec_yds,149.5,alternate,Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,draftkings,1,2000.0,,flag,58.5
+Matthew Golden,rec_yds,159.5,alternate,Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,draftkings,1,2700.0,,flag,58.5
+Mitchell Evans,rec,1.5,standard,Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,draftkings,1,171.0,-220.0,flag,1.5
+Mitchell Evans,rec,2.5,alternate,Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,draftkings,1,567.0,,flag,1.5
+Mitchell Evans,rec,3.5,alternate,Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,draftkings,1,1600.0,,flag,1.5
+Mitchell Evans,rec_yds,6.5,standard,Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,draftkings,1,-118.0,-106.0,flag,6.5
+Mitchell Evans,rec_yds,9.5,alternate,Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,draftkings,1,133.0,,flag,6.5
+Mitchell Evans,rec_yds,14.5,alternate,Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,draftkings,1,240.0,,flag,6.5
+Mitchell Evans,rec_yds,19.5,alternate,Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,draftkings,1,380.0,,flag,6.5
+Mitchell Evans,rec_yds,24.5,alternate,Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,draftkings,1,564.0,,flag,6.5
+Mitchell Evans,rec_yds,29.5,alternate,Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,draftkings,1,840.0,,flag,6.5
+Mitchell Evans,rec_yds,39.5,alternate,Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,draftkings,1,1640.0,,flag,6.5
+Mitchell Evans,rec_yds,49.5,alternate,Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,draftkings,1,2500.0,,flag,6.5
+Mitchell Evans,rec_yds,59.5,alternate,Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,draftkings,1,3800.0,,flag,6.5
+Savion Williams,rec,1.5,alternate,Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,draftkings,1,-301.0,,flag,2.5
+Savion Williams,rec,2.5,standard,Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,draftkings,1,-111.0,-115.0,flag,2.5
+Savion Williams,rec,3.5,alternate,Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,draftkings,1,206.0,,flag,2.5
+Savion Williams,rec,4.5,alternate,Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,draftkings,1,426.0,,flag,2.5
+Savion Williams,rec,5.5,alternate,Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,draftkings,1,840.0,,flag,2.5
+Savion Williams,rec,6.5,alternate,Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,draftkings,1,1560.0,,flag,2.5
+Savion Williams,rec,7.5,alternate,Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,draftkings,1,2600.0,,flag,2.5
+Savion Williams,rec_yds,9.5,alternate,Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,draftkings,1,-353.0,,flag,24.5
+Savion Williams,rec_yds,14.5,alternate,Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,draftkings,1,-221.0,,flag,24.5
+Savion Williams,rec_yds,19.5,alternate,Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,draftkings,1,-153.0,,flag,24.5
+Savion Williams,rec_yds,24.5,standard,Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,draftkings,1,-109.0,-115.0,flag,24.5
+Savion Williams,rec_yds,29.5,alternate,Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,draftkings,1,122.0,,flag,24.5
+Savion Williams,rec_yds,39.5,alternate,Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,draftkings,1,202.0,,flag,24.5
+Savion Williams,rec_yds,49.5,alternate,Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,draftkings,1,331.0,,flag,24.5
+Savion Williams,rec_yds,59.5,alternate,Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,draftkings,1,518.0,,flag,24.5
+Savion Williams,rec_yds,69.5,alternate,Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,draftkings,1,780.0,,flag,24.5
+Savion Williams,rec_yds,79.5,alternate,Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,draftkings,1,1140.0,,flag,24.5
+Savion Williams,rec_yds,89.5,alternate,Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,draftkings,1,1760.0,,flag,24.5
+Savion Williams,rec_yds,109.5,alternate,Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,draftkings,1,3600.0,,flag,24.5
+Savion Williams,rush_yds,3.5,standard,Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,draftkings,1,-114.0,-110.0,flag,3.5
+Savion Williams,rush_yds,9.5,alternate,Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,draftkings,1,246.0,,flag,3.5
+Savion Williams,rush_yds,14.5,alternate,Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,draftkings,1,463.0,,flag,3.5
+Savion Williams,rush_yds,19.5,alternate,Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,draftkings,1,770.0,,flag,3.5
+Savion Williams,rush_yds,24.5,alternate,Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,draftkings,1,1180.0,,flag,3.5
+Savion Williams,rush_yds,29.5,alternate,Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,draftkings,1,1720.0,,flag,3.5
+Savion Williams,rush_yds,39.5,alternate,Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,draftkings,1,2900.0,,flag,3.5
+Tetairoa McMillan,rec,2.5,alternate,Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,draftkings,1,-1240.0,,flag,5.5
+Tetairoa McMillan,rec,3.5,alternate,Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,draftkings,1,-424.0,,flag,5.5
+Tetairoa McMillan,rec,4.5,alternate,Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,draftkings,1,-188.0,,flag,5.5
+Tetairoa McMillan,rec,5.5,standard,Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,draftkings,1,102.0,-129.0,flag,5.5
+Tetairoa McMillan,rec,6.5,alternate,Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,draftkings,1,196.0,,flag,5.5
+Tetairoa McMillan,rec,7.5,alternate,Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,draftkings,1,362.0,,flag,5.5
+Tetairoa McMillan,rec,8.5,alternate,Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,draftkings,1,650.0,,flag,5.5
+Tetairoa McMillan,rec,9.5,alternate,Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,draftkings,1,1140.0,,flag,5.5
+Tetairoa McMillan,rec,10.5,alternate,Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,draftkings,1,1920.0,,flag,5.5
+Tetairoa McMillan,rec,11.5,alternate,Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,draftkings,1,2900.0,,flag,5.5
+Tetairoa McMillan,rec_yds,19.5,alternate,Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,draftkings,1,-2100.0,,flag,73.5
+Tetairoa McMillan,rec_yds,24.5,alternate,Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,draftkings,1,-1300.0,,flag,73.5
+Tetairoa McMillan,rec_yds,29.5,alternate,Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,draftkings,1,-910.0,,flag,73.5
+Tetairoa McMillan,rec_yds,39.5,alternate,Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,draftkings,1,-487.0,,flag,73.5
+Tetairoa McMillan,rec_yds,49.5,alternate,Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,draftkings,1,-291.0,,flag,73.5
+Tetairoa McMillan,rec_yds,59.5,alternate,Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,draftkings,1,-189.0,,flag,73.5
+Tetairoa McMillan,rec_yds,69.5,alternate,Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,draftkings,1,-128.0,,flag,73.5
+Tetairoa McMillan,rec_yds,73.5,standard,Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,draftkings,1,-111.0,,flag,73.5
+Tetairoa McMillan,rec_yds,79.5,alternate,Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,draftkings,1,112.0,,flag,73.5
+Tetairoa McMillan,rec_yds,89.5,alternate,Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,draftkings,1,161.0,,flag,73.5
+Tetairoa McMillan,rec_yds,109.5,alternate,Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,draftkings,1,312.0,,flag,73.5
+Tetairoa McMillan,rec_yds,119.5,alternate,Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,draftkings,1,432.0,,flag,73.5
+Tetairoa McMillan,rec_yds,129.5,alternate,Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,draftkings,1,592.0,,flag,73.5
+Tetairoa McMillan,rec_yds,139.5,alternate,Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,draftkings,1,810.0,,flag,73.5
+Tetairoa McMillan,rec_yds,149.5,alternate,Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,draftkings,1,1120.0,,flag,73.5
+Tetairoa McMillan,rec_yds,159.5,alternate,Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,draftkings,1,1540.0,,flag,73.5
+Tetairoa McMillan,rec_yds,169.5,alternate,Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,draftkings,1,2100.0,,flag,73.5
+Tetairoa McMillan,rec_yds,179.5,alternate,Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,draftkings,1,2700.0,,flag,73.5
+Tetairoa McMillan,rec_yds,189.5,alternate,Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,draftkings,1,3600.0,,flag,73.5
+Tommy Tremble,rec,1.5,alternate,Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,draftkings,1,-228.0,,flag,2.5
+Tommy Tremble,rec,2.5,standard,Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,draftkings,1,134.0,-172.0,flag,2.5
+Tommy Tremble,rec,3.5,alternate,Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,draftkings,1,334.0,,flag,2.5
+Tommy Tremble,rec,4.5,alternate,Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,draftkings,1,800.0,,flag,2.5
+Tommy Tremble,rec,5.5,alternate,Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,draftkings,1,1740.0,,flag,2.5
+Tommy Tremble,rec_yds,9.5,alternate,Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,draftkings,1,-233.0,,flag,15.5
+Tommy Tremble,rec_yds,14.5,alternate,Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,draftkings,1,-127.0,,flag,15.5
+Tommy Tremble,rec_yds,15.5,standard,Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,draftkings,1,-115.0,-109.0,flag,15.5
+Tommy Tremble,rec_yds,19.5,alternate,Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,draftkings,1,128.0,,flag,15.5
+Tommy Tremble,rec_yds,24.5,alternate,Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,draftkings,1,196.0,,flag,15.5
+Tommy Tremble,rec_yds,29.5,alternate,Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,draftkings,1,289.0,,flag,15.5
+Tommy Tremble,rec_yds,39.5,alternate,Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,draftkings,1,599.0,,flag,15.5
+Tommy Tremble,rec_yds,49.5,alternate,Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,draftkings,1,1080.0,,flag,15.5
+Tommy Tremble,rec_yds,59.5,alternate,Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,draftkings,1,1820.0,,flag,15.5
+Trevor Etienne,rush_yds,9.5,standard,Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,draftkings,1,-106.0,-118.0,flag,9.5
+Trevor Etienne,rush_yds,14.5,alternate,Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,draftkings,1,167.0,,flag,9.5
+Trevor Etienne,rush_yds,19.5,alternate,Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,draftkings,1,278.0,,flag,9.5
+Trevor Etienne,rush_yds,24.5,alternate,Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,draftkings,1,431.0,,flag,9.5
+Trevor Etienne,rush_yds,29.5,alternate,Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,draftkings,1,630.0,,flag,9.5
+Trevor Etienne,rush_yds,39.5,alternate,Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,draftkings,1,1240.0,,flag,9.5
+Trevor Etienne,rush_yds,49.5,alternate,Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,draftkings,1,2100.0,,flag,9.5
+Trevor Etienne,rush_yds,59.5,alternate,Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,draftkings,1,3100.0,,flag,9.5
+Tucker Kraft,rec,1.5,alternate,Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,draftkings,1,-1520.0,,flag,4.5
+Tucker Kraft,rec,2.5,alternate,Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,draftkings,1,-447.0,,flag,4.5
+Tucker Kraft,rec,3.5,alternate,Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,draftkings,1,-189.0,,flag,4.5
+Tucker Kraft,rec,4.5,standard,Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,draftkings,1,106.0,-135.0,flag,4.5
+Tucker Kraft,rec,5.5,alternate,Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,draftkings,1,207.0,,flag,4.5
+Tucker Kraft,rec,6.5,alternate,Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,draftkings,1,376.0,,flag,4.5
+Tucker Kraft,rec,7.5,alternate,Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,draftkings,1,670.0,,flag,4.5
+Tucker Kraft,rec,8.5,alternate,Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,draftkings,1,1160.0,,flag,4.5
+Tucker Kraft,rec,9.5,alternate,Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,draftkings,1,1860.0,,flag,4.5
+Tucker Kraft,rec,10.5,alternate,Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,draftkings,1,2600.0,,flag,4.5
+Tucker Kraft,rec_yds,9.5,alternate,Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,draftkings,1,-2100.0,,flag,44.5
+Tucker Kraft,rec_yds,14.5,alternate,Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,draftkings,1,-1000.0,,flag,44.5
+Tucker Kraft,rec_yds,19.5,alternate,Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,draftkings,1,-592.0,,flag,44.5
+Tucker Kraft,rec_yds,29.5,alternate,Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,draftkings,1,-269.0,,flag,44.5
+Tucker Kraft,rec_yds,44.5,standard,Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,draftkings,1,-113.0,-111.0,flag,44.5
+Tucker Kraft,rec_yds,49.5,alternate,Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,draftkings,1,114.0,,flag,44.5
+Tucker Kraft,rec_yds,59.5,alternate,Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,draftkings,1,183.0,,flag,44.5
+Tucker Kraft,rec_yds,69.5,alternate,Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,draftkings,1,282.0,,flag,44.5
+Tucker Kraft,rec_yds,79.5,alternate,Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,draftkings,1,422.0,,flag,44.5
+Tucker Kraft,rec_yds,89.5,alternate,Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,draftkings,1,630.0,,flag,44.5
+Tucker Kraft,rec_yds,99.5,alternate,Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,draftkings,1,920.0,,flag,44.5
+Tucker Kraft,rec_yds,109.5,alternate,Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,draftkings,1,1340.0,,flag,44.5
+Tucker Kraft,rec_yds,119.5,alternate,Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,draftkings,1,1860.0,,flag,44.5
+Tucker Kraft,rec_yds,129.5,alternate,Carolina Panthers @ Green Bay Packers,2026-10-30 00:15:00+00:00,draftkings,1,2600.0,,flag,44.5
+Dak Prescott,pass_att,33.5,standard,ARI Cardinals @ Dallas Cowboys,2026-11-01 18:00:00+00:00,draftkings,1,-124.0,-103.0,flag,33.5
+Dak Prescott,pass_td,2.5,standard,ARI Cardinals @ Dallas Cowboys,2026-11-01 18:00:00+00:00,draftkings,1,113.0,-144.0,flag,2.5
+Jacoby Brissett,pass_att,37.5,standard,ARI Cardinals @ Dallas Cowboys,2026-11-01 18:00:00+00:00,draftkings,1,-113.0,-113.0,flag,37.5
+Jacoby Brissett,pass_td,1.5,standard,ARI Cardinals @ Dallas Cowboys,2026-11-01 18:00:00+00:00,draftkings,1,-171.0,134.0,flag,1.5
+Javonte Williams,car,17.5,standard,ARI Cardinals @ Dallas Cowboys,2026-11-01 18:00:00+00:00,draftkings,1,-119.0,-107.0,flag,17.5
+Baker Mayfield,pass_att,29.5,standard,Atlanta Falcons @ Tampa Bay Buccaneers,2026-11-01 18:00:00+00:00,draftkings,1,-128.0,100.0,flag,29.5
+Baker Mayfield,pass_td,1.5,standard,Atlanta Falcons @ Tampa Bay Buccaneers,2026-11-01 18:00:00+00:00,draftkings,1,124.0,-158.0,flag,1.5
+Bijan Robinson,car,18.5,standard,Atlanta Falcons @ Tampa Bay Buccaneers,2026-11-01 18:00:00+00:00,draftkings,1,-119.0,-108.0,flag,18.5
+Bucky Irving,car,16.5,standard,Atlanta Falcons @ Tampa Bay Buccaneers,2026-11-01 18:00:00+00:00,draftkings,1,-123.0,-103.0,flag,16.5
+Michael Penix Jr.,pass_att,32.5,standard,Atlanta Falcons @ Tampa Bay Buccaneers,2026-11-01 18:00:00+00:00,draftkings,1,-113.0,-113.0,flag,32.5
+Michael Penix Jr.,pass_td,1.5,standard,Atlanta Falcons @ Tampa Bay Buccaneers,2026-11-01 18:00:00+00:00,draftkings,1,135.0,-173.0,flag,1.5
+Derrick Henry,car,18.5,standard,Baltimore Ravens @ Buffalo Bills,2026-11-01 18:00:00+00:00,draftkings,1,-110.0,-116.0,flag,18.5
+James Cook,car,18.5,standard,Baltimore Ravens @ Buffalo Bills,2026-11-01 18:00:00+00:00,draftkings,1,-126.0,-101.0,flag,18.5
+Josh Allen,car,7.5,standard,Baltimore Ravens @ Buffalo Bills,2026-11-01 18:00:00+00:00,draftkings,1,110.0,-141.0,flag,7.5
+Josh Allen,pass_att,30.5,standard,Baltimore Ravens @ Buffalo Bills,2026-11-01 18:00:00+00:00,draftkings,1,-117.0,-109.0,flag,30.5
+Josh Allen,pass_td,1.5,standard,Baltimore Ravens @ Buffalo Bills,2026-11-01 18:00:00+00:00,draftkings,1,-138.0,108.0,flag,1.5
+Josh Allen,pass_yds,169.5,alternate,Baltimore Ravens @ Buffalo Bills,2026-11-01 18:00:00+00:00,draftkings,1,-1300.0,,flag,252.5
+Josh Allen,pass_yds,179.5,alternate,Baltimore Ravens @ Buffalo Bills,2026-11-01 18:00:00+00:00,draftkings,1,-880.0,,flag,252.5
+Josh Allen,pass_yds,189.5,alternate,Baltimore Ravens @ Buffalo Bills,2026-11-01 18:00:00+00:00,draftkings,1,-620.0,,flag,252.5
+Josh Allen,pass_yds,199.5,alternate,Baltimore Ravens @ Buffalo Bills,2026-11-01 18:00:00+00:00,draftkings,1,-454.0,,flag,252.5
+Josh Allen,pass_yds,209.5,alternate,Baltimore Ravens @ Buffalo Bills,2026-11-01 18:00:00+00:00,draftkings,1,-337.0,,flag,252.5
+Josh Allen,pass_yds,219.5,alternate,Baltimore Ravens @ Buffalo Bills,2026-11-01 18:00:00+00:00,draftkings,1,-258.0,,flag,252.5
+Josh Allen,pass_yds,229.5,alternate,Baltimore Ravens @ Buffalo Bills,2026-11-01 18:00:00+00:00,draftkings,1,-199.0,,flag,252.5
+Josh Allen,pass_yds,239.5,alternate,Baltimore Ravens @ Buffalo Bills,2026-11-01 18:00:00+00:00,draftkings,1,-155.0,,flag,252.5
+Josh Allen,pass_yds,249.5,alternate,Baltimore Ravens @ Buffalo Bills,2026-11-01 18:00:00+00:00,draftkings,1,-122.0,,flag,252.5
+Josh Allen,pass_yds,252.5,standard,Baltimore Ravens @ Buffalo Bills,2026-11-01 18:00:00+00:00,draftkings,1,-113.0,-111.0,flag,252.5
+Josh Allen,pass_yds,259.5,alternate,Baltimore Ravens @ Buffalo Bills,2026-11-01 18:00:00+00:00,draftkings,1,104.0,,flag,252.5
+Josh Allen,pass_yds,269.5,alternate,Baltimore Ravens @ Buffalo Bills,2026-11-01 18:00:00+00:00,draftkings,1,129.0,,flag,252.5
+Josh Allen,pass_yds,279.5,alternate,Baltimore Ravens @ Buffalo Bills,2026-11-01 18:00:00+00:00,draftkings,1,161.0,,flag,252.5
+Josh Allen,pass_yds,289.5,alternate,Baltimore Ravens @ Buffalo Bills,2026-11-01 18:00:00+00:00,draftkings,1,200.0,,flag,252.5
+Josh Allen,pass_yds,299.5,alternate,Baltimore Ravens @ Buffalo Bills,2026-11-01 18:00:00+00:00,draftkings,1,250.0,,flag,252.5
+Josh Allen,pass_yds,309.5,alternate,Baltimore Ravens @ Buffalo Bills,2026-11-01 18:00:00+00:00,draftkings,1,313.0,,flag,252.5
+Josh Allen,pass_yds,319.5,alternate,Baltimore Ravens @ Buffalo Bills,2026-11-01 18:00:00+00:00,draftkings,1,393.0,,flag,252.5
+Josh Allen,pass_yds,329.5,alternate,Baltimore Ravens @ Buffalo Bills,2026-11-01 18:00:00+00:00,draftkings,1,491.0,,flag,252.5
+Josh Allen,pass_yds,339.5,alternate,Baltimore Ravens @ Buffalo Bills,2026-11-01 18:00:00+00:00,draftkings,1,610.0,,flag,252.5
+Josh Allen,pass_yds,349.5,alternate,Baltimore Ravens @ Buffalo Bills,2026-11-01 18:00:00+00:00,draftkings,1,740.0,,flag,252.5
+Josh Allen,pass_yds,359.5,alternate,Baltimore Ravens @ Buffalo Bills,2026-11-01 18:00:00+00:00,draftkings,1,910.0,,flag,252.5
+Josh Allen,pass_yds,369.5,alternate,Baltimore Ravens @ Buffalo Bills,2026-11-01 18:00:00+00:00,draftkings,1,1100.0,,flag,252.5
+Josh Allen,pass_yds,379.5,alternate,Baltimore Ravens @ Buffalo Bills,2026-11-01 18:00:00+00:00,draftkings,1,1360.0,,flag,252.5
+Josh Allen,pass_yds,389.5,alternate,Baltimore Ravens @ Buffalo Bills,2026-11-01 18:00:00+00:00,draftkings,1,1660.0,,flag,252.5
+Josh Allen,pass_yds,399.5,alternate,Baltimore Ravens @ Buffalo Bills,2026-11-01 18:00:00+00:00,draftkings,1,1980.0,,flag,252.5
+Josh Allen,pass_yds,409.5,alternate,Baltimore Ravens @ Buffalo Bills,2026-11-01 18:00:00+00:00,draftkings,1,2300.0,,flag,252.5
+Josh Allen,pass_yds,419.5,alternate,Baltimore Ravens @ Buffalo Bills,2026-11-01 18:00:00+00:00,draftkings,1,2700.0,,flag,252.5
+Josh Allen,pass_yds,429.5,alternate,Baltimore Ravens @ Buffalo Bills,2026-11-01 18:00:00+00:00,draftkings,1,3000.0,,flag,252.5
+Lamar Jackson,car,4.5,standard,Baltimore Ravens @ Buffalo Bills,2026-11-01 18:00:00+00:00,draftkings,1,113.0,-144.0,flag,4.5
+Lamar Jackson,pass_att,30.5,standard,Baltimore Ravens @ Buffalo Bills,2026-11-01 18:00:00+00:00,draftkings,1,-114.0,-112.0,flag,30.5
+Lamar Jackson,pass_td,1.5,standard,Baltimore Ravens @ Buffalo Bills,2026-11-01 18:00:00+00:00,draftkings,1,-112.0,-113.0,flag,1.5
+Lamar Jackson,pass_yds,159.5,alternate,Baltimore Ravens @ Buffalo Bills,2026-11-01 18:00:00+00:00,draftkings,1,-1140.0,,flag,237.5
+Lamar Jackson,pass_yds,169.5,alternate,Baltimore Ravens @ Buffalo Bills,2026-11-01 18:00:00+00:00,draftkings,1,-790.0,,flag,237.5
+Lamar Jackson,pass_yds,179.5,alternate,Baltimore Ravens @ Buffalo Bills,2026-11-01 18:00:00+00:00,draftkings,1,-552.0,,flag,237.5
+Lamar Jackson,pass_yds,189.5,alternate,Baltimore Ravens @ Buffalo Bills,2026-11-01 18:00:00+00:00,draftkings,1,-404.0,,flag,237.5
+Lamar Jackson,pass_yds,199.5,alternate,Baltimore Ravens @ Buffalo Bills,2026-11-01 18:00:00+00:00,draftkings,1,-299.0,,flag,237.5
+Lamar Jackson,pass_yds,209.5,alternate,Baltimore Ravens @ Buffalo Bills,2026-11-01 18:00:00+00:00,draftkings,1,-224.0,,flag,237.5
+Lamar Jackson,pass_yds,219.5,alternate,Baltimore Ravens @ Buffalo Bills,2026-11-01 18:00:00+00:00,draftkings,1,-174.0,,flag,237.5
+Lamar Jackson,pass_yds,229.5,alternate,Baltimore Ravens @ Buffalo Bills,2026-11-01 18:00:00+00:00,draftkings,1,-135.0,,flag,237.5
+Lamar Jackson,pass_yds,237.5,standard,Baltimore Ravens @ Buffalo Bills,2026-11-01 18:00:00+00:00,draftkings,1,-112.0,-112.0,flag,237.5
+Lamar Jackson,pass_yds,239.5,alternate,Baltimore Ravens @ Buffalo Bills,2026-11-01 18:00:00+00:00,draftkings,1,-107.0,,flag,237.5
+Lamar Jackson,pass_yds,249.5,alternate,Baltimore Ravens @ Buffalo Bills,2026-11-01 18:00:00+00:00,draftkings,1,120.0,,flag,237.5
+Lamar Jackson,pass_yds,259.5,alternate,Baltimore Ravens @ Buffalo Bills,2026-11-01 18:00:00+00:00,draftkings,1,151.0,,flag,237.5
+Lamar Jackson,pass_yds,269.5,alternate,Baltimore Ravens @ Buffalo Bills,2026-11-01 18:00:00+00:00,draftkings,1,189.0,,flag,237.5
+Lamar Jackson,pass_yds,279.5,alternate,Baltimore Ravens @ Buffalo Bills,2026-11-01 18:00:00+00:00,draftkings,1,239.0,,flag,237.5
+Lamar Jackson,pass_yds,289.5,alternate,Baltimore Ravens @ Buffalo Bills,2026-11-01 18:00:00+00:00,draftkings,1,299.0,,flag,237.5
+Lamar Jackson,pass_yds,299.5,alternate,Baltimore Ravens @ Buffalo Bills,2026-11-01 18:00:00+00:00,draftkings,1,377.0,,flag,237.5
+Lamar Jackson,pass_yds,309.5,alternate,Baltimore Ravens @ Buffalo Bills,2026-11-01 18:00:00+00:00,draftkings,1,468.0,,flag,237.5
+Lamar Jackson,pass_yds,319.5,alternate,Baltimore Ravens @ Buffalo Bills,2026-11-01 18:00:00+00:00,draftkings,1,584.0,,flag,237.5
+Lamar Jackson,pass_yds,329.5,alternate,Baltimore Ravens @ Buffalo Bills,2026-11-01 18:00:00+00:00,draftkings,1,730.0,,flag,237.5
+Lamar Jackson,pass_yds,339.5,alternate,Baltimore Ravens @ Buffalo Bills,2026-11-01 18:00:00+00:00,draftkings,1,900.0,,flag,237.5
+Lamar Jackson,pass_yds,349.5,alternate,Baltimore Ravens @ Buffalo Bills,2026-11-01 18:00:00+00:00,draftkings,1,1100.0,,flag,237.5
+Lamar Jackson,pass_yds,359.5,alternate,Baltimore Ravens @ Buffalo Bills,2026-11-01 18:00:00+00:00,draftkings,1,1340.0,,flag,237.5
+Lamar Jackson,pass_yds,369.5,alternate,Baltimore Ravens @ Buffalo Bills,2026-11-01 18:00:00+00:00,draftkings,1,1640.0,,flag,237.5
+Lamar Jackson,pass_yds,379.5,alternate,Baltimore Ravens @ Buffalo Bills,2026-11-01 18:00:00+00:00,draftkings,1,1940.0,,flag,237.5
+Lamar Jackson,pass_yds,389.5,alternate,Baltimore Ravens @ Buffalo Bills,2026-11-01 18:00:00+00:00,draftkings,1,2300.0,,flag,237.5
+Lamar Jackson,pass_yds,399.5,alternate,Baltimore Ravens @ Buffalo Bills,2026-11-01 18:00:00+00:00,draftkings,1,2700.0,,flag,237.5
+Aaron Rodgers,pass_att,33.5,standard,Cleveland Browns @ Pittsburgh Steelers,2026-11-01 18:00:00+00:00,draftkings,1,-113.0,-113.0,flag,33.5
+Aaron Rodgers,pass_td,1.5,standard,Cleveland Browns @ Pittsburgh Steelers,2026-11-01 18:00:00+00:00,draftkings,1,130.0,-166.0,flag,1.5
+Aaron Rodgers,pass_yds,149.5,alternate,Cleveland Browns @ Pittsburgh Steelers,2026-11-01 18:00:00+00:00,draftkings,1,-960.0,,none,
+Aaron Rodgers,pass_yds,209.5,alternate,Cleveland Browns @ Pittsburgh Steelers,2026-11-01 18:00:00+00:00,draftkings,1,-139.0,,none,
+Aaron Rodgers,pass_yds,229.5,alternate,Cleveland Browns @ Pittsburgh Steelers,2026-11-01 18:00:00+00:00,draftkings,1,120.0,,none,
+Aaron Rodgers,pass_yds,249.5,alternate,Cleveland Browns @ Pittsburgh Steelers,2026-11-01 18:00:00+00:00,draftkings,1,197.0,,none,
+Aaron Rodgers,pass_yds,269.5,alternate,Cleveland Browns @ Pittsburgh Steelers,2026-11-01 18:00:00+00:00,draftkings,1,322.0,,none,
+Aaron Rodgers,pass_yds,279.5,alternate,Cleveland Browns @ Pittsburgh Steelers,2026-11-01 18:00:00+00:00,draftkings,1,415.0,,none,
+Aaron Rodgers,pass_yds,299.5,alternate,Cleveland Browns @ Pittsburgh Steelers,2026-11-01 18:00:00+00:00,draftkings,1,660.0,,none,
+Deshaun Watson,pass_att,31.5,standard,Cleveland Browns @ Pittsburgh Steelers,2026-11-01 18:00:00+00:00,draftkings,1,-104.0,-122.0,flag,31.5
+Deshaun Watson,pass_td,0.5,standard,Cleveland Browns @ Pittsburgh Steelers,2026-11-01 18:00:00+00:00,draftkings,1,-246.0,189.0,flag,0.5
+Deshaun Watson,pass_yds,179.5,alternate,Cleveland Browns @ Pittsburgh Steelers,2026-11-01 18:00:00+00:00,draftkings,1,-241.0,,none,
+Deshaun Watson,pass_yds,189.5,alternate,Cleveland Browns @ Pittsburgh Steelers,2026-11-01 18:00:00+00:00,draftkings,1,-182.0,,none,
+Deshaun Watson,pass_yds,199.5,alternate,Cleveland Browns @ Pittsburgh Steelers,2026-11-01 18:00:00+00:00,draftkings,1,-140.0,,none,
+Deshaun Watson,pass_yds,259.5,alternate,Cleveland Browns @ Pittsburgh Steelers,2026-11-01 18:00:00+00:00,draftkings,1,316.0,,none,
+Deshaun Watson,pass_yds,329.5,alternate,Cleveland Browns @ Pittsburgh Steelers,2026-11-01 18:00:00+00:00,draftkings,1,1500.0,,none,
+Deshaun Watson,pass_yds,359.5,alternate,Cleveland Browns @ Pittsburgh Steelers,2026-11-01 18:00:00+00:00,draftkings,1,2700.0,,none,
+Jaylen Warren,car,13.5,standard,Cleveland Browns @ Pittsburgh Steelers,2026-11-01 18:00:00+00:00,draftkings,1,-130.0,102.0,flag,13.5
+Quinshon Judkins,car,14.5,standard,Cleveland Browns @ Pittsburgh Steelers,2026-11-01 18:00:00+00:00,draftkings,1,103.0,-131.0,flag,14.5
+Rico Dowdle,car,7.5,standard,Cleveland Browns @ Pittsburgh Steelers,2026-11-01 18:00:00+00:00,draftkings,1,111.0,-142.0,flag,7.5
+Bhayshul Tuten,car,15.5,standard,Indianapolis Colts @ Jacksonville Jaguars,2026-11-01 18:00:00+00:00,draftkings,1,101.0,-128.0,flag,15.5
+Chris Rodriguez Jr.,car,6.5,standard,Indianapolis Colts @ Jacksonville Jaguars,2026-11-01 18:00:00+00:00,draftkings,1,-140.0,110.0,flag,6.5
+Daniel Jones,pass_att,31.5,standard,Indianapolis Colts @ Jacksonville Jaguars,2026-11-01 18:00:00+00:00,draftkings,1,-118.0,-108.0,flag,31.5
+Daniel Jones,pass_td,0.5,standard,Indianapolis Colts @ Jacksonville Jaguars,2026-11-01 18:00:00+00:00,draftkings,1,-230.0,178.0,flag,0.5
+Jonathan Taylor,car,15.5,standard,Indianapolis Colts @ Jacksonville Jaguars,2026-11-01 18:00:00+00:00,draftkings,1,-130.0,102.0,flag,15.5
+Trevor Lawrence,pass_att,30.5,standard,Indianapolis Colts @ Jacksonville Jaguars,2026-11-01 18:00:00+00:00,draftkings,1,-118.0,-108.0,flag,30.5
+Trevor Lawrence,pass_td,1.5,standard,Indianapolis Colts @ Jacksonville Jaguars,2026-11-01 18:00:00+00:00,draftkings,1,-178.0,139.0,flag,1.5
+Ashton Jeanty,car,13.5,standard,Las Vegas Raiders @ New York Jets,2026-11-01 18:00:00+00:00,draftkings,1,-134.0,105.0,flag,13.5
+Geno Smith,pass_att,30.5,standard,Las Vegas Raiders @ New York Jets,2026-11-01 18:00:00+00:00,draftkings,1,-103.0,-124.0,flag,30.5
+Geno Smith,pass_td,1.5,standard,Las Vegas Raiders @ New York Jets,2026-11-01 18:00:00+00:00,draftkings,1,100.0,-127.0,flag,1.5
+Kirk Cousins,pass_att,33.5,standard,Las Vegas Raiders @ New York Jets,2026-11-01 18:00:00+00:00,draftkings,1,-112.0,-113.0,flag,33.5
+Kirk Cousins,pass_td,1.5,standard,Las Vegas Raiders @ New York Jets,2026-11-01 18:00:00+00:00,draftkings,1,-119.0,-107.0,flag,1.5
+Jahmyr Gibbs,car,21.5,standard,Minnesota Vikings @ Detroit Lions,2026-11-01 18:00:00+00:00,draftkings,1,-107.0,-119.0,flag,21.5
+Jared Goff,pass_att,34.5,standard,Minnesota Vikings @ Detroit Lions,2026-11-01 18:00:00+00:00,draftkings,1,-109.0,-117.0,flag,34.5
+Jared Goff,pass_td,1.5,standard,Minnesota Vikings @ Detroit Lions,2026-11-01 18:00:00+00:00,draftkings,1,-135.0,106.0,flag,1.5
+Kyler Murray,pass_att,31.5,standard,Minnesota Vikings @ Detroit Lions,2026-11-01 18:00:00+00:00,draftkings,1,-119.0,-107.0,flag,31.5
+Kyler Murray,pass_td,1.5,standard,Minnesota Vikings @ Detroit Lions,2026-11-01 18:00:00+00:00,draftkings,1,111.0,-142.0,flag,1.5
+Cameron Ward,pass_att,32.5,standard,Tennessee Titans @ Cincinnati Bengals,2026-11-01 18:00:00+00:00,draftkings,1,-119.0,-107.0,flag,32.5
+Cameron Ward,pass_td,0.5,standard,Tennessee Titans @ Cincinnati Bengals,2026-11-01 18:00:00+00:00,draftkings,1,-226.0,175.0,flag,0.5
+Cameron Ward,pass_yds,149.5,alternate,Tennessee Titans @ Cincinnati Bengals,2026-11-01 18:00:00+00:00,draftkings,1,-409.0,,flag,197.5
+Cameron Ward,pass_yds,159.5,alternate,Tennessee Titans @ Cincinnati Bengals,2026-11-01 18:00:00+00:00,draftkings,1,-308.0,,flag,197.5
+Cameron Ward,pass_yds,169.5,alternate,Tennessee Titans @ Cincinnati Bengals,2026-11-01 18:00:00+00:00,draftkings,1,-232.0,,flag,197.5
+Cameron Ward,pass_yds,179.5,alternate,Tennessee Titans @ Cincinnati Bengals,2026-11-01 18:00:00+00:00,draftkings,1,-175.0,,flag,197.5
+Cameron Ward,pass_yds,189.5,alternate,Tennessee Titans @ Cincinnati Bengals,2026-11-01 18:00:00+00:00,draftkings,1,-135.0,,flag,197.5
+Cameron Ward,pass_yds,197.5,standard,Tennessee Titans @ Cincinnati Bengals,2026-11-01 18:00:00+00:00,draftkings,1,-111.0,-113.0,flag,197.5
+Cameron Ward,pass_yds,199.5,alternate,Tennessee Titans @ Cincinnati Bengals,2026-11-01 18:00:00+00:00,draftkings,1,-105.0,,flag,197.5
+Cameron Ward,pass_yds,209.5,alternate,Tennessee Titans @ Cincinnati Bengals,2026-11-01 18:00:00+00:00,draftkings,1,121.0,,flag,197.5
+Cameron Ward,pass_yds,219.5,alternate,Tennessee Titans @ Cincinnati Bengals,2026-11-01 18:00:00+00:00,draftkings,1,154.0,,flag,197.5
+Cameron Ward,pass_yds,229.5,alternate,Tennessee Titans @ Cincinnati Bengals,2026-11-01 18:00:00+00:00,draftkings,1,194.0,,flag,197.5
+Cameron Ward,pass_yds,239.5,alternate,Tennessee Titans @ Cincinnati Bengals,2026-11-01 18:00:00+00:00,draftkings,1,243.0,,flag,197.5
+Cameron Ward,pass_yds,249.5,alternate,Tennessee Titans @ Cincinnati Bengals,2026-11-01 18:00:00+00:00,draftkings,1,308.0,,flag,197.5
+Cameron Ward,pass_yds,259.5,alternate,Tennessee Titans @ Cincinnati Bengals,2026-11-01 18:00:00+00:00,draftkings,1,389.0,,flag,197.5
+Cameron Ward,pass_yds,269.5,alternate,Tennessee Titans @ Cincinnati Bengals,2026-11-01 18:00:00+00:00,draftkings,1,482.0,,flag,197.5
+Cameron Ward,pass_yds,279.5,alternate,Tennessee Titans @ Cincinnati Bengals,2026-11-01 18:00:00+00:00,draftkings,1,610.0,,flag,197.5
+Cameron Ward,pass_yds,289.5,alternate,Tennessee Titans @ Cincinnati Bengals,2026-11-01 18:00:00+00:00,draftkings,1,740.0,,flag,197.5
+Cameron Ward,pass_yds,299.5,alternate,Tennessee Titans @ Cincinnati Bengals,2026-11-01 18:00:00+00:00,draftkings,1,920.0,,flag,197.5
+Cameron Ward,pass_yds,309.5,alternate,Tennessee Titans @ Cincinnati Bengals,2026-11-01 18:00:00+00:00,draftkings,1,1140.0,,flag,197.5
+Cameron Ward,pass_yds,319.5,alternate,Tennessee Titans @ Cincinnati Bengals,2026-11-01 18:00:00+00:00,draftkings,1,1440.0,,flag,197.5
+Cameron Ward,pass_yds,329.5,alternate,Tennessee Titans @ Cincinnati Bengals,2026-11-01 18:00:00+00:00,draftkings,1,1700.0,,flag,197.5
+Cameron Ward,pass_yds,339.5,alternate,Tennessee Titans @ Cincinnati Bengals,2026-11-01 18:00:00+00:00,draftkings,1,2000.0,,flag,197.5
+Cameron Ward,pass_yds,349.5,alternate,Tennessee Titans @ Cincinnati Bengals,2026-11-01 18:00:00+00:00,draftkings,1,2400.0,,flag,197.5
+Cameron Ward,pass_yds,359.5,alternate,Tennessee Titans @ Cincinnati Bengals,2026-11-01 18:00:00+00:00,draftkings,1,2700.0,,flag,197.5
+Cameron Ward,rush_yds,8.5,standard,Tennessee Titans @ Cincinnati Bengals,2026-11-01 18:00:00+00:00,draftkings,1,-109.0,-115.0,flag,8.5
+Cameron Ward,rush_yds,9.5,alternate,Tennessee Titans @ Cincinnati Bengals,2026-11-01 18:00:00+00:00,draftkings,1,111.0,,flag,8.5
+Cameron Ward,rush_yds,14.5,alternate,Tennessee Titans @ Cincinnati Bengals,2026-11-01 18:00:00+00:00,draftkings,1,230.0,,flag,8.5
+Cameron Ward,rush_yds,24.5,alternate,Tennessee Titans @ Cincinnati Bengals,2026-11-01 18:00:00+00:00,draftkings,1,750.0,,flag,8.5
+Cameron Ward,rush_yds,29.5,alternate,Tennessee Titans @ Cincinnati Bengals,2026-11-01 18:00:00+00:00,draftkings,1,1220.0,,flag,8.5
+Cameron Ward,rush_yds,39.5,alternate,Tennessee Titans @ Cincinnati Bengals,2026-11-01 18:00:00+00:00,draftkings,1,2500.0,,flag,8.5
+Cameron Ward,rush_yds,49.5,alternate,Tennessee Titans @ Cincinnati Bengals,2026-11-01 18:00:00+00:00,draftkings,1,3700.0,,flag,8.5
+Chase Brown,car,13.5,standard,Tennessee Titans @ Cincinnati Bengals,2026-11-01 18:00:00+00:00,draftkings,1,-128.0,100.0,flag,13.5
+Chase Brown,rush_yds,19.5,alternate,Tennessee Titans @ Cincinnati Bengals,2026-11-01 18:00:00+00:00,draftkings,1,-2600.0,,flag,56.5
+Chase Brown,rush_yds,24.5,alternate,Tennessee Titans @ Cincinnati Bengals,2026-11-01 18:00:00+00:00,draftkings,1,-1280.0,,flag,56.5
+Chase Brown,rush_yds,39.5,alternate,Tennessee Titans @ Cincinnati Bengals,2026-11-01 18:00:00+00:00,draftkings,1,-319.0,,flag,56.5
+Chase Brown,rush_yds,49.5,alternate,Tennessee Titans @ Cincinnati Bengals,2026-11-01 18:00:00+00:00,draftkings,1,-165.0,,flag,56.5
+Chase Brown,rush_yds,56.5,standard,Tennessee Titans @ Cincinnati Bengals,2026-11-01 18:00:00+00:00,draftkings,1,-111.0,,flag,56.5
+Chase Brown,rush_yds,59.5,alternate,Tennessee Titans @ Cincinnati Bengals,2026-11-01 18:00:00+00:00,draftkings,1,106.0,,flag,56.5
+Chase Brown,rush_yds,79.5,alternate,Tennessee Titans @ Cincinnati Bengals,2026-11-01 18:00:00+00:00,draftkings,1,271.0,,flag,56.5
+Chase Brown,rush_yds,89.5,alternate,Tennessee Titans @ Cincinnati Bengals,2026-11-01 18:00:00+00:00,draftkings,1,416.0,,flag,56.5
+Chase Brown,rush_yds,99.5,alternate,Tennessee Titans @ Cincinnati Bengals,2026-11-01 18:00:00+00:00,draftkings,1,610.0,,flag,56.5
+Chase Brown,rush_yds,109.5,alternate,Tennessee Titans @ Cincinnati Bengals,2026-11-01 18:00:00+00:00,draftkings,1,900.0,,flag,56.5
+Chase Brown,rush_yds,119.5,alternate,Tennessee Titans @ Cincinnati Bengals,2026-11-01 18:00:00+00:00,draftkings,1,1320.0,,flag,56.5
+Chase Brown,rush_yds,129.5,alternate,Tennessee Titans @ Cincinnati Bengals,2026-11-01 18:00:00+00:00,draftkings,1,1920.0,,flag,56.5
+Chase Brown,rush_yds,139.5,alternate,Tennessee Titans @ Cincinnati Bengals,2026-11-01 18:00:00+00:00,draftkings,1,2700.0,,flag,56.5
+Chase Brown,rush_yds,149.5,alternate,Tennessee Titans @ Cincinnati Bengals,2026-11-01 18:00:00+00:00,draftkings,1,3800.0,,flag,56.5
+Joe Burrow,pass_att,35.5,standard,Tennessee Titans @ Cincinnati Bengals,2026-11-01 18:00:00+00:00,draftkings,1,-116.0,-110.0,flag,35.5
+Joe Burrow,pass_td,2.5,standard,Tennessee Titans @ Cincinnati Bengals,2026-11-01 18:00:00+00:00,draftkings,1,125.0,-160.0,flag,2.5
+Joe Burrow,pass_yds,189.5,alternate,Tennessee Titans @ Cincinnati Bengals,2026-11-01 18:00:00+00:00,draftkings,1,-1120.0,,flag,270.5
+Joe Burrow,pass_yds,199.5,alternate,Tennessee Titans @ Cincinnati Bengals,2026-11-01 18:00:00+00:00,draftkings,1,-790.0,,flag,270.5
+Joe Burrow,pass_yds,209.5,alternate,Tennessee Titans @ Cincinnati Bengals,2026-11-01 18:00:00+00:00,draftkings,1,-563.0,,flag,270.5
+Joe Burrow,pass_yds,219.5,alternate,Tennessee Titans @ Cincinnati Bengals,2026-11-01 18:00:00+00:00,draftkings,1,-412.0,,flag,270.5
+Joe Burrow,pass_yds,229.5,alternate,Tennessee Titans @ Cincinnati Bengals,2026-11-01 18:00:00+00:00,draftkings,1,-314.0,,flag,270.5
+Joe Burrow,pass_yds,239.5,alternate,Tennessee Titans @ Cincinnati Bengals,2026-11-01 18:00:00+00:00,draftkings,1,-241.0,,flag,270.5
+Joe Burrow,pass_yds,249.5,alternate,Tennessee Titans @ Cincinnati Bengals,2026-11-01 18:00:00+00:00,draftkings,1,-187.0,,flag,270.5
+Joe Burrow,pass_yds,259.5,alternate,Tennessee Titans @ Cincinnati Bengals,2026-11-01 18:00:00+00:00,draftkings,1,-147.0,,flag,270.5
+Joe Burrow,pass_yds,269.5,alternate,Tennessee Titans @ Cincinnati Bengals,2026-11-01 18:00:00+00:00,draftkings,1,-114.0,,flag,270.5
+Joe Burrow,pass_yds,270.5,standard,Tennessee Titans @ Cincinnati Bengals,2026-11-01 18:00:00+00:00,draftkings,1,-113.0,-111.0,flag,270.5
+Joe Burrow,pass_yds,279.5,alternate,Tennessee Titans @ Cincinnati Bengals,2026-11-01 18:00:00+00:00,draftkings,1,110.0,,flag,270.5
+Joe Burrow,pass_yds,289.5,alternate,Tennessee Titans @ Cincinnati Bengals,2026-11-01 18:00:00+00:00,draftkings,1,138.0,,flag,270.5
+Joe Burrow,pass_yds,299.5,alternate,Tennessee Titans @ Cincinnati Bengals,2026-11-01 18:00:00+00:00,draftkings,1,173.0,,flag,270.5
+Joe Burrow,pass_yds,309.5,alternate,Tennessee Titans @ Cincinnati Bengals,2026-11-01 18:00:00+00:00,draftkings,1,217.0,,flag,270.5
+Joe Burrow,pass_yds,319.5,alternate,Tennessee Titans @ Cincinnati Bengals,2026-11-01 18:00:00+00:00,draftkings,1,270.0,,flag,270.5
+Joe Burrow,pass_yds,329.5,alternate,Tennessee Titans @ Cincinnati Bengals,2026-11-01 18:00:00+00:00,draftkings,1,340.0,,flag,270.5
+Joe Burrow,pass_yds,339.5,alternate,Tennessee Titans @ Cincinnati Bengals,2026-11-01 18:00:00+00:00,draftkings,1,421.0,,flag,270.5
+Joe Burrow,pass_yds,349.5,alternate,Tennessee Titans @ Cincinnati Bengals,2026-11-01 18:00:00+00:00,draftkings,1,527.0,,flag,270.5
+Joe Burrow,pass_yds,359.5,alternate,Tennessee Titans @ Cincinnati Bengals,2026-11-01 18:00:00+00:00,draftkings,1,650.0,,flag,270.5
+Joe Burrow,pass_yds,369.5,alternate,Tennessee Titans @ Cincinnati Bengals,2026-11-01 18:00:00+00:00,draftkings,1,810.0,,flag,270.5
+Joe Burrow,pass_yds,379.5,alternate,Tennessee Titans @ Cincinnati Bengals,2026-11-01 18:00:00+00:00,draftkings,1,970.0,,flag,270.5
+Joe Burrow,pass_yds,389.5,alternate,Tennessee Titans @ Cincinnati Bengals,2026-11-01 18:00:00+00:00,draftkings,1,1220.0,,flag,270.5
+Joe Burrow,pass_yds,399.5,alternate,Tennessee Titans @ Cincinnati Bengals,2026-11-01 18:00:00+00:00,draftkings,1,1460.0,,flag,270.5
+Joe Burrow,pass_yds,409.5,alternate,Tennessee Titans @ Cincinnati Bengals,2026-11-01 18:00:00+00:00,draftkings,1,1760.0,,flag,270.5
+Joe Burrow,pass_yds,419.5,alternate,Tennessee Titans @ Cincinnati Bengals,2026-11-01 18:00:00+00:00,draftkings,1,2000.0,,flag,270.5
+Joe Burrow,pass_yds,429.5,alternate,Tennessee Titans @ Cincinnati Bengals,2026-11-01 18:00:00+00:00,draftkings,1,2400.0,,flag,270.5
+Joe Burrow,pass_yds,439.5,alternate,Tennessee Titans @ Cincinnati Bengals,2026-11-01 18:00:00+00:00,draftkings,1,2800.0,,flag,270.5
+Joe Burrow,rush_yds,5.5,standard,Tennessee Titans @ Cincinnati Bengals,2026-11-01 18:00:00+00:00,draftkings,1,-109.0,-115.0,flag,5.5
+Joe Burrow,rush_yds,9.5,alternate,Tennessee Titans @ Cincinnati Bengals,2026-11-01 18:00:00+00:00,draftkings,1,180.0,,flag,5.5
+Joe Burrow,rush_yds,14.5,alternate,Tennessee Titans @ Cincinnati Bengals,2026-11-01 18:00:00+00:00,draftkings,1,357.0,,flag,5.5
+Joe Burrow,rush_yds,19.5,alternate,Tennessee Titans @ Cincinnati Bengals,2026-11-01 18:00:00+00:00,draftkings,1,610.0,,flag,5.5
+Joe Burrow,rush_yds,24.5,alternate,Tennessee Titans @ Cincinnati Bengals,2026-11-01 18:00:00+00:00,draftkings,1,1000.0,,flag,5.5
+Joe Burrow,rush_yds,29.5,alternate,Tennessee Titans @ Cincinnati Bengals,2026-11-01 18:00:00+00:00,draftkings,1,1500.0,,flag,5.5
+Joe Burrow,rush_yds,39.5,alternate,Tennessee Titans @ Cincinnati Bengals,2026-11-01 18:00:00+00:00,draftkings,1,2700.0,,flag,5.5
+Samaje Perine,rush_yds,9.5,alternate,Tennessee Titans @ Cincinnati Bengals,2026-11-01 18:00:00+00:00,draftkings,1,-577.0,,flag,23.5
+Samaje Perine,rush_yds,14.5,alternate,Tennessee Titans @ Cincinnati Bengals,2026-11-01 18:00:00+00:00,draftkings,1,-280.0,,flag,23.5
+Samaje Perine,rush_yds,19.5,alternate,Tennessee Titans @ Cincinnati Bengals,2026-11-01 18:00:00+00:00,draftkings,1,-161.0,,flag,23.5
+Samaje Perine,rush_yds,23.5,standard,Tennessee Titans @ Cincinnati Bengals,2026-11-01 18:00:00+00:00,draftkings,1,-115.0,-109.0,flag,23.5
+Samaje Perine,rush_yds,24.5,alternate,Tennessee Titans @ Cincinnati Bengals,2026-11-01 18:00:00+00:00,draftkings,1,-103.0,,flag,23.5
+Samaje Perine,rush_yds,39.5,alternate,Tennessee Titans @ Cincinnati Bengals,2026-11-01 18:00:00+00:00,draftkings,1,278.0,,flag,23.5
+Samaje Perine,rush_yds,49.5,alternate,Tennessee Titans @ Cincinnati Bengals,2026-11-01 18:00:00+00:00,draftkings,1,485.0,,flag,23.5
+Samaje Perine,rush_yds,59.5,alternate,Tennessee Titans @ Cincinnati Bengals,2026-11-01 18:00:00+00:00,draftkings,1,790.0,,flag,23.5
+Samaje Perine,rush_yds,69.5,alternate,Tennessee Titans @ Cincinnati Bengals,2026-11-01 18:00:00+00:00,draftkings,1,1220.0,,flag,23.5
+Samaje Perine,rush_yds,79.5,alternate,Tennessee Titans @ Cincinnati Bengals,2026-11-01 18:00:00+00:00,draftkings,1,1800.0,,flag,23.5
+Samaje Perine,rush_yds,89.5,alternate,Tennessee Titans @ Cincinnati Bengals,2026-11-01 18:00:00+00:00,draftkings,1,2600.0,,flag,23.5
+Samaje Perine,rush_yds,99.5,alternate,Tennessee Titans @ Cincinnati Bengals,2026-11-01 18:00:00+00:00,draftkings,1,3700.0,,flag,23.5
+Tony Pollard,car,15.5,standard,Tennessee Titans @ Cincinnati Bengals,2026-11-01 18:00:00+00:00,draftkings,1,-120.0,-107.0,flag,15.5
+Tony Pollard,rush_yds,29.5,alternate,Tennessee Titans @ Cincinnati Bengals,2026-11-01 18:00:00+00:00,draftkings,1,-1220.0,,flag,64.5
+Tony Pollard,rush_yds,39.5,alternate,Tennessee Titans @ Cincinnati Bengals,2026-11-01 18:00:00+00:00,draftkings,1,-494.0,,flag,64.5
+Tony Pollard,rush_yds,49.5,alternate,Tennessee Titans @ Cincinnati Bengals,2026-11-01 18:00:00+00:00,draftkings,1,-250.0,,flag,64.5
+Tony Pollard,rush_yds,59.5,alternate,Tennessee Titans @ Cincinnati Bengals,2026-11-01 18:00:00+00:00,draftkings,1,-144.0,,flag,64.5
+Tony Pollard,rush_yds,64.5,standard,Tennessee Titans @ Cincinnati Bengals,2026-11-01 18:00:00+00:00,draftkings,1,-112.0,-112.0,flag,64.5
+Tony Pollard,rush_yds,69.5,alternate,Tennessee Titans @ Cincinnati Bengals,2026-11-01 18:00:00+00:00,draftkings,1,112.0,,flag,64.5
+Tony Pollard,rush_yds,79.5,alternate,Tennessee Titans @ Cincinnati Bengals,2026-11-01 18:00:00+00:00,draftkings,1,172.0,,flag,64.5
+Tony Pollard,rush_yds,89.5,alternate,Tennessee Titans @ Cincinnati Bengals,2026-11-01 18:00:00+00:00,draftkings,1,257.0,,flag,64.5
+Tony Pollard,rush_yds,99.5,alternate,Tennessee Titans @ Cincinnati Bengals,2026-11-01 18:00:00+00:00,draftkings,1,378.0,,flag,64.5
+Tony Pollard,rush_yds,109.5,alternate,Tennessee Titans @ Cincinnati Bengals,2026-11-01 18:00:00+00:00,draftkings,1,547.0,,flag,64.5
+Tony Pollard,rush_yds,119.5,alternate,Tennessee Titans @ Cincinnati Bengals,2026-11-01 18:00:00+00:00,draftkings,1,790.0,,flag,64.5
+Tony Pollard,rush_yds,129.5,alternate,Tennessee Titans @ Cincinnati Bengals,2026-11-01 18:00:00+00:00,draftkings,1,1120.0,,flag,64.5
+Tony Pollard,rush_yds,139.5,alternate,Tennessee Titans @ Cincinnati Bengals,2026-11-01 18:00:00+00:00,draftkings,1,1600.0,,flag,64.5
+Tony Pollard,rush_yds,149.5,alternate,Tennessee Titans @ Cincinnati Bengals,2026-11-01 18:00:00+00:00,draftkings,1,2300.0,,flag,64.5
+Tony Pollard,rush_yds,159.5,alternate,Tennessee Titans @ Cincinnati Bengals,2026-11-01 18:00:00+00:00,draftkings,1,3000.0,,flag,64.5
+Blake Corum,car,10.5,standard,Los Angeles Chargers @ Los Angeles Rams,2026-11-01 21:05:00+00:00,draftkings,1,104.0,-133.0,flag,10.5
+Justin Herbert,pass_att,32.5,standard,Los Angeles Chargers @ Los Angeles Rams,2026-11-01 21:05:00+00:00,draftkings,1,-109.0,-117.0,flag,32.5
+Justin Herbert,pass_td,1.5,standard,Los Angeles Chargers @ Los Angeles Rams,2026-11-01 21:05:00+00:00,draftkings,1,166.0,-215.0,flag,1.5
+Kyren Williams,car,13.5,standard,Los Angeles Chargers @ Los Angeles Rams,2026-11-01 21:05:00+00:00,draftkings,1,-132.0,103.0,flag,13.5
+Matthew Stafford,pass_att,33.5,standard,Los Angeles Chargers @ Los Angeles Rams,2026-11-01 21:05:00+00:00,draftkings,1,-113.0,-113.0,flag,33.5
+Matthew Stafford,pass_td,1.5,standard,Los Angeles Chargers @ Los Angeles Rams,2026-11-01 21:05:00+00:00,draftkings,1,-163.0,127.0,flag,1.5
+Bo Nix,car,4.5,standard,Kansas City Chiefs @ Denver Broncos,2026-11-01 21:25:00+00:00,draftkings,1,106.0,-135.0,flag,4.5
+Bo Nix,pass_att,33.5,standard,Kansas City Chiefs @ Denver Broncos,2026-11-01 21:25:00+00:00,draftkings,1,-114.0,-111.0,flag,33.5
+Bo Nix,pass_td,1.5,standard,Kansas City Chiefs @ Denver Broncos,2026-11-01 21:25:00+00:00,draftkings,1,186.0,-242.0,flag,1.5
+J.K. Dobbins,car,7.5,standard,Kansas City Chiefs @ Denver Broncos,2026-11-01 21:25:00+00:00,draftkings,1,111.0,-141.0,flag,7.5
+Jonah Coleman,car,10.5,standard,Kansas City Chiefs @ Denver Broncos,2026-11-01 21:25:00+00:00,draftkings,1,-107.0,-119.0,flag,10.5
+Kenneth Walker III,car,19.5,standard,Kansas City Chiefs @ Denver Broncos,2026-11-01 21:25:00+00:00,draftkings,1,-110.0,-115.0,flag,19.5
+Patrick Mahomes,pass_att,33.5,standard,Kansas City Chiefs @ Denver Broncos,2026-11-01 21:25:00+00:00,draftkings,1,-112.0,-114.0,flag,33.5
+Patrick Mahomes,pass_td,1.5,standard,Kansas City Chiefs @ Denver Broncos,2026-11-01 21:25:00+00:00,draftkings,1,176.0,-228.0,flag,1.5
+Drake Maye,car,4.5,standard,New England Patriots @ Miami Dolphins,2026-11-01 21:25:00+00:00,draftkings,1,-110.0,-116.0,flag,4.5
+Drake Maye,pass_att,29.5,standard,New England Patriots @ Miami Dolphins,2026-11-01 21:25:00+00:00,draftkings,1,-120.0,-106.0,flag,29.5
+Drake Maye,pass_td,1.5,standard,New England Patriots @ Miami Dolphins,2026-11-01 21:25:00+00:00,draftkings,1,-126.0,-101.0,flag,1.5
+Jaylen Wright,car,4.5,standard,New England Patriots @ Miami Dolphins,2026-11-01 21:25:00+00:00,draftkings,1,-112.0,-114.0,flag,4.5
+Malik Willis,car,6.5,standard,New England Patriots @ Miami Dolphins,2026-11-01 21:25:00+00:00,draftkings,1,-116.0,-110.0,flag,6.5
+Malik Willis,pass_att,28.5,standard,New England Patriots @ Miami Dolphins,2026-11-01 21:25:00+00:00,draftkings,1,-114.0,-112.0,flag,28.5
+Malik Willis,pass_td,0.5,standard,New England Patriots @ Miami Dolphins,2026-11-01 21:25:00+00:00,draftkings,1,-217.0,168.0,flag,0.5
+Ollie Gordon II,car,15.5,standard,New England Patriots @ Miami Dolphins,2026-11-01 21:25:00+00:00,draftkings,1,-107.0,-119.0,flag,15.5
+Rhamondre Stevenson,car,12.5,standard,New England Patriots @ Miami Dolphins,2026-11-01 21:25:00+00:00,draftkings,1,-134.0,105.0,flag,12.5
+Jayden Daniels,car,6.5,standard,Philadelphia Eagles @ Washington Commanders,2026-11-02 01:20:00+00:00,draftkings,1,-140.0,109.0,flag,6.5
+Jayden Daniels,pass_att,29.5,standard,Philadelphia Eagles @ Washington Commanders,2026-11-02 01:20:00+00:00,draftkings,1,-107.0,-119.0,flag,29.5
+Jayden Daniels,pass_td,1.5,standard,Philadelphia Eagles @ Washington Commanders,2026-11-02 01:20:00+00:00,draftkings,1,124.0,-158.0,flag,1.5
+Rachaad White,car,12.5,standard,Philadelphia Eagles @ Washington Commanders,2026-11-02 01:20:00+00:00,draftkings,1,-113.0,-113.0,flag,12.5
+Tanner McKee,pass_att,33.5,standard,Philadelphia Eagles @ Washington Commanders,2026-11-02 01:20:00+00:00,draftkings,1,-107.0,-119.0,flag,33.5
+Tanner McKee,pass_td,0.5,standard,Philadelphia Eagles @ Washington Commanders,2026-11-02 01:20:00+00:00,draftkings,1,-223.0,172.0,flag,0.5
+Caleb Williams,pass_att,32.5,standard,Chicago Bears @ Seattle Seahawks,2026-11-03 01:20:00+00:00,draftkings,1,-102.0,-125.0,flag,32.5
+Caleb Williams,pass_td,1.5,standard,Chicago Bears @ Seattle Seahawks,2026-11-03 01:20:00+00:00,draftkings,1,138.0,-177.0,flag,1.5
+Sam Darnold,pass_att,30.5,standard,Chicago Bears @ Seattle Seahawks,2026-11-03 01:20:00+00:00,draftkings,1,-107.0,-119.0,flag,30.5
+Sam Darnold,pass_td,1.5,standard,Chicago Bears @ Seattle Seahawks,2026-11-03 01:20:00+00:00,draftkings,1,-120.0,-107.0,flag,1.5
