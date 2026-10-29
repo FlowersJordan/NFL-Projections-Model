@@ -107,7 +107,7 @@
     <header>
       <div>
         <div class="eyebrow">NFL analytics / 2026 season</div>
-        <h1>Week 7 Projections</h1>
+        <h1>Week 8 Projections</h1>
         <p class="sub">Player forecasts, matchup context, and projected fantasy output.</p>
         <div class="status" id="status">Loading projections from GitHub…</div>
       </div>
@@ -160,7 +160,7 @@
   </main>
 
   <script>
-    const CSV_URL = "https://raw.githubusercontent.com/FlowersJordan/NFL-Projections-Model/main/output/projections_2026_wk07.csv";
+    const CSV_URL = "https://raw.githubusercontent.com/FlowersJordan/NFL-Projections-Model/main/output/projections_2026_wk08.csv";
     const $ = (id) => document.getElementById(id);
     let allRows = [];
     let sortKey = "proj";
@@ -348,7 +348,7 @@
         allRows = normalizedRows(parsed.data);
         if (!allRows.length) throw new Error("The CSV loaded, but no player rows were found. Check the source headers.");
         populateFilters();
-        $("status").textContent = `Loaded ${allRows.length.toLocaleString()} player rows · Source: projections_2026_wk06.csv`;
+        $("status").textContent = `Loaded ${allRows.length.toLocaleString()} player rows · Source: projections_2026_wk08.csv`;
         $("load-error").textContent = "";
         render();
       } catch (error) {
