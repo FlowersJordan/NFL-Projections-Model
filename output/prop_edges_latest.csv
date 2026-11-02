@@ -1,126 +1,21 @@
 game,player,stat,line,ours,edge,pick,z,p_play,line_type,odds,rank
-ARI @ DAL,"Jeremiyah Love (RB, ARI)",car,9.5,12.38,2.88,OVER,0.54,0.4,standard,-122.0,1
-ARI @ DAL,"Javonte Williams (RB, DAL)",car,17.5,15.38,-2.12,UNDER,0.4,1.0,standard,-122.0,2
-ARI @ DAL,"Dak Prescott (QB, DAL)",pass_td,2.5,2.23,-0.27,UNDER,0.25,1.0,standard,-147.0,3
-ARI @ DAL,"Jacoby Brissett (QB, ARI)",pass_att,36.5,38.48,1.98,OVER,0.2,1.0,standard,-117.0,4
-ARI @ DAL,"Dak Prescott (QB, DAL)",pass_att,34.5,36.42,1.92,OVER,0.19,1.0,standard,-105.0,5
-ATL @ TB,"Bucky Irving (RB, TB)",car,16.5,17.85,1.35,OVER,0.25,0.96,standard,-120.0,1
-ATL @ TB,"Michael Penix Jr. (QB, ATL)",pass_td,1.5,1.23,-0.27,UNDER,0.25,1.0,standard,-179.0,2
-ATL @ TB,"Baker Mayfield (QB, TB)",pass_att,31.5,29.15,-2.35,UNDER,0.24,0.96,standard,-124.0,3
-ATL @ TB,"Michael Penix Jr. (QB, ATL)",pass_yds,228.5,212.04,-16.46,UNDER,0.2,1.0,standard,-112.0,4
-ATL @ TB,"Baker Mayfield (QB, TB)",pass_td,1.5,1.28,-0.22,UNDER,0.2,0.96,standard,-141.0,5
-ATL @ TB,"Michael Penix Jr. (QB, ATL)",pass_yds,389.5,212.04,-177.46,UNDER,2.18,1.0,alternate,,1
-ATL @ TB,"Michael Penix Jr. (QB, ATL)",pass_yds,379.5,212.04,-167.46,UNDER,2.06,1.0,alternate,,2
-ATL @ TB,"Baker Mayfield (QB, TB)",pass_yds,369.5,206.92,-162.58,UNDER,2.0,0.96,alternate,,3
-ATL @ TB,"Michael Penix Jr. (QB, ATL)",pass_yds,369.5,212.04,-157.46,UNDER,1.94,1.0,alternate,,4
-ATL @ TB,"Baker Mayfield (QB, TB)",pass_yds,359.5,206.92,-152.58,UNDER,1.88,0.96,alternate,,5
-ATL @ TB,"Michael Penix Jr. (QB, ATL)",pass_yds,359.5,212.04,-147.46,UNDER,1.81,1.0,alternate,,6
-ATL @ TB,"Baker Mayfield (QB, TB)",pass_yds,349.5,206.92,-142.58,UNDER,1.75,0.96,alternate,,7
-ATL @ TB,"Baker Mayfield (QB, TB)",pass_yds,339.5,206.92,-132.58,UNDER,1.63,0.96,alternate,,8
-ATL @ TB,"Baker Mayfield (QB, TB)",pass_yds,329.5,206.92,-122.58,UNDER,1.51,0.96,alternate,,9
-ATL @ TB,"Michael Penix Jr. (QB, ATL)",pass_yds,329.5,212.04,-117.46,UNDER,1.44,1.0,alternate,,10
-ATL @ TB,"Baker Mayfield (QB, TB)",pass_yds,319.5,206.92,-112.58,UNDER,1.38,0.96,alternate,,11
-ATL @ TB,"Michael Penix Jr. (QB, ATL)",pass_yds,319.5,212.04,-107.46,UNDER,1.32,1.0,alternate,,12
-ATL @ TB,"Baker Mayfield (QB, TB)",pass_yds,309.5,206.92,-102.58,UNDER,1.26,0.96,alternate,,13
-ATL @ TB,"Michael Penix Jr. (QB, ATL)",pass_yds,309.5,212.04,-97.46,UNDER,1.2,1.0,alternate,,14
-ATL @ TB,"Baker Mayfield (QB, TB)",pass_yds,299.5,206.92,-92.58,UNDER,1.14,0.96,alternate,,15
-BAL @ BUF,"DJ Moore (WR, BUF)",rec,4.5,2.4,-2.1,UNDER,0.95,0.74,standard,-146.0,1
-BAL @ BUF,"Keon Coleman (WR, BUF)",rec,1.5,3.27,1.77,OVER,0.8,1.0,standard,-192.0,2
-BAL @ BUF,"James Cook (RB, BUF)",rec,1.5,2.18,0.68,OVER,0.4,1.0,standard,-128.0,3
-BAL @ BUF,"Lamar Jackson (QB, BAL)",pass_att,31.5,28.16,-3.34,UNDER,0.34,0.4,standard,-127.0,4
-BAL @ BUF,"Justice Hill (RB, BAL)",rec,1.5,2.07,0.57,OVER,0.34,1.0,standard,-161.0,5
-BAL @ BUF,"Josh Allen (QB, BUF)",rush_yds,119.5,39.0,-80.5,UNDER,4.76,1.0,alternate,,1
-BAL @ BUF,"Josh Allen (QB, BUF)",rush_yds,109.5,39.0,-70.5,UNDER,4.17,1.0,alternate,,2
-BAL @ BUF,"Lamar Jackson (QB, BAL)",rush_yds,89.5,26.59,-62.91,UNDER,3.72,0.4,alternate,,3
-BAL @ BUF,"Josh Allen (QB, BUF)",rush_yds,99.5,39.0,-60.5,UNDER,3.58,1.0,alternate,,4
-BAL @ BUF,"Derrick Henry (RB, BAL)",rush_yds,189.5,75.15,-114.35,UNDER,3.54,1.0,alternate,,5
-BAL @ BUF,"Derrick Henry (RB, BAL)",rush_yds,179.5,75.15,-104.35,UNDER,3.23,1.0,alternate,,6
-BAL @ BUF,"James Cook (RB, BUF)",rush_yds,189.5,85.15,-104.35,UNDER,3.23,1.0,alternate,,7
-BAL @ BUF,"DJ Moore (WR, BUF)",rec,9.5,2.4,-7.1,UNDER,3.23,0.74,alternate,,8
-BAL @ BUF,"Lamar Jackson (QB, BAL)",rush_yds,79.5,26.59,-52.91,UNDER,3.13,0.4,alternate,,9
-BAL @ BUF,"Zay Flowers (WR, BAL)",rec,12.5,5.78,-6.72,UNDER,3.05,1.0,alternate,,10
-BAL @ BUF,"James Cook (RB, BUF)",rec_yds,69.5,17.76,-51.74,UNDER,3.04,1.0,alternate,,11
-BAL @ BUF,"Josh Allen (QB, BUF)",rush_yds,89.5,39.0,-50.5,UNDER,2.99,1.0,alternate,,12
-BAL @ BUF,"Derrick Henry (RB, BAL)",rush_yds,169.5,75.15,-94.35,UNDER,2.92,1.0,alternate,,13
-BAL @ BUF,"James Cook (RB, BUF)",rush_yds,179.5,85.15,-94.35,UNDER,2.92,1.0,alternate,,14
-BAL @ BUF,"Dalton Kincaid (TE, BUF)",rec,8.5,2.99,-5.51,UNDER,2.9,0.74,alternate,,15
-CHI @ SEA,"D'Andre Swift (RB, CHI)",car,17.5,15.78,-1.72,UNDER,0.32,1.0,standard,-125.0,1
-CHI @ SEA,"Caleb Williams (QB, CHI)",pass_td,1.5,1.33,-0.17,UNDER,0.15,1.0,standard,-157.0,2
-CHI @ SEA,"Sam Darnold (QB, SEA)",pass_att,29.5,30.36,0.86,OVER,0.09,1.0,standard,-127.0,3
-CHI @ SEA,"Sam Darnold (QB, SEA)",pass_td,1.5,1.43,-0.07,UNDER,0.06,1.0,standard,-109.0,4
-CHI @ SEA,"Caleb Williams (QB, CHI)",car,4.5,4.39,-0.11,UNDER,0.05,1.0,standard,-111.0,5
-CLE @ PIT,"Rico Dowdle (RB, PIT)",car,6.5,9.59,3.09,OVER,0.58,1.0,standard,-141.0,1
-CLE @ PIT,"Deshaun Watson (QB, CLE)",pass_td,0.5,0.94,0.44,OVER,0.4,1.0,standard,-232.0,2
-CLE @ PIT,"Rico Dowdle (RB, PIT)",rush_yds,31.5,40.84,9.34,OVER,0.29,1.0,standard,,3
-CLE @ PIT,"Jaylen Warren (RB, PIT)",car,14.5,15.86,1.36,OVER,0.26,1.0,standard,104.0,4
-CLE @ PIT,"Deshaun Watson (QB, CLE)",pass_att,31.5,29.14,-2.36,UNDER,0.24,1.0,standard,-116.0,5
-CLE @ PIT,"Jaylen Warren (RB, PIT)",rush_yds,149.5,78.5,-71.0,UNDER,2.2,1.0,alternate,,1
-CLE @ PIT,"Rico Dowdle (RB, PIT)",rush_yds,109.5,40.84,-68.66,UNDER,2.13,1.0,alternate,,2
-CLE @ PIT,"Deshaun Watson (QB, CLE)",pass_yds,359.5,195.89,-163.61,UNDER,2.01,1.0,alternate,,3
-CLE @ PIT,"Aaron Rodgers (QB, PIT)",pass_yds,379.5,216.71,-162.79,UNDER,2.0,1.0,alternate,,4
-CLE @ PIT,"Deshaun Watson (QB, CLE)",pass_yds,349.5,195.89,-153.61,UNDER,1.89,1.0,alternate,,5
-CLE @ PIT,"Aaron Rodgers (QB, PIT)",pass_yds,369.5,216.71,-152.79,UNDER,1.88,1.0,alternate,,6
-CLE @ PIT,"Rico Dowdle (RB, PIT)",rush_yds,99.5,40.84,-58.66,UNDER,1.82,1.0,alternate,,7
-CLE @ PIT,"Deshaun Watson (QB, CLE)",pass_yds,339.5,195.89,-143.61,UNDER,1.77,1.0,alternate,,8
-CLE @ PIT,"Aaron Rodgers (QB, PIT)",pass_yds,359.5,216.71,-142.79,UNDER,1.76,1.0,alternate,,9
-CLE @ PIT,"Deshaun Watson (QB, CLE)",pass_yds,329.5,195.89,-133.61,UNDER,1.64,1.0,alternate,,10
-CLE @ PIT,"Aaron Rodgers (QB, PIT)",pass_yds,349.5,216.71,-132.79,UNDER,1.63,1.0,alternate,,11
-CLE @ PIT,"Aaron Rodgers (QB, PIT)",rush_yds,29.5,3.58,-25.92,UNDER,1.53,1.0,alternate,,12
-CLE @ PIT,"Deshaun Watson (QB, CLE)",pass_yds,319.5,195.89,-123.61,UNDER,1.52,1.0,alternate,,13
-CLE @ PIT,"Aaron Rodgers (QB, PIT)",pass_yds,339.5,216.71,-122.79,UNDER,1.51,1.0,alternate,,14
-CLE @ PIT,"Rico Dowdle (RB, PIT)",rush_yds,89.5,40.84,-48.66,UNDER,1.51,1.0,alternate,,15
-IND @ JAX,"Trevor Lawrence (QB, JAX)",pass_td,1.5,2.23,0.73,OVER,0.66,1.0,standard,-195.0,1
-IND @ JAX,"Jonathan Taylor (RB, IND)",car,14.5,17.15,2.65,OVER,0.5,1.0,standard,-125.0,2
-IND @ JAX,"Daniel Jones (QB, IND)",pass_td,0.5,1.02,0.52,OVER,0.47,1.0,standard,-206.0,3
-IND @ JAX,"Bhayshul Tuten (RB, JAX)",car,15.5,13.49,-2.01,UNDER,0.38,1.0,standard,-135.0,4
-IND @ JAX,"Chris Rodriguez Jr. (RB, JAX)",car,7.5,7.31,-0.19,UNDER,0.04,1.0,standard,-124.0,5
-KC @ DEN,"J.K. Dobbins (RB, DEN)",car,8.5,13.39,4.89,OVER,0.92,1.0,standard,-139.0,1
-KC @ DEN,"Kenneth Walker III (RB, KC)",car,19.5,17.39,-2.11,UNDER,0.4,1.0,standard,-120.0,2
-KC @ DEN,"Patrick Mahomes (QB, KC)",car,2.5,3.33,0.83,OVER,0.35,0.96,standard,-168.0,3
-KC @ DEN,"Bo Nix (QB, DEN)",pass_td,1.5,1.14,-0.36,UNDER,0.33,1.0,standard,-244.0,4
-KC @ DEN,"Bo Nix (QB, DEN)",pass_att,33.5,31.01,-2.49,UNDER,0.25,1.0,standard,-122.0,5
-LAC @ LA,"Matthew Stafford (QB, LA)",pass_td,1.5,1.94,0.44,OVER,0.4,1.0,standard,-178.0,1
-LAC @ LA,"Justin Herbert (QB, LAC)",pass_td,1.5,1.12,-0.38,UNDER,0.35,1.0,standard,-202.0,2
-LAC @ LA,"Omarion Hampton (RB, LAC)",car,9.5,10.68,1.18,OVER,0.22,1.0,standard,-121.0,3
-LAC @ LA,"Blake Corum (RB, LA)",car,10.5,9.61,-0.89,UNDER,0.17,1.0,standard,-126.0,4
-LAC @ LA,"Matthew Stafford (QB, LA)",pass_att,33.5,35.05,1.55,OVER,0.16,1.0,standard,-121.0,5
-LV @ NYJ,"Braelon Allen (RB, NYJ)",car,18.5,14.15,-4.35,UNDER,0.82,0.96,standard,-102.0,1
-LV @ NYJ,"Kirk Cousins (QB, LV)",pass_att,32.5,34.37,1.87,OVER,0.19,1.0,standard,-122.0,2
-LV @ NYJ,"Geno Smith (QB, NYJ)",pass_att,29.5,30.11,0.61,OVER,0.06,1.0,standard,-128.0,3
-LV @ NYJ,"Geno Smith (QB, NYJ)",pass_td,1.5,1.45,-0.05,UNDER,0.05,1.0,standard,-118.0,4
-LV @ NYJ,"Ashton Jeanty (RB, LV)",car,13.5,13.27,-0.23,UNDER,0.04,1.0,standard,-110.0,5
-MIN @ DET,"Aaron Jones (RB, MIN)",car,7.5,14.44,6.94,OVER,1.31,0.96,standard,-117.0,1
-MIN @ DET,"Jahmyr Gibbs (RB, DET)",car,21.5,19.9,-1.6,UNDER,0.3,0.96,standard,-123.0,2
-MIN @ DET,"Jordan Mason (RB, MIN)",car,11.5,10.18,-1.32,UNDER,0.25,1.0,standard,-121.0,3
-MIN @ DET,"Kyler Murray (QB, MIN)",pass_td,1.5,1.24,-0.26,UNDER,0.24,1.0,standard,-142.0,4
-MIN @ DET,"Kyler Murray (QB, MIN)",car,4.5,5.03,0.53,OVER,0.22,1.0,standard,108.0,5
-NE @ MIA,"Malik Willis (QB, MIA)",pass_att,27.5,21.87,-5.63,UNDER,0.57,0.96,standard,-101.0,1
-NE @ MIA,"Ollie Gordon II (RB, MIA)",car,15.5,12.97,-2.53,UNDER,0.48,1.0,standard,-110.0,2
-NE @ MIA,"Rhamondre Stevenson (RB, NE)",car,14.5,12.16,-2.34,UNDER,0.44,1.0,standard,-127.0,3
-NE @ MIA,"Malik Willis (QB, MIA)",pass_td,0.5,0.85,0.35,OVER,0.32,0.96,standard,-163.0,4
-NE @ MIA,"Malik Willis (QB, MIA)",car,6.5,5.91,-0.59,UNDER,0.25,0.96,standard,-105.0,5
-PHI @ WAS,"Rachaad White (RB, WAS)",car,12.5,8.16,-4.34,UNDER,0.82,1.0,standard,-132.0,1
-PHI @ WAS,"Saquon Barkley (RB, PHI)",car,11.5,9.01,-2.49,UNDER,0.47,0.94,standard,-101.0,2
-PHI @ WAS,"Jayden Daniels (QB, WAS)",pass_td,1.5,1.29,-0.21,UNDER,0.19,0.96,standard,-147.0,3
-PHI @ WAS,"Jayden Daniels (QB, WAS)",pass_att,29.5,27.92,-1.58,UNDER,0.16,0.96,standard,-121.0,4
-PHI @ WAS,"Jayden Daniels (QB, WAS)",car,6.5,6.76,0.26,OVER,0.11,0.96,standard,-128.0,5
-TEN @ CIN,"Michael Carter (RB, TEN)",rec_yds,7.5,22.38,14.88,OVER,0.88,1.0,standard,-119.0,1
-TEN @ CIN,"Michael Carter (RB, TEN)",rec,1.5,2.83,1.33,OVER,0.78,1.0,standard,-110.0,2
-TEN @ CIN,"Michael Carter (RB, TEN)",rush_yds,12.5,28.76,16.26,OVER,0.5,1.0,standard,-110.0,3
-TEN @ CIN,"Chase Brown (RB, CIN)",rec_yds,20.5,28.78,8.28,OVER,0.49,1.0,standard,-115.0,4
-TEN @ CIN,"Wan'Dale Robinson (WR, TEN)",rec,5.5,4.6,-0.9,UNDER,0.41,1.0,standard,-123.0,5
-TEN @ CIN,"Ja'Marr Chase (WR, CIN)",rec_yds,199.5,69.68,-129.82,UNDER,3.82,0.96,alternate,,1
-TEN @ CIN,"Ja'Marr Chase (WR, CIN)",rec_yds,189.5,69.68,-119.82,UNDER,3.52,0.96,alternate,,2
-TEN @ CIN,"Ja'Marr Chase (WR, CIN)",rec,13.5,5.76,-7.74,UNDER,3.52,0.96,alternate,,3
-TEN @ CIN,"Ja'Marr Chase (WR, CIN)",rec_yds,179.5,69.68,-109.82,UNDER,3.23,0.96,alternate,,4
-TEN @ CIN,"Wan'Dale Robinson (WR, TEN)",rec,11.5,4.6,-6.9,UNDER,3.14,1.0,alternate,,5
-TEN @ CIN,"Chase Brown (RB, CIN)",rush_yds,159.5,58.28,-101.22,UNDER,3.13,1.0,alternate,,6
-TEN @ CIN,"Mike Gesicki (TE, CIN)",rec_yds,99.5,25.16,-74.34,UNDER,3.1,1.0,alternate,,7
-TEN @ CIN,"Tee Higgins (WR, CIN)",rec_yds,179.5,74.83,-104.67,UNDER,3.08,1.0,alternate,,8
-TEN @ CIN,"Tony Pollard (RB, TEN)",rush_yds,169.5,70.33,-99.17,UNDER,3.07,0.96,alternate,,9
-TEN @ CIN,"Ja'Marr Chase (WR, CIN)",rec,12.5,5.76,-6.74,UNDER,3.06,0.96,alternate,,10
-TEN @ CIN,"Chase Brown (RB, CIN)",rec_yds,79.5,28.78,-50.72,UNDER,2.98,1.0,alternate,,11
-TEN @ CIN,"Tony Pollard (RB, TEN)",rec_yds,69.5,18.99,-50.51,UNDER,2.97,0.96,alternate,,12
-TEN @ CIN,"Ja'Marr Chase (WR, CIN)",rec_yds,169.5,69.68,-99.82,UNDER,2.94,0.96,alternate,,13
-TEN @ CIN,"Samaje Perine (RB, CIN)",rec_yds,59.5,9.98,-49.52,UNDER,2.91,1.0,alternate,,14
-TEN @ CIN,"Chase Brown (RB, CIN)",rush_yds,149.5,58.28,-91.22,UNDER,2.82,1.0,alternate,,15
+CHI @ SEA,"Emanuel Wilson (RB, SEA)",rush_yds,21.5,57.29,35.79,OVER,1.11,1.0,standard,-110.0,1
+CHI @ SEA,"D'Andre Swift (RB, CHI)",rec,3.5,2.88,-0.62,UNDER,0.36,1.0,standard,-141.0,2
+CHI @ SEA,"Rome Odunze (WR, CHI)",rec_yds,40.5,50.56,10.06,OVER,0.3,1.0,standard,-113.0,3
+CHI @ SEA,"Sam Darnold (QB, SEA)",rush_yds,4.5,9.23,4.73,OVER,0.28,1.0,standard,-118.0,4
+CHI @ SEA,"AJ Barner (TE, SEA)",rec_yds,29.5,35.52,6.02,OVER,0.25,1.0,standard,,5
+CHI @ SEA,"Luther Burden III (WR, CHI)",rush_yds,39.5,4.25,-35.25,UNDER,8.01,1.0,alternate,,1
+CHI @ SEA,"Luther Burden III (WR, CHI)",rush_yds,29.5,4.25,-25.25,UNDER,5.74,1.0,alternate,,2
+CHI @ SEA,"Luther Burden III (WR, CHI)",rush_yds,24.5,4.25,-20.25,UNDER,4.6,1.0,alternate,,3
+CHI @ SEA,"D'Andre Swift (RB, CHI)",rec_yds,79.5,19.88,-59.62,UNDER,3.51,1.0,alternate,,4
+CHI @ SEA,"Luther Burden III (WR, CHI)",rush_yds,19.5,4.25,-15.25,UNDER,3.47,1.0,alternate,,5
+CHI @ SEA,"Caleb Williams (QB, CHI)",rush_yds,79.5,21.52,-57.98,UNDER,3.43,1.0,alternate,,6
+CHI @ SEA,"D'Andre Swift (RB, CHI)",rec,8.5,2.88,-5.62,UNDER,3.31,1.0,alternate,,7
+CHI @ SEA,"Jaxon Smith-Njigba (WR, SEA)",rec,14.5,7.38,-7.12,UNDER,3.24,0.96,alternate,,8
+CHI @ SEA,"AJ Barner (TE, SEA)",rec_yds,109.5,35.52,-73.98,UNDER,3.08,1.0,alternate,,9
+CHI @ SEA,"Colston Loveland (TE, CHI)",rec_yds,119.5,45.66,-73.84,UNDER,3.08,0.96,alternate,,10
+CHI @ SEA,"D'Andre Swift (RB, CHI)",rush_yds,159.5,62.77,-96.73,UNDER,2.99,1.0,alternate,,11
+CHI @ SEA,"Tory Horton (WR, SEA)",rec_yds,119.5,22.93,-96.57,UNDER,2.84,1.0,alternate,,12
+CHI @ SEA,"Caleb Williams (QB, CHI)",rush_yds,69.5,21.52,-47.98,UNDER,2.84,1.0,alternate,,13
+CHI @ SEA,"Jaxon Smith-Njigba (WR, SEA)",rec,13.5,7.38,-6.12,UNDER,2.78,0.96,alternate,,14
+CHI @ SEA,"D'Andre Swift (RB, CHI)",rec,7.5,2.88,-4.62,UNDER,2.72,1.0,alternate,,15
